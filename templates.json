@@ -1,0 +1,12 @@
+{
+    "natural_language": {
+        "answer_word": "<tgt>", 
+        "instruction": "Translate the following sentence from <src> to <tgt>: \n", 
+        "question_word": "<src>"
+    }, 
+    "simple": {
+        "answer_word": "<tgt>", 
+        "instruction": "", 
+        "question_word": "<src>"
+    }
+}
