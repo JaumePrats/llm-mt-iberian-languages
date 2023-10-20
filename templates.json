@@ -1,12 +1,16 @@
 {
-    "natural_language": {
-        "answer_word": "<tgt>", 
-        "instruction": "Translate the following sentence from <src> to <tgt>: \n", 
-        "question_word": "<src>"
+    "en-es_natural_language": {
+        "instruction": "Translate the following sentence from <src> to <tgt>: \n",
+        "question_word": "<src>",
+        "answer_word": "<tgt>",
+        "bos": "<s>",
+        "eos": "</s>"
     }, 
-    "simple": {
-        "answer_word": "<tgt>", 
-        "instruction": "", 
-        "question_word": "<src>"
+    "en-es_simple": {
+        "instruction": "",
+        "question_word": "<src>",
+        "answer_word": "<tgt>",  
+        "bos": "<s>",
+        "eos": "</s>"
     }
 }

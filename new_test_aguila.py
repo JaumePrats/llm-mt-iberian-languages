@@ -5,6 +5,18 @@ import time
 import json
 import argparse
 import random
+import os
+
+# DIRECTORIES
+RESULTS_DIR = 'llm-mt-iberian-languages/results/'
+TGT_DIR = 'llm-mt-iberian-languages/tgt_out/'
+COMPLETE_OUT_DIR = 'llm-mt-iberian-languages/complete_out/'
+
+with open('languages.json', 'r') as (f, err):
+    if err:
+        print(err)
+    else:
+        LANG_CODES = json.load(f)
 
 def extract_examples(src_path, ref_path, num_fewshot, random = True):
     '''
@@ -43,12 +55,6 @@ def extract_examples(src_path, ref_path, num_fewshot, random = True):
 
 def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
-    with open('languages.json', 'r') as (f, err):
-        if err:
-            print(err)
-        else:
-            languages_codes = json.load(f)
-
     with open('templates.json', 'r') as (f, err):
         if err:
             print(err)
@@ -59,11 +65,11 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
     # get src and tgt languages from files
     src_filename = src_examples.split('/')[-1]
     ref_filename = ref_examples.split('/')[-1]
-    for lang_code in languages_codes:
+    for lang_code in LANG_CODES:
         if src_filename.contains(lang_code):
-            src_language = languages_codes[lang_code]
+            src_language = LANG_CODES[lang_code]
         if ref_filename.contains(lang_code):
-            ref_language = languages_codes[lang_code]
+            ref_language = LANG_CODES[lang_code]
     assert src_language != None
     assert ref_language != None
 
@@ -84,32 +90,124 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
     return prompt
 
 
-def main(general_params, prompt_params):
+def main(io_params, model_params, prompt_params):
     prompt = create_prompt(prompt_params.num_fewshot, prompt_params.template_id, prompt_params.src_examples, prompt_params.ref_examples)
+    print(f"PROMT:\n{prompt}")
 
-    #TODO
+    # initialize generator
+    tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'])
+    generator = pipeline(
+        "text-generation",
+        model=model_params['model_id'],
+        tokenizer=tokenizer,
+        torch_dtype=torch.bfloat16,
+        trust_remote_code=True,
+        device_map="auto",
+    )
+
+    # get time
+    t = time.localtime()
+    filename_time = time.strftime("%Y%m%d-%H.%M.%S", t)
+    # get translation direction
+    src_filename = prompt_params['src_examples'].split('/')[-1]
+    ref_filename = prompt_params['ref_examples'].split('/')[-1]
+    for lang_code in LANG_CODES:
+        if src_filename.contains(lang_code):
+            src_lang_code = lang_code
+        if ref_filename.contains(lang_code):
+            ref_lang_code = lang_code
+    assert src_lang_code != None
+    assert ref_lang_code != None
+    translation_direction = src_lang_code + '-' + ref_lang_code
+
+    # define filename: <prefix>_<translation_direction>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt
+    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id']}_{prompt_params['template_id']}_{prompt_params['num_fewshot']}_{filename_time}.txt"
+
+    results_path = os.path.join(io_params['path_prefix'], RESULTS_DIR, filename)
+    tgt_path = os.path.join(io_params['path_prefix'], TGT_DIR, filename)
+    complete_out_path = os.path.join(io_params['path_prefix'], COMPLETE_OUT_DIR, filename)
+
+    # open files and save parameters and outputs
+    with open(results_path, 'w') as results_file:
+
+        # writing test parameters in results file
+        results_file.write(f"TEST PARAMETERS: {10*'-'}\n")
+        results_file.write(f"start time: {filename_time}\n")
+        results_file.write(f"translation direction: {translation_direction}\n")
+        results_file.write(f"IO PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(io_params, sort_keys=True, indent=4) + '\n')
+        results_file.write(f"MODEL PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(model_params, sort_keys=True, indent=4) + '\n')
+        results_file.write(f"PROMPT PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(prompt_params, sort_keys=True, indent=4) + '\n')
+
+        # reading src_data and doing generation
+        with open(io_params['src_data'], 'r') as src_file, open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
+            src_lines = src_file.readlines() # read src
+            for src_line in src_lines:
+                input_text = ''.join([prompt[0], src_line.strip(), prompt[1]])
+                generation = generator( # generate tgt
+                    input_text,
+                    do_sample=model_params['do_sample'],
+                    top_k=model_params['top_k'],
+                    eos_token_id=tokenizer.eos_token_id,
+                    max_new_tokens=model_params['max_new_tokens']
+                )
+                full_output = generation[0]['generated_text']
+                complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
+                tgt_file.write(full_output.split("<s>")[(model_params['num_fewshot']+1)*2].split("</s>")[0]) # save stripped sentence
+        
+        # evaluation
+        with open(io_params['src_data'], 'r') as src_file, open(tgt_path, 'r') as tgt_file, open(io_params['ref_data'], 'r') as ref_file:
+            i = 0
+            #TODO
+
+    
+
     
 
 if __name__=="__main__":
 
-    parser = argparse.ArgumentParser(description='Run LLM on test set')
+    parser = argparse.ArgumentParser(description='Evaluate LLM on test set.')
 
-    parser.add_argument('model', type=str, help='HF id of the model to run, example:tiiuae/falcon-7b')
+    # io parameters
     parser.add_argument('src_data', type=str, help='path to src file of the test set')
-    parser.add_argument('tgt_data', type=str, help='path where tgt data will be stored')
+    parser.add_argument('ref_data', type=str, help='path to ref file of the test set (used for evaluation)')
+    parser.add_argument('tgt_dir', type=str, help='dir where tgt data will be stored')
+    parser.add_argument('path_prefix', type=str, help='prefix of the repository directory. example: /home/usr/code/')
+    parser.add_argument('--filename_prefix', type=str, default='', help='prefix for the log filename. Log filename: <prefix>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt')
+    parser.add_argument('--complete_output', type=str, default=None, help='path where the full output of the model will be stored')
+
+    # model parameters
+    parser.add_argument('model_id', type=str, help='HF id of the model to run, example:tiiuae/falcon-7b')
+    parser.add_argument('--num_beams', type=int, default=1, help='Number of beams for beam search. 1 means no beam search')
+    parser.add_argument('--do_sample', type=bool, default=False, help='Whether or not to use sampling ; use greedy decoding otherwise')
+    parser.add_argument('--top_k', type=int, default=50, help='The number of highest probability vocabulary tokens to keep for top-k-filtering')
+    parser.add_argument('--max_new_tokens', type=int, default=50, help='The minimum numbers of tokens to generate, ignoring the number of tokens in the prompt.')
+
+    # prompt parameters
     parser.add_argument('--num_fewshot', type=int, default=0, help='number of examples given to the model')
     parser.add_argument('--template_id', type=str, default='simple', help='name of the prompt used, see file templates.json')
     parser.add_argument('--src_examples', type=str, default=None, help='source of the examples used in prompt')
     parser.add_argument('--ref_examples', type=str, default=None, help='reference of the examples used in prompt')
-    parser.add_argument('--complete_output', type=str, default=None, help='path where the full output of the model will be stored')
 
     params=parser.parse_args()
 
-    general_params = {
-        'model': params.model,
+    io_params = {
         'src_data': params.src_data,
+        'ref_data': params.ref_data,
         'tgt_data': params.tgt_data,
+        'path_prefix': params.path_prefix,
+        'filename_prefix': params.filename_prefix,
         'complete_output': params.complete_output
+    }
+
+    model_params = {
+        'model_id': params.model_id,
+        'num_beams': params.num_beams,
+        'do_sample': params.do_sample,
+        'top_k': params.top_k,
+        'max_new_tokens': params.max_new_tokens
     }
 
     prompt_params = {
@@ -119,4 +217,4 @@ if __name__=="__main__":
         'ref_examples': params.ref_examples,
     }
 
-    main(general_params, prompt_params)
+    main(io_params, model_params, prompt_params)
