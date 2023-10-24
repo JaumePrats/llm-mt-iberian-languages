@@ -2,8 +2,7 @@ import subprocess
 import torch
 import os
 
-def comet_score(src_path, tgt_path, ref_path) -> float:
-    score_path = "comet.txt"
+def comet_score(src_path, tgt_path, ref_path, score_path = "comet.txt") -> float:
 
     def read_comet():
         with open(score_path, 'r') as f:
@@ -11,9 +10,9 @@ def comet_score(src_path, tgt_path, ref_path) -> float:
             assert len(comet) == 1, score_path
             return float(comet[0].split("\t")[1].replace("score:", "").strip()) * 100
 
-    if os.path.isfile(score_path):
-        print(f"Comet already exists, reading from {str(score_path)}")
-        return read_comet()
+    # if os.path.isfile(score_path):
+    #     print(f"Comet already exists, reading from {str(score_path)}")
+    #     return read_comet()
 
     cmd = [
         "comet-score",
@@ -37,4 +36,4 @@ score = comet_score(
     tgt_path='/fs/alvis0/jprats/code/falcon_test_flores_tr.es',
     ref_path='/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev'
     )
-print('The score is: ', str(score))
+print('Comet score: ', str(score))
