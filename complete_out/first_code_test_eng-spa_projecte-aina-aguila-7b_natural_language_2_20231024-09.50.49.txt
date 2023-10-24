@@ -1,0 +1,276 @@
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.</s>
+Spanish: <s>El lunes, científicos de la Escuela de Medicina de Stanford anunciaron la invención de un nuevo diagnóstico que puede separar las células por tipo: un diminuto chip que puede fabricarse usando una impresora de tinta estándar por un centavo cada uno.
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.</s>
+Spanish: <s>Los investigadores dicen que este podría ser el primer paso para detectar a tiempo enfermedades como el cáncer, la tuberculosis, el VIH y la malaria en países de bajos ingresos, donde las tasas de supervivencia para estas enfermedades pueden ser hasta la mitad de las de
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.</s>
+Spanish: <s>El avión JAS 39C Gripen se estrelló contra una pista del aeropuerto a las 9:30 de la mañana local (0230 UTC) y explotó, cerrando el aeropuerto a los vuelos comerciales.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The pilot was identified as Squadron Leader Dilokrit Pattavee.</s>
+Spanish: <s>El piloto fue identificado como Squadron Leader Dilokrit Pattavee.</s>
+
+Translate the following sentence from English to Spanish:  <s>Squadron Leader Dilokrit Pattave
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>Un vehículo de bomberos se incendió mientras respondía a un incendio en el aeropuerto.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>Local media reports an airport fire vehicle
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>28-year-old Vidal had joined Barça three seasons ago, from Sevilla.</s>
+Spanish: <s>28 años de edad, Vidal se unió al Barça tres temporadas atrás, desde Sevilla.</s>
+
+Translate the following sentence from English to Spanish:  <s>He was born in Barcelona,</s>
+
+S
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Since moving to the Catalan-capital, Vidal had played 49 games for the club.</s>
+Spanish: <s>Desde que se mudó a la capital catalana, Vidal ha jugado 49 partidos con el club.</s>
+
+Translate the following sentence from English to Spanish:  <s>Since moving to the Catalan capital, Vidal had played 49
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.</s>
+Spanish: <s>La protesta empezó alrededor de las 11:00 de la mañana (UTC+1) en Whitehall frente a la entrada de Downing Street, la residencia oficial del Primer Ministro.</s>
+
+Translate the following sentence from
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Aproximadamente a las 11:00, los manifestantes bloquearon el tráfico en Whitehall.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>Just after 11:00, protesters
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que se retiraran del pavimento, diciendo que necesitaban equilibrar el derecho a protestar con el tráfico en aumento.</s>
+
+Translate the following sentence from English
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.</s>
+Spanish: <s>Alrededor de las 11:29, la protesta se movió hacia Whitehall, pasando por Trafalgar Square, a lo largo de la Strand, pasando por Kingsway hasta llegar a Holborn donde el Partido Conservador estaba celebrando su Foro
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>El cabeza a cabeza de Nadal contra el canadiense es de 7-2.</s>
+
+Translate the following sentence from English to Spanish:  <s>Nadal's head-to-head record against the Canadian is 7
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>He recently lost against Raonic in the Brisbane Open.</s>
+Spanish: <s>Recientemente perdió contra Raonic en el torneo de Brisbane.</s>
+
+Translate the following sentence from English to Spanish:  <s>He has just won against Raonic in the Brisbane Open.
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal bagged 88% net points in the match winning 76 points in the first serve.</s>
+Spanish: <s>Nadal ganó el 88% de los puntos en el partido y el 76% de los puntos en el primer servicio.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>I have
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."</s>
+Spanish: <s>Después del partido, el Rey de la arcilla dijo, "Estoy muy contento de estar de vuelta en la ronda final de los eventos más importantes. Estoy aquí para intentar ganar este torneo.</s>
+
+Translate the following sent
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>"Los Papeles de Panamá" es un término en inglés que se refiere a una serie de documentos filtrados de la firma panameña de abogados Mossack Fonseca.</s>
+
+Translate the following sentence from English
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.</s>
+Spanish: <s>Los documentos mostraron que catorce bancos ayudaron a clientes ricos a esconder miles de millones de dólares en el extranjero para evitar impuestos y otras regulaciones.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.</s>
+Spanish: <s>El periódico británico The Guardian sugirió que el Deutsche Bank controlaba alrededor de un tercio de las empresas pantalla utilizadas para el lavado de dinero.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.</s>
+Spanish: <s>Hubo protestas en todo el mundo, varios procesos judiciales, varias condenas y la renuncia de los líderes de los gobiernos de Islandia y Pakistán.</s>
+
+Translate the following sentence from English to Spanish:  English: <s
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Try aiming somewhere where you are not caught again or, depending on your skills and on whether you have been noticed, you might want to wait for rescue.</s>
+Spanish: <s>Haga el intento de llegar hasta algún lugar donde no lo alcance otra vez o, si cuenta con las habilidades y alguien lo ha visto, podría ser conveniente esperar a que lo rescaten.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local authorities are warning residents in the vicinity of the plant to stay indoors, turn off air-conditioners and not to drink tap water.</s>
+Spanish: <s>El gobierno local advierte a quienes residen en las cercanías de la planta que no salgan de sus hogares, mantengan apagados los aires acondicionados y no consuman agua del grifo.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".</s>
+Spanish: <s>Nacido en Hong Kong, Ma estudió en Nueva York University y Harvard Law School y una vez tuvo una tarjeta de residencia permanente de Estados Unidos.</s>
+
+Translate the following sentence from English to Spanish:  English: <
+--------------------

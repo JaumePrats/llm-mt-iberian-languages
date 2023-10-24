@@ -6,19 +6,19 @@ import json
 import argparse
 import random
 import os
+from tqdm import tqdm
+from metrics import bleu_score, comet_score
 
 # DIRECTORIES
-RESULTS_DIR = 'llm-mt-iberian-languages/results/'
-TGT_DIR = 'llm-mt-iberian-languages/tgt_out/'
-COMPLETE_OUT_DIR = 'llm-mt-iberian-languages/complete_out/'
+RESULTS_DIR = 'results/'
+TGT_DIR = 'tgt_out/'
+COMPLETE_OUT_DIR = 'complete_out/'
+COMET_SCORES_DIR = RESULTS_DIR + 'comet_scores/'
 
-with open('languages.json', 'r') as (f, err):
-    if err:
-        print(err)
-    else:
-        LANG_CODES = json.load(f)
+with open('languages.json', 'r') as f:
+    LANG_CODES = json.load(f)
 
-def extract_examples(src_path, ref_path, num_fewshot, random = True):
+def extract_examples(src_path, ref_path, num_fewshot, selected = False):
     '''
     Extract 'num_fewshot' examples from the source and target file.
 
@@ -26,7 +26,7 @@ def extract_examples(src_path, ref_path, num_fewshot, random = True):
         A list with each of the examples as [[src_ex1, ref_ex1], [src_ex2, ref_ex2], ...]
 
     '''
-    if random != True:
+    if selected == True:
         example1 = ['''The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.''',
                     '''La estructura que presenta el plumaje sugiere que su función no estaba relacionada con el vuelo, sino que las usaban para regular la temperatura o como indicador de la misma. Los investigadores sostienen que, aunque se trata de la cola de un dinosaurio joven, la muestra analizada presenta rasgos del plumaje de un adulto y no de un polluelo.''']
         example2 = ['''They found the Sun operated on the same basic principles as other stars: The activity of all stars in the system was found to be driven by their luminosity, their rotation, and nothing else.''',
@@ -55,20 +55,17 @@ def extract_examples(src_path, ref_path, num_fewshot, random = True):
 
 def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
-    with open('templates.json', 'r') as (f, err):
-        if err:
-            print(err)
-        else:
-            templates = json.load(f)
-            template = templates[template_id]
+    with open('templates.json', 'r') as f:
+        templates = json.load(f)
+        template = templates[template_id]
     
     # get src and tgt languages from files
     src_filename = src_examples.split('/')[-1]
     ref_filename = ref_examples.split('/')[-1]
     for lang_code in LANG_CODES:
-        if src_filename.contains(lang_code):
+        if lang_code in src_filename:
             src_language = LANG_CODES[lang_code]
-        if ref_filename.contains(lang_code):
+        if lang_code in ref_filename:
             ref_language = LANG_CODES[lang_code]
     assert src_language != None
     assert ref_language != None
@@ -91,7 +88,7 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
 
 def main(io_params, model_params, prompt_params):
-    prompt = create_prompt(prompt_params.num_fewshot, prompt_params.template_id, prompt_params.src_examples, prompt_params.ref_examples)
+    prompt = create_prompt(prompt_params['num_fewshot'], prompt_params['template_id'], prompt_params['src_examples'], prompt_params['ref_examples'])
     print(f"PROMT:\n{prompt}")
 
     # initialize generator
@@ -112,22 +109,22 @@ def main(io_params, model_params, prompt_params):
     src_filename = prompt_params['src_examples'].split('/')[-1]
     ref_filename = prompt_params['ref_examples'].split('/')[-1]
     for lang_code in LANG_CODES:
-        if src_filename.contains(lang_code):
+        if lang_code in src_filename:
             src_lang_code = lang_code
-        if ref_filename.contains(lang_code):
+        if lang_code in ref_filename:
             ref_lang_code = lang_code
     assert src_lang_code != None
     assert ref_lang_code != None
     translation_direction = src_lang_code + '-' + ref_lang_code
 
     # define filename: <prefix>_<translation_direction>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt
-    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id']}_{prompt_params['template_id']}_{prompt_params['num_fewshot']}_{filename_time}.txt"
+    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id'].replace('/','-')}_{prompt_params['template_id']}_{prompt_params['num_fewshot']}_{filename_time}.txt"
 
     results_path = os.path.join(io_params['path_prefix'], RESULTS_DIR, filename)
     tgt_path = os.path.join(io_params['path_prefix'], TGT_DIR, filename)
     complete_out_path = os.path.join(io_params['path_prefix'], COMPLETE_OUT_DIR, filename)
 
-    # open files and save parameters and outputs
+    # save used parameters
     with open(results_path, 'w') as results_file:
 
         # writing test parameters in results file
@@ -141,30 +138,37 @@ def main(io_params, model_params, prompt_params):
         results_file.write(f"PROMPT PARAMETERS: {10*'-'}\n")
         results_file.write(json.dumps(prompt_params, sort_keys=True, indent=4) + '\n')
 
-        # reading src_data and doing generation
-        with open(io_params['src_data'], 'r') as src_file, open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
-            src_lines = src_file.readlines() # read src
-            for src_line in src_lines:
-                input_text = ''.join([prompt[0], src_line.strip(), prompt[1]])
-                generation = generator( # generate tgt
-                    input_text,
-                    do_sample=model_params['do_sample'],
-                    top_k=model_params['top_k'],
-                    eos_token_id=tokenizer.eos_token_id,
-                    max_new_tokens=model_params['max_new_tokens']
-                )
-                full_output = generation[0]['generated_text']
-                complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
-                tgt_file.write(full_output.split("<s>")[(model_params['num_fewshot']+1)*2].split("</s>")[0]) # save stripped sentence
-        
-        # evaluation
-        with open(io_params['src_data'], 'r') as src_file, open(tgt_path, 'r') as tgt_file, open(io_params['ref_data'], 'r') as ref_file:
-            i = 0
-            #TODO
-
+    # reading src_data and doing generation
+    with open(io_params['src_data'], 'r') as src_file, open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
+        src_lines = src_file.readlines() # read src
+        for src_line in tqdm(src_lines, unit='line'):
+            input_text = ''.join([prompt[0], src_line.strip(), prompt[1]])
+            generation = generator( # generate tgt
+                input_text,
+                num_beams = model_params['num_beams'],
+                do_sample=model_params['do_sample'],
+                top_k=model_params['top_k'],
+                eos_token_id=tokenizer.eos_token_id,
+                max_new_tokens=model_params['max_new_tokens']
+            )
+            full_output = generation[0]['generated_text']
+            complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
+            tgt_file.write(full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0] + '\n') # save stripped sentence
     
-
-    
+    # evaluation
+    with open(results_path, 'a') as results_file: # opening file with access mode 'a' (append)
+        results_file.write('\n')
+        results_file.write(f"EVALUATION RESULTS: {20*'='}\n")
+        # BLEU
+        results_file.write(f"\nBLEU: {10*'-'}\n")
+        b_score, b_signature = bleu_score(tgt_path, io_params['ref_data'])
+        results_file.write(b_score + '\n')
+        results_file.write('Signature: '+ str(b_signature) + '\n')
+        # COMET
+        results_file.write(f"\nCOMET: {10*'-'}\n")
+        comet_score_path = results_path = os.path.join(io_params['path_prefix'], COMET_SCORES_DIR, filename)
+        c_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], comet_score_path)
+        results_file.write('COMET = '+ str(c_score) + '\n') 
 
 if __name__=="__main__":
 
@@ -173,10 +177,8 @@ if __name__=="__main__":
     # io parameters
     parser.add_argument('src_data', type=str, help='path to src file of the test set')
     parser.add_argument('ref_data', type=str, help='path to ref file of the test set (used for evaluation)')
-    parser.add_argument('tgt_dir', type=str, help='dir where tgt data will be stored')
-    parser.add_argument('path_prefix', type=str, help='prefix of the repository directory. example: /home/usr/code/')
+    parser.add_argument('path_prefix', type=str, default='', help='prefix of the repository directory. example: /home/usr/code/llm-mt-iberian-languages')
     parser.add_argument('--filename_prefix', type=str, default='', help='prefix for the log filename. Log filename: <prefix>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt')
-    parser.add_argument('--complete_output', type=str, default=None, help='path where the full output of the model will be stored')
 
     # model parameters
     parser.add_argument('model_id', type=str, help='HF id of the model to run, example:tiiuae/falcon-7b')
@@ -196,10 +198,8 @@ if __name__=="__main__":
     io_params = {
         'src_data': params.src_data,
         'ref_data': params.ref_data,
-        'tgt_data': params.tgt_data,
         'path_prefix': params.path_prefix,
-        'filename_prefix': params.filename_prefix,
-        'complete_output': params.complete_output
+        'filename_prefix': params.filename_prefix
     }
 
     model_params = {
@@ -211,7 +211,7 @@ if __name__=="__main__":
     }
 
     prompt_params = {
-        'template_id': params.template,
+        'template_id': params.template_id,
         'num_fewshot': params.num_fewshot,
         'src_examples': params.src_examples,
         'ref_examples': params.ref_examples,

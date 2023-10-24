@@ -1,0 +1,25 @@
+TEST PARAMETERS: ----------
+start time: 20231023-15.21.12
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "first_code_test",
+    "path_prefix": "/fs/alvis0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev"
+}
+MODEL PARAMETERS: ----------
+{
+    "do_sample": true,
+    "max_new_tokens": 50,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 2,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "template_id": "natural_language"
+}

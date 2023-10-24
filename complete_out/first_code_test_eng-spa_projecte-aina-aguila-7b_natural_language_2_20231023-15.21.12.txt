@@ -1,0 +1,948 @@
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.</s>
+Spanish: <s>En lunes, científicos de la Escuela de Medicina de Stanford anunciaron la invención de un nuevo dispositivo que puede separar las células por tipo: un diminuto chip que puede fabricarse usando una impresora de inkjet estándar por menos de un dólar cada
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.</s>
+Spanish: <s>Los investigadores dicen que este descubrimiento podría llevar a una detección temprana de cáncer, tuberculosis, HIV y malaria para pacientes en países de bajos ingresos, donde las tasas de supervivencia para enfermedades como el cáncer de mama, el cáncer de cuello uterino y
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.</s>
+Spanish: <s>El JAS 39C Gripen se estrelló contra la pista a las 9:30 de la mañana (0230 UTC) y explotó, cerrando el aeropuerto a los vuelos comerciales.</s>
+
+Translate the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The pilot was identified as Squadron Leader Dilokrit Pattavee.</s>
+Spanish: <s>El piloto fue identificado como Squadron Leader Dilokrit Pattavee.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The pilot was identified as Squadron
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>Informes de prensa locales dicen que un vehículo de aeropuerto se incendió mientras respondía.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>I don't think so.</
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>28-year-old Vidal had joined Barça three seasons ago, from Sevilla.</s>
+Spanish: <s>28 años de edad, Vidal se unió al Barça tres temporadas atrás, desde Sevilla.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>I am convinced that there will be no
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Since moving to the Catalan-capital, Vidal had played 49 games for the club.</s>
+Spanish: <s>Desde que se mudó a la capital catalana, Vidal ha jugado 49 partidos para el club.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>It is very difficult for anyone to
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.</s>
+Spanish: <s>La protesta empezó alrededor de las 11:00 de la mañana (UTC+1) en Whitehall frente a la entrada de Downing Street, la residencia oficial del Primer Ministro.</s>
+
+Translate the following sentence from
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Después de las 11:00, los manifestantes bloquearon el tráfico en Whitehall.</s>
+
+Translate the following sentence from English to Spanish:  <s>In the morning, protesters blocked traffic on the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que se retiraran de la acera, argumentando que necesitaban equilibrar el derecho a protestar con el tráfico en aumento.</s>
+
+Translate the following sent
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.</s>
+Spanish: <s>Alrededor de las 11:29, la protesta se movió por Whitehall, pasando por Trafalgar Square, a lo largo de la Strand, pasando por Kingsway hasta llegar a Holborn donde el Partido Conservador estaba celebrando su Foro
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>El registro de cabeza a cabeza de Nadal contra el canadiense es de 7–2.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>Nadal's head to head record against the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>He recently lost against Raonic in the Brisbane Open.</s>
+Spanish: <s>Recientemente, perdió contra Raonic en el Abierto de Brisbane.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>He recently lost against Raonic in the Brisban
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal bagged 88% net points in the match winning 76 points in the first serve.</s>
+Spanish: <s>Nadal ganó el 88% de los puntos en el partido y ganó el 76% de los puntos en el primer servicio.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."</s>
+Spanish: <s>Después del partido, el Rey de la arcilla dijo, "Estoy muy emocionado de estar de vuelta en las rondas finales de los eventos más importantes. 
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>"Los Papeles de Panamá" es un término general para referirse a un conjunto de documentos filtrados de la firma panameña de abogados Mossack Fonseca.</s>
+
+Translate the following sentence from English to Spanish
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.</s>
+Spanish: <s>Los documentos mostraban que catorce bancos ayudaron a ricos clientes a esconder billones de dólares de riqueza para evitar impuestos y otras regulaciones.</s>
+
+Translate the following sentence from English to Spanish:  English: <
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.</s>
+Spanish: <s>El periódico británico The Guardian sugirió que el Deutsche Bank controlaba aproximadamente una tercera parte de las 1200 compañías utilizadas para lograr este objetivo.</s>
+
+Translate the following sentence from English to Spanish:  English: <
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.</s>
+Spanish: <s>Hubo protestas en todo el mundo, varios procesos penales, y los líderes de los gobiernos de Islandia e Pakistán dimitieron.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".</s>
+Spanish: <s>Born en Hong Kong, Ma estudió en Nueva York University y Harvard Law School y una vez tuvo una tarjeta de residencia "verde" de Estados Unidos.</s>
+
+Translate the following sentence from English to Spanish:  
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Hsieh implied during the election that Ma might flee the country during a time of crisis.</s>
+Spanish: <s>Hsieh insinuó durante la campaña electoral que Ma podría huir del país en un momento de crisis.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>Hsieh implied
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Hsieh also argued that the photogenic Ma was more style than substance.</s>
+Spanish: <s>Hsieh también argumentó que la fotogenica Ma era más estilo que sustancia.</s>
+
+Translate the following sentence from English to Spanish:  <span style="font-weight: bold;
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Despite these accusations, Ma won handily on a platform advocating closer ties with the Chinese mainland.</s>
+Spanish: <s>A pesar de estas acusaciones, Ma ganó ampliamente en una plataforma que abogaba por estrechar los lazos con la China continental.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Today's Player of the Day is Alex Ovechkin of the Washington Capitals.</s>
+Spanish: <s>Hoy, el Jugador del Día es Alex Ovechkin de los Capitales de Washington.</s>
+
+Translate the following sentence from English to Spanish:  <span style="font-weight: bold
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.</s>
+Spanish: <s>Él tenía 2 objetivos y 2 asistencias en Washington's 5-3 victoria sobre los Thrashers de Atlanta.</s>
+
+Translate the following sentence from English to Spanish:  <span class="translate" style
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Ovechkin's first assist of the night was on the game-winning goal by rookie Nicklas Backstrom;</s>
+Spanish: <s>Ovechkin's primera asistencia de la noche fue en el juego-ganador del gol de Nicklas Backstrom.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>his second goal of the night was his 60th of the season, becoming the first player to score 60 or more goals in a season since 1995-96, when Jaromir Jagr and Mario Lemieux each reached that milestone.</s>
+Spanish: <s>Su segundo objetivo de la noche fue su 60° de la temporada, convirtiéndose en el primer jugador en anotar 60 o más goles en una temporada desde 1995-96, cuando Jaromir Jagr y Mario Lemieux llegaron a ese número.
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Batten was ranked 190th on the 2008 400 Richest Americans list with an estimated fortune of $2.3 billion.</s>
+Spanish: <s>Batten fue clasificado en el puesto 190 de los 400 más ricos de los Estados Unidos con una fortuna estimada de $2.3 mil millones.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>He graduated from the College of Arts & Sciences of the University of Virginia in 1950 and was a significant donor to that institution.</s>
+Spanish: <s>He graduado de la Facultad de Artes y Ciencias de la Universidad de Virginia en 1950 y fue un importante donante a esa institución.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Iraq's Abu Ghraib prison has been set alight during a riot.</s>
+Spanish: <s>La prisión de Abu Ghraib ha sido incendiada durante un motín.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>I think it's a good idea to do something
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The jail became notorious after prisoner abuse was discovered there after US forces took over.</s>
+Spanish: <s>La cárcel se hizo famosa después de que se descubriera que los prisioneros eran sometidos a malos tratos.</s>
+
+Translate the following sentence from English to Spanish:  <s>In the United States, there are many
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Piquet Jr. crashed in the 2008 Singapore Grand Prix just after an early pit stop for Fernando Alonso, bringing out the safety car.</s>
+Spanish: <s>Piquet Jr. crashed in the 2008 Singapore Grand Prix just after an early pit stop for Fernando Alonso, bringing out the safety car.</s>
+
+Translate the following sentence from English to
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>As the cars ahead of Alonso went in for fuel under the safety car, he moved up the pack to take victory.</s>
+Spanish: <s>Como los coches que iban delante de Alonso se abastecían de combustible bajo la seguridad del safety car, Alonso se movió hacia adelante para tomar la victoria.</s>
+
+Translate the following sentence from English to Spanish: 
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Piquet Jr. was sacked after the 2009 Hungarian Grand Prix.</s>
+Spanish: <s>Piquet Jr. fue despedido después del Gran Premio de Hungría de 2009.</s>
+
+Translate the following sentence from English to Spanish:  <s>Piquet Jr. was sacked after the 2009
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>At exactly 8:46 a.m. a hush fell across the city, marking the exact moment the first jet struck its target.</s>
+Spanish: <s>A las 8:46 a.m. un silencio cayó sobre la ciudad, marcando el momento exacto en que el primer jet impactó su objetivo.</s>
+
+Translate the following sentence from English to Spanish:  <s
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Two beams of light have been rigged up to point skywards overnight.</s>
+Spanish: <s>Dos vigas de luz han sido atadas en lo alto del cielo durante la noche.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>When I was a young man, I
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Construction is ongoing for five new skyscrapers at the site, with a transportation center and memorial park in the middle.</s>
+Spanish: <s>La construcción está en marcha para cinco nuevos rascacielos en el sitio, con un centro de transporte y un parque conmemorativo en el medio.</s>
+
+Translate the following sentence from English to Spanish: <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The PBS show has more than two-dozen Emmy awards, and its run is shorter only than Sesame Street and Mister Rogers' Neighborhood.</s>
+Spanish: <s>El show de PBS tiene más de dos docenas de premios Emmy, y su duración es menor que la de Sesame Street y Mister Rogers' Neighborhood.</s>
+
+Translate the following sentence
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Each episode of the show would focus on a theme in a specific book and then explore that theme through multiple stories.</s>
+Spanish: <s>Cada episodio de la serie se enfocaría en un tema en particular de un libro específico y luego exploraría ese tema a través de múltiples historias.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Each show would also provide recommendations for books that children should look for when they went to their library.</s>
+Spanish: <s>Cada programa también proporcionaría recomendaciones para libros que los niños deberían buscar en su biblioteca.</s>
+
+Translate the following sentence from English to Spanish:  <s>There is no such thing as a perfect job.</s
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>John Grant, from WNED Buffalo (Reading Rainbow's home station) said "Reading Rainbow taught kids why to read,... the love of reading — [the show] encouraged kids to pick up a book and to read."</s>
+Spanish: <s>John Grant, de WNED-Buffalo (Nueva York) dijo "Reading Rainbow enseñó a los niños por qué leer, el amor por la lectura — [el show] alentó a los niños a coger un libro y
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>It is believed by some, including John Grant, that both the funding crunch and a shift in the philosophy of educational television programming contributed to ending the series.</s>
+Spanish: <s>Se cree que la crisis financiera y el cambio en la filosofía de la televisión educativa contribuyeron a la cancelación de la serie.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The storm, situated about 645 miles (1040 km) west of the Cape Verde islands, is likely to dissipate before threatening any land areas, forecasters say.</s>
+Spanish: <s>La tormenta, situada aproximadamente 645 millas (1040 km) al oeste de las islas Cabo Verde, es probable que se disipe antes de amenazar cualquier área de tierra, los meteorólogos dicen.</s>
+
+Translate the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Fred currently has winds of 105 miles per hour (165 km/h) and is moving towards the northwest.</s>
+Spanish: <s>Fred actualmente tiene vientos de 105 millas por hora (165 km/h) y se mueve hacia el noroeste.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>I don't
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Fred is the strongest tropical cyclone ever recorded so far south and east in the Atlantic since the advent of satellite imagery, and only the third major hurricane on record east of 35°W.</s>
+Spanish: <s>Fred es el huracán más fuerte registrado hasta ahora en el Atlántico al este de 35°W, y sólo el tercer huracán mayor de la historia en esa zona.</s>
+
+Translate the following sentence from English to
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>On September 24, 1759, Arthur Guinness signed a 9,000 year lease for the St James' Gate Brewery in Dublin, Ireland.</s>
+Spanish: <s>El 24 de septiembre de 1759, Arthur Guinness firmó un contrato de 9,000 años para la cervecería St James' Gate en Dublín, Irlanda.</s>
+
+Translate the following sentence from English to Spanish:
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>250 years later, Guinness has grown to a global business that turns over 10 billion euros (US$14.7 billion) every year.</s>
+Spanish: <s>250 años después, Guinness ha crecido a una empresa global que genera 10 billones de euros (US$14.7 billones) cada año.</s>
+
+Translate the following sentence from English to Spanish:  <
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Jonny Reid, co-driver for the A1GP New Zealand team, today made history by driving the fastest over the 48-year-old Auckland Harbour Bridge, New Zealand, legally.</s>
+Spanish: <s>Jonny Reid, copiloto del equipo A1GP Nueva Zelanda, hoy hizo historia al conducir el auto más rápido sobre el Puente de Auckland, Nueva Zelanda, durante los últimos 48 años, legalmente.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Mr Reid managed to drive the New Zealand's A1GP car, Black Beauty at speeds over 160km/h seven times over the bridge.</s>
+Spanish: <s>Mr Reid logró conducir el auto de Nueva Zelanda, A1GP, a velocidades de 160km/h siete veces sobre el puente.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The New Zealand police had trouble using their speed radar guns to see how fast Mr Reid was going because of how low Black Beauty is, and the only time the police managed to clock Mr Reid was when he slowed down to 160km/h.</s>
+Spanish: <s>La policía de Nueva Zelanda tuvo problemas para utilizar sus radares de velocidad porque el coche de Mr Reid era muy bajo, y el único momento en el que el policía pudo medir la velocidad de Mr Reid fue cuando se detuvo a 160km/
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>In the last 3 months, over 80 arrestees were released from the Central Booking facility without being formally charged.</s>
+Spanish: <s>En los últimos 3 meses, más de 80 detenidos fueron liberados sin ser formalmente acusados.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>In the last 3 months, over
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>In April this year, a temporary restaining order was issued by Judge Glynn against the facility to enforce the release of those held more than 24 hours after their intake who did not receive a hearing by a court commissioner.</s>
+Spanish: <s>En abril de este año, una orden de retención temporal fue emitida por el juez Glynn para obligar a la instalación a liberar a los detenidos más de 24 horas después de su intake, quienes no recibieron una audiencia por un juez comisionado
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The commissioner sets bail, if granted, and formalizes the charges filed by the arresting officer. The charges are then entered into the state's computer system where the case is tracked.</s>
+Spanish: <s>El comisionado establece la fianza, si es concedida, y formaliza los cargos presentados por el arrestado. Los cargos son ingresados en el sistema de computación estatal donde la causa es rastreada.</s>
+
+Translate the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The hearing also marks the date for the suspect’s right to a speedy trial.</s>
+Spanish: <s>La audiencia también marca la fecha para el derecho del sospechoso a un juicio rápido.</s>
+
+Translate the following sentence from English to Spanish:  <s>The hearing also marks the date for the suspec
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Peter Costello, Australian treasurer and the man most likely to succeed Prime Minister John Howard as Liberal party leader has thrown his support behind a nuclear power industry in Australia.</s>
+Spanish: <s>Peter Costello, australiano tesorero y el hombre más probable para suceder a John Howard como líder del partido Liberal en Australia ha dado su apoyo a la industria nuclear en Australia.</s>
+
+Translate the following sentence
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Mr Costello said that when nuclear power generation becomes economically viable, Australia should pursue its use.</s>
+Spanish: <s>Mr Costello dijo que cuando la generación nuclear se vuelva económicamente viable, Australia debería perseguir su uso.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>There are many reasons
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>"If it becomes commercial, we should have it. That is, there's no in-principle objection to nuclear energy" Mr Costello said.</s>
+Spanish: <s>"Si se convierte en comercial, deberíamos tenerla. Eso es, no hay objeción alguna a la energía nuclear.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>According to Ansa, "police were concerned by a couple of top-level hits they feared might spark a full-blown war of succession.</s>
+Spanish: <s>Según Ansa, "la policía estaba preocupada por un par de golpes que temían que podrían desencadenar una guerra de sucesión.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Police said Lo Piccolo had the upper hand because he had been Provenzano's right-hand man in Palermo and his greater experience won him the respect of the older generation of bosses as they pursued Provenzano's policy of keeping as low as possible while strengthening their power network.</s>
+Spanish: <s>La policía dijo que Lo Piccolo tenía la ventaja porque había sido el hombre de confianza de Provenzano en Palermo y su mayor experiencia ganó el respeto de la vieja generación de jefes que persiguieron a Provenzano.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>These bosses had been reined in by Provenzano when he put an end to the Riina-driven war against the state that claimed the lives of Mafia crusaders Giovanni Falcone and Paolo Borsellino in 1992."</s>
+Spanish: <s>Estos jefes habían sido reñidos por Provenzano cuando puso fin a la guerra contra el estado que se cobró la vida de Giovanni Falcone y Paolo Borsellino en 1992.</s>
+
+Translate the following
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Apple CEO Steve Jobs unveiled the device by walking onto the stage and taking the iPhone out of his jeans pocket.</s>
+Spanish: <s>Apple CEO Steve Jobs unveiled el dispositivo por caminar sobre el escenario y tomar el iPhone de su bolsillo.</s>
+
+Translate the following sentence from English to Spanish:  English: <s>The United States is
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>During his 2 hour speech he stated that "Today Apple is going to reinvent the phone, We are going to make history today".</s>
+Spanish: <s>Durante su discurso de 2 horas, él afirmó que "Hoy Apple va a reinventar el teléfono, y vamos a hacer historia hoy".</s>
+
+Translate the following sentence from English to Spanish:  English: <s
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Brazil is the largest Roman Catholic country on Earth, and the Roman Catholic Church has consistently opposed the legalization of same-sex marriage in the country.</s>
+Spanish: <s>Brasil es el país católico más grande de la Tierra, y la Iglesia católica ha mantenido consistentemente su oposición a la legalización del matrimonio homosexual en el país.</s>
+
+Translate the following sentence from English to Spanish: 
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The National Congress of Brazil has debated legalization for 10 years, and such civil marriages are currently only legal in Rio Grande do Sul.</s>
+Spanish: <s>El Congreso Nacional de Brasil ha debatido la legalización de los matrimonios civiles durante 10 años, y tales matrimonios son legales en Río Grande del Sur.</s>
+
+Translate the following sentence from English to Spanish: 
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The original bill was drafted by former mayor of São Paulo, Marta Suplicy. The proposed legislation, after being amended, is now in the hands of Roberto Jefferson.</s>
+Spanish: <s>La original propuesta de ley fue redactada por la exalcaldesa de São Paulo, Marta Suplicy. El proyecto de ley, después de ser modificado, está ahora en manos de Roberto Jefferson.</s>
+
+Translate the
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Protesters hope to collect a petition of 1.2 million signatures to present to the National Congress in November.</s>
+Spanish: <s>Protestantes esperan reunir un millón y medio de firmas para presentarlas al Congreso Nacional en noviembre.</s>
+
+Translate the following sentence from English to Spanish:  <s>Protesters hope to collect a peti
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>After it became apparent that many families were seeking legal help to fight the evictions, a meeting was held on March 20 at the East Bay Community Law Center for the victims of the housing scam.</s>
+Spanish: <s>Después de que se hizo evidente que muchas familias buscaban ayuda legal para luchar contra los desalojos, una reunión se llevó a cabo el 20 de marzo en el Community Law Center East Bay para las víctimas del fraude de la vivienda.</s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>When the tenants started sharing what had occurred to them, most of the families involved suddenly realized that Carolyn Wilson of the OHA had stolen their security deposits, and skipped out of town.</s>
+Spanish: <s>Cuando los inquilinos empezaron a compartir lo que les había ocurrido, la mayoría de los inquilinos se dio cuenta de que Carolyn Wilson del OHA había robado sus depósitos de seguridad, y huyó de la ciudad.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>Workers must often get their superiors' approval for any decisions they make, and are expected to obey their superiors' instructions without question.</s>
+Spanish: <s>Con frecuencia, los trabajadores deben contar con la aprobación de sus superiores para la toma de decisiones y se espera que obedezcan sus instrucciones sin cuestionamiento.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>For example, one might say that the motor car necessarily leads to the development of roads.</s>
+Spanish: <s>Para dar un ejemplo, uno podría sostener que la existencia de los automóviles necesariamente deriva en el desarrollo de carreteras.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Tenants at Lockwood Gardens believe that there may be another 40 families or more to face eviction, since they learned that OHA police are also investigating other public housing properties in Oakland that may be caught up in the housing scam.</s>
+Spanish: <s>Los inquilinos de Lockwood Gardens creen que tal vez haya más de 40 familias o más que enfrenten desalojo, ya que se enteraron de que la policía está investigando otras propiedades públicas en Oakland que podrían estar involucradas en
+--------------------

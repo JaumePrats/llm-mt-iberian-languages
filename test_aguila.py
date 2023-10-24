@@ -35,7 +35,7 @@ prompt[0] += instruction + question_word + ': ' + bos
 prompt[1] = eos + '\n' + answer_word + ': ' + bos
 
 
-model_id  = "projecte-aina/aguila-7b"
+model_id  = "tiiuae/falcon-7b"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 generator = pipeline(
     "text-generation",
@@ -49,7 +49,7 @@ generator = pipeline(
 # GENERATOR PARAMS:
 do_sample = True
 top_k = 1
-max_new_tokens = 50
+max_new_tokens = 60
 
 t = time.localtime()
 filename_time = time.strftime("%Y%m%d-%H.%M.%S", t)

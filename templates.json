@@ -1,12 +1,12 @@
 {
-    "en-es_natural_language": {
+    "natural_language": {
         "instruction": "Translate the following sentence from <src> to <tgt>: \n",
         "question_word": "<src>",
         "answer_word": "<tgt>",
         "bos": "<s>",
         "eos": "</s>"
     }, 
-    "en-es_simple": {
+    "simple": {
         "instruction": "",
         "question_word": "<src>",
         "answer_word": "<tgt>",  
