@@ -1,0 +1,294 @@
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.</s>
+Spanish: <s>El lunes, científicos de la Escuela de Medicina de Stanford anunciaron el descubrimiento de un nuevo dispositivo que puede separar las células por tipo: un diminuto chip que puede fabricarse usando una impresora de tinta estándar por menos de un dólar.</s>
+
+Translate the following sentence
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.</s>
+Spanish: <s>El mismo mes, un equipo de investigadores dice que este descubrimiento podría llevar a una detección temprana de cáncer, tuberculosis, HIV y malaria en países de bajos ingresos, donde las tasas de supervivencia para estas enfermedades pueden ser la mitad de las de los países ricos.</s>
+
+Transl
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.</s>
+Spanish: <s>El avión de transporte JAS 39C Gripen se estrelló contra una pista de aterrizaje en el aeropuerto de Goma, en el este de la República Democrática del Congo, y explotó, cerrando el aeropuerto a los vuelos comerciales.</s>
+
+Translate the following sent
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The pilot was identified as Squadron Leader Dilokrit Pattavee.</s>
+Spanish: <s>El piloto era Squadron Leader Dilokrit Pattavee.</s>
+
+Translate the following sentence from English to Spanish: <s>The plane was a Boeing 737-300.</s>
+
+Spanish: <s>El avión era
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>Un vehículo de bomberos se incendia en el aeropuerto de Goma.</s>
+
+Translate the following sentence from English to Spanish:  Spanish: <s>Un avión de pasajeros se incendia en el aeropuerto de Goma.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>28-year-old Vidal had joined Barça three seasons ago, from Sevilla.</s>
+Spanish: <s>28 años de edad, Vidal había fichado por el Barça tres temporadas atrás, de Sevilla.</s>
+
+Translate the following sentence from English to Spanish: <s>The plane was carrying a cargo of medical supplies and medical personnel.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Since moving to the Catalan-capital, Vidal had played 49 games for the club.</s>
+Spanish: <s>Desde que se mudó a la capital catalana, Vidal ha jugado 49 partidos con el club.</s>
+
+Translate the following sentence from English to Spanish:  <s>The team was in the lead at halftime.</s>
+
+Translate the following sent
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.</s>
+Spanish: <s>La protesta empezó alrededor de las 11:00 de la mañana (UTC+1) en Whitehall, frente a la entrada de Downing Street, la residencia oficial del Primer Ministro.</s>
+
+Translate the following sentence from English to Spanish:  <s>The
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Cerca de las 11:00, manifestantes bloquearon el tráfico en Whitehall.</s>
+
+Translate the following sentence from English to Spanish: <s>The plane was carrying a group of about 100 people, including a number of children.</s>
+
+
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que se retiraran de la calzada, diciendo que necesitaban equilibrar el derecho a protestar con el tráfico que se iba acumulando.</s>
+
+Translate the following sentence from English to Spanish:  <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.</s>
+Spanish: <s>Alrededor de las 11:29, la protesta se movió por Whitehall, pasando por Trafalgar Square, a lo largo de la Strand, pasando por Kingsway hasta llegar a Holborn donde el Partido Conservador estaba celebrando su Foro de Primavera en el Grand Connaught Rooms
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>Nadal gana a su cabeza a cabeza con el canadiense.</s>
+
+Translate the following sentence from English to Spanish:  Spanish: <s>Nadal gana a su cabeza a cabeza con el canadiense.</s>
+
+Translate the following sent
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>He recently lost against Raonic in the Brisbane Open.</s>
+Spanish: <s>Ha perdido contra Raonic en el torneo de Brisbane.</s>
+
+Translate the following sentence from English to Spanish: <s>He recently lost against Raonic in the Brisbane Open.</s>
+
+Translate the following sentence
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Nadal bagged 88% net points in the match winning 76 points in the first serve.</s>
+Spanish: <s>Nadal ganó el 88% de los puntos en el primer servicio.</s>
+
+Translate the following sentence from English to Spanish: <s>The match was suspended after the second set due to rain.</s>
+
+Translate the following sentence from
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."</s>
+Spanish: <s>Después del partido, el Rey de la arcilla dijo, "Estoy muy contento de estar de vuelta en la final de los eventos más importantes del año. Estoy aquí para intentar ganar este torneo."</s>
+
+Translate the following sentence from English to Spanish: <s>
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>"Los papeles de Panamá" es un término que engloba a una serie de documentos filtrados por el bufete de abogados panameño Mossack Fonseca, que revelaron una trama de evasión fiscal internacional.</s>
+
+Translate the following sentence from English to
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.</s>
+Spanish: <s>Los documentos mostraron que catorce bancos ayudaron a clientes ricos a esconder billones de dólares de riqueza en paraísos fiscales.</s>
+
+Translate the following sentence from English to Spanish:  <s>The documents showed fourteen banks helped wealthy clients hide billions
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.</s>
+Spanish: <s>El periódico británico The Guardian sugirió que el Deutsche Bank controlaba aproximadamente un tercio de las 1200 empresas utilizadas para lograr este objetivo.</s>
+
+Translate the following sentence from English to Spanish:  <s>The United Nations has accused the rebels of using children
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.</s>
+Spanish: <s>Hubo protestas en todo el mundo, varias causas penales, y los líderes de los gobiernos de Islandia e Pakistán dimitieron.</s>
+
+Translate the following sentence from English to Spanish:  <s>The same year, the United Nations Security Council voted to impose
+--------------------
+Translate the following sentence from English to Spanish: 
+English: <s>The same month saw another airliner overrun a runway at Mashhad and strike a wall, killing seventeen.</s>
+Spanish: <s>El mismo mes, otro avión de pasajeros sobrepasó una pista en Mashhad y colisionó contra una pared, dejando 17 muertos.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.</s>
+Spanish: <s>Goma es un punto turístico de la República Democrática del Congo, en el límite este, próxima a Ruanda.</s>
+
+Translate the following sentence from English to Spanish: 
+English: <s>Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".</s>
+Spanish: <s>Nacido en Hong Kong, Ma estudió en Nueva York University y Harvard Law School y una vez tuvo la residencia permanente de Estados Unidos.</s>
+
+Translate the following sentence from English to Spanish:  <s>The United States has been accused of using the United Nations
+--------------------

@@ -1,1 +1,0 @@
-/fs/alvis0/jprats/code/llm-mt-iberian-languages/tgt_out/first_code_test_eng-spa_projecte-aina-aguila-7b_natural_language_2_20231024-10.22.48.txt	score: 0.8311
