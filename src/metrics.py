@@ -30,7 +30,7 @@ def bleu_score(tgt_path, ref_path):
     score = bleu.corpus_score(sys, refs)
     return score.format(width = 2), bleu.get_signature()
 
-def comet_score(src_path, tgt_path, ref_path, score_path = "comet.txt") -> float:
+def comet_score(src_path, tgt_path, ref_path, model = "Unbabel/wmt22-comet-da", score_path = "comet.txt") -> float:
     '''
     Computes and returns COMET score for the given source, target and reference files.
     Model used: Unbabel/wmt22-comet-da
@@ -62,7 +62,7 @@ def comet_score(src_path, tgt_path, ref_path, score_path = "comet.txt") -> float
         "-s", src_path,
         "-t", tgt_path,
         "-r", ref_path,
-        "--model", "Unbabel/wmt22-comet-da",
+        "--model", model,
         "--quiet",
         "--only_system"
     ]

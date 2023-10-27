@@ -1,0 +1,38 @@
+TEST PARAMETERS: ----------
+start time: 27/10/2023 at 11:51:23
+execution time: 0:37:21.280713
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "falcon_flores",
+    "path_prefix": "/fs/alvis0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "timestamp": "20231027-11.51.22"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": true,
+    "max_new_tokens": 60,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 1
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 8,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "template_id": "nl-alves-2023"
+}
+
+EVALUATION RESULTS: ====================
+
+BLEU: ----------
+BLEU = 20.12 56.4/28.5/16.4/9.5 (BP = 0.901 ratio = 0.905 hyp_len = 25164 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET = 82.63000000000001
+COMET20 = 52.68000000000001

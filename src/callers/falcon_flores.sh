@@ -14,8 +14,8 @@ python /fs/alvis0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --do_sample False \
     --top_k 1 \
     --max_new_tokens 60 \
-    --num_fewshot 4 \
-    --template_id natural_language \
+    --num_fewshot 5 \
+    --template_id nl-xu-2023 \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest \
     /fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev \

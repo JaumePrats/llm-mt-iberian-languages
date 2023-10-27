@@ -26,3 +26,13 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
     "template_id": "natural_language"
 }
+
+EVALUATION RESULTS: ====================
+
+BLEU: ----------
+BLEU = 20.28 57.8/29.4/16.9/9.7 (BP = 0.884 ratio = 0.890 hyp_len = 24731 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET20 = 52.05
+COMET20 = 52.05

@@ -16,6 +16,8 @@ RESULTS_DIR = 'results/'
 TGT_DIR = 'tgt_out/'
 COMPLETE_OUT_DIR = 'complete_out/'
 COMET_SCORES_DIR = RESULTS_DIR + 'comet_scores/'
+COMET22_DIR = COMET_SCORES_DIR + 'comet22/'
+COMET20_DIR = COMET_SCORES_DIR + 'comet20/'
 LOG_DIR = 'logs/'
 
 # FILES
@@ -228,9 +230,14 @@ def main(io_params, model_params, prompt_params):
         results_file.write('Signature: '+ str(b_signature) + '\n')
         # COMET
         results_file.write(f"\nCOMET: {10*'-'}\n")
-        comet_score_path = os.path.join(PATH_PREFIX, COMET_SCORES_DIR, filename)
-        c_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], comet_score_path)
-        results_file.write('COMET = '+ str(c_score) + '\n') 
+        # comet22
+        comet22_score_path = os.path.join(PATH_PREFIX, COMET22_DIR, filename)
+        c22_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], model="Unbabel/wmt22-comet-da", score_path=comet22_score_path)
+        results_file.write('COMET22 = '+ str(c22_score) + '\n') 
+        #comet20
+        comet20_score_path = os.path.join(PATH_PREFIX, COMET20_DIR, filename)
+        c20_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], model="Unbabel/wmt20-comet-da", score_path=comet20_score_path)
+        results_file.write('COMET20 = '+ str(c20_score) + '\n')
 
     # computing and saving execution time
     end_time = datetime.now()

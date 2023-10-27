@@ -35,3 +35,4 @@ Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
 
 COMET: ----------
 COMET = 80.82000000000001
+COMET20 = 43.15
