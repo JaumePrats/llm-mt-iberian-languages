@@ -239,6 +239,11 @@ def main(io_params, model_params, prompt_params):
         c20_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], model="Unbabel/wmt20-comet-da", score_path=comet20_score_path)
         results_file.write('COMET20 = '+ str(c20_score) + '\n')
 
+        #add line to copy in spreadsheet
+        results_file.write(f"\ncopy results (blue comet22 comet20) {10*'-'}\n")
+        results_file.write(b_score.split(' ')[2] + ' ' + str(c22_score) + ' ' + str(c20_score) + '\n')
+
+
     # computing and saving execution time
     end_time = datetime.now()
     exec_time = end_time - start_time
