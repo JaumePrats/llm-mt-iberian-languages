@@ -1,8 +1,8 @@
 #!/bin/bash
-#export CUDA_VISIBLE_DEVICES=6,7
+export CUDA_VISIBLE_DEVICES=6,7
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix=TEST_comet20
+filename_prefix=TEST_copy-results
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 
@@ -10,11 +10,9 @@ python /fs/alvis0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
     --batch_size 8 \
-    --num_beams 5 \
-    --do_sample False \
-    --top_k 1 \
+    --num_beams 1 \
     --max_new_tokens 60 \
-    --num_fewshot 5 \
+    --num_fewshot 0 \
     --template_id simple \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest \

@@ -34,3 +34,5 @@ BLEU = 20.67 57.6/29.4/17.0/9.9 (BP = 0.894 ratio = 0.899 hyp_len = 24986 ref_le
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
 
 COMET: ----------
+COMET22 = 82.91
+COMET20 = 55.10
