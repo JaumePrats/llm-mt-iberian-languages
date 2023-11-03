@@ -1,6 +1,6 @@
 TEST PARAMETERS: ----------
 start time: 02/11/2023 at 15:38:58
-execution time: - (in progress...)
+execution time: 0:21:38.973773
 translation direction: eng-spa
 IO PARAMETERS: ----------
 {
@@ -26,3 +26,16 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
     "template_id": "simple"
 }
+
+EVALUATION RESULTS: ====================
+
+BLEU: ----------
+BLEU = 22.49 58.4/30.7/18.1/10.7 (BP = 0.925 ratio = 0.927 hyp_len = 25776 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.34
+COMET20 = 62.51
+
+copy results (blue comet22 comet20) ----------
+22.49 84.34 62.51
