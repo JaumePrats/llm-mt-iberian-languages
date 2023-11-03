@@ -8,8 +8,9 @@ import random
 import os
 import sys
 from tqdm import tqdm
+from iso639 import Lang
 import logging
-from metrics import bleu_score, comet_score
+from metrics import bleu_score, comet_score, off_target_score
 
 # DIRECTORIES
 RESULTS_DIR = 'results/'
@@ -223,6 +224,15 @@ def main(io_params, model_params, prompt_params):
         logging.info('Evaluating...')
         results_file.write('\n')
         results_file.write(f"EVALUATION RESULTS: {20*'='}\n")
+
+        # OFF-TARGET TRANSLATION
+        results_file.write(f"\nOFF-TARGET TRANSLATION: {10*'-'}\n")
+        lg = Lang(ref_lang_code)
+        iso_ref_lang = lg.pt1
+        ot_score, ot_stats = off_target_score(tgt_path, ref_lang_code, return_tgt_langs_stats=True)
+        results_file.write('OFF-TGT(%) = '+ str(ot_score) + '\n')
+        results_file.write(json.dumps(ot_stats, sort_keys=True, indent=4) + '\n')
+
         # BLEU
         results_file.write(f"\nBLEU: {10*'-'}\n")
         b_score, b_signature = bleu_score(tgt_path, io_params['ref_data'])
@@ -240,8 +250,8 @@ def main(io_params, model_params, prompt_params):
         results_file.write('COMET20 = '+ str(c20_score) + '\n')
 
         #add line to copy in spreadsheet
-        results_file.write(f"\ncopy results (blue comet22 comet20) {10*'-'}\n")
-        results_file.write(b_score.split(' ')[2] + ' ' + str(c22_score) + ' ' + str(c20_score) + '\n')
+        results_file.write(f"\ncopy results (blue comet22 comet20 off-tgt) {10*'-'}\n")
+        results_file.write(f"{b_score.split(' ')[2]} {c22_score} {c20_score} {ot_score}\n")
 
 
     # computing and saving execution time

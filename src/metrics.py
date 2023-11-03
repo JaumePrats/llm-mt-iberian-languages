@@ -1,4 +1,6 @@
 from sacrebleu.metrics import BLEU, CHRF, TER
+from iso639 import Lang
+from langid.langid import LanguageIdentifier, model
 import subprocess
 import torch
 import os
@@ -73,3 +75,64 @@ def comet_score(src_path, tgt_path, ref_path, model = "Unbabel/wmt22-comet-da", 
     ])
     subprocess.call(" ".join(cmd), shell=True)
     return read_comet()
+
+def off_target_score(tgt_path, ref_lang, return_tgt_langs_stats=False, max_stat_lines = 10):
+    '''
+    Computes and returns the percentage (score) of off-target translation in the target file.
+    If return_tgt_langs_stats=True, returns the score and a dictionary with the language identification statistics of the target file.
+
+    :param tgt_path: str
+        Path to the tgt file.
+    :param ref_lang: str
+        Code of the reference language, example: 'es' or 'spa'.
+    :param return_tgt_langs_stats: bool
+        If True, a dictionary with the language identification statistics of the tgt file is also returned.
+    :param max_stat_lines: int
+        Max number of lines to include in the tgt_langs_stats[lines] for each language.
+    :return:
+        score: float
+            Percentage of off-target translation in tgt file.
+        tgt_langs_stats: dict (only if return_tgt_langs_stats=True)
+            Dictionary with the statistics of languages present in target file.
+    '''
+    iso_lg = Lang(ref_lang)
+    ref_lang = iso_lg.pt1 # convert ref_lang into iso code
+
+    lang_identifier = LanguageIdentifier.from_modelstring(model, norm_probs=True)
+
+    with open(tgt_path, 'r') as tgt_file:
+        tgt_lines = [line.strip() for line in tgt_file.readlines()]
+    lang_probs = [lang_identifier.classify(line) for line in tgt_lines]
+
+    tgt_langs_lines = {} # for each language the lines on which it appears
+    for i, lang_prob in enumerate(lang_probs):
+        line_number = i + 1
+        lang, prob = lang_prob
+        if lang in tgt_langs_lines:
+            tgt_langs_lines[lang].append(line_number)
+        else:
+            tgt_langs_lines[lang] = [line_number]
+
+    if ref_lang in tgt_langs_lines:
+        score = round(((len(tgt_lines) - len(tgt_langs_lines[ref_lang])) / len(tgt_lines)) * 100, 4)
+    else:
+        score = 100
+
+    if return_tgt_langs_stats:
+        tgt_langs_stats = {}
+        for lang in tgt_langs_lines:
+            lang_stats = {}
+            iso_lg = Lang(lang)
+            lang_stats['name'] = iso_lg.name
+            lang_stats['abs_count'] = len(tgt_langs_lines[lang])
+            lang_stats['percentage(%)'] = round((lang_stats['abs_count'] / len(tgt_lines)) * 100, 4)
+            if lang_stats['abs_count'] < max_stat_lines:
+                lang_stats['lines'] = tgt_langs_lines[lang]
+            else:
+                lang_stats['lines'] = f'More than {max_stat_lines} lines'
+            tgt_langs_stats[lang] = lang_stats
+        return score, tgt_langs_stats
+    else:
+        return score
+    
+    
