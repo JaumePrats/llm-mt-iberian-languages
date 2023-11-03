@@ -29,6 +29,49 @@ PROMPT PARAMETERS: ----------
 
 EVALUATION RESULTS: ====================
 
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.4012
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            283
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.1003
+    },
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            308
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.1003
+    },
+    "es": {
+        "abs_count": 993,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 99.5988
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            36
+        ],
+        "name": "French",
+        "percentage(%)": 0.1003
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            317
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.1003
+    }
+}
+
 BLEU: ----------
 BLEU = 22.64 58.6/31.0/18.3/10.9 (BP = 0.923 ratio = 0.926 hyp_len = 25727 ref_len = 27793)
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
@@ -37,5 +80,6 @@ COMET: ----------
 COMET22 = 84.53
 COMET20 = 63.18
 
-copy results (blue comet22 comet20) ----------
-22.64 84.53 63.18
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.64 84.53 63.18 0.4012

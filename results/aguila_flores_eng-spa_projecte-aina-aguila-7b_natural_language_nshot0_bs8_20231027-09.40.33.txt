@@ -29,6 +29,94 @@ PROMPT PARAMETERS: ----------
 
 EVALUATION RESULTS: ====================
 
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 14.0721
+{
+    "ar": {
+        "abs_count": 1,
+        "lines": [
+            499
+        ],
+        "name": "Arabic",
+        "percentage(%)": 0.088
+    },
+    "ca": {
+        "abs_count": 8,
+        "lines": [
+            122,
+            224,
+            331,
+            367,
+            578,
+            594,
+            729,
+            966
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.7036
+    },
+    "cs": {
+        "abs_count": 1,
+        "lines": [
+            476
+        ],
+        "name": "Czech",
+        "percentage(%)": 0.088
+    },
+    "en": {
+        "abs_count": 118,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 10.3782
+    },
+    "es": {
+        "abs_count": 977,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 85.9279
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            790
+        ],
+        "name": "French",
+        "percentage(%)": 0.088
+    },
+    "gl": {
+        "abs_count": 3,
+        "lines": [
+            195,
+            599,
+            838
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2639
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            1114
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.088
+    },
+    "it": {
+        "abs_count": 26,
+        "lines": "More than 10 lines",
+        "name": "Italian",
+        "percentage(%)": 2.2867
+    },
+    "ms": {
+        "abs_count": 1,
+        "lines": [
+            783
+        ],
+        "name": "Malay (macrolanguage)",
+        "percentage(%)": 0.088
+    }
+}
+
 BLEU: ----------
 BLEU = 0.79 18.6/1.1/0.3/0.2 (BP = 0.725 ratio = 0.757 hyp_len = 21039 ref_len = 27793)
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1

@@ -29,6 +29,25 @@ PROMPT PARAMETERS: ----------
 
 EVALUATION RESULTS: ====================
 
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 5.0
+{
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            4
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 5.0
+    },
+    "es": {
+        "abs_count": 19,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 95.0
+    }
+}
+
 BLEU: ----------
 BLEU = 18.25 58.2/29.1/16.5/8.8 (BP = 0.821 ratio = 0.835 hyp_len = 526 ref_len = 630)
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1

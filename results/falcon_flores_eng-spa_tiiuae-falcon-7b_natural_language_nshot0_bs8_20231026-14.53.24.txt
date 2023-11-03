@@ -29,6 +29,50 @@ PROMPT PARAMETERS: ----------
 
 EVALUATION RESULTS: ====================
 
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 3.1093
+{
+    "an": {
+        "abs_count": 2,
+        "lines": [
+            283,
+            334
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.2006
+    },
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            262,
+            308
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.2006
+    },
+    "en": {
+        "abs_count": 25,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 2.5075
+    },
+    "es": {
+        "abs_count": 966,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 96.8907
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            159,
+            206
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2006
+    }
+}
+
 BLEU: ----------
 BLEU = 19.29 56.5/28.1/16.0/9.2 (BP = 0.877 ratio = 0.884 hyp_len = 24568 ref_len = 27793)
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1

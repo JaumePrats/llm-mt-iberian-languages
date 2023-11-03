@@ -57,6 +57,34 @@ OFF-TGT(%) = 15.0
     }
 }
 
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 15.0
+{
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            6,
+            12
+        ],
+        "name": "English",
+        "percentage(%)": 10.0
+    },
+    "es": {
+        "abs_count": 17,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 85.0
+    },
+    "lt": {
+        "abs_count": 1,
+        "lines": [
+            16
+        ],
+        "name": "Lithuanian",
+        "percentage(%)": 5.0
+    }
+}
+
 BLEU: ----------
 BLEU = 21.21 62.7/34.8/22.2/13.0 (BP = 0.753 ratio = 0.779 hyp_len = 491 ref_len = 630)
 Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1

@@ -37,6 +37,65 @@ OFF-TGT(%) = 7.8235
         "lines": [
             283
         ],
+        "name": "Aragonese",
+        "percentage(%)": 0.1003
+    },
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            262,
+            308
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.2006
+    },
+    "en": {
+        "abs_count": 71,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 7.1214
+    },
+    "es": {
+        "abs_count": 919,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 92.1765
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            159,
+            927
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2006
+    },
+    "lt": {
+        "abs_count": 1,
+        "lines": [
+            16
+        ],
+        "name": "Lithuanian",
+        "percentage(%)": 0.1003
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            844
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1003
+    }
+}
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 7.8235
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            283
+        ],
         "percentage(%)": 0.1003
     },
     "ca": {
