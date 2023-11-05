@@ -1,7 +1,7 @@
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained(
-    "facebook/nllb-200-distilled-600M", use_auth_token=True, src_lang="ron_Latn"
+    "facebook/nllb-200-distilled-600M", src_lang="ron_Latn"
 )
 model = AutoModelForSeq2SeqLM.from_pretrained("facebook/nllb-200-distilled-600M", use_auth_token=True)
 
