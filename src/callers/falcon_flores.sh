@@ -2,11 +2,11 @@
 export CUDA_VISIBLE_DEVICES=6,7
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix=TEST_off-target-score
+filename_prefix=TEST_infer
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 
-python /fs/alvis0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
+python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
     --batch_size 8 \
@@ -18,8 +18,8 @@ python /fs/alvis0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest \
     /fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev \
     /fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev \
-    /fs/alvis0/jprats/code/llm-mt-iberian-languages \
-    tiiuae/falcon-7b 2> /fs/alvis0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$timestamp.log
+    /fs/surtr0/jprats/code/llm-mt-iberian-languages \
+    tiiuae/falcon-7b 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$timestamp.log
 
     # src_data
     # ref_data
