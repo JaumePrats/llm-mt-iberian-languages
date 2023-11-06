@@ -112,7 +112,6 @@ def main(io_params, model_params, prompt_params):
 
     # get time
     start_time = datetime.now()
-    filename_time = start_time.strftime("%Y%m%d-%H.%M.%S")
     # get translation direction
     src_filename = prompt_params['src_examples'].split('/')[-1]
     ref_filename = prompt_params['ref_examples'].split('/')[-1]
