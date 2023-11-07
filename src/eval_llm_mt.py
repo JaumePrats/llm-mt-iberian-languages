@@ -11,6 +11,7 @@ from tqdm import tqdm
 from iso639 import Lang
 import logging
 from metrics import bleu_score, comet_score, off_target_score
+from max_tokens import get_max_token_length
 
 # DIRECTORIES
 RESULTS_DIR = 'results/'
@@ -144,6 +145,12 @@ def main(io_params, model_params, prompt_params):
     logging.info('Loading model...')
     # initialize generator
     tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'], padding_side='left')
+    max_ref_len, avg_ref_len, min_ref_len = get_max_token_length(io_params['ref_data'], tokenizer) # check max tokens in ref file
+    if max_ref_len + 3 >= model_params['max_new_tokens']: # 3 tokens for </s>
+        logging.error("The output of the model may be cut short. Consider increasing 'max_new_tokens' value.")
+    logging.info(f"max_new_tokens={model_params['max_new_tokens']}")
+    logging.info(f'max tokens on ref sentence: {max_ref_len}')
+
     if tokenizer.pad_token is None: # decoder-only models such as Falcon are not trained with pad_token, so the tokenizer does not have one set.
         tokenizer.pad_token = tokenizer.eos_token
     generator = pipeline(
@@ -226,8 +233,6 @@ def main(io_params, model_params, prompt_params):
 
         # OFF-TARGET TRANSLATION
         results_file.write(f"\nOFF-TARGET TRANSLATION: {10*'-'}\n")
-        lg = Lang(ref_lang_code)
-        iso_ref_lang = lg.pt1
         ot_score, ot_stats = off_target_score(tgt_path, ref_lang_code, return_tgt_langs_stats=True)
         results_file.write('OFF-TGT(%) = '+ str(ot_score) + '\n')
         results_file.write(json.dumps(ot_stats, sort_keys=True, indent=4) + '\n')
