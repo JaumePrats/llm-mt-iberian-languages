@@ -1,6 +1,6 @@
 TEST PARAMETERS: ----------
 start time: 07/11/2023 at 17:06:34
-execution time: - (in progress...)
+execution time: 0:24:11.517011
 translation direction: eng-spa
 IO PARAMETERS: ----------
 {
@@ -26,3 +26,60 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
     "template_id": "simple"
 }
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.5015
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            283
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.1003
+    },
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            262,
+            308
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.2006
+    },
+    "es": {
+        "abs_count": 992,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 99.4985
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            36
+        ],
+        "name": "French",
+        "percentage(%)": 0.1003
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            147
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.1003
+    }
+}
+
+BLEU: ----------
+BLEU = 22.32 58.5/30.7/18.1/10.7 (BP = 0.919 ratio = 0.922 hyp_len = 25617 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.32
+COMET20 = 62.28
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.32 84.32 62.28 0.5015
