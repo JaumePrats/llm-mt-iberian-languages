@@ -15,7 +15,7 @@ model_id = "facebook/nllb-200-3.3B"
 # )
 # print(tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0])
 
-print(torch.cuda.is_available())
+print('cuda available:', torch.cuda.is_available())
 
 print("Pipeline approach:")
 
@@ -31,7 +31,7 @@ generator = pipeline(
     src_lang="ron_Latn",
     tgt_lang="spa_Latn",
     max_length=400,
-    device=4
+    device=3,
 )
 start = datetime.now()
 print("Translating...")
