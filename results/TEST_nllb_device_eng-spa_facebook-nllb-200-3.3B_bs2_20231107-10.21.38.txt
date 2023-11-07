@@ -1,18 +1,19 @@
 TEST PARAMETERS: ----------
-start time: 06/11/2023 at 18:35:11
-execution time: 0:10:55.114329
+start time: 07/11/2023 at 10:21:40
+execution time: 0:01:47.066339
 translation direction: eng-spa
 IO PARAMETERS: ----------
 {
-    "filename_prefix": "TEST_nllb_auto",
+    "filename_prefix": "TEST_nllb_device",
     "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
     "ref_data": "/fs/surtr0/jprats/data/processed/tiny_flores/spa_Latn.dev",
     "src_data": "/fs/surtr0/jprats/data/processed/tiny_flores/eng_Latn.dev",
-    "timestamp": "20231106-18.35.08"
+    "timestamp": "20231107-10.21.38"
 }
 MODEL PARAMETERS: ----------
 {
-    "batch_size": 1,
+    "batch_size": 2,
+    "device": 3,
     "max_length": 400,
     "model_id": "facebook/nllb-200-3.3B"
 }

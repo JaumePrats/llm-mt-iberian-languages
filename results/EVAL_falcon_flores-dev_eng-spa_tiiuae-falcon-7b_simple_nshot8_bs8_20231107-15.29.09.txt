@@ -1,0 +1,77 @@
+TEST PARAMETERS: ----------
+start time: 07/11/2023 at 15:29:11
+execution time: 1:03:13.849196
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_falcon_flores-dev",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "timestamp": "20231107-15.29.09"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 8,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.4012
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            283
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.1003
+    },
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            308
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.1003
+    },
+    "es": {
+        "abs_count": 993,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 99.5988
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            147,
+            317
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2006
+    }
+}
+
+BLEU: ----------
+BLEU = 22.71 58.5/30.7/18.1/10.8 (BP = 0.932 ratio = 0.935 hyp_len = 25974 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.71
+COMET20 = 63.800000000000004
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.71 84.71 63.800000000000004 0.4012

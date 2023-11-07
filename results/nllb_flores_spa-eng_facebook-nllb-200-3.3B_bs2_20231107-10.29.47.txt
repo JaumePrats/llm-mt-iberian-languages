@@ -1,0 +1,43 @@
+TEST PARAMETERS: ----------
+start time: 07/11/2023 at 10:29:49
+execution time: 0:08:06.238140
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "nllb_flores",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "timestamp": "20231107-10.29.47"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 2,
+    "device": 5,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0
+{
+    "en": {
+        "abs_count": 997,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 100.0
+    }
+}
+
+BLEU: ----------
+BLEU = 32.68 63.9/39.0/26.0/17.6 (BP = 1.000 ratio = 1.043 hyp_len = 24564 ref_len = 23555)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 87.29
+COMET20 = 72.67
+
+copy results (blue comet22 comet20 off-tgt) ----------
+32.68 87.29 72.67 0.0
