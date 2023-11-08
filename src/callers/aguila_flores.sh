@@ -1,5 +1,5 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=1,2,3
+export CUDA_VISIBLE_DEVICES=6,7
 echo $CUDA_VISIBLE_DEVICES
 
 filename_prefix=TEST_TIME_aguila_flores
