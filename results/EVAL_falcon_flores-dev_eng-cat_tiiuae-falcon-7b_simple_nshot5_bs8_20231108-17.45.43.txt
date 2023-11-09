@@ -26,3 +26,89 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
     "template_id": "simple"
 }
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 6.4193
+{
+    "an": {
+        "abs_count": 4,
+        "lines": [
+            283,
+            769,
+            817,
+            840
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.4012
+    },
+    "ca": {
+        "abs_count": 933,
+        "lines": "More than 10 lines",
+        "name": "Catalan",
+        "percentage(%)": 93.5807
+    },
+    "es": {
+        "abs_count": 47,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 4.7141
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            677
+        ],
+        "name": "French",
+        "percentage(%)": 0.1003
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            369
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.1003
+    },
+    "hu": {
+        "abs_count": 3,
+        "lines": [
+            247,
+            360,
+            841
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.3009
+    },
+    "oc": {
+        "abs_count": 7,
+        "lines": [
+            11,
+            32,
+            393,
+            433,
+            741,
+            962,
+            971
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.7021
+    },
+    "wa": {
+        "abs_count": 1,
+        "lines": [
+            592
+        ],
+        "name": "Walloon",
+        "percentage(%)": 0.1003
+    }
+}
+
+BLEU: ----------
+BLEU = 12.48 43.5/17.8/8.7/4.5 (BP = 0.946 ratio = 0.947 hyp_len = 24586 ref_len = 25962)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 67.11
+COMET20 = -16.13

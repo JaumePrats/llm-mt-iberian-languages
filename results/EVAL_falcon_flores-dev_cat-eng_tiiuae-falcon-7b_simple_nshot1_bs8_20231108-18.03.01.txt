@@ -1,6 +1,6 @@
 TEST PARAMETERS: ----------
 start time: 08/11/2023 at 18:03:05
-execution time: - (in progress...)
+execution time: 0:22:58.321926
 translation direction: cat-eng
 IO PARAMETERS: ----------
 {
@@ -26,3 +26,35 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
     "template_id": "simple"
 }
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.1003
+{
+    "en": {
+        "abs_count": 996,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 99.8997
+    },
+    "es": {
+        "abs_count": 1,
+        "lines": [
+            724
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.1003
+    }
+}
+
+BLEU: ----------
+BLEU = 28.41 58.8/34.1/22.1/14.7 (BP = 1.000 ratio = 1.079 hyp_len = 25418 ref_len = 23555)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 81.10000000000001
+COMET20 = 47.23
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.41 81.10000000000001 47.23 0.1003

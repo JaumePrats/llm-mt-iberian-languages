@@ -1,0 +1,113 @@
+TEST PARAMETERS: ----------
+start time: 09/11/2023 at 12:17:27
+execution time: 0:20:06.531283
+translation direction: spa-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_falcon_flores-dev",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "timestamp": "20231109-12.17.23"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 50.7523
+{
+    "an": {
+        "abs_count": 2,
+        "lines": [
+            283,
+            850
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.2006
+    },
+    "ca": {
+        "abs_count": 491,
+        "lines": "More than 10 lines",
+        "name": "Catalan",
+        "percentage(%)": 49.2477
+    },
+    "da": {
+        "abs_count": 1,
+        "lines": [
+            781
+        ],
+        "name": "Danish",
+        "percentage(%)": 0.1003
+    },
+    "es": {
+        "abs_count": 485,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 48.6459
+    },
+    "fr": {
+        "abs_count": 14,
+        "lines": "More than 10 lines",
+        "name": "French",
+        "percentage(%)": 1.4042
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            763
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.1003
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            991
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.1003
+    },
+    "oc": {
+        "abs_count": 1,
+        "lines": [
+            572
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.1003
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            540
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1003
+    }
+}
+
+BLEU: ----------
+BLEU = 8.46 36.0/11.8/5.1/2.4 (BP = 1.000 ratio = 1.039 hyp_len = 26969 ref_len = 25962)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 75.64999999999999
+COMET20 = 33.660000000000004
+
+copy results (blue comet22 comet20 off-tgt) ----------
+8.46 75.64999999999999 33.660000000000004 50.7523

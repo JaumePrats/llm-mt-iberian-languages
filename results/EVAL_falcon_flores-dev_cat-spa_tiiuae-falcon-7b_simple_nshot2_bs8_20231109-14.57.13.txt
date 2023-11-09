@@ -1,0 +1,73 @@
+TEST PARAMETERS: ----------
+start time: 09/11/2023 at 14:57:19
+execution time: - (in progress...)
+translation direction: cat-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_falcon_flores-dev",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "timestamp": "20231109-14.57.13"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 2,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.5015
+{
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            329,
+            428
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.2006
+    },
+    "es": {
+        "abs_count": 992,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 99.4985
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            12
+        ],
+        "name": "French",
+        "percentage(%)": 0.1003
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            147,
+            317
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2006
+    }
+}
+
+BLEU: ----------
+BLEU = 19.95 54.3/26.8/15.2/8.6 (BP = 0.955 ratio = 0.956 hyp_len = 26558 ref_len = 27793)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------

@@ -1,6 +1,6 @@
 TEST PARAMETERS: ----------
 start time: 08/11/2023 at 17:48:25
-execution time: - (in progress...)
+execution time: 0:29:04.945874
 translation direction: spa-eng
 IO PARAMETERS: ----------
 {
@@ -26,3 +26,27 @@ PROMPT PARAMETERS: ----------
     "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
     "template_id": "simple"
 }
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0
+{
+    "en": {
+        "abs_count": 997,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 100.0
+    }
+}
+
+BLEU: ----------
+BLEU = 26.98 58.2/33.1/20.7/13.3 (BP = 1.000 ratio = 1.142 hyp_len = 26910 ref_len = 23555)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 85.99
+COMET20 = 68.77
+
+copy results (blue comet22 comet20 off-tgt) ----------
+26.98 85.99 68.77 0.0

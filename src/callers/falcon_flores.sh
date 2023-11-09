@@ -1,12 +1,13 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=3
-echo $CUDA_VISIBLE_DEVICES
+export CUDA_VISIBLE_DEVICES=7
+echo GPU:$CUDA_VISIBLE_DEVICES
 
-filename_prefix=EVAL_falcon_flores-dev
-src_lang=cat
-tgt_lang=eng
+filename_prefix=TEST_SeparatedScope_EVAL_falcon_flores-dev
+src_lang=spa
+tgt_lang=cat
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
+echo $src_lang'-'$tgt_lang
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -14,7 +15,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --batch_size 8 \
     --num_beams 5 \
     --max_new_tokens 150 \
-    --num_fewshot 2 \
+    --num_fewshot 5 \
     --template_id simple \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$src_lang'_Latn.devtest' \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$tgt_lang'_Latn.devtest' \
