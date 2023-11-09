@@ -29,6 +29,16 @@ TEMPL_FILE = 'templates.json'
 PATH_PREFIX = ''
 LANG_CODES = {}
 
+# initialize logger
+#log_path = os.path.join(PATH_PREFIX, LOG_DIR, filename + '.log')
+sys.stderr
+#file_handler = logging.FileHandler(filename=log_path)
+stdout_handler = logging.StreamHandler(stream=sys.stdout)
+stderr_handler = logging.StreamHandler(stream=sys.stderr)
+#handlers = [file_handler, stdout_handler, stderr_handler]
+handlers = [stdout_handler, stderr_handler]
+logging.basicConfig(level=logging.DEBUG, handlers=handlers)
+
 def extract_examples(src_path, ref_path, num_fewshot, selected = False):
     '''
     Extract 'num_fewshot' examples from the source and target file.
@@ -99,48 +109,7 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
     return prompt
 
-
-def main(io_params, model_params, prompt_params):
-
-    # initialize constants (PATH_PREFIX, LANG_CODES)
-    global PATH_PREFIX
-    PATH_PREFIX = io_params['path_prefix']
-
-    global LANG_CODES
-    lang_path = os.path.join(PATH_PREFIX, LANG_FILE)
-    with open(lang_path, 'r') as f:
-        LANG_CODES = json.load(f)
-
-    # get time
-    start_time = datetime.now()
-    # get translation direction
-    src_filename = prompt_params['src_examples'].split('/')[-1]
-    ref_filename = prompt_params['ref_examples'].split('/')[-1]
-    for lang_code in LANG_CODES:
-        if lang_code in src_filename:
-            src_lang_code = lang_code
-        if lang_code in ref_filename:
-            ref_lang_code = lang_code
-    assert src_lang_code != None
-    assert ref_lang_code != None
-    translation_direction = src_lang_code + '-' + ref_lang_code
-
-    # define filename: <prefix>_<translation_direction>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt
-    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id'].replace('/','-')}_{prompt_params['template_id']}_nshot{prompt_params['num_fewshot']}_bs{model_params['batch_size']}_{io_params['timestamp']}"
-
-    # initialize logger
-    #log_path = os.path.join(PATH_PREFIX, LOG_DIR, filename + '.log')
-    sys.stderr
-    #file_handler = logging.FileHandler(filename=log_path)
-    stdout_handler = logging.StreamHandler(stream=sys.stdout)
-    stderr_handler = logging.StreamHandler(stream=sys.stderr)
-    #handlers = [file_handler, stdout_handler, stderr_handler]
-    handlers = [stdout_handler, stderr_handler]
-    logging.basicConfig(level=logging.DEBUG, handlers=handlers)
-
-    logging.info('Creating prompt')
-    prompt = create_prompt(prompt_params['num_fewshot'], prompt_params['template_id'], prompt_params['src_examples'], prompt_params['ref_examples'])
-    logging.debug(f"PROMT:\n{prompt}")
+def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: list, tgt_path: str, complete_out_path: str):
 
     logging.info('Loading model...')
     # initialize generator
@@ -161,27 +130,6 @@ def main(io_params, model_params, prompt_params):
         trust_remote_code=True,
         device_map="auto",
     )
-
-    results_path = os.path.join(PATH_PREFIX, RESULTS_DIR, filename + '.txt')
-    tgt_path = os.path.join(PATH_PREFIX, TGT_DIR, filename + f'.{ref_lang_code}')
-    complete_out_path = os.path.join(PATH_PREFIX, COMPLETE_OUT_DIR, filename + '.txt')
-
-    # save used parameters
-    logging.info('Saving parameters')
-    with open(results_path, 'w') as results_file:
-
-        # writing test parameters in results file
-        results_file.write(f"TEST PARAMETERS: {10*'-'}\n")
-        results_file.write(f"start time: {start_time.strftime('%d/%m/%Y at %H:%M:%S')}\n")
-        results_file.write(f"execution time: - (in progress...)\n")
-        exec_time_line = 2
-        results_file.write(f"translation direction: {translation_direction}\n")
-        results_file.write(f"IO PARAMETERS: {10*'-'}\n")
-        results_file.write(json.dumps(io_params, sort_keys=True, indent=4) + '\n')
-        results_file.write(f"MODEL PARAMETERS: {10*'-'}\n")
-        results_file.write(json.dumps(model_params, sort_keys=True, indent=4) + '\n')
-        results_file.write(f"PROMPT PARAMETERS: {10*'-'}\n")
-        results_file.write(json.dumps(prompt_params, sort_keys=True, indent=4) + '\n')
 
     # reading src_data and doing generation
     with open(io_params['src_data'], 'r') as src_file:
@@ -211,21 +159,10 @@ def main(io_params, model_params, prompt_params):
             complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
             tgt_file.write(full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0] + '\n') # save stripped sentence
 
-        # for src_line in tqdm(src_lines, unit='line'):
-        #     input_text = ''.join([prompt[0], src_line.strip(), prompt[1]])
-        #     generation = generator( # generate tgt
-        #         input_text,
-        #         num_beams = model_params['num_beams'],
-        #         do_sample=model_params['do_sample'],
-        #         top_k=model_params['top_k'],
-        #         eos_token_id=tokenizer.eos_token_id,
-        #         max_new_tokens=model_params['max_new_tokens']
-        #     )
-        #     full_output = generation[0]['generated_text']
-        #     complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
-        #     tgt_file.write(full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0] + '\n') # save stripped sentence
-    
-    # evaluation
+def evaluate(tgt_path: str, ref_lang_code: str, results_path):
+
+    comet_filename = os.path.splitext(os.path.basename(results_path))[0]
+
     with open(results_path, 'a') as results_file: # opening file with access mode 'a' (append)
         logging.info('Evaluating...')
         results_file.write('\n')
@@ -245,11 +182,11 @@ def main(io_params, model_params, prompt_params):
         # COMET
         results_file.write(f"\nCOMET: {10*'-'}\n")
         # comet22
-        comet22_score_path = os.path.join(PATH_PREFIX, COMET22_DIR, filename)
+        comet22_score_path = os.path.join(PATH_PREFIX, COMET22_DIR, comet_filename)
         c22_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], model="Unbabel/wmt22-comet-da", score_path=comet22_score_path)
         results_file.write('COMET22 = '+ str(c22_score) + '\n') 
         #comet20
-        comet20_score_path = os.path.join(PATH_PREFIX, COMET20_DIR, filename)
+        comet20_score_path = os.path.join(PATH_PREFIX, COMET20_DIR, comet_filename)
         c20_score = comet_score(io_params['src_data'], tgt_path, io_params['ref_data'], model="Unbabel/wmt20-comet-da", score_path=comet20_score_path)
         results_file.write('COMET20 = '+ str(c20_score) + '\n')
 
@@ -257,6 +194,74 @@ def main(io_params, model_params, prompt_params):
         results_file.write(f"\ncopy results (blue comet22 comet20 off-tgt) {10*'-'}\n")
         results_file.write(f"{b_score.split(' ')[2]} {c22_score} {c20_score} {ot_score}\n")
 
+def main(io_params, model_params, prompt_params):
+
+    # initialize constants (PATH_PREFIX, LANG_CODES)
+    global PATH_PREFIX
+    PATH_PREFIX = io_params['path_prefix']
+
+    global LANG_CODES
+    lang_path = os.path.join(PATH_PREFIX, LANG_FILE)
+    with open(lang_path, 'r') as f:
+        LANG_CODES = json.load(f)
+
+    # get time
+    start_time = datetime.now()
+    # get translation direction
+    src_filename = prompt_params['src_examples'].split('/')[-1]
+    ref_filename = prompt_params['ref_examples'].split('/')[-1]
+    for lang_code in LANG_CODES:
+        if lang_code in src_filename:
+            src_lang_code = lang_code
+        if lang_code in ref_filename:
+            ref_lang_code = lang_code
+    assert src_lang_code != None
+    assert ref_lang_code != None
+    translation_direction = src_lang_code + '-' + ref_lang_code
+
+    # define filename: <prefix>_<translation_direction>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt
+    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id'].replace('/','-')}_{prompt_params['template_id']}_nshot{prompt_params['num_fewshot']}_bs{model_params['batch_size']}_{io_params['timestamp']}"
+
+    results_path = os.path.join(PATH_PREFIX, RESULTS_DIR, filename + '.txt')
+    tgt_path = os.path.join(PATH_PREFIX, TGT_DIR, filename + f'.{ref_lang_code}')
+    complete_out_path = os.path.join(PATH_PREFIX, COMPLETE_OUT_DIR, filename + '.txt')
+
+    logging.info('Creating prompt')
+    prompt = create_prompt(prompt_params['num_fewshot'], prompt_params['template_id'], prompt_params['src_examples'], prompt_params['ref_examples'])
+    logging.debug(f"PROMT:\n{prompt}")
+
+    translate(
+        io_params=io_params,
+        model_params=model_params,
+        prompt_params=prompt_params,
+        prompt=prompt,
+        tgt_path=tgt_path,
+        complete_out_path=complete_out_path
+              )
+
+    # save used parameters
+    logging.info('Saving parameters')
+    with open(results_path, 'w') as results_file:
+
+        # writing test parameters in results file
+        results_file.write(f"TEST PARAMETERS: {10*'-'}\n")
+        results_file.write(f"start time: {start_time.strftime('%d/%m/%Y at %H:%M:%S')}\n")
+        results_file.write(f"execution time: - (in progress...)\n")
+        exec_time_line = 2
+        results_file.write(f"translation direction: {translation_direction}\n")
+        results_file.write(f"IO PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(io_params, sort_keys=True, indent=4) + '\n')
+        results_file.write(f"MODEL PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(model_params, sort_keys=True, indent=4) + '\n')
+        results_file.write(f"PROMPT PARAMETERS: {10*'-'}\n")
+        results_file.write(json.dumps(prompt_params, sort_keys=True, indent=4) + '\n')
+    
+    # evaluation
+    evaluate(
+        tgt_path=tgt_path,
+        ref_lang_code=ref_lang_code,
+        results_path=results_path
+    )
 
     # computing and saving execution time
     end_time = datetime.now()

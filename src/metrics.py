@@ -55,9 +55,9 @@ def comet_score(src_path, tgt_path, ref_path, model = "Unbabel/wmt22-comet-da", 
             assert len(comet) == 1, score_path
             return float(comet[0].split("\t")[1].replace("score:", "").strip()) * 100
 
-    if os.path.isfile(score_path):
-        print(f"Comet already exists, reading from {str(score_path)}")
-        return read_comet()
+    # if os.path.isfile(score_path):
+    #     print(f"Comet already exists, reading from {str(score_path)}")
+    #     return read_comet()
 
     cmd = [
         "comet-score",
