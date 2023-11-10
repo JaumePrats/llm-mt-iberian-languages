@@ -1,0 +1,462 @@
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.</s>
+Spanish: <s>El lunes, científicos del Stanford University School of Medicine anunciaron la invención de una nueva herramienta diagnóstica que permite separar las células por tipo: una pequeña tarjeta impresora que puede ser fabricada usando impresoras de tinta convencionales por unos centavos de dólar por unidad.</s>
+
+English: <s>In the 1980s and 1990s, the Soviet Union and the United States were locked in a nuclear arms race.</s>
+Spanish: <s>En los años 1980 y 1990, la Unión Soviética y los Estados Unidos se enfrentaron en una carrera armament
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.</s>
+Spanish: <s>Los investigadores aseguran que esto puede llevar a la detección temprana de cáncer, tuberculosis, VIH y malaria a los pacientes de países en desarrollo, donde los índices de supervivencia de enfermedades tales como el cáncer de seno pueden ser la mitad de los de países ricos.</s>
+
+English: <s>In a statement, the company said it was "committed to the highest standards of corporate governance."</s>
+Spanish: <s>En una declaración, la compañía aseguró que estaba «muy comprometida con los más altos estándares de gobernanza corporativa».</s
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.</s>
+Spanish: <s>El JAS 39C Gripen se estrelló sobre la pista de aterrizaje a las 9:30 de la mañana hora local (0030 UTC) y explotó, cerrando el aeropuerto a los vuelos comerciales.</s>
+
+English: <s>The plane, a Boeing 737-400, was carrying 148 passengers and seven crew members.</s>
+Spanish: <s>El avión, un Boeing 737-400, llevaba 148 pasajeros y siete miembros de la tripulación.</s>
+
+English: <s>The plane, a Boeing 737-400, was carrying 
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>The pilot was identified as Squadron Leader Dilokrit Pattavee.</s>
+Spanish: <s>El piloto se identificó como el teniente coronel Dilokrit Pattavee.</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted the Convention on the Rights of Persons with Disabilities (CRPD).</s>
+Spanish: <s>En 2006, la Asamblea General de las Naciones Unidas adoptó la Convención sobre los Derechos de las Personas con Discapacidades (CRPD).</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted the Convention on the Rights of Persons with Disabilities (CRPD).</s>
+Spanish: 
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>La prensa local informa que un vehículo de incendios de aeropuerto se estrelló mientras respondía.</s>
+
+English: <s>He said he was "very, very, very, very, very sorry."</s>
+Spanish: <s>Dijo que era «muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy, muy
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>28-year-old Vidal had joined Barça three seasons ago, from Sevilla.</s>
+Spanish: <s>Vidal, de 28 años, se había incorporado al Barça tres temporadas atrás, desde Sevilla.</s>
+
+English: <s>He said: "I'm not going to lie to you, I'm not going to tell you I'm 100 per cent."</s>
+Spanish: <s>Dijo: «No te voy a mentir, no voy a decirte que estoy a 100 por cien».</s>
+
+English: <s>He said: "I'm not going to lie to you, I'm not going to tell you I'm 100 per cent."</s>
+Spanish: <
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Since moving to the Catalan-capital, Vidal had played 49 games for the club.</s>
+Spanish: <s>Desde que se mudó a la capital catalana, Vidal había jugado 49 partidos por el club.</s>
+
+English: <s>In 2010, the company was valued at $1.5 billion.</s>
+Spanish: <s>En 2010, la empresa valía 1.500 millones de dólares.</s>
+
+English: <s>In 2010, the company was valued at $1.5 billion.</s>
+Spanish: <s>En 2010, la empresa valía 1.500 millones de dólares.</s>
+
+English: <s>In 2010,
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.</s>
+Spanish: <s>La protesta empezó alrededor de las 11:00 horas (UTC+1) en Whitehall, frente a la puerta principal de Downing Street, la residencia oficial del primer ministro británico.</s>
+
+English: <s>He said: "I'm not going to go into the details of what we're going to do, but we're going to do something about it."</s>
+Spanish: <s>Dijo: «No voy a entrar en los detalles de lo que vamos a hacer, pero vamos a hacer algo al respecto.»</s>
+
+English: <s>He said: "I'm not going to go
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Justo después de las 11:00, los manifestantes bloquearon la circulación en el carril norte de la calle Whitehall.</s>
+
+English: <s>He said: "I'm not going to go into the details of what we're going to do, but we're going to do something."</s>
+Spanish: <s>Él dijo: «No voy a entrar en los detalles de lo que vamos a hacer, pero vamos a hacer algo.»</s>
+
+English: <s>He said: "I'm not going to go into the details of what we're going to do, but we'
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que retrocedieran a la acera, afirmando que necesitaban equilibrar el derecho a la protesta con el tráfico que se estaba acumulando.</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted the Convention on the Rights of Persons with Disabilities (CRPD).</s>
+Spanish: <s>En 2006, la Asamblea General de las Naciones Unidas adoptó la Convención sobre los Derechos de las Personas con Discapacidades (CRPD).</s>
+
+English: <s>
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.</s>
+Spanish: <s>Alrededor de las 11:29, la manifestación se movió por Whitehall, pasando por Trafalgar Square, por la Strand, pasando por Aldwych y hacia Holborn, donde el Partido Conservador estaba celebrando su Foro de Primavera en el Grand Connaught Rooms hotel.</s>
+
+English: <s>In 2005, the United States and the European Union signed the <a href="http://en.wikipedia.org/wiki/Transatlantic_Economic_Partnership" title="Transatlantic Economic Partnership">Transatlantic Economic Partnership</a> (TEP).</s>
+Spanish: <s>En
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>Nadal cuenta con un récord de 7–2 frente al canadiense.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré asistir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré asistir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré asistir.</s>
+
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>He recently lost against Raonic in the Brisbane Open.</s>
+Spanish: <s>Hace poco ha perdido contra Raón en el Open de Brisbane.</s>
+
+English: <s>It was the first time in his career that he had beaten a top-10 player.</s>
+Spanish: <s>Eso fue la primera vez en su carrera que había vencido a un jugador del top-10.</s>
+
+English: <s>It was the first time in his career that he had beaten a top-10 player.</s>
+Spanish: <s>Eso fue la primera vez en su carrera que había vencido a un jugador del top-10.</s>
+
+English: <s>It was the
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Nadal bagged 88% net points in the match winning 76 points in the first serve.</s>
+Spanish: <s>Nadal consiguió 88% de puntos en el servicio, ganando 76 puntos en el primer servicio.</s>
+
+English: <s>In 2010, the average price of a gallon of gas was $2.97.</s>
+Spanish: <s>En 2010, el promedio del precio del litro de gasolina era de $2.97.</s>
+
+English: <s>In 2010, the average price of a gallon of gas was $2.97.</s>
+Spanish: <s>En 2010, el promedio del precio del litro de gasolina era de $2
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."</s>
+Spanish: <s>Después del partido, el rey de la pista dijo, «Estoy muy emocionado por estar de vuelta en las rondas finales de los eventos más importantes. Estoy aquí para intentar ganar este.»</s>
+
+English: <s>I'm not sure if it's just me, but I've been getting a lot of spam lately.</s>
+Spanish: <s>No estoy seguro de si es sólo mi caso, pero he estado recibiendo mucho spam últimamente.</s>
+
+English: <s>I'm not sure if it's just me, but I've been getting a lot of spam lately.</s
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>«Panama Papers» es un término genérico para aproximadamente diez millones de documentos procedentes de la firma de abogados panameña Mossack Fonseca, filtrados a los medios de comunicación en primavera de 2016.</s>
+
+English: <s>The "Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>«Panama Papers» es un término genérico para aproximadamente diez millones de documentos procedentes de la firma de abogados panameña
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.</s>
+Spanish: <s>Los documentos mostraron que catorce bancos ayudaron a clientes ricos a ocultar miles de millones de dólares de riqueza para evitar impuestos y otras regulaciones.</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted the Convention on the Rights of Persons with Disabilities (CRPD).</s>
+Spanish: <s>En 2006, la Asamblea General de las Naciones Unidas adoptó la Convención sobre los Derechos de las Personas con Discapacidades (CRPD).</s>
+
+English: <s>In 2006, the United Nations General Assembly
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.</s>
+Spanish: <s>El periódico británico The Guardian sugirió que Deutsche Bank controlaba aproximadamente un tercio de las 1200 compañías anónimas utilizadas para llevar a cabo esta operación.</s>
+
+English: <s>In 2010, the U.S. Census Bureau estimated the population of the United States to be 308,745,538.</s>
+Spanish: <s>En 2010, el censo estadounidense estimó que la población de los Estados Unidos era de 308,745,538.</s>
+
+English: <s>In 2010, the U.S. Census
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.</s>
+Spanish: <s>Hubo protestas en todo el mundo, varios juicios por crímenes, y los líderes de los gobiernos de Islandia y Pakistán dimitieron.</s>
+
+English: <s>In 2005, the United States and the European Union signed the <a href="http://en.wikipedia.org/wiki/Anti-Counterfeiting Trade Agreement" title="Anti-Counterfeiting Trade Agreement">Anti-Counterfeiting Trade Agreement</a> (ACTA).</s>
+Spanish: <s>En 2005, EE.UU. y la Unión Europea firmaron el <a href="http://en
+--------------------
+English: <s>Germany was a common enemy in World War 2, leading to cooperation between the USSR and USA. With the end of the war the clashes of system, process and culture led to the countries falling out.</s>
+Spanish: <s>La cooperación entre la URSS y EUA fue el resultado de enfrentarse a un enemigo común, Alemania, durante la Segunda Guerra Mundial. Terminada la guerra, los choques de sistema, proceso y cultura terminaron por distanciar a los dos países.</s>
+
+English: <s>NASA's shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."</s>
+Spanish: <s>N. Wayne Hale Jr., al mando del programa de transbordadores de la NASA, declaró que la espuma se había caído «en forma posterior al momento sobre el cual se centra nuestra preocupación».</s>
+
+English: <s>Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.</s>
+Spanish: <s>Según manifestara el superintendente de la policía, Chandra Shekhar Solanki, los acusados se presentaron ante el tribunal con sus rostros cubiertos.</s>
+
+English: <s>Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.</s>
+Spanish: <s>Hershey y Chase insertaron su propio ADN en una bacteria usando fagos, o virus.</s>
+
+English: <s>This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.</s>
+Spanish: <s>Esto hará posible su compatibilidad con versiones anteriores de 802.11a, 802.11b y 802.11g; ello en la medida en que la estación base tenga radios duales.</s>
+
+English: <s>Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".</s>
+Spanish: <s>Nacido en Hong Kong, Ma estudió en la Universidad de Nueva York y en la Facultad de Derecho de Harvard, y una vez poseía una tarjeta de residente permanente "verde" estadounidense.</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted a resolution calling for an end to the death penalty.</s>
+Spanish: <s>En 2006, la Asamblea General de las Naciones Unidas adoptó una resolución llamando a la cesación de la pena de muerte.</s>
+
+English: <s>In 2006, the United Nations General Assembly
+--------------------

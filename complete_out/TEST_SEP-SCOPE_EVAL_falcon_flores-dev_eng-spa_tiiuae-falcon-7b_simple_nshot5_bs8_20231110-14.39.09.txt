@@ -1,0 +1,470 @@
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.</s>
+Spanish: <s>El lunes, científicos del Stanford University School of Medicine anunciaron la invención de una nueva herramienta diagnóstica que permite separar las células por tipo: un pequeño chip de impresión que puede ser fabricado con impresoras de tinta convencionales por unos centavos de dólar por unidad.</s>
+
+English: <s>On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type.</s>
+Spanish: <s>El lunes, científicos del Stanford University School of Medicine anunciaron la invención de una nueva herramienta diagnóstica
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.</s>
+Spanish: <s>Los investigadores aseguran que esto podría llevar a la detección temprana de cáncer, tuberculosis, VIH y malaria a los pacientes de países en desarrollo, donde los índices de supervivencia de enfermedades tales como el cáncer de seno pueden ser la mitad de los de países ricos.</s>
+
+English: <s>In 2009, the United Nations General Assembly declared 2010 the International Year of Biodiversity.</s>
+Spanish: <s>En 2009, la Asamblea General de las Naciones Unidas declaró 2010 el Año Internacional de la Biodiversidad.</s>
+
+English: 
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.</s>
+Spanish: <s>El JAS 39C Gripen se estrelló sobre la pista de aterrizaje a las 9:30 am hora local (0030 UTC) y explotó, cerrando el aeropuerto a los vuelos comerciales.</s>
+
+English: <s>In 2010, the United Nations General Assembly adopted a resolution calling for an end to the use of the death penalty.</s>
+Spanish: <s>En 2010, la Asamblea General de las Naciones Unidas adoptó una resolución llamando a la cesación de la pena de muerte.</s>
+
+English: <s>In 
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>The pilot was identified as Squadron Leader Dilokrit Pattavee.</s>
+Spanish: <s>El piloto se identificó como el teniente coronel Dilokrit Pattavee.</s>
+
+English: <s>In 2006, the United Nations Educational, Scientific and Cultural Organization (UNESCO) declared the site a World Heritage Site.</s>
+Spanish: <s>En 2006, la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) declaró el sitio un Patrimonio de la Humanidad.</s>
+
+English: <s>In 2006, the United Nations Educational, Scientific and Cultural Organization (UNESCO) declared the site a World Heritage
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>La prensa local informa que un vehículo de incendios de aeropuerto se estrelló mientras respondía.</s>
+
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>La prensa local informa que un vehículo de incendios de aeropuerto se estrelló mientras respondía.</s>
+
+English: <s>Local media reports an airport fire vehicle rolled over while responding.</s>
+Spanish: <s>La prensa local informa que un vehículo de incendios de aeropuerto se estrelló mientras respondía.</s>
+
+English: 
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>28-year-old Vidal had joined Barça three seasons ago, from Sevilla.</s>
+Spanish: <s>Vidal tenía 28 años y había llegado a Barça tres temporadas atrás, desde Sevilla.</s>
+
+English: <s>In 2010, the United Nations General Assembly adopted the Declaration on the Rights of Indigenous Peoples.</s>
+Spanish: <s>En 2010, la Asamblea General de las Naciones Unidas adoptó la Declaración sobre los Derechos de los Pueblos Indígenas.</s>
+
+English: <s>In 2010, the United Nations General Assembly adopted the Declaration on the Rights of Indigenous Peoples.</s>
+Spanish: <s>En 2010, la Asamblea General de las
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Since moving to the Catalan-capital, Vidal had played 49 games for the club.</s>
+Spanish: <s>Desde que se mudó a la capital catalana, Vidal había jugado 49 partidos por el club.</s>
+
+English: <s>In 2010, the club was relegated to the Segunda División B.</s>
+Spanish: <s>En 2010, el club fue relegado a la Segunda División B.</s>
+
+English: <s>In 2010, the club was relegated to the Segunda División B.</s>
+Spanish: <s>En 2010, el club fue relegado a la Segunda División B.</s>
+
+English: <s
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.</s>
+Spanish: <s>La protesta empezó alrededor de las 11:00 horas (UTC+1) en Whitehall, frente a la puerta principal de Downing Street, la residencia oficial del Primer Ministro.</s>
+
+English: <s>The 2010 FIFA World Cup was the 19th FIFA World Cup, an international football tournament contested by the men's national teams of the member associations of FIFA once every four years.</s>
+Spanish: <s>El Mundial de Fútbol de 2010 fue el 19º Mundial de Fútbol, una competición internacional de fútbol masculino disputada por las selecciones nacionales de los miembros asociados
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Justo después de las 11:00, los manifestantes bloquearon la circulación en el carril norte de Whitehall.</s>
+
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Justo después de las 11:00, los manifestantes bloquearon la circulación en el carril norte de Whitehall.</s>
+
+English: <s>Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.</s>
+Spanish: <s>Justo después de las 11:00, los manifest
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que retrocedieran a la acera, afirmando que necesitaban equilibrar el derecho a la protesta con el tráfico que se estaba acumulando.</s>
+
+English: <s>At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.</s>
+Spanish: <s>A las 11:20, la policía pidió a los manifestantes que retrocedieran a la acera, afirmando que necesitaban equilibrar el derecho a la protesta con el trá
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.</s>
+Spanish: <s>Alrededor de las 11:29, la manifestación se movió por Whitehall, pasando por Trafalgar Square, por la Strand, pasando por Aldwych y por Kingsway hasta Holborn donde el Partido Conservador estaba celebrando su Foro de Primavera en el Grand Connaught Rooms hotel.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated the city's population to be 1.3 million.</s>
+Spanish: <s>En 2010, el Censo de Estados Unidos estimó que la población de la ciudad era de 1.3 millones.</s>
+
+English:
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>Nadal tiene un récord de 7–2 frente al canadiense.</s>
+
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>Nadal tiene un récord de 7–2 frente al canadiense.</s>
+
+English: <s>Nadal's head to head record against the Canadian is 7–2.</s>
+Spanish: <s>Nadal tiene un récord de 7–2 frente al canadiense.</s>
+
+English: <s>Nadal's head to head record against the Canadian is 7–2.</
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>He recently lost against Raonic in the Brisbane Open.</s>
+Spanish: <s>Hace poco ha perdido contra Raón en el Open de Brisbane.</s>
+
+English: <s>He is the only player to have won a Grand Slam title in both singles and doubles.</s>
+Spanish: <s>Es el único jugador que ha ganado un título de Grand Slam en singles y en dobles.</s>
+
+English: <s>He is the only player to have won a Grand Slam title in both singles and doubles.</s>
+Spanish: <s>Es el único jugador que ha ganado un título de Grand Slam en singles y en dobles.</s>
+
+English: <s>He is the only player to have
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Nadal bagged 88% net points in the match winning 76 points in the first serve.</s>
+Spanish: <s>Nadal consiguió 88% de puntos netos en el partido ganando 76 puntos en el primer servicio.</s>
+
+English: <s>Nadal won the first set 6-4.</s>
+Spanish: <s>Nadal ganó el primer set 6-4.</s>
+
+English: <s>Nadal won the second set 6-1.</s>
+Spanish: <s>Nadal ganó el segundo set 6-1.</s>
+
+English: <s>Nadal won the third set 6-2.</s>
+Spanish: <s>Nadal ganó el tercer
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."</s>
+Spanish: <s>Después del partido, el Rey del Aceite dijo, "Estoy muy emocionado por estar de vuelta en las rondas finales de los eventos más importantes. Estoy aquí para intentar ganar este."</s>
+
+English: <s>In 2008, the United Nations General Assembly adopted the Declaration on the Rights of Indigenous Peoples.</s>
+Spanish: <s>En 2008, la Asamblea General de las Naciones Unidas adoptó la Declaración sobre los Derechos de los Pueblos Indígenas.</s>
+
+English: <s>In 2008, the United Nations General Assembly adopted the Declaration on the
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>Los "Papeles Panamá" son un término genérico para aproximadamente diez millones de documentos procedentes de la firma de abogados panameña Mossack Fonseca, filtrados a la prensa en primavera de 2016.</s>
+
+English: <s>The "Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.</s>
+Spanish: <s>Los "Papeles Panamá" son un término genérico para aproximadamente diez millones de documentos procedentes de la firma de
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.</s>
+Spanish: <s>Los documentos mostraron que catorce bancos ayudaron a clientes ricos a ocultar miles de millones de dólares de riqueza para evitar impuestos y otras regulaciones.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated the population of the United States to be 308,745,538.</s>
+Spanish: <s>En 2010, el Banco de Estadísticas de los Estados Unidos estimó la población de los Estados Unidos a ser de 308,745,538.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated the population of the United
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.</s>
+Spanish: <s>El periódico británico The Guardian sugirió que Deutsche Bank controlaba aproximadamente un tercio de las 1200 compañías anónimas utilizadas para lograrlo.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated that the population of the United States was 308,745,538.</s>
+Spanish: <s>En 2010, el Banco de Estadísticas de los Estados Unidos estimó que la población de los Estados Unidos era de 308,745,538.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated that the population
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.</s>
+Spanish: <s>Hubo protestas en todo el mundo, varios juicios por crímenes, y los líderes de los gobiernos de Islandia y Pakistán dimitieron.</s>
+
+English: <s>In 2009, the United Nations General Assembly adopted a resolution to establish 21 September as the International Day of Peace.</s>
+Spanish: <s>En 2009, la Asamblea General de las Naciones Unidas adoptó una resolución para establecer el 21 de septiembre como el Día Internacional de la Paz.</s>
+
+English: <s>In 2009, the United Nations General Assembly adopted a resolution to establish 
+--------------------
+English: <s>Thousands of years ago, a man called Aristarchus said that the Solar System moved around the Sun.</s>
+Spanish: <s>Milenios atrás, un hombre llamado Aristarco comentó que el Sistema Solar giraba en torno al Sol.</s>
+
+English: <s>Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.</s>
+Spanish: <s>Debido a la preocupación generada por la posible falta de transporte, se consideró la posibilidad de que el juego se realizara a puertas cerradas, sin los fanáticos del equipo.</s>
+
+English: <s>Money can be exchanged at the only bank in the islands which is located in Stanley across from the FIC West store.</s>
+Spanish: <s>Existe un único banco en las islas. Allí puede cambiar su dinero. Está frente a la tienda FIC West, en Stanley.</s>
+
+English: <s>Final results from Namibian presidential and parliamentary elections have indicated that the incumbent president, Hifikepunye Pohamba, has been reelected by a large margin.</s>
+Spanish: <s>La cómoda reelección del presidente en funciones, Hifikepunye Pohamba, fue confirmada por los resultados finales de las elecciones parlamentarias y presidenciales de Namibia.</s>
+
+English: <s>Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.</s>
+Spanish: <s>Por fortuna, existe una tendencia en los conductores a mantener un comportamiento relativamente consistente, lo que permite que los flujos de tráfico tengan una consistencia lógica y puedan ser objeto de representación matemática aproximada.</s>
+
+English: <s>Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".</s>
+Spanish: <s>Nacido en Hong Kong, Ma estudió en la Universidad de Nueva York y en la Facultad de Derecho de Harvard, y una vez poseía una tarjeta verde de residente permanente estadounidense.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated the city's population to be 1.1 million.</s>
+Spanish: <s>En 2010, el Censo de Estados Unidos estimó que la población de la ciudad era de 1.1 millones de habitantes.</s>
+
+English: <s>In 2010, the United States Census Bureau estimated the city's population to
+--------------------
