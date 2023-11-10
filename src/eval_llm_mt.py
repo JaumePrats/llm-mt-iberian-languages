@@ -12,6 +12,7 @@ from iso639 import Lang
 import logging
 from metrics import bleu_score, comet_score, off_target_score
 from max_tokens import get_max_token_length
+import gc
 
 # DIRECTORIES
 RESULTS_DIR = 'results/'
@@ -179,6 +180,7 @@ def evaluate(tgt_path: str, ref_lang_code: str, results_path):
         b_score, b_signature = bleu_score(tgt_path, io_params['ref_data'])
         results_file.write(b_score + '\n')
         results_file.write('Signature: '+ str(b_signature) + '\n')
+
         # COMET
         results_file.write(f"\nCOMET: {10*'-'}\n")
         # comet22
@@ -238,6 +240,10 @@ def main(io_params, model_params, prompt_params):
         tgt_path=tgt_path,
         complete_out_path=complete_out_path
               )
+    
+    # remove llm model from GPU to avoid problems with evaluation
+    torch.cuda.empty_cache()
+    gc.collect()
 
     # save used parameters
     logging.info('Saving parameters')

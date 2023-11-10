@@ -60,6 +60,7 @@ def comet_score(src_path, tgt_path, ref_path, model = "Unbabel/wmt22-comet-da", 
     #     return read_comet()
 
     cmd = [
+        # "CUDA_VISIBLE_DEVICES=7",
         "comet-score",
         "-s", src_path,
         "-t", tgt_path,
