@@ -1,0 +1,80 @@
+TEST PARAMETERS: ----------
+start time: 10/11/2023 at 23:24:47
+execution time: 7:25:09.398459
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231110-23.24.40"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 27.593
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            58
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0978
+    },
+    "en": {
+        "abs_count": 740,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 72.407
+    },
+    "es": {
+        "abs_count": 267,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 26.1252
+    },
+    "it": {
+        "abs_count": 13,
+        "lines": "More than 10 lines",
+        "name": "Italian",
+        "percentage(%)": 1.272
+    },
+    "tr": {
+        "abs_count": 1,
+        "lines": [
+            26
+        ],
+        "name": "Turkish",
+        "percentage(%)": 0.0978
+    }
+}
+
+BLEU: ----------
+BLEU = 1.87 14.8/3.4/1.8/1.0 (BP = 0.606 ratio = 0.666 hyp_len = 16470 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 38.22
+COMET20 = -135.34
+
+copy results (blue comet22 comet20 off-tgt) ----------
+1.87 38.22 -135.34 27.593

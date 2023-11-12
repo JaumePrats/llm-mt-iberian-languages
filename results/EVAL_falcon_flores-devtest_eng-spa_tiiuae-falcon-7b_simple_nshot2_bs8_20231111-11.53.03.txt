@@ -1,0 +1,84 @@
+TEST PARAMETERS: ----------
+start time: 11/11/2023 at 11:53:05
+execution time: 0:27:32.482404
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_falcon_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231111-11.53.03"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 2,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.3953
+{
+    "en": {
+        "abs_count": 1,
+        "lines": [
+            197
+        ],
+        "name": "English",
+        "percentage(%)": 0.0988
+    },
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            948
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 1008,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 99.6047
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            515
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.0988
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 22.11 58.6/30.6/17.5/10.2 (BP = 0.930 ratio = 0.932 hyp_len = 27212 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.39
+COMET20 = 63.32
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.11 84.39 63.32 0.3953

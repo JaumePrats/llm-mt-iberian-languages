@@ -1,0 +1,74 @@
+TEST PARAMETERS: ----------
+start time: 10/11/2023 at 23:37:43
+execution time: 11:52:15.841429
+translation direction: spa-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231110-23.37.41"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 35.9684
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            854
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0988
+    },
+    "ca": {
+        "abs_count": 648,
+        "lines": "More than 10 lines",
+        "name": "Catalan",
+        "percentage(%)": 64.0316
+    },
+    "en": {
+        "abs_count": 1,
+        "lines": [
+            22
+        ],
+        "name": "English",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 362,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 35.7708
+    }
+}
+
+BLEU: ----------
+BLEU = 11.57 35.3/14.2/7.8/4.6 (BP = 1.000 ratio = 1.111 hyp_len = 30338 ref_len = 27304)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 75.25
+COMET20 = 29.53
+
+copy results (blue comet22 comet20 off-tgt) ----------
+11.57 75.25 29.53 35.9684

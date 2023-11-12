@@ -1,0 +1,119 @@
+TEST PARAMETERS: ----------
+start time: 10/11/2023 at 23:24:47
+execution time: 6:58:23.458918
+translation direction: cat-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "timestamp": "20231110-23.24.40"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 22.1311
+{
+    "ca": {
+        "abs_count": 258,
+        "lines": "More than 10 lines",
+        "name": "Catalan",
+        "percentage(%)": 21.1475
+    },
+    "en": {
+        "abs_count": 950,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 77.8689
+    },
+    "es": {
+        "abs_count": 2,
+        "lines": [
+            60,
+            507
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.1639
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1099
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.082
+    },
+    "it": {
+        "abs_count": 5,
+        "lines": [
+            46,
+            184,
+            343,
+            463,
+            639
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.4098
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            979
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.082
+    },
+    "la": {
+        "abs_count": 1,
+        "lines": [
+            1144
+        ],
+        "name": "Latin",
+        "percentage(%)": 0.082
+    },
+    "lb": {
+        "abs_count": 1,
+        "lines": [
+            396
+        ],
+        "name": "Luxembourgish",
+        "percentage(%)": 0.082
+    },
+    "sv": {
+        "abs_count": 1,
+        "lines": [
+            914
+        ],
+        "name": "Swedish",
+        "percentage(%)": 0.082
+    }
+}
+
+BLEU: ----------
+BLEU = 0.25 6.3/0.4/0.2/0.1 (BP = 0.467 ratio = 0.567 hyp_len = 14029 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 29.28
+COMET20 = -167.93
+
+copy results (blue comet22 comet20 off-tgt) ----------
+0.25 29.28 -167.93 22.1311

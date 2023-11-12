@@ -1,9 +1,9 @@
 #!/bin/bash
 
-num_fewshot=1
-model=tiiuae/falcon-7b
-# model=projecte-aina/aguila-7b
-filename_prefix=EVAL_falcon_flores-devtest
+num_fewshot=3
+# model=tiiuae/falcon-7b
+model=projecte-aina/aguila-7b
+filename_prefix=EVAL_aguila_flores-devtest
 
 # ===============================
 

@@ -1,0 +1,78 @@
+TEST PARAMETERS: ----------
+start time: 11/11/2023 at 21:45:03
+execution time: 13:22:41.073329
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231111-21.45.01"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 2,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.4941
+{
+    "af": {
+        "abs_count": 1,
+        "lines": [
+            854
+        ],
+        "name": "Afrikaans",
+        "percentage(%)": 0.0988
+    },
+    "en": {
+        "abs_count": 1007,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 99.5059
+    },
+    "es": {
+        "abs_count": 3,
+        "lines": [
+            6,
+            197,
+            283
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.2964
+    },
+    "la": {
+        "abs_count": 1,
+        "lines": [
+            867
+        ],
+        "name": "Latin",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 22.84 55.9/28.7/16.8/10.1 (BP = 1.000 ratio = 1.054 hyp_len = 26049 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 83.04
+COMET20 = 53.410000000000004
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.84 83.04 53.410000000000004 0.4941

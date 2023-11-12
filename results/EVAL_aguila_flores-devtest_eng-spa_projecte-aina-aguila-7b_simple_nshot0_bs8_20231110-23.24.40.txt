@@ -1,0 +1,201 @@
+TEST PARAMETERS: ----------
+start time: 10/11/2023 at 23:24:47
+execution time: 7:23:03.443098
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231110-23.24.40"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 26.8632
+{
+    "an": {
+        "abs_count": 4,
+        "lines": [
+            403,
+            405,
+            460,
+            1172
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.3276
+    },
+    "ca": {
+        "abs_count": 4,
+        "lines": [
+            354,
+            919,
+            1042,
+            1087
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.3276
+    },
+    "cs": {
+        "abs_count": 1,
+        "lines": [
+            1057
+        ],
+        "name": "Czech",
+        "percentage(%)": 0.0819
+    },
+    "de": {
+        "abs_count": 2,
+        "lines": [
+            727,
+            1017
+        ],
+        "name": "German",
+        "percentage(%)": 0.1638
+    },
+    "en": {
+        "abs_count": 266,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 21.7854
+    },
+    "eo": {
+        "abs_count": 6,
+        "lines": [
+            371,
+            414,
+            586,
+            587,
+            748,
+            1195
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.4914
+    },
+    "es": {
+        "abs_count": 893,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 73.1368
+    },
+    "eu": {
+        "abs_count": 1,
+        "lines": [
+            199
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.0819
+    },
+    "fr": {
+        "abs_count": 3,
+        "lines": [
+            447,
+            464,
+            1180
+        ],
+        "name": "French",
+        "percentage(%)": 0.2457
+    },
+    "gl": {
+        "abs_count": 3,
+        "lines": [
+            788,
+            923,
+            1021
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2457
+    },
+    "hu": {
+        "abs_count": 10,
+        "lines": "More than 10 lines",
+        "name": "Hungarian",
+        "percentage(%)": 0.819
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            349
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0819
+    },
+    "it": {
+        "abs_count": 19,
+        "lines": "More than 10 lines",
+        "name": "Italian",
+        "percentage(%)": 1.5561
+    },
+    "la": {
+        "abs_count": 1,
+        "lines": [
+            782
+        ],
+        "name": "Latin",
+        "percentage(%)": 0.0819
+    },
+    "mg": {
+        "abs_count": 1,
+        "lines": [
+            546
+        ],
+        "name": "Malagasy",
+        "percentage(%)": 0.0819
+    },
+    "nl": {
+        "abs_count": 1,
+        "lines": [
+            1041
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.0819
+    },
+    "pt": {
+        "abs_count": 4,
+        "lines": [
+            408,
+            741,
+            1046,
+            1159
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.3276
+    },
+    "sv": {
+        "abs_count": 1,
+        "lines": [
+            695
+        ],
+        "name": "Swedish",
+        "percentage(%)": 0.0819
+    }
+}
+
+BLEU: ----------
+BLEU = 0.11 14.7/0.4/0.0/0.0 (BP = 0.697 ratio = 0.735 hyp_len = 21464 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 35.92
+COMET20 = -157.4
+
+copy results (blue comet22 comet20 off-tgt) ----------
+0.11 35.92 -157.4 26.8632
