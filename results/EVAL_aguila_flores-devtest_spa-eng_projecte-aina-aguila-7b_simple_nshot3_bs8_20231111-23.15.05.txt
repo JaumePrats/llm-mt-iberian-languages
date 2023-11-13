@@ -1,0 +1,74 @@
+TEST PARAMETERS: ----------
+start time: 11/11/2023 at 23:15:12
+execution time: 20:19:24.666323
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231111-23.15.05"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 3,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.4764
+{
+    "af": {
+        "abs_count": 1,
+        "lines": [
+            856
+        ],
+        "name": "Afrikaans",
+        "percentage(%)": 0.0984
+    },
+    "en": {
+        "abs_count": 1001,
+        "lines": "More than 10 lines",
+        "name": "English",
+        "percentage(%)": 98.5236
+    },
+    "es": {
+        "abs_count": 13,
+        "lines": "More than 10 lines",
+        "name": "Spanish",
+        "percentage(%)": 1.2795
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            985
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.0984
+    }
+}
+
+BLEU: ----------
+BLEU = 15.69 42.5/19.1/11.1/6.7 (BP = 1.000 ratio = 1.012 hyp_len = 25024 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 69.24
+COMET20 = -11.360000000000001
+
+copy results (blue comet22 comet20 off-tgt) ----------
+15.69 69.24 -11.360000000000001 1.4764
