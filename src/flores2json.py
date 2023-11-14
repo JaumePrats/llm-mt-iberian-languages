@@ -12,7 +12,7 @@ languages = [
 
 # OUT
 output_dir = '/fs/surtr0/jprats/data/processed'
-output_prefix = 'flores'
+output_prefix = 'flores_text'
 
 # -----------------------
 
@@ -43,10 +43,13 @@ out_filename = out_filename + '.jsonl'
 out_path = os.path.join(output_dir, out_filename)
 with open(out_path, 'w') as out_file:
     for sentence_index in range(len(src_sentences[0])):
+        # out_line = {}
+        # for lang_index, lang in enumerate(languages):
+        #     lang_code = lang.split('_')[0]
+        #     out_line[lang_code] = src_sentences[lang_index][sentence_index]
+        # out_file.write(json.dumps(out_line) + "\n")
         out_line = {}
-        for lang_index, lang in enumerate(languages):
-            lang_code = lang.split('_')[0]
-            out_line[lang_code] = src_sentences[lang_index][sentence_index]
+        out_line['text'] = f"### English: <s>{src_sentences[0][sentence_index]}</s>\n ### Spanish: <s>{src_sentences[1][sentence_index]}</s>\n"
         out_file.write(json.dumps(out_line) + "\n")
 
 print(f'Completed. Out file: {out_path}')

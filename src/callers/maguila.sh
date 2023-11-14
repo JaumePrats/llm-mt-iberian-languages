@@ -1,6 +1,6 @@
 #!/bin/bash
 
-num_fewshot=3
+num_fewshot=8
 # model=tiiuae/falcon-7b
 model=projecte-aina/aguila-7b
 filename_prefix=EVAL_aguila_flores-devtest

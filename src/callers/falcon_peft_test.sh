@@ -12,4 +12,4 @@ export WANDB_NAME=$filename_prefix'_'$timestamp
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_test.py \
     --model_name tiiuae/falcon-7b \
     --dataset_name timdettmers/openassistant-guanaco \
-    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$timestamp.log
+#    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$timestamp.log

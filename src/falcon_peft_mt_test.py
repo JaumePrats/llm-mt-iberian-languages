@@ -28,7 +28,7 @@ from transformers import (
 )
 from peft.tuners.lora import LoraLayer
 
-from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
+from trl import SFTTrainer
 
 
 ########################################################################
@@ -126,10 +126,6 @@ class ScriptArguments:
     )
     save_steps: int = field(default=10, metadata={"help": "Save checkpoint every X updates steps."})
     logging_steps: int = field(default=10, metadata={"help": "Log every X updates steps."})
-    output_dir: Optional[str] = field(
-        default="/fs/surtr0/jprats/models/first_ft_test",
-        metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
-    )
 
 
 parser = HfArgumentParser(ScriptArguments)
@@ -153,15 +149,15 @@ def create_and_prepare_model(args):
             print("Your GPU supports bfloat16, you can accelerate training with the argument --bf16")
             print("=" * 80)
 
-    device_map = {"": 0}
-
-    model = AutoModelForCausalLM.from_pretrained(
-        args.model_name, quantization_config=bnb_config, device_map=device_map, trust_remote_code=True
-    )
+    # device_map = {"": 0}
 
     # model = AutoModelForCausalLM.from_pretrained(
-    #     args.model_name, quantization_config=bnb_config, trust_remote_code=True
+    #     args.model_name, quantization_config=bnb_config, device_map=device_map, trust_remote_code=True
     # )
+
+    model = AutoModelForCausalLM.from_pretrained(
+        args.model_name, quantization_config=bnb_config, trust_remote_code=True
+    )
 
     peft_config = LoraConfig(
         lora_alpha=script_args.lora_alpha,
@@ -184,7 +180,7 @@ def create_and_prepare_model(args):
 
 
 training_arguments = TrainingArguments(
-    output_dir="/fs/surtr0/jprats/models/falcon_peft_test_1.0-slowTokenizer",
+    output_dir="/fs/surtr0/jprats/models/flacon_peft_test_0",
     per_device_train_batch_size=script_args.per_device_train_batch_size,
     gradient_accumulation_steps=script_args.gradient_accumulation_steps,
     optim=script_args.optim,
@@ -203,45 +199,26 @@ training_arguments = TrainingArguments(
 
 model, peft_config, tokenizer = create_and_prepare_model(script_args)
 model.config.use_cache = False
-dataset = load_dataset('json', data_files={'train': [script_args.dataset_name]}, split='train') # CHANGED
+dataset = load_dataset('json', data_files={'train': script_args.dataset_name}, split='train')
+
+print(f"group_by_length={script_args.group_by_length}")
 
 print("dataset:")
 print(dataset)
-# print(dataset.column_names)
-
-# def formatting_prompts_func(example):
-#     # print('Example:', example)
-#     output_texts = []
-#     for i in range(len(example['eng'])):
-#         text = f"English: <s>{example['eng'][i]}</s>\nSpanish: <s>{example['spa'][i]}</s>"
-#         output_texts.append(text)
-#     return output_texts
-
-instruction_template = "### English:"
-response_template = "### Spanish:"
-collator = DataCollatorForCompletionOnlyLM(
-    instruction_template=instruction_template, 
-    response_template=response_template, 
-    tokenizer=tokenizer, 
-    mlm=False
-    )
-
-print(dataset)
-print(script_args.packing)
-print(script_args.group_by_length)
+print('type:', type(dataset))
 
 trainer = SFTTrainer(
     model=model,
     train_dataset=dataset,
     peft_config=peft_config,
     dataset_text_field="text",
-    # formatting_func=formatting_prompts_func,
-    data_collator=collator,
     max_seq_length=script_args.max_seq_length,
     tokenizer=tokenizer,
     args=training_arguments,
-    packing=script_args.packing,
+    packing=True,
 )
+
+print(trainer.train_dataset)
 
 
 for name, module in trainer.model.named_modules():
