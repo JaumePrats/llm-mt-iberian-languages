@@ -173,7 +173,7 @@ def create_and_prepare_model(args):
         ],  # , "word_embeddings", "lm_head"],
     )
 
-    tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
 
     return model, peft_config, tokenizer

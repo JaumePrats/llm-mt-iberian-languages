@@ -111,6 +111,7 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
     return prompt
 
 def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: list, tgt_path: str, complete_out_path: str):
+    import pdb; pdb.set_trace()
 
     logging.info('Loading model...')
     # initialize generator

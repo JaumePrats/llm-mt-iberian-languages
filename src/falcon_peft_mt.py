@@ -177,7 +177,7 @@ def create_and_prepare_model(args):
         ],  # , "word_embeddings", "lm_head"],
     )
 
-    tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
 
     return model, peft_config, tokenizer
@@ -209,14 +209,6 @@ print("dataset:")
 print(dataset)
 # print(dataset.column_names)
 
-# def formatting_prompts_func(example):
-#     # print('Example:', example)
-#     output_texts = []
-#     for i in range(len(example['eng'])):
-#         text = f"English: <s>{example['eng'][i]}</s>\nSpanish: <s>{example['spa'][i]}</s>"
-#         output_texts.append(text)
-#     return output_texts
-
 instruction_template = "### English:"
 response_template = "### Spanish:"
 collator = DataCollatorForCompletionOnlyLM(
@@ -235,7 +227,6 @@ trainer = SFTTrainer(
     train_dataset=dataset,
     peft_config=peft_config,
     dataset_text_field="text",
-    # formatting_func=formatting_prompts_func,
     data_collator=collator,
     max_seq_length=script_args.max_seq_length,
     tokenizer=tokenizer,

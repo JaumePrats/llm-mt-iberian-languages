@@ -2,7 +2,7 @@
 export CUDA_VISIBLE_DEVICES=7
 echo GPU:$CUDA_VISIBLE_DEVICES
 
-filename_prefix=EVAL_falcon_flores-dev
+filename_prefix=TEST-break
 src_lang=spa
 tgt_lang=cat
 

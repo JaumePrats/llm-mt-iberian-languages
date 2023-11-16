@@ -1,59 +1,49 @@
 import json
 import os
+from iso639 import Lang
 
 # IN
 flores_base_path = '/fs/surtr0/jprats/data/raw/flores200_dataset'
 flores_split = 'dev'
-languages = [
-    'eng_Latn',
-    'spa_Latn',
-    'cat_Latn'
-]
+src_lang = 'eng_Latn'
+ref_lang = 'spa_Latn'
+instruction_template = "###SRC"
+response_template = "###TGT"
+template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n {response_template} [ref_lang]: <s>[ref_sentence]</s>\n"
 
 # OUT
-output_dir = '/fs/surtr0/jprats/data/processed'
-output_prefix = 'flores_text'
+output_dir = '/fs/surtr0/jprats/data/processed/template_tests/SRC-TGT'
+output_prefix = 'flores_SRCTGT'
 
 # -----------------------
 
-src_sentences = [] # list of lists dim: n_langs * number of src sentences
-for lang in languages:
-    src_path = src_path = os.path.join(flores_base_path, flores_split, lang + '.' + flores_split)
-    with open(src_path, 'r') as src_file:
-        src_lines = [line.strip() for line in src_file.readlines()]
-    
-    # make sure that all files have the same number of lines
-    new_src_length = len(src_lines)
-    print(f'reading {src_path} ({new_src_length} lines)')
-    print('...')
-    if 'src_length' in locals():
-        assert new_src_length == src_length
-    src_length = new_src_length
+# reading input files
+src_path = src_path = os.path.join(flores_base_path, flores_split, src_lang + '.' + flores_split)
+with open(src_path, 'r') as src_file:
+    src_sentences = [line.strip() for line in src_file.readlines()]
+    print(f'reading {src_path} ({len(src_sentences)} lines)')
 
-    src_sentences.append(src_lines)
+ref_path = src_path = os.path.join(flores_base_path, flores_split, ref_lang + '.' + flores_split)
+with open(ref_path, 'r') as ref_file:
+    ref_sentences = [line.strip() for line in ref_file.readlines()]
+    print(f'reading {ref_path} ({len(ref_sentences)} lines)')
 
-out_filename = f'{output_prefix}_{flores_split}_'
-for i, lang in enumerate(languages):
-    if i == 0:
-        out_filename = out_filename + lang.split('_')[0]
-    else:
-        out_filename = out_filename + '-' + lang.split('_')[0]
-out_filename = out_filename + '.jsonl'
+assert len(ref_sentences) == len(src_sentences)
 
+# constructing and saving data
+iso_src = Lang(src_lang.split('_')[0])
+iso_ref = Lang(ref_lang.split('_')[0])
+
+out_filename = f"{output_prefix}_{flores_split}_{src_lang.split('_')[0]}-{ref_lang.split('_')[0]}.jsonl"
 out_path = os.path.join(output_dir, out_filename)
 with open(out_path, 'w') as out_file:
-    for sentence_index in range(len(src_sentences[0])):
-        # out_line = {}
-        # for lang_index, lang in enumerate(languages):
-        #     lang_code = lang.split('_')[0]
-        #     out_line[lang_code] = src_sentences[lang_index][sentence_index]
-        # out_file.write(json.dumps(out_line) + "\n")
+    out_template = template.replace('[src_lang]', iso_src.name).replace('[ref_lang]', iso_ref.name)
+    for sentence_index in range(len(src_sentences)):
         out_line = {}
-        out_line['text'] = f"### English: <s>{src_sentences[0][sentence_index]}</s>\n ### Spanish: <s>{src_sentences[1][sentence_index]}</s>\n"
-        out_file.write(json.dumps(out_line) + "\n")
+        out_line['text'] = out_template.replace('[src_sentence]', src_sentences[sentence_index]).replace('[ref_sentence]', ref_sentences[sentence_index])
+        out_file.write(json.dumps(out_line) + '\n')
 
 print(f'Completed. Out file: {out_path}')
-
 
 
 
