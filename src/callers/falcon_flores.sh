@@ -2,7 +2,7 @@
 export CUDA_VISIBLE_DEVICES=7
 echo GPU:$CUDA_VISIBLE_DEVICES
 
-filename_prefix=TEST-break
+filename_prefix=TEST-wo_bos-eos
 src_lang=spa
 tgt_lang=cat
 
@@ -13,9 +13,9 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
     --batch_size 8 \
-    --num_beams 5 \
+    --num_beams 1 \
     --max_new_tokens 150 \
-    --num_fewshot 8 \
+    --num_fewshot 3 \
     --template_id simple \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$src_lang'_Latn.devtest' \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$tgt_lang'_Latn.devtest' \

@@ -111,14 +111,15 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
     return prompt
 
 def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: list, tgt_path: str, complete_out_path: str):
-    import pdb; pdb.set_trace()
 
     logging.info('Loading model...')
     # initialize generator
     tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'], padding_side='left')
     max_ref_len, avg_ref_len, min_ref_len = get_max_token_length(io_params['ref_data'], tokenizer) # check max tokens in ref file
     if max_ref_len + 3 >= model_params['max_new_tokens']: # 3 tokens for </s>
+        logging.error(85*'=')
         logging.error("The output of the model may be cut short. Consider increasing 'max_new_tokens' value.")
+        logging.error(85*'=')
     logging.info(f"max_new_tokens={model_params['max_new_tokens']}")
     logging.info(f'max tokens on ref sentence: {max_ref_len}')
 
@@ -159,7 +160,12 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
         for generation in generations:
             full_output = generation[0]['generated_text']
             complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
-            tgt_file.write(full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0] + '\n') # save stripped sentence
+            if prompt[0].count("<s>") > 0:
+                tgt_sentence = full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0]
+            else:
+                prompt_br_count = prompt[0].count('\n') + prompt[1].count('\n') # number of break lines in prompt
+                tgt_sentence = full_output.split('\n')[prompt_br_count].replace(prompt[1].split('\n')[-1], '')
+            tgt_file.write(tgt_sentence + '\n') # save stripped sentence
 
 def evaluate(tgt_path: str, ref_lang_code: str, results_path):
 

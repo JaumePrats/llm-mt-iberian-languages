@@ -6,12 +6,19 @@
         "bos": "<s>",
         "eos": "</s>"
     }, 
-    "simple": {
+    "simple_bos-eos": {
         "instruction": "",
         "question_word": "<src>",
         "answer_word": "<tgt>",  
         "bos": "<s>",
         "eos": "</s>"
+    }, 
+    "simple": {
+        "instruction": "",
+        "question_word": "<src>",
+        "answer_word": "<tgt>",  
+        "bos": "",
+        "eos": ""
     }, 
     "nl-alves-2023": {
         "instruction": "Translate the source text from <src> to <tgt>.\n",

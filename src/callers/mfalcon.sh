@@ -15,7 +15,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -25,12 +25,12 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
 
@@ -41,7 +41,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -51,12 +51,12 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
 
@@ -67,7 +67,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -77,12 +77,12 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
 
@@ -93,7 +93,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -103,12 +103,12 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
 
@@ -119,7 +119,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -129,12 +129,12 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
 
@@ -145,7 +145,7 @@ src_lang=eng
 tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
-echo $src_lang'>'$tgt_lang
+echo ${src_lang}'>'${tgt_lang}
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
@@ -155,11 +155,11 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
     --template_id simple \
-    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/$src_lang'_Latn.'$example_set \
-    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set'/'$tgt_lang'_Latn.'$example_set \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$src_lang'_Latn.'$eval_split \
-    /fs/surtr0/jprats/data/raw/flores200_dataset/$eval_split/$tgt_lang'_Latn.'$eval_split \
+    --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${src_lang}'_Latn.'$example_set \
+    --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/$example_set/${tgt_lang}'_Latn.'$example_set \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}'_Latn.'${eval_set} \
+    /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}'_Latn.'${eval_set} \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'$src_lang'-'$tgt_lang'_'$timestamp.log &
+    $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/$filename_prefix'_'${src_lang}'-'${tgt_lang}'_'$timestamp.log &
 
 # ===============================
