@@ -135,6 +135,51 @@ class ScriptArguments:
 parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
 
+class mySFTTrainer(SFTTrainer):
+
+    def _prepare_non_packed_dataloader(
+        self, tokenizer, dataset, dataset_text_field, max_seq_len, formatting_func=None
+    ):
+        use_formatting_func = formatting_func is not None and dataset_text_field is None
+        self._dataset_sanity_checked = False
+
+        # Inspired from: https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt
+        def tokenize(element):
+            outputs = tokenizer(
+                element[dataset_text_field] if not use_formatting_func else formatting_func(element),
+                truncation=True,
+                padding=False,
+                max_length=max_seq_len,
+                return_overflowing_tokens=False,
+                return_length=False,
+            )
+
+            # ======================================
+            # addding eos token
+            for input_id, attention_mask in zip(outputs["input_ids"], outputs["attention_mask"]):
+                input_id.append(tokenizer.eos_token_id)
+                attention_mask.append(1)
+            # ======================================
+
+            if use_formatting_func and not self._dataset_sanity_checked:
+                if not isinstance(formatting_func(element), list):
+                    raise ValueError(
+                        "The `formatting_func` should return a list of processed strings since it can lead to silent bugs."
+                    )
+                else:
+                    self._dataset_sanity_checked = True
+
+            return {"input_ids": outputs["input_ids"], "attention_mask": outputs["attention_mask"]}
+
+        tokenized_dataset = dataset.map(
+            tokenize,
+            batched=True,
+            remove_columns=dataset.column_names,
+            num_proc=self.dataset_num_proc,
+            batch_size=self.dataset_batch_size,
+        )
+
+        return tokenized_dataset
 
 def create_and_prepare_model(args):
     compute_dtype = getattr(torch, args.bnb_4bit_compute_dtype)
@@ -178,7 +223,13 @@ def create_and_prepare_model(args):
     )
 
     tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True)
-    tokenizer.pad_token = tokenizer.eos_token
+    # using uncommon token as pad_token
+    if script_args.model_name == 'tiiuae/falcon-7b':
+        tokenizer.pad_token = '~~~~~~~~'
+    elif script_args.model_name == 'projecte-aina/aguila-7b':
+        tokenizer.pad_token = '~~~'
+    else: 
+        tokenizer.pad_token = tokenizer.eos_token # in this case the model will not learn to predict eos_token
 
     return model, peft_config, tokenizer
 
@@ -222,7 +273,7 @@ print(dataset)
 print(script_args.packing)
 print(script_args.group_by_length)
 
-trainer = SFTTrainer(
+trainer = mySFTTrainer(
     model=model,
     train_dataset=dataset,
     peft_config=peft_config,
