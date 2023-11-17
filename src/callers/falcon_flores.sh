@@ -1,5 +1,5 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=7
+export CUDA_VISIBLE_DEVICES=6
 echo GPU:$CUDA_VISIBLE_DEVICES
 
 filename_prefix=TEST-wo_bos-eos
@@ -16,7 +16,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --num_beams 1 \
     --max_new_tokens 150 \
     --num_fewshot 3 \
-    --template_id simple \
+    --template_id simple_quotes \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$src_lang'_Latn.devtest' \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/devtest/$tgt_lang'_Latn.devtest' \
     /fs/surtr0/jprats/data/raw/flores200_dataset/dev/$src_lang'_Latn.dev' \
