@@ -6,14 +6,21 @@
         "bos": "<s>",
         "eos": "</s>"
     }, 
-    "simple_bos-eos": {
+    "simple": {
         "instruction": "",
         "question_word": "<src>",
         "answer_word": "<tgt>",  
         "bos": "<s>",
         "eos": "</s>"
-    }, 
-    "simple": {
+    },
+    "simple_quotes": {
+        "instruction": "",
+        "question_word": "<src>",
+        "answer_word": "<tgt>",  
+        "bos": "´´",
+        "eos": "``"
+    },
+    "simple_wo_bos-eos": {
         "instruction": "",
         "question_word": "<src>",
         "answer_word": "<tgt>",  

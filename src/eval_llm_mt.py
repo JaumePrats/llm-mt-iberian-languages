@@ -28,7 +28,9 @@ LANG_FILE = 'languages.json'
 TEMPL_FILE = 'templates.json'
 
 PATH_PREFIX = ''
+# DICT
 LANG_CODES = {}
+TEMPLATES = {}
 
 # initialize logger
 #log_path = os.path.join(PATH_PREFIX, LOG_DIR, filename + '.log')
@@ -78,10 +80,7 @@ def extract_examples(src_path, ref_path, num_fewshot, selected = False):
 
 def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
-    templates_path = os.path.join(PATH_PREFIX, TEMPL_FILE)
-    with open(templates_path, 'r') as f:
-        templates = json.load(f)
-        template = templates[template_id]
+    template = TEMPLATES[template_id]
     
     # get src and tgt languages from files
     src_filename = src_examples.split('/')[-1]
@@ -156,12 +155,13 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
             raise e
     
     logging.info('Saving outputs...')
+    template = TEMPLATES[prompt_params['template_id']]
     with open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
         for generation in generations:
             full_output = generation[0]['generated_text']
             complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
-            if prompt[0].count("<s>") > 0:
-                tgt_sentence = full_output.split("<s>")[(prompt_params['num_fewshot']+1)*2].split("</s>")[0]
+            if template['bos'] != '' and template['eos'] != '' and template['bos'] != template['eos']:
+                tgt_sentence = full_output.split(template['bos'])[(prompt_params['num_fewshot']+1)*2].split(template['eos'])[0]
             else:
                 prompt_br_count = prompt[0].count('\n') + prompt[1].count('\n') # number of break lines in prompt
                 tgt_sentence = full_output.split('\n')[prompt_br_count].replace(prompt[1].split('\n')[-1], '')
@@ -205,7 +205,7 @@ def evaluate(tgt_path: str, ref_lang_code: str, results_path):
 
 def main(io_params, model_params, prompt_params):
 
-    # initialize constants (PATH_PREFIX, LANG_CODES)
+    # initialize constants (PATH_PREFIX, LANG_CODES, TEMPLATES)
     global PATH_PREFIX
     PATH_PREFIX = io_params['path_prefix']
 
@@ -213,6 +213,11 @@ def main(io_params, model_params, prompt_params):
     lang_path = os.path.join(PATH_PREFIX, LANG_FILE)
     with open(lang_path, 'r') as f:
         LANG_CODES = json.load(f)
+    
+    global TEMPLATES
+    templates_path = os.path.join(PATH_PREFIX, TEMPL_FILE)
+    with open(templates_path, 'r') as f:
+        TEMPLATES = json.load(f)
 
     # get time
     start_time = datetime.now()
