@@ -2,7 +2,7 @@
 export CUDA_VISIBLE_DEVICES=6
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix='falcon_qlora_cat<>spa'
+filename_prefix='aguila_qlora_cat<>spa'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 export WANDB_ENTITY=jaume-prats-cristia
@@ -10,14 +10,13 @@ export WANDB_PROJECT=falcon_ft_test
 export WANDB_NAME=$filename_prefix'_'$timestamp
 
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
-    --model_name tiiuae/falcon-7b \
+    --model_name projecte-aina/aguila-7b \
     --dataset_files \
     /fs/surtr0/jprats/data/processed/template_tests/SRC-TGT/flores_dev_cat-spa.jsonl\
     /fs/surtr0/jprats/data/processed/template_tests/SRC-TGT/flores_dev_spa-cat.jsonl \
     --output_dir /fs/surtr0/jprats/models/$filename_prefix'_'$timestamp \
     --max_steps 1000 \
     --bf16 \
-    --lr_scheduler_type linear \
     2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
 
 # optional arguments:

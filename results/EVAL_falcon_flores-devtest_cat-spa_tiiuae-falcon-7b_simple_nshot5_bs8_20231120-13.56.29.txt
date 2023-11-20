@@ -1,0 +1,98 @@
+TEST PARAMETERS: ----------
+start time: 20/11/2023 at 13:56:31
+execution time: 0:51:34.879165
+translation direction: cat-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "EVAL_falcon_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "timestamp": "20231120-13.56.29"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.5929
+{
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            406,
+            926
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.1976
+    },
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            94,
+            479
+        ],
+        "name": "English",
+        "percentage(%)": 0.1976
+    },
+    "es": {
+        "abs_count": 1006,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.4071
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            244
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.0988
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 20.43 55.1/27.8/15.6/8.9 (BP = 0.952 ratio = 0.953 hyp_len = 27834 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 80.32000000000001
+COMET20 = 50.470000000000006
+
+copy results (blue comet22 comet20 off-tgt) ----------
+20.43 80.32000000000001 50.470000000000006 0.5929
