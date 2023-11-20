@@ -5,15 +5,15 @@ from iso639 import Lang
 # IN
 flores_base_path = '/fs/surtr0/jprats/data/raw/flores200_dataset'
 flores_split = 'dev'
-src_lang = 'eng_Latn'
-ref_lang = 'spa_Latn'
+src_lang = 'spa_Latn'
+ref_lang = 'eng_Latn'
 instruction_template = "###SRC"
 response_template = "###TGT"
 template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n {response_template} [ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
 output_dir = '/fs/surtr0/jprats/data/processed/template_tests/SRC-TGT'
-output_prefix = 'flores_SRCTGT'
+output_prefix = 'flores'
 
 # -----------------------
 
@@ -36,14 +36,19 @@ iso_ref = Lang(ref_lang.split('_')[0])
 
 out_filename = f"{output_prefix}_{flores_split}_{src_lang.split('_')[0]}-{ref_lang.split('_')[0]}.jsonl"
 out_path = os.path.join(output_dir, out_filename)
-with open(out_path, 'w') as out_file:
-    out_template = template.replace('[src_lang]', iso_src.name).replace('[ref_lang]', iso_ref.name)
-    for sentence_index in range(len(src_sentences)):
-        out_line = {}
-        out_line['text'] = out_template.replace('[src_sentence]', src_sentences[sentence_index]).replace('[ref_sentence]', ref_sentences[sentence_index])
-        out_file.write(json.dumps(out_line) + '\n')
-
-print(f'Completed. Out file: {out_path}')
+if os.path.exists(out_path):
+    print(81*'=')
+    print(f'WARNING: {out_path} already exists!')
+    print(81*'=')
+    print('Aborting dataset generation.')
+else:
+    with open(out_path, 'w') as out_file:
+        out_template = template.replace('[src_lang]', iso_src.name).replace('[ref_lang]', iso_ref.name)
+        for sentence_index in range(len(src_sentences)):
+            out_line = {}
+            out_line['text'] = out_template.replace('[src_sentence]', src_sentences[sentence_index]).replace('[ref_sentence]', ref_sentences[sentence_index])
+            out_file.write(json.dumps(out_line) + '\n')
+    print(f'Completed. Out file: {out_path}')
 
 
 
