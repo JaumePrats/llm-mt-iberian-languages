@@ -72,6 +72,10 @@ class ScriptArguments:
         default="timdettmers/openassistant-guanaco",
         metadata={"help": "The preference dataset to use."},
     )
+    dataset_files: Optional[list[str]] = field(
+        default="",
+        metadata={"help": "Dataset files to use for finetuning"},
+    )
     use_4bit: Optional[bool] = field(
         default=True,
         metadata={"help": "Activate 4bit precision base model loading"},
@@ -235,7 +239,7 @@ def create_and_prepare_model(args):
 
 
 training_arguments = TrainingArguments(
-    output_dir="/fs/surtr0/jprats/models/falcon_peft_test_1.0-slowTokenizer",
+    output_dir=script_args.output_dir,
     per_device_train_batch_size=script_args.per_device_train_batch_size,
     gradient_accumulation_steps=script_args.gradient_accumulation_steps,
     optim=script_args.optim,
@@ -254,14 +258,15 @@ training_arguments = TrainingArguments(
 
 model, peft_config, tokenizer = create_and_prepare_model(script_args)
 model.config.use_cache = False
-dataset = load_dataset('json', data_files={'train': [script_args.dataset_name]}, split='train') # CHANGED
-
-print("dataset:")
+print('Dataset files:')
+for f in script_args.dataset_files:
+    print(f'\t{f}')
+dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split='train') # CHANGED
+print("Resulting dataset:")
 print(dataset)
-# print(dataset.column_names)
 
-instruction_template = "### English:"
-response_template = "### Spanish:"
+instruction_template = "###SRC"
+response_template = "###TGT"
 collator = DataCollatorForCompletionOnlyLM(
     instruction_template=instruction_template, 
     response_template=response_template, 
