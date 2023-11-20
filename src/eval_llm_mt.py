@@ -111,7 +111,7 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 
 def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: list, tgt_path: str, complete_out_path: str):
 
-    logging.info('Loading model...')
+    logging.info('Loading tokenizer...')
     # initialize generator
     tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'], padding_side='left')
     max_ref_len, avg_ref_len, min_ref_len = get_max_token_length(io_params['ref_data'], tokenizer) # check max tokens in ref file
@@ -123,10 +123,24 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
     logging.info(f'max tokens on ref sentence: {max_ref_len}')
 
     if tokenizer.pad_token is None: # decoder-only models such as Falcon are not trained with pad_token, so the tokenizer does not have one set.
-        tokenizer.pad_token = tokenizer.eos_token
+        # using uncommon token as pad_token
+        logging.info('Setting pad_token')
+        if model_params['model_id'] == 'tiiuae/falcon-7b':
+            tokenizer.pad_token = '~~~~~~~~'
+        elif model_params['model_id'] == 'projecte-aina/aguila-7b':
+            tokenizer.pad_token = '~~~'
+        else: 
+            tokenizer.pad_token = tokenizer.eos_token
+
+    logging.info('Loading model...')
+    model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], device_map='auto', trust_remote_code=True)
+    if not model_params['adapter'] == None:
+        logging.info(f"Loading adapter from {model_params['adapter']}")
+        model.load_adapter(model_params['adapter'])
+
     generator = pipeline(
         "text-generation",
-        model=model_params['model_id'],
+        model=model,
         tokenizer=tokenizer,
         torch_dtype=torch.bfloat16,
         trust_remote_code=True,
@@ -305,6 +319,7 @@ if __name__=="__main__":
 
     # model parameters
     parser.add_argument('model_id', type=str, help='HF id of the model to run, example:tiiuae/falcon-7b')
+    parser.add_argument('--adapter', type=str, help='Path to PEFT adapter to add to the model')
     parser.add_argument('--num_beams', type=int, default=1, help='Number of beams for beam search. 1 means no beam search')
     parser.add_argument('--do_sample', type=bool, default=False, help='Whether or not to use sampling ; use greedy decoding otherwise')
     parser.add_argument('--top_k', type=int, default=50, help='The number of highest probability vocabulary tokens to keep for top-k-filtering')
@@ -329,6 +344,7 @@ if __name__=="__main__":
 
     model_params = {
         'model_id': params.model_id,
+        'adapter': params.adapter,
         'num_beams': params.num_beams,
         'do_sample': params.do_sample,
         'top_k': params.top_k,
