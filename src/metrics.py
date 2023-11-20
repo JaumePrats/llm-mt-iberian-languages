@@ -130,7 +130,8 @@ def off_target_score(tgt_path, ref_lang, return_tgt_langs_stats=False, max_stat_
             if lang_stats['abs_count'] < max_stat_lines:
                 lang_stats['lines'] = tgt_langs_lines[lang]
             else:
-                lang_stats['lines'] = f'More than {max_stat_lines} lines'
+                lang_stats['lines'] = tgt_langs_lines[lang][0:max_stat_lines]
+                lang_stats['lines'].append[f'more than {max_stat_lines} lines ...']
             tgt_langs_stats[lang] = lang_stats
         return score, tgt_langs_stats
     else:
