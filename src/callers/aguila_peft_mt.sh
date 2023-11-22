@@ -12,12 +12,16 @@ export WANDB_NAME=$filename_prefix'_'$timestamp
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
     --model_name projecte-aina/aguila-7b \
     --dataset_files \
-    /fs/surtr0/jprats/data/processed/template_tests/SRC-TGT/flores_dev_cat-spa.jsonl\
-    /fs/surtr0/jprats/data/processed/template_tests/SRC-TGT/flores_dev_spa-cat.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_cat-spa.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_cat-eng.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_spa-cat.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_spa-eng.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_eng-cat.jsonl \
+    /fs/surtr0/jprats/data/processed/template_tests/break_line/flores_dev_eng-spa.jsonl \
     --output_dir /fs/surtr0/jprats/models/$filename_prefix'_'$timestamp \
     --max_steps 1000 \
     --bf16 \
-    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
+    # 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
 
 # optional arguments:
 #   -h, --help            show this help message and exit

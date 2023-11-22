@@ -24,7 +24,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
@@ -37,6 +37,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${timestamp}.log &
 
 # ===============================
+sleep 1
 
 export CUDA_VISIBLE_DEVICES=${gpus[1]}
 echo GPU:$CUDA_VISIBLE_DEVICES
@@ -50,7 +51,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
@@ -63,6 +64,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${timestamp}.log &
 
 # ===============================
+sleep 1
 
 export CUDA_VISIBLE_DEVICES=${gpus[2]}
 echo GPU:$CUDA_VISIBLE_DEVICES
@@ -76,7 +78,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
@@ -89,6 +91,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${timestamp}.log &
 
 # ===============================
+sleep 1
 
 export CUDA_VISIBLE_DEVICES=${gpus[3]}
 echo GPU:$CUDA_VISIBLE_DEVICES
@@ -102,7 +105,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
@@ -115,6 +118,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${timestamp}.log &
 
 # ===============================
+sleep 1
 
 export CUDA_VISIBLE_DEVICES=${gpus[4]}
 echo GPU:$CUDA_VISIBLE_DEVICES
@@ -128,7 +132,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
@@ -141,6 +145,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${timestamp}.log &
 
 # ===============================
+sleep 1
 
 export CUDA_VISIBLE_DEVICES=${gpus[5]}
 echo GPU:$CUDA_VISIBLE_DEVICES
@@ -154,7 +159,7 @@ echo ${src_lang}' > '${tgt_lang}
 python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --filename_prefix $filename_prefix \
     --timestamp $timestamp \
-    --batch_size 8 \
+    --batch_size 1 \
     --num_beams 5 \
     --max_new_tokens 150 \
     --num_fewshot $num_fewshot \
