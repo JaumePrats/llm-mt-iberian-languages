@@ -76,6 +76,10 @@ class ScriptArguments:
         default="",
         metadata={"help": "Dataset files to use for finetuning"},
     )
+    validation_files: Optional[list[str]] = field(
+        default="",
+        metadata={"help": "Dataset files to use for validation"},
+    )
     use_4bit: Optional[bool] = field(
         default=True,
         metadata={"help": "Activate 4bit precision base model loading"},
@@ -130,6 +134,12 @@ class ScriptArguments:
     )
     save_steps: int = field(default=10, metadata={"help": "Save checkpoint every X updates steps."})
     logging_steps: int = field(default=10, metadata={"help": "Log every X updates steps."})
+    evaluation_strategy: str = field(
+        default="no", 
+        metadata={"help": "The evaluation strategy to adopt during training. Possible values are: 'no', 'steps', 'epoch'."})
+    eval_steps: int = field(
+        default=10, 
+        metadata={"help": "Number of update steps between two evaluations if evaluation_strategy='steps'. Should be an integer or a float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
     output_dir: Optional[str] = field(
         default="/fs/surtr0/jprats/models/first_ft_test",
         metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
@@ -208,8 +218,8 @@ def create_and_prepare_model(args):
         args.model_name, quantization_config=bnb_config, device_map=device_map, trust_remote_code=True
     )
 
-    # model = AutoModelForCausalLM.from_pretrained(
-    #     args.model_name, quantization_config=bnb_config, trust_remote_code=True
+    # model = AutoModelForCausalLM.from_pretrained( # LoRA test
+    #     args.model_name, device_map=device_map, trust_remote_code=True
     # )
 
     peft_config = LoraConfig(
@@ -245,6 +255,8 @@ training_arguments = TrainingArguments(
     optim=script_args.optim,
     save_steps=script_args.save_steps,
     logging_steps=script_args.logging_steps,
+    evaluation_strategy=script_args.evaluation_strategy,
+    eval_steps=script_args.eval_steps,
     learning_rate=script_args.learning_rate,
     fp16=script_args.fp16,
     bf16=script_args.bf16,
@@ -261,14 +273,21 @@ model.config.use_cache = False
 print('Dataset files:')
 for f in script_args.dataset_files:
     print(f'\t{f}')
-dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split='train') # CHANGED
+dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split='train')
 print("Resulting dataset:")
 print(dataset)
+print('Validation files:')
+for f in script_args.validation_files:
+    print(f'\t{f}')
+valid_dataset = load_dataset('json', data_files={'validation': script_args.validation_files}, split='validation')
+print("Resulting validation dataset:")
+print(valid_dataset)
 
-instruction_template = "###SRC"
-response_template = "###TGT"
+# instruction_template = "###SRC"
+# response_template = "###TGT"
+response_template = "\n"
 collator = DataCollatorForCompletionOnlyLM(
-    instruction_template=instruction_template, 
+    # instruction_template=instruction_template, 
     response_template=response_template, 
     tokenizer=tokenizer, 
     mlm=False
@@ -281,6 +300,7 @@ print(script_args.group_by_length)
 trainer = mySFTTrainer(
     model=model,
     train_dataset=dataset,
+    eval_dataset=valid_dataset,
     peft_config=peft_config,
     dataset_text_field="text",
     data_collator=collator,
