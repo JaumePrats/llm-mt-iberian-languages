@@ -3,27 +3,34 @@ import os
 from iso639 import Lang
 
 # IN
-flores_base_path = '/fs/surtr0/jprats/data/raw/flores200_dataset'
-flores_split = 'dev'
-src_lang = 'spa_Latn'
-ref_lang = 'eng_Latn'
-instruction_template = "###SRC"
-response_template = "###TGT"
-template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n {response_template} [ref_lang]: <s>[ref_sentence]</s>"
+data_path = '/fs/surtr0/jprats/data/raw/UNPC/data'
+src_lang = 'en'
+ref_lang = 'es'
+# instruction_template = "###SRC"
+# response_template = "###TGT"
+instruction_template = ""
+response_template = ""
+template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n{response_template} [ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
-output_dir = '/fs/surtr0/jprats/data/processed/template_tests/SRC-TGT'
-output_prefix = 'flores'
+output_dir = '/fs/surtr0/jprats/data/processed/parallel_ft/UNPC'
+output_prefix = 'UNPC'
+out_filename = f"{output_prefix}_{src_lang.split('_')[0]}-{ref_lang.split('_')[0]}.jsonl"
 
 # -----------------------
 
 # reading input files
-src_path = src_path = os.path.join(flores_base_path, flores_split, src_lang + '.' + flores_split)
+for filename in os.listdir(data_path):
+    file_extension = os.path.splitext(filename)[1]
+    if file_extension == f'.{src_lang}':
+        src_path = os.path.join(data_path, filename)
+    if file_extension == f'.{ref_lang}':
+        ref_path = os.path.join(data_path, filename)
+
 with open(src_path, 'r') as src_file:
     src_sentences = [line.strip() for line in src_file.readlines()]
     print(f'reading {src_path} ({len(src_sentences)} lines)')
 
-ref_path = src_path = os.path.join(flores_base_path, flores_split, ref_lang + '.' + flores_split)
 with open(ref_path, 'r') as ref_file:
     ref_sentences = [line.strip() for line in ref_file.readlines()]
     print(f'reading {ref_path} ({len(ref_sentences)} lines)')
@@ -31,10 +38,9 @@ with open(ref_path, 'r') as ref_file:
 assert len(ref_sentences) == len(src_sentences)
 
 # constructing and saving data
-iso_src = Lang(src_lang.split('_')[0])
-iso_ref = Lang(ref_lang.split('_')[0])
+iso_src = Lang(src_lang)
+iso_ref = Lang(ref_lang)
 
-out_filename = f"{output_prefix}_{flores_split}_{src_lang.split('_')[0]}-{ref_lang.split('_')[0]}.jsonl"
 out_path = os.path.join(output_dir, out_filename)
 if os.path.exists(out_path):
     print(81*'=')
