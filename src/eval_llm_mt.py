@@ -1,6 +1,7 @@
 import torch
 import sys
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
+from peft import PeftModel
 from datetime import datetime
 import json
 import argparse
@@ -125,18 +126,20 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
     if tokenizer.pad_token is None: # decoder-only models such as Falcon are not trained with pad_token, so the tokenizer does not have one set.
         # using uncommon token as pad_token
         logging.info('Setting pad_token')
-        if model_params['model_id'] == 'tiiuae/falcon-7b':
-            tokenizer.pad_token = '~~~~~~~~'
-        elif model_params['model_id'] == 'projecte-aina/aguila-7b':
-            tokenizer.pad_token = '~~~'
+        if not model_params['adapter'] == None:
+            if model_params['model_id'] == 'tiiuae/falcon-7b':
+                tokenizer.pad_token = '~~~~~~~~'
+            elif model_params['model_id'] == 'projecte-aina/aguila-7b':
+                tokenizer.pad_token = '~~~'
         else: 
             tokenizer.pad_token = tokenizer.eos_token
 
     logging.info('Loading model...')
-    model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], device_map='auto', trust_remote_code=True)
+    # model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], torch_dtype=torch.bfloat16, trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], torch_dtype=torch.bfloat16, device_map='auto', trust_remote_code=True)
     if not model_params['adapter'] == None:
-        logging.info(f"Loading adapter from {model_params['adapter']}")
-        model.load_adapter(model_params['adapter'])
+        model = PeftModel.from_pretrained(model, model_params['adapter'], device_map='auto', torch_dtype=torch.bfloat16)
+        model = model.merge_and_unload()   
 
     generator = pipeline(
         "text-generation",
@@ -160,6 +163,7 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
                 do_sample=model_params['do_sample'],
                 top_k=model_params['top_k'],
                 eos_token_id=tokenizer.eos_token_id,
+                pad_token_id=tokenizer.pad_token_id,
                 max_new_tokens=model_params['max_new_tokens'],
                 batch_size = model_params['batch_size']
             )
