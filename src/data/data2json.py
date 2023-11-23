@@ -6,11 +6,11 @@ from iso639 import Lang
 data_path = '/fs/surtr0/jprats/data/raw/UNPC/data'
 src_lang = 'en'
 ref_lang = 'es'
-# instruction_template = "###SRC"
-# response_template = "###TGT"
+# instruction_template = "###SRC "
+# response_template = "###TGT "
 instruction_template = ""
 response_template = ""
-template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n{response_template} [ref_lang]: <s>[ref_sentence]</s>"
+template = f"{instruction_template}[src_lang]: <s>[src_sentence]</s>\n{response_template}[ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
 output_dir = '/fs/surtr0/jprats/data/processed/parallel_ft/UNPC'

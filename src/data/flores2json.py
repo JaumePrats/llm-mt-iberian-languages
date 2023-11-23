@@ -7,11 +7,11 @@ flores_base_path = '/fs/surtr0/jprats/data/raw/flores200_dataset'
 flores_split = 'dev'
 src_lang = 'eng_Latn'
 ref_lang = 'spa_Latn'
-# instruction_template = "###SRC"
-# response_template = "###TGT"
+# instruction_template = "###SRC "
+# response_template = "###TGT "
 instruction_template = ""
 response_template = ""
-template = f"{instruction_template} [src_lang]: <s>[src_sentence]</s>\n{response_template} [ref_lang]: <s>[ref_sentence]</s>"
+template = f"{instruction_template}[src_lang]: <s>[src_sentence]</s>\n{response_template}[ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
 output_dir = '/fs/surtr0/jprats/data/processed/parallel_ft/valid'
