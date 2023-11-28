@@ -1,0 +1,123 @@
+Spanish: <s>El lunes, los científicos de la facultad de medicina de la Universidad de Stanford anunciaron el invento de una nueva herramienta de diagnóstico que puede catalogar las células según su tipo: un pequeñísimo chip que se puede imprimir y fabricar con impresoras de inyección de uso corriente, por un posible costo de, aproximadamente, un centavo de dólar por cada uno.</s>
+English: <s>On Monday, the scientists of the medical faculty of Stanford University announced the invention of a new diagnostic tool that can classify cells according to their type: a very small chip that can be printed and manufactured with injection molding printers, for a possible cost of, approximately, one cent per chip.</s>
+In Spanish, the indefinite article <s>el</s> is used before a noun that begins with a consonant, and the indefinite article <s>la</s> is used before a noun that begins with a vowel.
+In English, the indefinite article <s>a</s> is used before a noun that begins with a consonant, and the indefinite article <s>an</s
+--------------------
+Spanish: <s>Los principales investigadores principales sostienen que esto puede permitir la detección precoz del cáncer, la tuberculosis, el VIH y la malaria en pacientes de países de bajos recursos, donde la tasa de supervivencia de enfermedades como el cáncer de mama puede ser la mitad de la de los países más avanzados.</s>
+English: <s>The main researchers say that this could allow the early detection of cancer, tuberculosis, HIV and malaria in patients from low-resource countries, where the survival rate of breast cancer can be half of that in more advanced countries.</s>
+Spanish: <s>Los principales investigadores sostienen que esto podría permitir la detección precoz del cáncer, la tuberculosis, el VIH y la malaria en pacientes de países de bajos recursos, donde la tasa de supervivencia de enfermedades como el cáncer de mama puede ser la mitad de la de los países más avanzados.</s>
+English: <s>The main researchers say that this could allow the early detection of cancer
+--------------------
+Spanish: <s>El JAS 39C Gripen impactó contra una pista cerca de las 9:30 de la mañana hora local (0230 UTC) y explotó, lo que causó el cierre del aeropuerto para vuelos comerciales.</s>
+English: <s>The JAS 39C Gripen crashed into a runway near 9:30 a.m. local time (0230 UTC) and exploded, which caused the closure of the airport for commercial flights.</s>
+<s>The JAS 39C Gripen impactó contra una pista cerca de las 9:30 de la mañana hora local (0230 UTC) y explotó, lo que causó el cierre del aeropuerto para vuelos comerciales.</s>
+English: <s>The JAS 39C Gripen crashed into a runway near 9:30 a.m. local time (0230 UTC) and exploded, which caused the
+--------------------
+Spanish: <s>Se identificó al piloto como Dilokrit Pattavee, líder de escuadrón.</s>
+English: <s>The pilot was identified as Dilokrit Pattavee, the leader of the squadron.</s>
+I'm not sure if the <s>...</s> tag is the right way to do this, but it's the only way I can think of.
+I'm not sure if the <s>...</s> tag is the right way to do this, but it's the only way I can think of.
+--------------------
+Spanish: <s>La prensa local informó que una patrulla de bomberos del aeropuerto volcó mientras prestaba servicio.</s>
+English: <s>The local press reported that a fire truck at the airport tipped over while on duty.</s>
+Spanish: <s>La prensa local informó que una patrulla de bomberos del aeropuerto volcó mientras prestaba servicio.</s>
+English: <s>The local press reported that a fire truck at the airport tipped over while on duty.</s>
+Spanish: <s>La prensa local informó que una patrulla de bomberos del aeropuerto volcó mientras prestaba servicio.</s>
+English: <s>The local press reported that a fire truck at the airport tipped over while on duty.</s>
+Spanish: <
+--------------------
+Spanish: <s>Vidal, de 28 años de edad y procedente del Sevilla, se unió al Barça hace tres temporadas.</s>
+English: <s>Vidal, 28 years old and from Sevilla, joined the Barça three seasons ago.</s>
+Spanish: <s>Vidal, de 28 años de edad y procedente del Sevilla, se unió al Barça hace tres temporadas.</s>
+English: <s>Vidal, 28 years old and from Sevilla, joined the Barça three seasons ago.</s>
+Spanish: <s>Vidal, de 28 años de edad y procedente del Sevilla, se unió al Barça hace tres temporadas.</s>
+English: <s>Vidal, 28 years old and from Sevilla, joined the Barça three seasons ago.</s>
+
+--------------------
+Spanish: <s>Desde su mudanza a la capital catalana, Vidal jugó 49 partidos para el club.</s>
+English: <s>Since his move to the capital of Catalonia, Vidal played 49 games for the club.</s>
+Spanish: <s>Desde su mudanza a la capital catalana, Vidal jugó 49 partidos para el club.</s>
+English: <s>Since his move to the capital of Catalonia, Vidal played 49 games for the club.</s>
+Spanish: <s>Desde su mudanza a la capital catalana, Vidal jugó 49 partidos para el club.</s>
+English: <s>Since his move to the capital of Catalonia, Vidal played 49 games for the club.</s>
+Spanish: <s
+--------------------
+Spanish: <s>La manifestación inició cerca de las 11:00 hora local (UTC +1) en Whitehall, frente a la puerta de acceso a Downing Street, residencia oficial del primer ministro, la cual contaba con vigilancia policial.</s>
+English: <s>The demonstration began around 11:00 a.m. local time (UTC +1) in Whitehall, in front of the entrance to Downing Street, the official residence of the Prime Minister, which was guarded by police.</s>
+Spanish: <s>La manifestación inició cerca de las 11:00 hora local (UTC +1) en Whitehall, frente a la puerta de acceso a Downing Street, residencia oficial del primer ministro, la cual contaba con vigilancia policial.</s>
+English: <s>The demonstration began around 11:00 a.m. local time (UTC +1) in Whitehall, in front
+--------------------
+Spanish: <s>Apenas pasadas las 11:00 h, los integrantes de la manifestación bloquearon la circulación del carril de Whitehall que va hacia el norte.</s>
+English: <s>Just after 11:00 h, the demonstrators blocked the traffic on the northbound carriageway of Whitehall.</s>
+Spanish: <s>Apenas pasadas las 11:00 h, los integrantes de la manifestación bloquearon la circulación del carril de Whitehall que va hacia el norte.</s>
+English: <s>Just after 11:00 h, the demonstrators blocked the traffic on the northbound carriageway of Whitehall.</s>
+Spanish: <s>Apenas pasadas las 11:00 h, los integrantes de la manifestación bloquearon la circulación del carril
+--------------------
+Spanish: <s>A las 11:20, la policía solicitó a los manifestantes que retrocedieran a la acera, señalando que era necesario equilibrar el derecho a manifestarse con la acumulación de tránsito.</s>
+English: <s>At 11:20, the police asked the demonstrators to move to the sidewalk, indicating that it was necessary to balance the right to demonstrate with the accumulation of traffic.</s>
+Spanish: <s>A las 11:20, la policía solicitó a los manifestantes que retrocedieran a la acera, señalando que era necesario equilibrar el derecho a manifestarse con la acumulación de tránsito.</s>
+English: <s>At 11:20, the police asked the demonstrators to move to the sidewalk, indicating that it was necessary to balance the right to demonstrate with the accumulation of traffic.</s>
+Spanish: <s>A las 
+--------------------
+Spanish: <s>Cerca de las 11:29, la manifestación se abrió paso por Whitehall, siguió por Trafalgar Square, extendiéndose por Strand, pasando por Aldwych y subió por Kingsway hacia Holborn, lugar en el que se desarrollaba el Foro de Primavera en el hotel Grand Connaught Rooms, por parte del Partido Conservador.</s>
+English: <s>Around 11:29, the demonstration opened a path through Whitehall, followed by Trafalgar Square, extending to Strand, passing Aldwych and up Kingsway towards Holborn, where the Spring Forum of the Conservative Party was taking place at the Grand Connaught Rooms, on the part of the Conservative Party.</s>
+--------------------
+Spanish: <s>El récord mano a mano de Nadal contra el canadiense fue de 7-2.</s>
+English: <s>Nadal's record of 7-2 against the Canadian</s>
+Spanish: <s>El récord mano a mano de Nadal contra el canadiense fue de 7-2.</s>
+English: <s>Nadal's record of 7-2 against the Canadian</s>
+Spanish: <s>El récord mano a mano de Nadal contra el canadiense fue de 7-2.</s>
+English: <s>Nadal's record of 7-2 against the Canadian</s>
+Spanish: <s>El récord mano a mano de Nadal contra el canadiense fue de 7-2.</s>
+
+--------------------
+Spanish: <s>Fue derrotado, hace poco, por Raonic en el Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+English: <s>He was defeated, a few days ago, by Raonic in the Brisbane Open.</s>
+
+--------------------
+Spanish: <s>En el partido, Nadal acumuló un 88% de puntos netos y ganó 76 en el primer servicio.</s>
+English: <s>In the match, Nadal accumulated 88% of net points and won 76 in the first service.</s>
+Spanish: <s>En el partido, Nadal acumuló un 88% de puntos netos y ganó 76 en el primer servicio.</s>
+English: <s>In the match, Nadal accumulated 88% of net points and won 76 in the first service.</s>
+Spanish: <s>En el partido, Nadal acumuló un 88% de puntos netos y ganó 76 en el primer servicio.</s>
+English: <s>In the match, Nadal accumulated 88% of net points and won 76
+--------------------
+Spanish: <s>Después del partido, el Rey del Polvo declaró: «Estoy emocionado de estar otra vez en las rondas finales de los torneos más importantes. He venido aquí para tratar de ganar».</s>
+English: <s>After the game, the King of Dust declared: "I'm excited to be back in the finals of the most important tournaments. I came here to try to win."</s>
+Spanish: <s>Después del partido, el Rey del Polvo declaró: «Estoy emocionado de estar otra vez en las rondas finales de los torneos más importantes. He venido aquí para tratar de ganar».</s>
+English: <s>After the game, the King of Dust declared: "I'm excited to be back in the finals of the most important tournaments. I came here to try to win."</s>
+Spanish: <s>
+--------------------
+Spanish: <s>La expresión genérica «Papeles de Panamá» se refiere a los casi diez millones de documentos del despacho de abogados panameño Mossack Fonseca que se filtraron en los medios en la primavera de 2016.</s>
+English: <s>The generic expression "Panama Papers" refers to the almost ten million documents from the Panamanian law firm Mossack Fonseca that were leaked to the media in the spring of 2016.</s>
+Spanish: <s>La expresión genérica «Papeles de Panamá» se refiere a los casi diez millones de documentos del despacho de abogados panameño Mossack Fonseca que se filtraron en los medios en la primavera de 2016.</s>
+English: <s>The generic expression "Panama Papers" refers to the almost ten million documents from the Panamanian law firm Mossack Fonseca that
+--------------------
+Spanish: <s>La documentación reveló que catorce entidades bancarias ayudaron a clientes acaudalados a ocultar riquezas que ascendían a miles de millones de dólares estadounidenses con el fin de evadir obligaciones impositivas y otras regulaciones.</s>
+English: <s>The documentation revealed that fourteen banks helped wealthy U.S. clients to hide assets worth millions of dollars in order to evade U.S. tax and other regulatory obligations.</s>
+Spanish: <s>La documentación reveló que catorce entidades bancarias ayudaron a clientes acaudalados a ocultar riquezas que ascendían a miles de millones de dólares estadounidenses con el fin de evadir obligaciones impositivas y otras regulaciones.</s>
+English: <s>The documentation revealed that fourteen banks helped wealthy U.S. clients to hide assets worth millions of dollars in order to evade U.S. tax and other regulatory obligations.</s>
+--------------------
+Spanish: <s>El periódico británico The Guardian señaló que Deutsche Bank tenía el control de cerca de la tercera parte de las 1200 compañías fantasma que se usaron para llevar esto a cabo.</s>
+English: <s>The British newspaper The Guardian reported that Deutsche Bank had control of about a third of the 1,200 shell companies used in this scheme.</s>
+Spanish: <s>El periódico británico The Guardian señaló que Deutsche Bank tenía el control de cerca de la tercera parte de las 1200 compañías fantasma que se usaron para llevar esto a cabo.</s>
+English: <s>The British newspaper The Guardian reported that Deutsche Bank had control of about a third of the 1,200 shell companies used in this scheme.</s>
+Spanish: <s>El periódico británico The Guardian señaló que Deutsche Bank tenía el control de
+--------------------
+Spanish: <s>Se llevaron a cabo manifestaciones a nivel mundial, se condujeron numerosos juicios criminales, y los jefes de estado tanto de Islandia como de Pakistán renunciaron.</s>
+English: <s>Demonstrations were held worldwide, numerous criminal trials were conducted, and the heads of state of Iceland and Pakistan resigned.</s>
+Spanish: <s>Se llevaron a cabo manifestaciones a nivel mundial, se condujeron numerosos juicios criminales, y los jefes de estado tanto de Islandia como de Pakistán renunciaron.</s>
+English: <s>Demonstrations were held worldwide, numerous criminal trials were conducted, and the heads of state of Iceland and Pakistan resigned.</s>
+Spanish: <s>Se llevaron a cabo manifestaciones a nivel mundial, se condujeron numerosos juicios criminales, y los jefes de estado tanto de Islandia
+--------------------
+Spanish: <s>Ma, oriunda de Hong Kong, se formó en la Universidad de Nueva York y en la Escuela de Leyes de Harvard y alguna vez contó con una «tarjeta verde» de residente permanente en los Estados Unidos.</s>
+English: <s>Ma, born in Hong Kong, graduated from the University of New York and Harvard Law School, and at one time had a "green card" for permanent resident in the United States.</s>
+<s>Ma, oriunda de Hong Kong, se formó en la Universidad de Nueva York y en la Escuela de Leyes de Harvard y alguna vez contó con una «tarjeta verde» de residente permanente en los Estados Unidos.</s>
+English: <s>Ma, born in Hong Kong, graduated from the University of New York and Harvard Law School, and at one time had a "green card" for permanent resident in the United States.</s>
+<s>Ma,
+--------------------

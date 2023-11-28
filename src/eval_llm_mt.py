@@ -12,11 +12,11 @@ from tqdm import tqdm
 from iso639 import Lang
 import logging
 from metrics import bleu_score, comet_score, off_target_score
-from max_tokens import get_max_token_length
+from data.max_tokens import get_max_token_length
 import gc
 
 # DIRECTORIES
-RESULTS_DIR = 'results/'
+RESULTS_DIR = 'results/mt_eval/'
 TGT_DIR = 'tgt_out/'
 COMPLETE_OUT_DIR = 'complete_out/'
 COMET_SCORES_DIR = RESULTS_DIR + 'comet_scores/'
