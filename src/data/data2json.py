@@ -4,9 +4,9 @@ from iso639 import Lang
 from tqdm import tqdm
 
 # IN
-data_path = '/fs/surtr0/jprats/data/processed/cleaned/europarl'
-src_lang = 'en'
-ref_lang = 'es'
+data_path = '/fs/surtr0/jprats/data/raw/UNPC/testsets/devset'
+src_lang = 'es'
+ref_lang = 'en'
 add_opposite_direction = True # If True, the output file will unclude both directions: src>ref and ref>src (total lines will be doubled)
 # instruction_template = "###SRC "
 # response_template = "###TGT "
@@ -15,12 +15,12 @@ response_template = ""
 template = f"{instruction_template}[src_lang]: <s>[src_sentence]</s>\n{response_template}[ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
-output_dir = '/fs/surtr0/jprats/data/processed/finetuning/europarl'
-output_prefix = 'europarl-clean'
+output_dir = '/fs/surtr0/jprats/data/processed/finetuning/devsets'
+output_prefix = 'unpc_dev'
 if add_opposite_direction:
     direction = 'bidir'
 else:
-    direction = 'single'
+    direction = 'unidir'
 out_filename = f"{output_prefix}_{src_lang.split('_')[0]}-{ref_lang.split('_')[0]}_{direction}.jsonl"
 
 # -----------------------
@@ -69,8 +69,11 @@ else:
                 out_template = template.replace('[src_lang]', iso_ref.name).replace('[ref_lang]', iso_src.name)
                 out_line['text'] = out_template.replace('[src_sentence]', ref_sentences[sentence_index]).replace('[ref_sentence]', src_sentences[sentence_index])
                 out_file.write(json.dumps(out_line) + '\n')
-
-    print(f'Completed. Out file: {out_path}')
+    if add_opposite_direction:
+        out_lines = 2 * len(src_sentences)
+    else:
+        out_lines = len(src_sentences)
+    print(f'Completed. Out file: {out_path} ({out_lines} lines)')
 
 
 
