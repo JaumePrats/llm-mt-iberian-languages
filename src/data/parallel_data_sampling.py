@@ -13,18 +13,39 @@ def sample_lines(input_file, output_file, fraction):
         outfile.writelines(sampled_lines)
 
 
-files = [
-    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file1.txt', 
-    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file2.txt'
+src_files = [
+    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file1_src.txt', 
+    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file2_src.txt'
     ]
-out_file = '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/out.txt'
+ref_files = [
+    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file1_ref.txt', 
+    '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/file2_ref.txt'
+    ]
+output_src_file = '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/out_src.txt'
+output_src_file = '/fs/surtr0/jprats/code/llm-mt-iberian-languages/src/data/out_ref.txt'
+out_total_lines = 10
 
-num_lines = []
-for file in files:
-    print(f'Counting lines in {file} ...')
+src_num_lines = []
+for file in src_files:
+    print(f'Counting lines in {file}:')
     with open(file, "rb") as f:
         file_num_lines = sum(1 for _ in f)
-    num_lines.append(file_num_lines)
+    print(f'\tlines: {file_num_lines}')
+    src_num_lines.append(file_num_lines)
+
+ref_num_lines = []
+for file in ref_files:
+    print(f'Counting lines in {file}:')
+    with open(file, "rb") as f:
+        file_num_lines = sum(1 for _ in f)
+    print(f'\tlines: {file_num_lines}')
+    ref_num_lines.append(file_num_lines)
+try:
+    assert src_num_lines == ref_num_lines
+except AssertionError as e:
+    print(120*'*')
+    print('ERROR: SOURCE AND REFERENCE NUMBER OF LINES DO NOT MATCH! Check that files are the correct ones and that the order in "src_files" and "ref_files" matches.')
+    exit()
 
 total_num_lines = sum(num_lines)
 fractions = [(f_num_lines / total_num_lines) for f_num_lines in num_lines]

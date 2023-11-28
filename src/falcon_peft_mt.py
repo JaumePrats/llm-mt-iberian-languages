@@ -61,7 +61,7 @@ class ScriptArguments:
     lora_alpha: Optional[int] = field(default=16)
     lora_dropout: Optional[float] = field(default=0.1)
     lora_r: Optional[int] = field(default=64)
-    max_seq_length: Optional[int] = field(default=512)
+    max_seq_length: Optional[int] = field(default=2048)
     model_name: Optional[str] = field(
         default="tiiuae/falcon-7b",
         metadata={
@@ -75,6 +75,10 @@ class ScriptArguments:
     dataset_files: Optional[list[str]] = field(
         default="",
         metadata={"help": "Dataset files to use for finetuning"},
+    )
+    train_split: Optional[str] = field(
+        default='',
+        metadata={"help": "Split of the training set that will be used. Syntax: [:10000], [10:20], [:10%]"},
     )
     validation_files: Optional[list[str]] = field(
         default="",
@@ -159,6 +163,7 @@ class mySFTTrainer(SFTTrainer):
 
         # Inspired from: https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt
         def tokenize(element):
+            # import pdb; pdb.set_trace()
             outputs = tokenizer(
                 element[dataset_text_field] if not use_formatting_func else formatting_func(element),
                 truncation=True,
@@ -218,10 +223,6 @@ def create_and_prepare_model(args):
         args.model_name, quantization_config=bnb_config, device_map=device_map, trust_remote_code=True
     )
 
-    # model = AutoModelForCausalLM.from_pretrained( # LoRA test
-    #     args.model_name, device_map=device_map, trust_remote_code=True
-    # )
-
     peft_config = LoraConfig(
         lora_alpha=script_args.lora_alpha,
         lora_dropout=script_args.lora_dropout,
@@ -273,7 +274,7 @@ model.config.use_cache = False
 print('Dataset files:')
 for f in script_args.dataset_files:
     print(f'\t{f}')
-dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split='train')
+dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split=f'train{script_args.train_split}')
 print("Resulting dataset:")
 print(dataset)
 print('Validation files:')
