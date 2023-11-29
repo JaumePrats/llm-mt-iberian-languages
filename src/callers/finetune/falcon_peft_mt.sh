@@ -16,7 +16,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
     --train_split '[:10000]' \
     --validation_files \
     '/fs/surtr0/jprats/data/processed/finetuning/parallel_ft/valid/flores_dev_eng-spa.jsonl' \
-    --output_dir /fs/surtr0/jprats/models/$filename_prefix'_'$timestamp \
+    --output_dir /fs/surtr0/jprats/models/checkpoints/$filename_prefix'_'$timestamp \
     --evaluation_strategy steps \
     --eval_steps 50 \
     --max_steps 10000 \
