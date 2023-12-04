@@ -4,9 +4,9 @@ from iso639 import Lang
 from tqdm import tqdm
 
 # IN
-data_path = '/fs/surtr0/jprats/data/raw/UNPC/testsets/devset'
-src_lang = 'es'
-ref_lang = 'en'
+data_path = '/fs/surtr0/jprats/data/processed/03-shuffled/en-es_europarl-unpc'
+src_lang = 'en'
+ref_lang = 'es'
 add_opposite_direction = True # If True, the output file will unclude both directions: src>ref and ref>src (total lines will be doubled)
 # instruction_template = "###SRC "
 # response_template = "###TGT "
@@ -15,8 +15,8 @@ response_template = ""
 template = f"{instruction_template}[src_lang]: <s>[src_sentence]</s>\n{response_template}[ref_lang]: <s>[ref_sentence]</s>"
 
 # OUT
-output_dir = '/fs/surtr0/jprats/data/processed/finetuning/devsets'
-output_prefix = 'unpc_dev'
+output_dir = '/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc'
+output_prefix = 'europarl-unpc'
 if add_opposite_direction:
     direction = 'bidir'
 else:

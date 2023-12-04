@@ -1,12 +1,11 @@
 prefix=TEST_adapter
 model=tiiuae/falcon-7b
-adapter=/fs/surtr0/jprats/models/finetuned/falcon_peft_test_1.0-slowTokenizer/checkpoint-1000
-tasks=xnli_ca,xnli_en,xnli_es
+tasks=xnli_ca
 num_fewshot=0
 device=5
 
 echo "NLU EVAL --------------------------------"
-echo "model: $model (adapter: $adapter)"
+echo "model: $model"
 echo "tasks: $tasks"
 echo "num fewhot: $model"
 echo "cuda device: $device"
@@ -17,7 +16,7 @@ timestamp=$(date +"%Y%m%d-%H.%M.%S")
 echo 
 python /fs/surtr0/jprats/code/lm-evaluation-harness/main.py \
     --model hf-causal \
-    --model_args pretrained=$model,peft=$adapter,dtype=torch.bfloat16,trust_remote_code=True \
+    --model_args pretrained=$model,dtype=torch.bfloat16,trust_remote_code=True \
     --tasks $tasks \
     --num_fewshot 0 \
     --device cuda:${device} \
