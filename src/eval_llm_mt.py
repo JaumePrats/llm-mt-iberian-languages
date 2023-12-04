@@ -113,8 +113,22 @@ def create_prompt(num_fewshot, template_id, src_examples, ref_examples):
 def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: list, tgt_path: str, complete_out_path: str):
 
     logging.info('Loading tokenizer...')
-    # initialize generator
-    tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'], padding_side='left')
+    if model_params['adapter'] == None: # tokenizer from base model
+        tokenizer = AutoTokenizer.from_pretrained(model_params['model_id'], padding_side='left')
+        if tokenizer.pad_token is None: # decoder-only models such as Falcon are not trained with pad_token, so the tokenizer does not have one set.
+            logging.info('Setting pad_token as eos_token')
+            tokenizer.pad_token = tokenizer.eos_token
+    else: # tokenizer for model with adapter
+        tokenizer = AutoTokenizer.from_pretrained(model_params['adapter'], padding_side='left') # load from file with pad token already defined
+        if tokenizer.pad_token is None: # if it was not saved during finetuning
+            logging.warning(68*'-')
+            logging.warning("Checkpoint's tokenizer does not have a pad_token set in the config, setting it now")
+            logging.warning(68*'-')
+            if model_params['model_id'] == 'tiiuae/falcon-7b':
+                tokenizer.pad_token = '~~~~~~~~'
+            elif model_params['model_id'] == 'projecte-aina/aguila-7b':
+                tokenizer.pad_token = '~~~'
+
     max_ref_len, avg_ref_len, min_ref_len = get_max_token_length(io_params['ref_data'], tokenizer) # check max tokens in ref file
     if max_ref_len + 3 >= model_params['max_new_tokens']: # 3 tokens for </s>
         logging.error(85*'=')
@@ -123,21 +137,11 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
     logging.info(f"max_new_tokens={model_params['max_new_tokens']}")
     logging.info(f'max tokens on ref sentence: {max_ref_len}')
 
-    if tokenizer.pad_token is None: # decoder-only models such as Falcon are not trained with pad_token, so the tokenizer does not have one set.
-        # using uncommon token as pad_token
-        logging.info('Setting pad_token')
-        if not model_params['adapter'] == None:
-            if model_params['model_id'] == 'tiiuae/falcon-7b':
-                tokenizer.pad_token = '~~~~~~~~'
-            elif model_params['model_id'] == 'projecte-aina/aguila-7b':
-                tokenizer.pad_token = '~~~'
-        else: 
-            tokenizer.pad_token = tokenizer.eos_token
-
     logging.info('Loading model...')
     # model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], torch_dtype=torch.bfloat16, trust_remote_code=True)
     model = AutoModelForCausalLM.from_pretrained(model_params['model_id'], torch_dtype=torch.bfloat16, device_map='auto', trust_remote_code=True)
-    if not model_params['adapter'] == None:
+    if not model_params['adapter'] == None: # loading and merging adapter
+        logging.info('Loading and merging adapter...')
         model = PeftModel.from_pretrained(model, model_params['adapter'], device_map='auto', torch_dtype=torch.bfloat16)
         model = model.merge_and_unload()   
 
