@@ -1,0 +1,67 @@
+Selected Tasks: ['xnli_ca', 'xnli_en', 'xnli_es']
+Using device 'cuda:6'
+Task: xnli_ca; number of docs: 5010
+Task: xnli_ca; document 0; context prompt (starting on next line):
+Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., correcte? [MASK], Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.
+(end of prompt on previous line)
+Requests: (Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., correcte? Sí, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+, Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., correcte? A més a més, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+, Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., correcte? No, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+)
+Task: xnli_en; number of docs: 5010
+Task: xnli_en; document 0; context prompt (starting on next line):
+Using these eight simple techniques, you can fabricate a news story in the comfort of your own home., right? [MASK], Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.
+(end of prompt on previous line)
+Requests: (Req_loglikelihood_rolling('Using these eight simple techniques, you can fabricate a news story in the comfort of your own home., right? Yes, Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.',)[None]
+, Req_loglikelihood_rolling('Using these eight simple techniques, you can fabricate a news story in the comfort of your own home., right? Also, Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.',)[None]
+, Req_loglikelihood_rolling('Using these eight simple techniques, you can fabricate a news story in the comfort of your own home., right? No, Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.',)[None]
+)
+Task: xnli_es; number of docs: 5010
+Task: xnli_es; document 0; context prompt (starting on next line):
+Usando estas ocho técnicas simples, puede fabricar una noticia en la comodidad de su propio hogar., correcto? [MASK], Solo los periodistas en una sala de redacción pueden escribir una noticia, y se necesitan 20 pasos para hacerlo.
+(end of prompt on previous line)
+Requests: (Req_loglikelihood_rolling('Usando estas ocho técnicas simples, puede fabricar una noticia en la comodidad de su propio hogar., correcto? Sí, Solo los periodistas en una sala de redacción pueden escribir una noticia, y se necesitan 20 pasos para hacerlo.',)[None]
+, Req_loglikelihood_rolling('Usando estas ocho técnicas simples, puede fabricar una noticia en la comodidad de su propio hogar., correcto? Asi que, Solo los periodistas en una sala de redacción pueden escribir una noticia, y se necesitan 20 pasos para hacerlo.',)[None]
+, Req_loglikelihood_rolling('Usando estas ocho técnicas simples, puede fabricar una noticia en la comodidad de su propio hogar., correcto? No, Solo los periodistas en una sala de redacción pueden escribir una noticia, y se necesitan 20 pasos para hacerlo.',)[None]
+)
+Running loglikelihood_rolling requests
+{
+  "results": {
+    "xnli_ca": {
+      "acc": 0.4277445109780439,
+      "acc_stderr": 0.00699055553594817
+    },
+    "xnli_en": {
+      "acc": 0.5387225548902196,
+      "acc_stderr": 0.007043494394449802
+    },
+    "xnli_es": {
+      "acc": 0.48962075848303394,
+      "acc_stderr": 0.007063190121373256
+    }
+  },
+  "versions": {
+    "xnli_ca": 0,
+    "xnli_en": 0,
+    "xnli_es": 0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=tiiuae/falcon-7b",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:6",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=tiiuae/falcon-7b), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+| Task  |Version|Metric|Value |   |Stderr|
+|-------|------:|------|-----:|---|-----:|
+|xnli_ca|      0|acc   |0.4277|±  |0.0070|
+|xnli_en|      0|acc   |0.5387|±  |0.0070|
+|xnli_es|      0|acc   |0.4896|±  |0.0071|
+

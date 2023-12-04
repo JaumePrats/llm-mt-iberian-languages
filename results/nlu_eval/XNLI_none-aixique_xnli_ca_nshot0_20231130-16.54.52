@@ -1,0 +1,39 @@
+Selected Tasks: ['xnli_ca']
+Using device 'cuda:6'
+Task: xnli_ca; number of docs: 5010
+Task: xnli_ca; document 0; context prompt (starting on next line):
+Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., ? [MASK], Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.
+(end of prompt on previous line)
+Requests: (Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., ? Sí, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+, Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., ? Així que, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+, Req_loglikelihood_rolling("Amb aquestes vuit tècniques senzilles, podeu crear una notícia còmodament a casa vostra., ? No, Només els periodistes d'una redacció poden escriure una notícia i es necessiten 20 passos per fer-ho.",)[None]
+)
+Running loglikelihood_rolling requests
+{
+  "results": {
+    "xnli_ca": {
+      "acc": 0.486626746506986,
+      "acc_stderr": 0.00706218501564865
+    }
+  },
+  "versions": {
+    "xnli_ca": 0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:6",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+| Task  |Version|Metric|Value |   |Stderr|
+|-------|------:|------|-----:|---|-----:|
+|xnli_ca|      0|acc   |0.4866|±  |0.0071|
+
