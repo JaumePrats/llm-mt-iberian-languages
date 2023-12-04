@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import Optional, Union
 
 import torch
 from datasets import load_dataset
@@ -29,6 +29,7 @@ from transformers import (
 from peft.tuners.lora import LoraLayer
 
 from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
+import wandb
 
 
 ########################################################################
@@ -60,12 +61,18 @@ class ScriptArguments:
     weight_decay: Optional[int] = field(default=0.001)
     lora_alpha: Optional[int] = field(default=16)
     lora_dropout: Optional[float] = field(default=0.1)
-    lora_r: Optional[int] = field(default=64)
+    lora_r: Optional[int] = field(default=16)
     max_seq_length: Optional[int] = field(default=2048)
     model_name: Optional[str] = field(
         default="tiiuae/falcon-7b",
         metadata={
             "help": "The model that you want to train from the Hugging Face hub. E.g. gpt2, gpt2-xl, bert, etc."
+        },
+    )
+    resume_from_checkpoint: Optional[str] = field(
+        default=None,
+        metadata={
+            "help": "Local path to a saved checkpoint as saved by a previous instance of Trainer. Defaults to False"
         },
     )
     dataset_name: Optional[str] = field(
@@ -153,6 +160,42 @@ class ScriptArguments:
 parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
 
+print(50*'=')
+print("FINETUNING PARAMETERS:")
+print('base model:', script_args.model_name)
+if script_args.resume_from_checkpoint:
+    print('resume_from_checkpoint:', script_args.resume_from_checkpoint)
+print(50*'-')
+print('train_split:', script_args.train_split)
+print('dataset_files:')
+for f in script_args.dataset_files:
+    print(f'\t{f}')
+print('validation_files:')
+for f in script_args.validation_files:
+    print(f'\t{f}')
+print(50*'-')
+print('output_dir:', script_args.output_dir)
+print(50*'-')
+print('learning_rate:', script_args.learning_rate)
+print('lr_scheduler_type:', script_args.lr_scheduler_type)
+print('per_device_train_batch_size:', script_args.per_device_train_batch_size)
+print('gradient_accumulation_steps:', script_args.gradient_accumulation_steps)
+print('max_steps:', script_args.max_steps)
+print('warmup_ratio:', script_args.warmup_ratio)
+print('group_by_length:', script_args.group_by_length)
+print('evaluation_strategy:', script_args.evaluation_strategy)
+print('eval_steps:', script_args.eval_steps)
+print(50*'-')
+print('lora_r:', script_args.lora_r)
+print('lora_alpha:', script_args.lora_alpha)
+print(50*'-')
+print('bf16:', script_args.bf16)
+print(50*'-')
+print('use_4bit:', script_args.use_4bit)
+print('bnb_4bit_quant_type:', script_args.bnb_4bit_quant_type)
+print('bnb_4bit_compute_dtype:', script_args.bnb_4bit_compute_dtype)
+print(50*'=')
+        
 class mySFTTrainer(SFTTrainer):
 
     def _prepare_non_packed_dataloader(
@@ -237,17 +280,16 @@ def create_and_prepare_model(args):
         ],  # , "word_embeddings", "lm_head"],
     )
 
-    tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True)
-    # using uncommon token as pad_token
+    # using uncommon token as pad_token (pad_token must be passed as argument or it won't be saved in the config file of the tokenizer)
     if script_args.model_name == 'tiiuae/falcon-7b':
-        tokenizer.pad_token = '~~~~~~~~'
+        tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True, pad_token = '~~~~~~~~')
     elif script_args.model_name == 'projecte-aina/aguila-7b':
-        tokenizer.pad_token = '~~~'
+        tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True, pad_token = '~~~')
     else: 
+        tokenizer = AutoTokenizer.from_pretrained(script_args.model_name, padding_side='left', trust_remote_code=True)
         tokenizer.pad_token = tokenizer.eos_token # in this case the model will not learn to predict eos_token
 
     return model, peft_config, tokenizer
-
 
 training_arguments = TrainingArguments(
     output_dir=script_args.output_dir,
@@ -271,18 +313,13 @@ training_arguments = TrainingArguments(
 
 model, peft_config, tokenizer = create_and_prepare_model(script_args)
 model.config.use_cache = False
-print('Dataset files:')
-for f in script_args.dataset_files:
-    print(f'\t{f}')
 dataset = load_dataset('json', data_files={'train': script_args.dataset_files}, split=f'train{script_args.train_split}')
 print("Resulting dataset:")
 print(dataset)
-print('Validation files:')
-for f in script_args.validation_files:
-    print(f'\t{f}')
 valid_dataset = load_dataset('json', data_files={'validation': script_args.validation_files}, split='validation')
 print("Resulting validation dataset:")
 print(valid_dataset)
+
 
 # instruction_template = "###SRC"
 # response_template = "###TGT"
@@ -323,4 +360,10 @@ for name, module in trainer.model.named_modules():
             if script_args.bf16 and module.weight.dtype == torch.float32:
                 module = module.to(torch.bfloat16)
 
-trainer.train()
+if script_args.resume_from_checkpoint == None:
+    resume = False
+else: 
+    resume = script_args.resume_from_checkpoint
+
+# wandb.init(id='5hbbcgit')
+trainer.train(resume_from_checkpoint=resume)
