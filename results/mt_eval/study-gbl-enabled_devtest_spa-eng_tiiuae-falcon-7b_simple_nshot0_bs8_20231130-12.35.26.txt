@@ -1,0 +1,73 @@
+TEST PARAMETERS: ----------
+start time: 30/11/2023 at 12:35:31
+execution time: 0:09:25.849689
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "study-gbl-enabled_devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231130-12.35.26"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": "/fs/surtr0/jprats/models/checkpoints/falcon_qlora_europarl10k_ebs16_linear_lr1e-4_20231127-10.24.53/checkpoint-500",
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0988
+{
+    "en": {
+        "abs_count": 1011,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.9012
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            802
+        ],
+        "name": "French",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 28.70 60.9/34.9/22.2/14.4 (BP = 1.000 ratio = 1.039 hyp_len = 25696 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 85.83
+COMET20 = 66.79
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.70 85.83 66.79 0.0988
