@@ -1,0 +1,255 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:20000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_fft_en-es10k_ebs16_linear_lr1e-4_20231204-16.53.15
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 4
+max_steps: 10000
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 50
+--------------------------------------------------
+bf16: True
+==================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 9994
+})
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+False
+False
+Grad req: transformer.word_embeddings.weight
+Grad req: transformer.h.0.self_attention.query_key_value.weight
+Grad req: transformer.h.0.self_attention.dense.weight
+Grad req: transformer.h.0.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.0.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.0.input_layernorm.weight
+Grad req: transformer.h.0.input_layernorm.bias
+Grad req: transformer.h.1.self_attention.query_key_value.weight
+Grad req: transformer.h.1.self_attention.dense.weight
+Grad req: transformer.h.1.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.1.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.1.input_layernorm.weight
+Grad req: transformer.h.1.input_layernorm.bias
+Grad req: transformer.h.2.self_attention.query_key_value.weight
+Grad req: transformer.h.2.self_attention.dense.weight
+Grad req: transformer.h.2.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.2.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.2.input_layernorm.weight
+Grad req: transformer.h.2.input_layernorm.bias
+Grad req: transformer.h.3.self_attention.query_key_value.weight
+Grad req: transformer.h.3.self_attention.dense.weight
+Grad req: transformer.h.3.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.3.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.3.input_layernorm.weight
+Grad req: transformer.h.3.input_layernorm.bias
+Grad req: transformer.h.4.self_attention.query_key_value.weight
+Grad req: transformer.h.4.self_attention.dense.weight
+Grad req: transformer.h.4.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.4.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.4.input_layernorm.weight
+Grad req: transformer.h.4.input_layernorm.bias
+Grad req: transformer.h.5.self_attention.query_key_value.weight
+Grad req: transformer.h.5.self_attention.dense.weight
+Grad req: transformer.h.5.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.5.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.5.input_layernorm.weight
+Grad req: transformer.h.5.input_layernorm.bias
+Grad req: transformer.h.6.self_attention.query_key_value.weight
+Grad req: transformer.h.6.self_attention.dense.weight
+Grad req: transformer.h.6.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.6.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.6.input_layernorm.weight
+Grad req: transformer.h.6.input_layernorm.bias
+Grad req: transformer.h.7.self_attention.query_key_value.weight
+Grad req: transformer.h.7.self_attention.dense.weight
+Grad req: transformer.h.7.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.7.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.7.input_layernorm.weight
+Grad req: transformer.h.7.input_layernorm.bias
+Grad req: transformer.h.8.self_attention.query_key_value.weight
+Grad req: transformer.h.8.self_attention.dense.weight
+Grad req: transformer.h.8.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.8.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.8.input_layernorm.weight
+Grad req: transformer.h.8.input_layernorm.bias
+Grad req: transformer.h.9.self_attention.query_key_value.weight
+Grad req: transformer.h.9.self_attention.dense.weight
+Grad req: transformer.h.9.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.9.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.9.input_layernorm.weight
+Grad req: transformer.h.9.input_layernorm.bias
+Grad req: transformer.h.10.self_attention.query_key_value.weight
+Grad req: transformer.h.10.self_attention.dense.weight
+Grad req: transformer.h.10.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.10.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.10.input_layernorm.weight
+Grad req: transformer.h.10.input_layernorm.bias
+Grad req: transformer.h.11.self_attention.query_key_value.weight
+Grad req: transformer.h.11.self_attention.dense.weight
+Grad req: transformer.h.11.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.11.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.11.input_layernorm.weight
+Grad req: transformer.h.11.input_layernorm.bias
+Grad req: transformer.h.12.self_attention.query_key_value.weight
+Grad req: transformer.h.12.self_attention.dense.weight
+Grad req: transformer.h.12.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.12.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.12.input_layernorm.weight
+Grad req: transformer.h.12.input_layernorm.bias
+Grad req: transformer.h.13.self_attention.query_key_value.weight
+Grad req: transformer.h.13.self_attention.dense.weight
+Grad req: transformer.h.13.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.13.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.13.input_layernorm.weight
+Grad req: transformer.h.13.input_layernorm.bias
+Grad req: transformer.h.14.self_attention.query_key_value.weight
+Grad req: transformer.h.14.self_attention.dense.weight
+Grad req: transformer.h.14.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.14.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.14.input_layernorm.weight
+Grad req: transformer.h.14.input_layernorm.bias
+Grad req: transformer.h.15.self_attention.query_key_value.weight
+Grad req: transformer.h.15.self_attention.dense.weight
+Grad req: transformer.h.15.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.15.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.15.input_layernorm.weight
+Grad req: transformer.h.15.input_layernorm.bias
+Grad req: transformer.h.16.self_attention.query_key_value.weight
+Grad req: transformer.h.16.self_attention.dense.weight
+Grad req: transformer.h.16.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.16.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.16.input_layernorm.weight
+Grad req: transformer.h.16.input_layernorm.bias
+Grad req: transformer.h.17.self_attention.query_key_value.weight
+Grad req: transformer.h.17.self_attention.dense.weight
+Grad req: transformer.h.17.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.17.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.17.input_layernorm.weight
+Grad req: transformer.h.17.input_layernorm.bias
+Grad req: transformer.h.18.self_attention.query_key_value.weight
+Grad req: transformer.h.18.self_attention.dense.weight
+Grad req: transformer.h.18.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.18.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.18.input_layernorm.weight
+Grad req: transformer.h.18.input_layernorm.bias
+Grad req: transformer.h.19.self_attention.query_key_value.weight
+Grad req: transformer.h.19.self_attention.dense.weight
+Grad req: transformer.h.19.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.19.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.19.input_layernorm.weight
+Grad req: transformer.h.19.input_layernorm.bias
+Grad req: transformer.h.20.self_attention.query_key_value.weight
+Grad req: transformer.h.20.self_attention.dense.weight
+Grad req: transformer.h.20.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.20.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.20.input_layernorm.weight
+Grad req: transformer.h.20.input_layernorm.bias
+Grad req: transformer.h.21.self_attention.query_key_value.weight
+Grad req: transformer.h.21.self_attention.dense.weight
+Grad req: transformer.h.21.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.21.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.21.input_layernorm.weight
+Grad req: transformer.h.21.input_layernorm.bias
+Grad req: transformer.h.22.self_attention.query_key_value.weight
+Grad req: transformer.h.22.self_attention.dense.weight
+Grad req: transformer.h.22.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.22.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.22.input_layernorm.weight
+Grad req: transformer.h.22.input_layernorm.bias
+Grad req: transformer.h.23.self_attention.query_key_value.weight
+Grad req: transformer.h.23.self_attention.dense.weight
+Grad req: transformer.h.23.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.23.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.23.input_layernorm.weight
+Grad req: transformer.h.23.input_layernorm.bias
+Grad req: transformer.h.24.self_attention.query_key_value.weight
+Grad req: transformer.h.24.self_attention.dense.weight
+Grad req: transformer.h.24.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.24.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.24.input_layernorm.weight
+Grad req: transformer.h.24.input_layernorm.bias
+Grad req: transformer.h.25.self_attention.query_key_value.weight
+Grad req: transformer.h.25.self_attention.dense.weight
+Grad req: transformer.h.25.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.25.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.25.input_layernorm.weight
+Grad req: transformer.h.25.input_layernorm.bias
+Grad req: transformer.h.26.self_attention.query_key_value.weight
+Grad req: transformer.h.26.self_attention.dense.weight
+Grad req: transformer.h.26.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.26.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.26.input_layernorm.weight
+Grad req: transformer.h.26.input_layernorm.bias
+Grad req: transformer.h.27.self_attention.query_key_value.weight
+Grad req: transformer.h.27.self_attention.dense.weight
+Grad req: transformer.h.27.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.27.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.27.input_layernorm.weight
+Grad req: transformer.h.27.input_layernorm.bias
+Grad req: transformer.h.28.self_attention.query_key_value.weight
+Grad req: transformer.h.28.self_attention.dense.weight
+Grad req: transformer.h.28.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.28.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.28.input_layernorm.weight
+Grad req: transformer.h.28.input_layernorm.bias
+Grad req: transformer.h.29.self_attention.query_key_value.weight
+Grad req: transformer.h.29.self_attention.dense.weight
+Grad req: transformer.h.29.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.29.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.29.input_layernorm.weight
+Grad req: transformer.h.29.input_layernorm.bias
+Grad req: transformer.h.30.self_attention.query_key_value.weight
+Grad req: transformer.h.30.self_attention.dense.weight
+Grad req: transformer.h.30.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.30.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.30.input_layernorm.weight
+Grad req: transformer.h.30.input_layernorm.bias
+Grad req: transformer.h.31.self_attention.query_key_value.weight
+Grad req: transformer.h.31.self_attention.dense.weight
+Grad req: transformer.h.31.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.31.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.31.input_layernorm.weight
+Grad req: transformer.h.31.input_layernorm.bias
+Grad req: transformer.ln_f.weight
+Grad req: transformer.ln_f.bias
+{'loss': 1.0167, 'learning_rate': 3.3333333333333333e-06, 'epoch': 0.01}
+{'loss': 0.8736, 'learning_rate': 6.666666666666667e-06, 'epoch': 0.02}
+{'loss': 0.7986, 'learning_rate': 1e-05, 'epoch': 0.02}
+{'loss': 0.8136, 'learning_rate': 1.3333333333333333e-05, 'epoch': 0.03}
+{'loss': 0.7517, 'learning_rate': 1.6666666666666667e-05, 'epoch': 0.04}
+{'eval_loss': 0.7252448797225952, 'eval_runtime': 423.4584, 'eval_samples_per_second': 23.601, 'eval_steps_per_second': 2.952, 'epoch': 0.04}
+{'loss': 0.7773, 'learning_rate': 2e-05, 'epoch': 0.05}
+{'loss': 0.7476, 'learning_rate': 2.3333333333333336e-05, 'epoch': 0.06}
+{'loss': 0.7732, 'learning_rate': 2.6666666666666667e-05, 'epoch': 0.06}
+{'loss': 0.7423, 'learning_rate': 3e-05, 'epoch': 0.07}
+{'loss': 0.7562, 'learning_rate': 3.3333333333333335e-05, 'epoch': 0.08}
+{'eval_loss': 0.7270644903182983, 'eval_runtime': 422.7834, 'eval_samples_per_second': 23.639, 'eval_steps_per_second': 2.957, 'epoch': 0.08}
+{'loss': 0.7504, 'learning_rate': 3.6666666666666666e-05, 'epoch': 0.09}
+{'loss': 0.7686, 'learning_rate': 4e-05, 'epoch': 0.1}
+{'loss': 0.7633, 'learning_rate': 4.3333333333333334e-05, 'epoch': 0.1}
+{'loss': 0.7571, 'learning_rate': 4.666666666666667e-05, 'epoch': 0.11}
+{'loss': 0.7991, 'learning_rate': 5e-05, 'epoch': 0.12}
