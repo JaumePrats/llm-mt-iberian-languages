@@ -14,6 +14,7 @@
 # limitations under the License.
 from dataclasses import dataclass, field
 from typing import Optional, Union
+import os
 
 import torch
 from datasets import load_dataset
@@ -143,14 +144,14 @@ class ScriptArguments:
             "help": "Group sequences into batches with same length. Saves memory and speeds up training considerably."
         },
     )
-    save_steps: int = field(default=10, metadata={"help": "Save checkpoint every X updates steps."})
-    logging_steps: int = field(default=10, metadata={"help": "Log every X updates steps."})
+    save_steps: float = field(default=0.1, metadata={"help": "Save checkpoint every X updates steps. Should be an integer or a float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
+    logging_steps: float = field(default=0.01, metadata={"help": "Log every X updates steps. Should be an integer or a float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
     evaluation_strategy: str = field(
         default="no", 
         metadata={"help": "The evaluation strategy to adopt during training. Possible values are: 'no', 'steps', 'epoch'."})
-    eval_steps: int = field(
-        default=10, 
-        metadata={"help": "Number of update steps between two evaluations if evaluation_strategy='steps'. Should be an integer or a float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
+    eval_steps: Optional[float] = field(
+        default=None, 
+        metadata={"help": "Number of update steps between two evaluations if evaluation_strategy='steps'. Float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
     output_dir: Optional[str] = field(
         default="/fs/surtr0/jprats/models/first_ft_test",
         metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
@@ -178,9 +179,11 @@ print('output_dir:', script_args.output_dir)
 print(50*'-')
 print('learning_rate:', script_args.learning_rate)
 print('lr_scheduler_type:', script_args.lr_scheduler_type)
-print('per_device_train_batch_size:', script_args.per_device_train_batch_size)
-print('gradient_accumulation_steps:', script_args.gradient_accumulation_steps)
-print('max_steps:', script_args.max_steps)
+print('effective batch size:', script_args.per_device_train_batch_size * script_args.gradient_accumulation_steps)
+print('  per_device_train_batch_size:', script_args.per_device_train_batch_size)
+print('  gradient_accumulation_steps:', script_args.gradient_accumulation_steps)
+print('  CUDA Devices:', os.environ['CUDA_VISIBLE_DEVICES'])
+print('num_train_epochs:', script_args.num_train_epochs)
 print('warmup_ratio:', script_args.warmup_ratio)
 print('group_by_length:', script_args.group_by_length)
 print('evaluation_strategy:', script_args.evaluation_strategy)
@@ -260,10 +263,10 @@ def create_and_prepare_model(args):
             print("Your GPU supports bfloat16, you can accelerate training with the argument --bf16")
             print("=" * 80)
 
-    device_map = {"": 0}
+    # device_map = {"": 0}
 
     model = AutoModelForCausalLM.from_pretrained(
-        args.model_name, quantization_config=bnb_config, device_map=device_map, trust_remote_code=True
+        args.model_name, quantization_config=bnb_config, device_map="auto", trust_remote_code=True
     )
 
     peft_config = LoraConfig(
@@ -304,7 +307,8 @@ training_arguments = TrainingArguments(
     fp16=script_args.fp16,
     bf16=script_args.bf16,
     max_grad_norm=script_args.max_grad_norm,
-    max_steps=script_args.max_steps,
+    # max_steps=script_args.max_steps,
+    num_train_epochs=script_args.num_train_epochs,
     warmup_ratio=script_args.warmup_ratio,
     group_by_length=script_args.group_by_length,
     lr_scheduler_type=script_args.lr_scheduler_type,

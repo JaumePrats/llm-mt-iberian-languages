@@ -14,6 +14,7 @@
 # limitations under the License.
 from dataclasses import dataclass, field
 from typing import Optional, Union
+import os
 
 import torch
 from datasets import load_dataset
@@ -28,19 +29,7 @@ from transformers import (
 from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
 import wandb
 
-
-########################################################################
-# This is a fully working simple example to use trl's RewardTrainer.
-#
-# This example fine-tunes any causal language model (GPT-2, GPT-Neo, etc.)
-# by using the RewardTrainer from trl, we will leverage PEFT library to finetune
-# adapters on the model.
-#
-########################################################################
-
-
 # Define and parse arguments.
-
 
 @dataclass
 class ScriptArguments:
@@ -121,12 +110,12 @@ class ScriptArguments:
             "help": "Group sequences into batches with same length. Saves memory and speeds up training considerably."
         },
     )
-    save_steps: int = field(default=100, metadata={"help": "Save checkpoint every X updates steps."})
-    logging_steps: int = field(default=10, metadata={"help": "Log every X updates steps."})
+    save_steps: float = field(default=100, metadata={"help": "Save checkpoint every X updates steps."})
+    logging_steps: float = field(default=10, metadata={"help": "Log every X updates steps."})
     evaluation_strategy: str = field(
         default="no", 
         metadata={"help": "The evaluation strategy to adopt during training. Possible values are: 'no', 'steps', 'epoch'."})
-    eval_steps: int = field(
+    eval_steps: Optional[float] = field(
         default=10, 
         metadata={"help": "Number of update steps between two evaluations if evaluation_strategy='steps'. Should be an integer or a float in range [0,1). If smaller than 1, will be interpreted as ratio of total training steps."})
     output_dir: Optional[str] = field(
@@ -156,9 +145,11 @@ print('output_dir:', script_args.output_dir)
 print(50*'-')
 print('learning_rate:', script_args.learning_rate)
 print('lr_scheduler_type:', script_args.lr_scheduler_type)
-print('per_device_train_batch_size:', script_args.per_device_train_batch_size)
-print('gradient_accumulation_steps:', script_args.gradient_accumulation_steps)
-print('max_steps:', script_args.max_steps)
+print('effective batch size:', script_args.per_device_train_batch_size * script_args.gradient_accumulation_steps)
+print('  per_device_train_batch_size:', script_args.per_device_train_batch_size)
+print('  gradient_accumulation_steps:', script_args.gradient_accumulation_steps)
+print('  CUDA Devices:', os.environ['CUDA_VISIBLE_DEVICES'])
+print('num_train_epochs:', script_args.num_train_epochs)
 print('warmup_ratio:', script_args.warmup_ratio)
 print('group_by_length:', script_args.group_by_length)
 print('evaluation_strategy:', script_args.evaluation_strategy)
@@ -166,6 +157,7 @@ print('eval_steps:', script_args.eval_steps)
 print(50*'-')
 print('bf16:', script_args.bf16)
 print(50*'=')
+
         
 class mySFTTrainer(SFTTrainer):
 
@@ -244,7 +236,8 @@ training_arguments = TrainingArguments(
     fp16=script_args.fp16,
     bf16=script_args.bf16,
     max_grad_norm=script_args.max_grad_norm,
-    max_steps=script_args.max_steps,
+    # max_steps=script_args.max_steps,
+    num_train_epochs=script_args.num_train_epochs,
     warmup_ratio=script_args.warmup_ratio,
     group_by_length=script_args.group_by_length,
     lr_scheduler_type=script_args.lr_scheduler_type,
@@ -310,5 +303,8 @@ if script_args.resume_from_checkpoint == None:
     resume = False
 else: 
     resume = script_args.resume_from_checkpoint
+
+print('model.hf_device_map:', model.hf_device_map)
+# exit()
 
 trainer.train(resume_from_checkpoint=resume)
