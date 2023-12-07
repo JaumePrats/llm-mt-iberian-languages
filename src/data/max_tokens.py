@@ -35,8 +35,8 @@ def main(args):
     max, avg_length, min = get_max_token_length(src_path, tokenizer, return_indexes=True)
     print(src_path)
     print(f'MAX: {max[0]} AVG: {avg_length} MIN: {min[0]}')
-    print(f'MAX INDEX: {max[1]}')
-    print(f'MIN INDEX: {min[1]}')
+    print(f'MAX INDEX: {max[1] + 1}')
+    print(f'MIN INDEX: {min[1] + 1}')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
