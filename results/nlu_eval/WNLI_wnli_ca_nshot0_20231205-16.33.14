@@ -1,0 +1,40 @@
+Selected Tasks: ['wnli_ca']
+Using device 'cuda:6'
+Task: wnli_ca; number of docs: 71
+Task: wnli_ca; document 0; context prompt (starting on next line):
+En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.
+Pregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?
+Resposta:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood('En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Cert')[0]
+, Req_loglikelihood('En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Fals')[0]
+)
+Running loglikelihood requests
+{
+  "results": {
+    "wnli_ca": {
+      "acc": 0.5211267605633803,
+      "acc_stderr": 0.05970805879899504
+    }
+  },
+  "versions": {
+    "wnli_ca": 1
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:6",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+| Task  |Version|Metric|Value |   |Stderr|
+|-------|------:|------|-----:|---|-----:|
+|wnli_ca|      1|acc   |0.5211|±  |0.0597|
+

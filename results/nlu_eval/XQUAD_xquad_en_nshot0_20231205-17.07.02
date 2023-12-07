@@ -1,0 +1,56 @@
+Selected Tasks: ['xquad_en']
+Using device 'cuda:6'
+Task: xquad_en; number of docs: 1190
+Task: xquad_en; document 0; context prompt (starting on next line):
+Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.
+
+Question: What is incorrectly thought about the outer chloroplast membrane?
+
+Answer:
+(end of prompt on previous line)
+Requests: (Req_greedy_until("Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.\n\nQuestion: What is incorrectly thought about the outer chloroplast membrane?\n\nAnswer:", {'until': ['\n']})[None]
+, Req_loglikelihood("Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.\n\nQuestion: What is incorrectly thought about the outer chloroplast membrane?\n\nAnswer:", ' unanswerable')[None]
+)
+Running greedy_until requests
+Running loglikelihood requests
+{
+  "results": {
+    "xquad_en": {
+      "exact": 21.092436974789916,
+      "f1": 38.31548642686844,
+      "HasAns_exact": 21.092436974789916,
+      "HasAns_f1": 38.31548642686844,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 21.092436974789916,
+      "best_f1": 38.31548642686842
+    }
+  },
+  "versions": {
+    "xquad_en": 0.0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=tiiuae/falcon-7b,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:6",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=tiiuae/falcon-7b,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+|  Task  |Version|   Metric   | Value |   |Stderr|
+|--------|------:|------------|------:|---|------|
+|xquad_en|      0|exact       |21.0924|   |      |
+|        |       |f1          |38.3155|   |      |
+|        |       |HasAns_exact|21.0924|   |      |
+|        |       |HasAns_f1   |38.3155|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  |21.0924|   |      |
+|        |       |best_f1     |38.3155|   |      |
+
