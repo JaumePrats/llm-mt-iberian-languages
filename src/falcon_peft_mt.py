@@ -125,7 +125,7 @@ class ScriptArguments:
         metadata={"help": "Use packing dataset creating."},
     )
     gradient_checkpointing: Optional[bool] = field(
-        default=True,
+        default=False,
         metadata={"help": "Enables gradient checkpointing."},
     )
     optim: Optional[str] = field(
@@ -265,8 +265,12 @@ def create_and_prepare_model(args):
 
     # device_map = {"": 0}
 
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     args.model_name, quantization_config=bnb_config, device_map="auto", trust_remote_code=True
+    # )
+
     model = AutoModelForCausalLM.from_pretrained(
-        args.model_name, quantization_config=bnb_config, device_map="auto", trust_remote_code=True
+        args.model_name, quantization_config=bnb_config, trust_remote_code=True
     )
 
     peft_config = LoraConfig(

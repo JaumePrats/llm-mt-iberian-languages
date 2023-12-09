@@ -1,9 +1,9 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=4
+export CUDA_VISIBLE_DEVICES=2,3,4,5
 echo $CUDA_VISIBLE_DEVICES
 
 # filename_prefix='falcon_qlora_en-es20M_ebs16_linear_lr1e-4'
-filename_prefix='falcon_qlora_en-es20M_ebs16_linear_lr1e-4_RESUMED'
+filename_prefix='tr4_aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 export WANDB_ENTITY=jaume-prats-cristia
@@ -12,12 +12,12 @@ export WANDB_NAME=$filename_prefix'_'$timestamp
 # export WANDB_NAME=falcon_qlora_en-es10k_ebs16_linear_lr1e-4_20231202-15.28.56_resumed
 
 
-python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
-    --model_name tiiuae/falcon-7b \
-    --resume_from_checkpoint /fs/surtr0/jprats/models/checkpoints/falcon_qlora_en-es20M_ebs16_linear_lr1e-4_20231202-15.32.04/checkpoint-460 \
+torchrun --nproc_per_node=4 --master_port=30010 \
+    /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
+    --model_name projecte-aina/aguila-7b \
     --dataset_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl' \
-    --train_split '' \
+    --train_split '[:200000]' \
     --validation_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl' \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl' \
@@ -25,16 +25,19 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt.py \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl' \
     --output_dir /fs/surtr0/jprats/models/checkpoints/$filename_prefix'_'$timestamp \
     --evaluation_strategy steps \
-    --eval_steps 50 \
-    --max_steps 10000 \
+    --per_device_eval_batch_size 2 \
+    --logging_steps 1 \
+    --eval_steps 0.11111 \
+    --save_steps 0.11111 \
+    --num_train_epochs 3 \
     --bf16 \
     --learning_rate 0.0001 \
     --lr_scheduler_type linear \
     --group_by_length False \
-    --per_device_train_batch_size 4 \
-    --gradient_accumulation_steps 4 \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 64 \
     > /fs/surtr0/jprats/code/llm-mt-iberian-languages/results/finetune/$filename_prefix'_'$timestamp.txt \
-    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
+    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log &
 
 # optional arguments:
 #   -h, --help            show this help message and exit
