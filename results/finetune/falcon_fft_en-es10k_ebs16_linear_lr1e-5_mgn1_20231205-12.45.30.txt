@@ -1,0 +1,387 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:20000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_fft_en-es10k_ebs16_linear_lr1e-5_mgn1_20231205-12.45.30
+--------------------------------------------------
+learning_rate: 1e-05
+lr_scheduler_type: linear
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 4
+max_steps: 10000
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 50
+--------------------------------------------------
+bf16: True
+==================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 9994
+})
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+False
+False
+Grad req: transformer.word_embeddings.weight
+Grad req: transformer.h.0.self_attention.query_key_value.weight
+Grad req: transformer.h.0.self_attention.dense.weight
+Grad req: transformer.h.0.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.0.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.0.input_layernorm.weight
+Grad req: transformer.h.0.input_layernorm.bias
+Grad req: transformer.h.1.self_attention.query_key_value.weight
+Grad req: transformer.h.1.self_attention.dense.weight
+Grad req: transformer.h.1.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.1.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.1.input_layernorm.weight
+Grad req: transformer.h.1.input_layernorm.bias
+Grad req: transformer.h.2.self_attention.query_key_value.weight
+Grad req: transformer.h.2.self_attention.dense.weight
+Grad req: transformer.h.2.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.2.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.2.input_layernorm.weight
+Grad req: transformer.h.2.input_layernorm.bias
+Grad req: transformer.h.3.self_attention.query_key_value.weight
+Grad req: transformer.h.3.self_attention.dense.weight
+Grad req: transformer.h.3.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.3.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.3.input_layernorm.weight
+Grad req: transformer.h.3.input_layernorm.bias
+Grad req: transformer.h.4.self_attention.query_key_value.weight
+Grad req: transformer.h.4.self_attention.dense.weight
+Grad req: transformer.h.4.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.4.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.4.input_layernorm.weight
+Grad req: transformer.h.4.input_layernorm.bias
+Grad req: transformer.h.5.self_attention.query_key_value.weight
+Grad req: transformer.h.5.self_attention.dense.weight
+Grad req: transformer.h.5.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.5.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.5.input_layernorm.weight
+Grad req: transformer.h.5.input_layernorm.bias
+Grad req: transformer.h.6.self_attention.query_key_value.weight
+Grad req: transformer.h.6.self_attention.dense.weight
+Grad req: transformer.h.6.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.6.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.6.input_layernorm.weight
+Grad req: transformer.h.6.input_layernorm.bias
+Grad req: transformer.h.7.self_attention.query_key_value.weight
+Grad req: transformer.h.7.self_attention.dense.weight
+Grad req: transformer.h.7.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.7.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.7.input_layernorm.weight
+Grad req: transformer.h.7.input_layernorm.bias
+Grad req: transformer.h.8.self_attention.query_key_value.weight
+Grad req: transformer.h.8.self_attention.dense.weight
+Grad req: transformer.h.8.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.8.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.8.input_layernorm.weight
+Grad req: transformer.h.8.input_layernorm.bias
+Grad req: transformer.h.9.self_attention.query_key_value.weight
+Grad req: transformer.h.9.self_attention.dense.weight
+Grad req: transformer.h.9.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.9.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.9.input_layernorm.weight
+Grad req: transformer.h.9.input_layernorm.bias
+Grad req: transformer.h.10.self_attention.query_key_value.weight
+Grad req: transformer.h.10.self_attention.dense.weight
+Grad req: transformer.h.10.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.10.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.10.input_layernorm.weight
+Grad req: transformer.h.10.input_layernorm.bias
+Grad req: transformer.h.11.self_attention.query_key_value.weight
+Grad req: transformer.h.11.self_attention.dense.weight
+Grad req: transformer.h.11.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.11.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.11.input_layernorm.weight
+Grad req: transformer.h.11.input_layernorm.bias
+Grad req: transformer.h.12.self_attention.query_key_value.weight
+Grad req: transformer.h.12.self_attention.dense.weight
+Grad req: transformer.h.12.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.12.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.12.input_layernorm.weight
+Grad req: transformer.h.12.input_layernorm.bias
+Grad req: transformer.h.13.self_attention.query_key_value.weight
+Grad req: transformer.h.13.self_attention.dense.weight
+Grad req: transformer.h.13.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.13.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.13.input_layernorm.weight
+Grad req: transformer.h.13.input_layernorm.bias
+Grad req: transformer.h.14.self_attention.query_key_value.weight
+Grad req: transformer.h.14.self_attention.dense.weight
+Grad req: transformer.h.14.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.14.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.14.input_layernorm.weight
+Grad req: transformer.h.14.input_layernorm.bias
+Grad req: transformer.h.15.self_attention.query_key_value.weight
+Grad req: transformer.h.15.self_attention.dense.weight
+Grad req: transformer.h.15.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.15.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.15.input_layernorm.weight
+Grad req: transformer.h.15.input_layernorm.bias
+Grad req: transformer.h.16.self_attention.query_key_value.weight
+Grad req: transformer.h.16.self_attention.dense.weight
+Grad req: transformer.h.16.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.16.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.16.input_layernorm.weight
+Grad req: transformer.h.16.input_layernorm.bias
+Grad req: transformer.h.17.self_attention.query_key_value.weight
+Grad req: transformer.h.17.self_attention.dense.weight
+Grad req: transformer.h.17.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.17.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.17.input_layernorm.weight
+Grad req: transformer.h.17.input_layernorm.bias
+Grad req: transformer.h.18.self_attention.query_key_value.weight
+Grad req: transformer.h.18.self_attention.dense.weight
+Grad req: transformer.h.18.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.18.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.18.input_layernorm.weight
+Grad req: transformer.h.18.input_layernorm.bias
+Grad req: transformer.h.19.self_attention.query_key_value.weight
+Grad req: transformer.h.19.self_attention.dense.weight
+Grad req: transformer.h.19.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.19.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.19.input_layernorm.weight
+Grad req: transformer.h.19.input_layernorm.bias
+Grad req: transformer.h.20.self_attention.query_key_value.weight
+Grad req: transformer.h.20.self_attention.dense.weight
+Grad req: transformer.h.20.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.20.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.20.input_layernorm.weight
+Grad req: transformer.h.20.input_layernorm.bias
+Grad req: transformer.h.21.self_attention.query_key_value.weight
+Grad req: transformer.h.21.self_attention.dense.weight
+Grad req: transformer.h.21.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.21.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.21.input_layernorm.weight
+Grad req: transformer.h.21.input_layernorm.bias
+Grad req: transformer.h.22.self_attention.query_key_value.weight
+Grad req: transformer.h.22.self_attention.dense.weight
+Grad req: transformer.h.22.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.22.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.22.input_layernorm.weight
+Grad req: transformer.h.22.input_layernorm.bias
+Grad req: transformer.h.23.self_attention.query_key_value.weight
+Grad req: transformer.h.23.self_attention.dense.weight
+Grad req: transformer.h.23.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.23.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.23.input_layernorm.weight
+Grad req: transformer.h.23.input_layernorm.bias
+Grad req: transformer.h.24.self_attention.query_key_value.weight
+Grad req: transformer.h.24.self_attention.dense.weight
+Grad req: transformer.h.24.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.24.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.24.input_layernorm.weight
+Grad req: transformer.h.24.input_layernorm.bias
+Grad req: transformer.h.25.self_attention.query_key_value.weight
+Grad req: transformer.h.25.self_attention.dense.weight
+Grad req: transformer.h.25.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.25.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.25.input_layernorm.weight
+Grad req: transformer.h.25.input_layernorm.bias
+Grad req: transformer.h.26.self_attention.query_key_value.weight
+Grad req: transformer.h.26.self_attention.dense.weight
+Grad req: transformer.h.26.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.26.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.26.input_layernorm.weight
+Grad req: transformer.h.26.input_layernorm.bias
+Grad req: transformer.h.27.self_attention.query_key_value.weight
+Grad req: transformer.h.27.self_attention.dense.weight
+Grad req: transformer.h.27.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.27.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.27.input_layernorm.weight
+Grad req: transformer.h.27.input_layernorm.bias
+Grad req: transformer.h.28.self_attention.query_key_value.weight
+Grad req: transformer.h.28.self_attention.dense.weight
+Grad req: transformer.h.28.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.28.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.28.input_layernorm.weight
+Grad req: transformer.h.28.input_layernorm.bias
+Grad req: transformer.h.29.self_attention.query_key_value.weight
+Grad req: transformer.h.29.self_attention.dense.weight
+Grad req: transformer.h.29.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.29.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.29.input_layernorm.weight
+Grad req: transformer.h.29.input_layernorm.bias
+Grad req: transformer.h.30.self_attention.query_key_value.weight
+Grad req: transformer.h.30.self_attention.dense.weight
+Grad req: transformer.h.30.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.30.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.30.input_layernorm.weight
+Grad req: transformer.h.30.input_layernorm.bias
+Grad req: transformer.h.31.self_attention.query_key_value.weight
+Grad req: transformer.h.31.self_attention.dense.weight
+Grad req: transformer.h.31.mlp.dense_h_to_4h.weight
+Grad req: transformer.h.31.mlp.dense_4h_to_h.weight
+Grad req: transformer.h.31.input_layernorm.weight
+Grad req: transformer.h.31.input_layernorm.bias
+Grad req: transformer.ln_f.weight
+Grad req: transformer.ln_f.bias
+{'loss': 1.0237, 'learning_rate': 3.3333333333333335e-07, 'epoch': 0.01}
+{'loss': 0.9713, 'learning_rate': 6.666666666666667e-07, 'epoch': 0.02}
+{'loss': 0.9806, 'learning_rate': 1.0000000000000002e-06, 'epoch': 0.02}
+{'loss': 1.0162, 'learning_rate': 1.3333333333333334e-06, 'epoch': 0.03}
+{'loss': 0.9473, 'learning_rate': 1.6666666666666667e-06, 'epoch': 0.04}
+{'eval_loss': 0.8975685238838196, 'eval_runtime': 422.8954, 'eval_samples_per_second': 23.632, 'eval_steps_per_second': 2.956, 'epoch': 0.04}
+{'loss': 0.9612, 'learning_rate': 2.0000000000000003e-06, 'epoch': 0.05}
+{'loss': 0.8871, 'learning_rate': 2.3333333333333336e-06, 'epoch': 0.06}
+{'loss': 0.8734, 'learning_rate': 2.666666666666667e-06, 'epoch': 0.06}
+{'loss': 0.8142, 'learning_rate': 3e-06, 'epoch': 0.07}
+{'loss': 0.8094, 'learning_rate': 3.3333333333333333e-06, 'epoch': 0.08}
+{'eval_loss': 0.7582416534423828, 'eval_runtime': 424.0627, 'eval_samples_per_second': 23.567, 'eval_steps_per_second': 2.948, 'epoch': 0.08}
+{'loss': 0.7922, 'learning_rate': 3.6666666666666666e-06, 'epoch': 0.09}
+{'loss': 0.8104, 'learning_rate': 4.000000000000001e-06, 'epoch': 0.1}
+{'loss': 0.806, 'learning_rate': 4.333333333333334e-06, 'epoch': 0.1}
+{'loss': 0.7793, 'learning_rate': 4.666666666666667e-06, 'epoch': 0.11}
+{'loss': 0.7856, 'learning_rate': 5e-06, 'epoch': 0.12}
+{'eval_loss': 0.7379852533340454, 'eval_runtime': 422.7859, 'eval_samples_per_second': 23.638, 'eval_steps_per_second': 2.957, 'epoch': 0.12}
+{'loss': 0.7997, 'learning_rate': 5.333333333333334e-06, 'epoch': 0.13}
+{'loss': 0.7396, 'learning_rate': 5.666666666666667e-06, 'epoch': 0.14}
+{'loss': 0.7434, 'learning_rate': 6e-06, 'epoch': 0.14}
+{'loss': 0.7948, 'learning_rate': 6.333333333333333e-06, 'epoch': 0.15}
+{'loss': 0.7602, 'learning_rate': 6.666666666666667e-06, 'epoch': 0.16}
+{'eval_loss': 0.723229706287384, 'eval_runtime': 423.9552, 'eval_samples_per_second': 23.573, 'eval_steps_per_second': 2.948, 'epoch': 0.16}
+{'loss': 0.7358, 'learning_rate': 7e-06, 'epoch': 0.17}
+{'loss': 0.7814, 'learning_rate': 7.333333333333333e-06, 'epoch': 0.18}
+{'loss': 0.7622, 'learning_rate': 7.666666666666667e-06, 'epoch': 0.18}
+{'loss': 0.7736, 'learning_rate': 8.000000000000001e-06, 'epoch': 0.19}
+{'loss': 0.7548, 'learning_rate': 8.333333333333334e-06, 'epoch': 0.2}
+{'eval_loss': 0.7094686627388, 'eval_runtime': 422.4451, 'eval_samples_per_second': 23.658, 'eval_steps_per_second': 2.959, 'epoch': 0.2}
+{'loss': 0.7604, 'learning_rate': 8.666666666666668e-06, 'epoch': 0.21}
+{'loss': 0.7188, 'learning_rate': 9e-06, 'epoch': 0.22}
+{'loss': 0.7699, 'learning_rate': 9.333333333333334e-06, 'epoch': 0.22}
+{'loss': 0.7026, 'learning_rate': 9.666666666666667e-06, 'epoch': 0.23}
+{'loss': 0.7346, 'learning_rate': 1e-05, 'epoch': 0.24}
+{'eval_loss': 0.7010424733161926, 'eval_runtime': 430.4764, 'eval_samples_per_second': 23.216, 'eval_steps_per_second': 2.904, 'epoch': 0.24}
+{'loss': 0.687, 'learning_rate': 9.989690721649485e-06, 'epoch': 0.25}
+{'loss': 0.7369, 'learning_rate': 9.97938144329897e-06, 'epoch': 0.26}
+{'loss': 0.7149, 'learning_rate': 9.969072164948454e-06, 'epoch': 0.26}
+{'loss': 0.7504, 'learning_rate': 9.958762886597939e-06, 'epoch': 0.27}
+{'loss': 0.7413, 'learning_rate': 9.948453608247423e-06, 'epoch': 0.28}
+{'eval_loss': 0.6941909193992615, 'eval_runtime': 424.095, 'eval_samples_per_second': 23.565, 'eval_steps_per_second': 2.947, 'epoch': 0.28}
+{'loss': 0.7467, 'learning_rate': 9.938144329896908e-06, 'epoch': 0.29}
+{'loss': 0.7182, 'learning_rate': 9.927835051546392e-06, 'epoch': 0.3}
+{'loss': 0.7427, 'learning_rate': 9.917525773195877e-06, 'epoch': 0.3}
+{'loss': 0.7348, 'learning_rate': 9.907216494845361e-06, 'epoch': 0.31}
+{'loss': 0.6973, 'learning_rate': 9.896907216494846e-06, 'epoch': 0.32}
+{'eval_loss': 0.6873929500579834, 'eval_runtime': 424.0529, 'eval_samples_per_second': 23.568, 'eval_steps_per_second': 2.948, 'epoch': 0.32}
+{'loss': 0.7444, 'learning_rate': 9.88659793814433e-06, 'epoch': 0.33}
+{'loss': 0.7265, 'learning_rate': 9.876288659793815e-06, 'epoch': 0.34}
+{'loss': 0.6848, 'learning_rate': 9.8659793814433e-06, 'epoch': 0.34}
+{'loss': 0.7241, 'learning_rate': 9.855670103092784e-06, 'epoch': 0.35}
+{'loss': 0.7307, 'learning_rate': 9.84536082474227e-06, 'epoch': 0.36}
+{'eval_loss': 0.6820041537284851, 'eval_runtime': 422.9898, 'eval_samples_per_second': 23.627, 'eval_steps_per_second': 2.955, 'epoch': 0.36}
+{'loss': 0.7199, 'learning_rate': 9.835051546391753e-06, 'epoch': 0.37}
+{'loss': 0.7248, 'learning_rate': 9.824742268041238e-06, 'epoch': 0.38}
+{'loss': 0.703, 'learning_rate': 9.814432989690722e-06, 'epoch': 0.38}
+{'loss': 0.6785, 'learning_rate': 9.804123711340207e-06, 'epoch': 0.39}
+{'loss': 0.6901, 'learning_rate': 9.793814432989691e-06, 'epoch': 0.4}
+{'eval_loss': 0.6792991757392883, 'eval_runtime': 422.8074, 'eval_samples_per_second': 23.637, 'eval_steps_per_second': 2.956, 'epoch': 0.4}
+{'loss': 0.7475, 'learning_rate': 9.783505154639176e-06, 'epoch': 0.41}
+{'loss': 0.6875, 'learning_rate': 9.77319587628866e-06, 'epoch': 0.42}
+{'loss': 0.6918, 'learning_rate': 9.762886597938145e-06, 'epoch': 0.42}
+{'loss': 0.717, 'learning_rate': 9.752577319587629e-06, 'epoch': 0.43}
+{'loss': 0.7091, 'learning_rate': 9.742268041237114e-06, 'epoch': 0.44}
+{'eval_loss': 0.671303391456604, 'eval_runtime': 423.7991, 'eval_samples_per_second': 23.582, 'eval_steps_per_second': 2.95, 'epoch': 0.44}
+{'loss': 0.6541, 'learning_rate': 9.731958762886598e-06, 'epoch': 0.45}
+{'loss': 0.7044, 'learning_rate': 9.721649484536083e-06, 'epoch': 0.46}
+{'loss': 0.7072, 'learning_rate': 9.711340206185567e-06, 'epoch': 0.46}
+{'loss': 0.6967, 'learning_rate': 9.701030927835052e-06, 'epoch': 0.47}
+{'loss': 0.7037, 'learning_rate': 9.690721649484536e-06, 'epoch': 0.48}
+{'eval_loss': 0.6701878309249878, 'eval_runtime': 422.2357, 'eval_samples_per_second': 23.669, 'eval_steps_per_second': 2.96, 'epoch': 0.48}
+{'loss': 0.7064, 'learning_rate': 9.68041237113402e-06, 'epoch': 0.49}
+{'loss': 0.7193, 'learning_rate': 9.670103092783505e-06, 'epoch': 0.5}
+{'loss': 0.6749, 'learning_rate': 9.659793814432991e-06, 'epoch': 0.5}
+{'loss': 0.6884, 'learning_rate': 9.649484536082476e-06, 'epoch': 0.51}
+{'loss': 0.6541, 'learning_rate': 9.63917525773196e-06, 'epoch': 0.52}
+{'eval_loss': 0.6714951992034912, 'eval_runtime': 422.043, 'eval_samples_per_second': 23.68, 'eval_steps_per_second': 2.962, 'epoch': 0.52}
+{'loss': 0.7185, 'learning_rate': 9.628865979381445e-06, 'epoch': 0.53}
+{'loss': 0.7275, 'learning_rate': 9.61855670103093e-06, 'epoch': 0.54}
+{'loss': 0.6846, 'learning_rate': 9.608247422680414e-06, 'epoch': 0.54}
+{'loss': 0.722, 'learning_rate': 9.597938144329899e-06, 'epoch': 0.55}
+{'loss': 0.7514, 'learning_rate': 9.587628865979383e-06, 'epoch': 0.56}
+{'eval_loss': 0.6639493107795715, 'eval_runtime': 422.3631, 'eval_samples_per_second': 23.662, 'eval_steps_per_second': 2.96, 'epoch': 0.56}
+{'loss': 0.6746, 'learning_rate': 9.577319587628868e-06, 'epoch': 0.57}
+{'loss': 0.6771, 'learning_rate': 9.567010309278352e-06, 'epoch': 0.58}
+{'loss': 0.7126, 'learning_rate': 9.556701030927837e-06, 'epoch': 0.58}
+{'loss': 0.6853, 'learning_rate': 9.546391752577321e-06, 'epoch': 0.59}
+{'loss': 0.7261, 'learning_rate': 9.536082474226806e-06, 'epoch': 0.6}
+{'eval_loss': 0.6634382605552673, 'eval_runtime': 423.6954, 'eval_samples_per_second': 23.588, 'eval_steps_per_second': 2.95, 'epoch': 0.6}
+{'loss': 0.7084, 'learning_rate': 9.525773195876288e-06, 'epoch': 0.61}
+{'loss': 0.6829, 'learning_rate': 9.515463917525773e-06, 'epoch': 0.62}
+{'loss': 0.6998, 'learning_rate': 9.505154639175257e-06, 'epoch': 0.62}
+{'loss': 0.7053, 'learning_rate': 9.494845360824742e-06, 'epoch': 0.63}
+{'loss': 0.6827, 'learning_rate': 9.484536082474226e-06, 'epoch': 0.64}
+{'eval_loss': 0.6588625311851501, 'eval_runtime': 422.6406, 'eval_samples_per_second': 23.647, 'eval_steps_per_second': 2.958, 'epoch': 0.64}
+{'loss': 0.6528, 'learning_rate': 9.474226804123711e-06, 'epoch': 0.65}
+{'loss': 0.7265, 'learning_rate': 9.463917525773197e-06, 'epoch': 0.66}
+{'loss': 0.6949, 'learning_rate': 9.453608247422682e-06, 'epoch': 0.66}
+{'loss': 0.6814, 'learning_rate': 9.443298969072166e-06, 'epoch': 0.67}
+{'loss': 0.6668, 'learning_rate': 9.43298969072165e-06, 'epoch': 0.68}
+{'eval_loss': 0.6560001969337463, 'eval_runtime': 424.3239, 'eval_samples_per_second': 23.553, 'eval_steps_per_second': 2.946, 'epoch': 0.68}
+{'loss': 0.6765, 'learning_rate': 9.422680412371135e-06, 'epoch': 0.69}
+{'loss': 0.6957, 'learning_rate': 9.41237113402062e-06, 'epoch': 0.7}
+{'loss': 0.6915, 'learning_rate': 9.402061855670104e-06, 'epoch': 0.7}
+{'loss': 0.6822, 'learning_rate': 9.391752577319589e-06, 'epoch': 0.71}
+{'loss': 0.6786, 'learning_rate': 9.381443298969073e-06, 'epoch': 0.72}
+{'eval_loss': 0.6544812917709351, 'eval_runtime': 422.9069, 'eval_samples_per_second': 23.632, 'eval_steps_per_second': 2.956, 'epoch': 0.72}
+{'loss': 0.7036, 'learning_rate': 9.371134020618558e-06, 'epoch': 0.73}
+{'loss': 0.6082, 'learning_rate': 9.360824742268042e-06, 'epoch': 0.74}
+{'loss': 0.7244, 'learning_rate': 9.350515463917527e-06, 'epoch': 0.74}
+{'loss': 0.6663, 'learning_rate': 9.340206185567011e-06, 'epoch': 0.75}
+{'loss': 0.6919, 'learning_rate': 9.329896907216496e-06, 'epoch': 0.76}
+{'eval_loss': 0.6531489491462708, 'eval_runtime': 423.2754, 'eval_samples_per_second': 23.611, 'eval_steps_per_second': 2.953, 'epoch': 0.76}
+{'loss': 0.6691, 'learning_rate': 9.31958762886598e-06, 'epoch': 0.77}
+{'loss': 0.716, 'learning_rate': 9.309278350515465e-06, 'epoch': 0.78}
+{'loss': 0.684, 'learning_rate': 9.29896907216495e-06, 'epoch': 0.78}
+{'loss': 0.6829, 'learning_rate': 9.288659793814434e-06, 'epoch': 0.79}
+{'loss': 0.6647, 'learning_rate': 9.278350515463918e-06, 'epoch': 0.8}
+{'eval_loss': 0.6525618433952332, 'eval_runtime': 423.4105, 'eval_samples_per_second': 23.604, 'eval_steps_per_second': 2.952, 'epoch': 0.8}
+{'loss': 0.6208, 'learning_rate': 9.268041237113403e-06, 'epoch': 0.81}
+{'loss': 0.6907, 'learning_rate': 9.257731958762887e-06, 'epoch': 0.82}
+{'loss': 0.6611, 'learning_rate': 9.247422680412372e-06, 'epoch': 0.82}
+{'loss': 0.6613, 'learning_rate': 9.237113402061856e-06, 'epoch': 0.83}
+{'loss': 0.6691, 'learning_rate': 9.226804123711341e-06, 'epoch': 0.84}
+{'eval_loss': 0.6474660038948059, 'eval_runtime': 422.8303, 'eval_samples_per_second': 23.636, 'eval_steps_per_second': 2.956, 'epoch': 0.84}
+{'loss': 0.6924, 'learning_rate': 9.216494845360825e-06, 'epoch': 0.85}
+{'loss': 0.6742, 'learning_rate': 9.20618556701031e-06, 'epoch': 0.86}
+{'loss': 0.6709, 'learning_rate': 9.195876288659794e-06, 'epoch': 0.86}
+{'loss': 0.6708, 'learning_rate': 9.185567010309279e-06, 'epoch': 0.87}
+{'loss': 0.633, 'learning_rate': 9.175257731958764e-06, 'epoch': 0.88}
+{'eval_loss': 0.6465651988983154, 'eval_runtime': 422.8446, 'eval_samples_per_second': 23.635, 'eval_steps_per_second': 2.956, 'epoch': 0.88}
+{'loss': 0.6971, 'learning_rate': 9.164948453608248e-06, 'epoch': 0.89}
+{'loss': 0.6759, 'learning_rate': 9.154639175257733e-06, 'epoch': 0.9}
+{'loss': 0.6626, 'learning_rate': 9.144329896907217e-06, 'epoch': 0.9}
+{'loss': 0.6749, 'learning_rate': 9.134020618556702e-06, 'epoch': 0.91}
+{'loss': 0.7101, 'learning_rate': 9.123711340206186e-06, 'epoch': 0.92}
+{'eval_loss': 0.6477436423301697, 'eval_runtime': 424.1013, 'eval_samples_per_second': 23.565, 'eval_steps_per_second': 2.947, 'epoch': 0.92}
+{'loss': 0.649, 'learning_rate': 9.11340206185567e-06, 'epoch': 0.93}
+{'loss': 0.6444, 'learning_rate': 9.103092783505155e-06, 'epoch': 0.94}
+{'loss': 0.6542, 'learning_rate': 9.09278350515464e-06, 'epoch': 0.94}
+{'loss': 0.6625, 'learning_rate': 9.082474226804124e-06, 'epoch': 0.95}
+{'loss': 0.6728, 'learning_rate': 9.072164948453609e-06, 'epoch': 0.96}
+{'eval_loss': 0.6462801098823547, 'eval_runtime': 423.0305, 'eval_samples_per_second': 23.625, 'eval_steps_per_second': 2.955, 'epoch': 0.96}
+{'loss': 0.641, 'learning_rate': 9.061855670103093e-06, 'epoch': 0.97}
+{'loss': 0.6853, 'learning_rate': 9.051546391752578e-06, 'epoch': 0.98}
+{'loss': 0.6973, 'learning_rate': 9.041237113402062e-06, 'epoch': 0.98}
+{'loss': 0.6815, 'learning_rate': 9.030927835051547e-06, 'epoch': 0.99}
+{'loss': 0.703, 'learning_rate': 9.020618556701031e-06, 'epoch': 1.0}

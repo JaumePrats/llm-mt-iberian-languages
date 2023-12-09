@@ -1,0 +1,85 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:20000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_qlora_en-es10k_ebs256_linear_lr1e-4_20231206-13.16.09
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 256
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 16
+  CUDA Devices: 4,5,6,7
+max_steps: 10000
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 50
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 9994
+})
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+False
+False
+{'loss': 1.0108, 'learning_rate': 3.3333333333333333e-06, 'epoch': 0.03}
+{'loss': 1.0123, 'learning_rate': 6.666666666666667e-06, 'epoch': 0.06}
+{'loss': 0.9896, 'learning_rate': 1e-05, 'epoch': 0.1}
+{'loss': 0.9804, 'learning_rate': 1.3333333333333333e-05, 'epoch': 0.13}
+{'loss': 0.8777, 'learning_rate': 1.6666666666666667e-05, 'epoch': 0.16}
+{'eval_loss': 0.7950867414474487, 'eval_runtime': 679.6059, 'eval_samples_per_second': 14.706, 'eval_steps_per_second': 1.839, 'epoch': 0.16}
+{'loss': 0.8519, 'learning_rate': 2e-05, 'epoch': 0.19}
+{'loss': 0.8288, 'learning_rate': 2.3333333333333336e-05, 'epoch': 0.22}
+{'loss': 0.7875, 'learning_rate': 2.6666666666666667e-05, 'epoch': 0.26}
+{'loss': 0.8043, 'learning_rate': 3e-05, 'epoch': 0.29}
+{'loss': 0.7836, 'learning_rate': 3.3333333333333335e-05, 'epoch': 0.32}
+{'eval_loss': 0.7344343066215515, 'eval_runtime': 679.2444, 'eval_samples_per_second': 14.713, 'eval_steps_per_second': 1.84, 'epoch': 0.32}
+{'loss': 0.777, 'learning_rate': 3.6666666666666666e-05, 'epoch': 0.35}
+{'loss': 0.7748, 'learning_rate': 4e-05, 'epoch': 0.38}
+{'loss': 0.752, 'learning_rate': 4.3333333333333334e-05, 'epoch': 0.42}
+{'loss': 0.7435, 'learning_rate': 4.666666666666667e-05, 'epoch': 0.45}
+{'loss': 0.7487, 'learning_rate': 5e-05, 'epoch': 0.48}
+{'eval_loss': 0.7096700668334961, 'eval_runtime': 679.0995, 'eval_samples_per_second': 14.717, 'eval_steps_per_second': 1.841, 'epoch': 0.48}
+{'loss': 0.745, 'learning_rate': 5.333333333333333e-05, 'epoch': 0.51}
+{'loss': 0.7406, 'learning_rate': 5.666666666666667e-05, 'epoch': 0.54}
+{'loss': 0.7487, 'learning_rate': 6e-05, 'epoch': 0.58}
+{'loss': 0.7474, 'learning_rate': 6.333333333333333e-05, 'epoch': 0.61}
+{'loss': 0.7286, 'learning_rate': 6.666666666666667e-05, 'epoch': 0.64}
+{'eval_loss': 0.6909263730049133, 'eval_runtime': 680.2488, 'eval_samples_per_second': 14.692, 'eval_steps_per_second': 1.838, 'epoch': 0.64}
+{'loss': 0.7234, 'learning_rate': 7e-05, 'epoch': 0.67}
+{'loss': 0.7126, 'learning_rate': 7.333333333333333e-05, 'epoch': 0.7}
+{'loss': 0.7004, 'learning_rate': 7.666666666666667e-05, 'epoch': 0.74}
+{'loss': 0.718, 'learning_rate': 8e-05, 'epoch': 0.77}
+{'loss': 0.716, 'learning_rate': 8.333333333333334e-05, 'epoch': 0.8}
+{'eval_loss': 0.6782750487327576, 'eval_runtime': 679.8426, 'eval_samples_per_second': 14.7, 'eval_steps_per_second': 1.839, 'epoch': 0.8}

@@ -1,0 +1,58 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:2000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_TEST-FFT_falcon_fft_en-es1k_ebs256_linear_lr2e-5_20231209-12.35.23
+--------------------------------------------------
+learning_rate: 2e-05
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 2,3,5,6
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+==================================================--------------------------------------------------
+
+FINETUNING PARAMETERS:bf16:
+ base model:True
+==================================================
+ tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:2000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_TEST-FFT_falcon_fft_en-es1k_ebs256_linear_lr2e-5_20231209-12.35.23
+--------------------------------------------------
+learning_rate: 2e-05
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 2,3,5,6
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+bf16: True
+==================================================

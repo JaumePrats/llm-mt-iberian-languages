@@ -1,0 +1,148 @@
+/fs/alvis0/jprats/miniconda3/envs/finetune/lib/python3.9/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+/fs/alvis0/jprats/miniconda3/envs/finetune/lib/python3.9/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+/fs/alvis0/jprats/miniconda3/envs/finetune/lib/python3.9/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+/fs/alvis0/jprats/miniconda3/envs/finetune/lib/python3.9/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+====================================================================================================
+
+FINETUNING PARAMETERS:FINETUNING PARAMETERS:
+
+base model:base model:  projecte-aina/aguila-7bprojecte-aina/aguila-7b
+
+----------------------------------------------------------------------------------------------------
+
+train_split:train_split:  [:200000][:200000]
+
+dataset_files:dataset_files:
+
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+
+validation_files:validation_files:
+
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+
+----------------------------------------------------------------------------------------------------
+
+output_dir:output_dir:  /fs/surtr0/jprats/models/checkpoints/tr4_aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_20231209-12.42.26/fs/surtr0/jprats/models/checkpoints/tr4_aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_20231209-12.42.26
+
+----------------------------------------------------------------------------------------------------
+
+learning_rate:learning_rate:  0.00010.0001
+
+lr_scheduler_type:lr_scheduler_type:  linear==================================================linear
+
+
+effective batch size:FINETUNING PARAMETERS:effective batch size: 
+ 64base model:64
+
+   per_device_train_batch_size:  per_device_train_batch_size:projecte-aina/aguila-7b  
+11--------------------------------------------------
+
+
+  gradient_accumulation_steps:  gradient_accumulation_steps:train_split:   6464[:200000]
+
+
+dataset_files:  CUDA Devices:
+  CUDA Devices:	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl  
+2,3,4,52,3,4,5validation_files:
+
+
+num_train_epochs:num_train_epochs:	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl  
+33	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+
+
+warmup_ratio:warmup_ratio:	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl  
+0.030.03	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+
+
+group_by_length:group_by_length:--------------------------------------------------  
+FalseFalseoutput_dir:
+
+ evaluation_strategy:evaluation_strategy:/fs/surtr0/jprats/models/checkpoints/tr4_aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_20231209-12.42.26  
+stepssteps--------------------------------------------------
+
+
+eval_steps:eval_steps:learning_rate:   0.111110.11111
+
+--------------------------------------------------0.0001--------------------------------------------------
+
+
+lora_r:lr_scheduler_type:lora_r:   16linear16
+
+
+lora_alpha:effective batch size:lora_alpha:   166416
+
+
+--------------------------------------------------  per_device_train_batch_size:--------------------------------------------------
+ 
+bf16:1bf16: 
+ True  gradient_accumulation_steps:True
+ 
+--------------------------------------------------64--------------------------------------------------
+
+
+use_4bit:use_4bit:    CUDA Devices:TrueTrue 
+
+2,3,4,5bnb_4bit_quant_type:bnb_4bit_quant_type:
+  num_train_epochs:nf4nf4 
+
+3bnb_4bit_compute_dtype:bnb_4bit_compute_dtype:
+  warmup_ratio:float16float16 
+
+0.03====================================================================================================
+
+
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+==================================================
+FINETUNING PARAMETERS:
+base model: projecte-aina/aguila-7b
+--------------------------------------------------
+train_split: [:200000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_20231209-12.42.26
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 2,3,4,5
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================

@@ -1,0 +1,61 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:2000000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_qlora_en-es1M_ebs256_linear_lr2e-4_20231207-16.21.25
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 256
+  per_device_train_batch_size: 16
+  gradient_accumulation_steps: 16
+  CUDA Devices: 1
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.01
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 2000000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 9994
+})
+Dataset({
+    features: ['text'],
+    num_rows: 2000000
+})
+False
+False
+{'loss': 1.0435, 'learning_rate': 1.4204545454545455e-07, 'epoch': 0.0}
+{'loss': 1.0121, 'learning_rate': 2.840909090909091e-07, 'epoch': 0.0}
+{'loss': 1.042, 'learning_rate': 4.2613636363636364e-07, 'epoch': 0.0}
+{'loss': 1.0236, 'learning_rate': 5.681818181818182e-07, 'epoch': 0.0}
+{'loss': 1.0491, 'learning_rate': 7.102272727272728e-07, 'epoch': 0.0}
+{'loss': 1.0385, 'learning_rate': 8.522727272727273e-07, 'epoch': 0.0}
