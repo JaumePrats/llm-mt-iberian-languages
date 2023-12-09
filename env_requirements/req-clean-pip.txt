@@ -1,0 +1,4 @@
+fasttext @ file:///home/conda/feedstock_root/build_artifacts/fasttext_1650131826138/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1651020388495/work
+pybind11 @ file:///home/conda/feedstock_root/build_artifacts/pybind11_1605158625379/work
+pybind11-global @ file:///home/conda/feedstock_root/build_artifacts/pybind11_1605158625379/work
