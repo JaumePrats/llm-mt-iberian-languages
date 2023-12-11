@@ -256,7 +256,7 @@ def main(io_params, model_params, prompt_params):
     translation_direction = src_lang_code + '-' + ref_lang_code
 
     # define filename: <prefix>_<translation_direction>_<model_id>_<template_id>_<num_fewshot>_<date-time>.txt
-    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id'].replace('/','-')}_{prompt_params['template_id']}_nshot{prompt_params['num_fewshot']}_bs{model_params['batch_size']}_{io_params['timestamp']}"
+    filename = f"{io_params['filename_prefix']}_{translation_direction}_{model_params['model_id'].split('/')[-1]}_{prompt_params['template_id']}_nshot{prompt_params['num_fewshot']}_bs{model_params['batch_size']}_{io_params['timestamp']}"
 
     results_path = os.path.join(PATH_PREFIX, RESULTS_DIR, filename + '.txt')
     tgt_path = os.path.join(PATH_PREFIX, TGT_DIR, filename + f'.{ref_lang_code}')
