@@ -1,3 +1,5 @@
+#!/bin/bash
+
 prefix=TEST_adapter
 model=tiiuae/falcon-7b
 tasks=xnli_ca
