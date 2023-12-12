@@ -1,14 +1,14 @@
 #!/bin/bash
 
-model=tiiuae/falcon-7b
-filename_prefix=FM_falcon_ntrex
-# nums_fewshot=(5 1 0)
-nums_fewshot=(0 1)
+model=projecte-aina/aguila-7b
+eval_set=devtest
+example_set=dev
+filename_prefix=FM_aguila_flores-$eval_set
+nums_fewshot=(5 1 0)
+# nums_fewshot=(0 1)
 directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
 # directions=("spa-cat" "spa-eng")
-gpus=(3)
-
-example_set=dev
+gpus=(2 3)
 
 for num_fewshot in "${nums_fewshot[@]}"; do
 
@@ -29,10 +29,11 @@ for num_fewshot in "${nums_fewshot[@]}"; do
         timestamp=$(date +"%Y%m%d-%H.%M.%S")
 
         echo "---------------------------------------------------"
-        echo NTREX: ${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log
+        echo FLORES: ${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log
         echo "---------------------------------------------------"
         echo "model: $model"
-        echo "direction: ${src_lang} > ${tgt_lang}"
+        echo "Direction: ${src_lang} > ${tgt_lang}"
+        echo "eval set: $eval_set"
         echo "num fewhot: $num_fewshot"
         echo "cuda devices: $CUDA_VISIBLE_DEVICES"
         echo "---------------------------------------------------"
@@ -42,13 +43,13 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             --timestamp $timestamp \
             --batch_size 8 \
             --num_beams 5 \
-            --max_new_tokens 250 \
+            --max_new_tokens 150 \
             --num_fewshot $num_fewshot \
             --template_id simple \
             --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${src_lang}_Latn.${example_set} \
             --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${tgt_lang}_Latn.${example_set} \
-            /fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.${src_lang}.txt \
-            /fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.${tgt_lang}.txt \
+            /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}_Latn.${eval_set} \
+            /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}_Latn.${eval_set} \
             /fs/surtr0/jprats/code/llm-mt-iberian-languages \
             $model 2> "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log"
 

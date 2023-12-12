@@ -1,15 +1,14 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=3
+export CUDA_VISIBLE_DEVICES=1
 echo GPU:$CUDA_VISIBLE_DEVICES
 
-model=tiiuae/falcon-7b
-adapter=/fs/surtr0/jprats/models/checkpoints/falcon_qlora_europarl10k_NOgbl_ebs16_linear_lr1e-4_20231128-12.59.27/checkpoint-500
+model=/fs/surtr0/jprats/models/merged/falcon_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_ep1
 eval_set=devtest
 example_set=dev
-filename_prefix=study-gbl-disabled_$eval_set
+filename_prefix=FT_falcon-fft-enes100k_ebs256_flores_$eval_set
 
-src_lang=spa
-tgt_lang=eng
+src_lang=eng
+tgt_lang=spa
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 echo ${src_lang}' > '${tgt_lang}
@@ -22,7 +21,6 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --max_new_tokens 150 \
     --num_fewshot 0 \
     --template_id simple \
-    --adapter $adapter \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${src_lang}_Latn.${example_set} \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${tgt_lang}_Latn.${example_set} \
     /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}_Latn.${eval_set} \
