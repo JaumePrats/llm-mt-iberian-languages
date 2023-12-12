@@ -15755,3 +15755,5 @@ False
 {'loss': 0.5176, 'learning_rate': 3.477916593348584e-05, 'epoch': 1.99}
 {'loss': 0.482, 'learning_rate': 3.4774766848495514e-05, 'epoch': 1.99}
 {'loss': 0.5291, 'learning_rate': 3.477036776350519e-05, 'epoch': 1.99}
+{'loss': 0.521, 'learning_rate': 3.476596867851487e-05, 'epoch': 1.99}
+{'loss': 0.4959, 'learning_rate': 3.476156959352455e-05, 'epoch': 1.99}
