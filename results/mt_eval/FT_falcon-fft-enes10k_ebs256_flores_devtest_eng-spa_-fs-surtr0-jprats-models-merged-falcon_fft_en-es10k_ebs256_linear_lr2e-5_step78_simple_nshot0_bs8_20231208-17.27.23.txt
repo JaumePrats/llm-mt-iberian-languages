@@ -1,0 +1,74 @@
+TEST PARAMETERS: ----------
+start time: 08/12/2023 at 17:27:29
+execution time: 2:03:17.967127
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FT_falcon-fft-enes10k_ebs256_flores_devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231208-17.27.23"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon_fft_en-es10k_ebs256_linear_lr2e-5_step78",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.1976
+{
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            197,
+            778
+        ],
+        "name": "English",
+        "percentage(%)": 0.1976
+    },
+    "es": {
+        "abs_count": 1010,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.8024
+    }
+}
+
+BLEU: ----------
+BLEU = 22.60 59.5/32.1/19.0/11.3 (BP = 0.894 ratio = 0.899 hyp_len = 26261 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.35000000000001
+COMET20 = 61.529999999999994
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.60 84.35000000000001 61.529999999999994 0.1976

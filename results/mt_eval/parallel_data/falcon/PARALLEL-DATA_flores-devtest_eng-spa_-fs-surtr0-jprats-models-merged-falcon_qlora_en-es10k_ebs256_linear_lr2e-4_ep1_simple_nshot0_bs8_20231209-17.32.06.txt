@@ -1,0 +1,82 @@
+TEST PARAMETERS: ----------
+start time: 09/12/2023 at 17:32:11
+execution time: 0:10:16.245452
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "PARALLEL-DATA_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231209-17.32.06"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon_qlora_en-es10k_ebs256_linear_lr2e-4_ep1",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.2964
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            987
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0988
+    },
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            197,
+            244
+        ],
+        "name": "English",
+        "percentage(%)": 0.1976
+    },
+    "es": {
+        "abs_count": 1009,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.7036
+    }
+}
+
+BLEU: ----------
+BLEU = 22.00 59.3/31.5/18.4/10.8 (BP = 0.892 ratio = 0.897 hyp_len = 26202 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 84.35000000000001
+COMET20 = 62.1
+
+copy results (blue comet22 comet20 off-tgt) ----------
+22.00 84.35000000000001 62.1 0.2964

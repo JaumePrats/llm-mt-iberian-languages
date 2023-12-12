@@ -1,0 +1,286 @@
+TEST PARAMETERS: ----------
+start time: 12/12/2023 at 10:46:39
+execution time: 0:20:14.534752
+translation direction: eng-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "LANG_TRANF_falcon_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.cat.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "timestamp": "20231212-10.46.37"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 250,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon/qlora/falcon_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_ep1",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 98.3467
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            966
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0501
+    },
+    "br": {
+        "abs_count": 1,
+        "lines": [
+            1013
+        ],
+        "name": "Breton",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 33,
+        "lines": [
+            67,
+            77,
+            153,
+            177,
+            214,
+            238,
+            294,
+            392,
+            494,
+            502,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 1.6533
+    },
+    "da": {
+        "abs_count": 1,
+        "lines": [
+            1805
+        ],
+        "name": "Danish",
+        "percentage(%)": 0.0501
+    },
+    "de": {
+        "abs_count": 1,
+        "lines": [
+            319
+        ],
+        "name": "German",
+        "percentage(%)": 0.0501
+    },
+    "en": {
+        "abs_count": 74,
+        "lines": [
+            50,
+            57,
+            75,
+            84,
+            96,
+            141,
+            172,
+            222,
+            250,
+            304,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 3.7074
+    },
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            1575
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0501
+    },
+    "es": {
+        "abs_count": 1811,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 90.7315
+    },
+    "et": {
+        "abs_count": 2,
+        "lines": [
+            555,
+            1730
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.1002
+    },
+    "fr": {
+        "abs_count": 37,
+        "lines": [
+            25,
+            27,
+            165,
+            197,
+            298,
+            331,
+            370,
+            437,
+            537,
+            548,
+            "more than 10 lines ..."
+        ],
+        "name": "French",
+        "percentage(%)": 1.8537
+    },
+    "ga": {
+        "abs_count": 1,
+        "lines": [
+            1821
+        ],
+        "name": "Irish",
+        "percentage(%)": 0.0501
+    },
+    "gl": {
+        "abs_count": 8,
+        "lines": [
+            423,
+            426,
+            685,
+            818,
+            1425,
+            1495,
+            1571,
+            1938
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.4008
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            324
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 5,
+        "lines": [
+            915,
+            1322,
+            1804,
+            1918,
+            1932
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.2505
+    },
+    "lv": {
+        "abs_count": 1,
+        "lines": [
+            1840
+        ],
+        "name": "Latvian",
+        "percentage(%)": 0.0501
+    },
+    "nl": {
+        "abs_count": 1,
+        "lines": [
+            542
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.0501
+    },
+    "nn": {
+        "abs_count": 1,
+        "lines": [
+            790
+        ],
+        "name": "Norwegian Nynorsk",
+        "percentage(%)": 0.0501
+    },
+    "oc": {
+        "abs_count": 5,
+        "lines": [
+            769,
+            1085,
+            1522,
+            1560,
+            1842
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.2505
+    },
+    "pt": {
+        "abs_count": 8,
+        "lines": [
+            100,
+            224,
+            523,
+            939,
+            963,
+            1573,
+            1841,
+            1987
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.4008
+    },
+    "rw": {
+        "abs_count": 1,
+        "lines": [
+            302
+        ],
+        "name": "Kinyarwanda",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    },
+    "tl": {
+        "abs_count": 1,
+        "lines": [
+            1888
+        ],
+        "name": "Tagalog",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 6.40 33.4/9.8/3.7/1.5 (BP = 0.971 ratio = 0.971 hyp_len = 51890 ref_len = 53434)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 77.0
+COMET20 = 39.53
+
+copy results (blue comet22 comet20 off-tgt) ----------
+6.40 77.0 39.53 98.3467
