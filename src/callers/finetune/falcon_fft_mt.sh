@@ -1,19 +1,25 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=5,6,7
+export CUDA_VISIBLE_DEVICES=0,1,2,3,5,6
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix='falcon_fft_en-es10k_ebs16_linear_lr1e-4'
+filename_prefix='tr4_TEST-FFT_falcon_fft_en-es1k_ebs256_linear_lr2e-5'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 export WANDB_ENTITY=jaume-prats-cristia
 export WANDB_PROJECT=falcon_ft_test
 export WANDB_NAME=$filename_prefix'_'$timestamp
 
-python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_fft_mt.py \
+    # --bf16 \
+    # --per_device_train_batch_size 1 \
+    # --gradient_accumulation_steps 64 \
+
+
+torchrun --nproc_per_node=6 --master_port=30001 \
+    /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_fft_mt.py \
     --model_name tiiuae/falcon-7b \
     --dataset_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl' \
-    --train_split '[:20000]' \
+    --train_split '[:2000]' \
     --validation_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl' \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl' \
@@ -21,16 +27,18 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_fft_mt.py \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl' \
     --output_dir /fs/surtr0/jprats/models/checkpoints/$filename_prefix'_'$timestamp \
     --evaluation_strategy steps \
-    --eval_steps 50 \
-    --max_steps 10000 \
-    --bf16 \
-    --learning_rate 0.0001 \
+    --per_device_eval_batch_size 1 \
+    --logging_steps 1 \
+    --eval_steps 0.11111 \
+    --save_steps 0.11111 \
+    --num_train_epochs 3 \
+    --learning_rate 0.00002 \
     --lr_scheduler_type linear \
     --group_by_length False \
-    --per_device_train_batch_size 4 \
-    --gradient_accumulation_steps 4 \
-    > /fs/surtr0/jprats/code/llm-mt-iberian-languages/results/finetune/$filename_prefix'_'$timestamp.txt \
-    2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
+    --deepspeed /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/ds_configs/simple_config.json \
+    --fp16 
+    # > /fs/surtr0/jprats/code/llm-mt-iberian-languages/results/finetune/$filename_prefix'_'$timestamp.txt \
+    # 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
 
 # optional arguments:
 #   -h, --help            show this help message and exit

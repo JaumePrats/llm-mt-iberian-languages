@@ -125,7 +125,7 @@ class ScriptArguments:
         metadata={"help": "Use packing dataset creating."},
     )
     gradient_checkpointing: Optional[bool] = field(
-        default=True,
+        default=False,
         metadata={"help": "Enables gradient checkpointing."},
     )
     optim: Optional[str] = field(
@@ -156,10 +156,13 @@ class ScriptArguments:
         default="/fs/surtr0/jprats/models/first_ft_test",
         metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
     )
+    deepspeed: Optional[str] = field(default='', metadata={"help": "Deepspeed"})
 
 
 parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
+
+print(script_args.deepspeed)
 
 print(50*'=')
 print("FINETUNING PARAMETERS:")
@@ -265,8 +268,12 @@ def create_and_prepare_model(args):
 
     # device_map = {"": 0}
 
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     args.model_name, quantization_config=bnb_config, device_map="auto", trust_remote_code=True
+    # )
+
     model = AutoModelForCausalLM.from_pretrained(
-        args.model_name, quantization_config=bnb_config, device_map="auto", trust_remote_code=True
+        args.model_name, quantization_config=bnb_config, trust_remote_code=True
     )
 
     peft_config = LoraConfig(
@@ -296,8 +303,8 @@ def create_and_prepare_model(args):
 
 training_arguments = TrainingArguments(
     output_dir=script_args.output_dir,
-    per_device_train_batch_size=script_args.per_device_train_batch_size,
-    gradient_accumulation_steps=script_args.gradient_accumulation_steps,
+    # per_device_train_batch_size=script_args.per_device_train_batch_size,
+    # gradient_accumulation_steps=script_args.gradient_accumulation_steps,
     optim=script_args.optim,
     save_steps=script_args.save_steps,
     logging_steps=script_args.logging_steps,
@@ -312,7 +319,8 @@ training_arguments = TrainingArguments(
     warmup_ratio=script_args.warmup_ratio,
     group_by_length=script_args.group_by_length,
     lr_scheduler_type=script_args.lr_scheduler_type,
-    gradient_checkpointing=script_args.gradient_checkpointing
+    gradient_checkpointing=script_args.gradient_checkpointing,
+    deepspeed=script_args.deepspeed
 )
 
 model, peft_config, tokenizer = create_and_prepare_model(script_args)
@@ -369,4 +377,5 @@ if script_args.resume_from_checkpoint == None:
 else: 
     resume = script_args.resume_from_checkpoint
 
+# wandb.init(id='5hbbcgit')
 trainer.train(resume_from_checkpoint=resume)

@@ -122,10 +122,12 @@ class ScriptArguments:
         default="/fs/surtr0/jprats/models/first_ft_test",
         metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
     )
+    deepspeed: Optional[str] = field(default='', metadata={"help": "Deepspeed"})
 
 
 parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
+
 
 print(50*'=')
 print("FINETUNING PARAMETERS:")
@@ -208,8 +210,12 @@ class mySFTTrainer(SFTTrainer):
 
 def create_and_prepare_model(args):
 
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     args.model_name, torch_dtype=torch.bfloat16, device_map='auto', trust_remote_code=True
+    # )
+
     model = AutoModelForCausalLM.from_pretrained(
-        args.model_name, torch_dtype=torch.bfloat16, device_map='auto', trust_remote_code=True
+        args.model_name, torch_dtype=torch.bfloat16, trust_remote_code=True
     )
 
     # using uncommon token as pad_token (pad_token must be passed as argument or it won't be saved in the config file of the tokenizer)
@@ -225,8 +231,8 @@ def create_and_prepare_model(args):
 
 training_arguments = TrainingArguments(
     output_dir=script_args.output_dir,
-    per_device_train_batch_size=script_args.per_device_train_batch_size,
-    gradient_accumulation_steps=script_args.gradient_accumulation_steps,
+    # per_device_train_batch_size=script_args.per_device_train_batch_size,
+    # gradient_accumulation_steps=script_args.gradient_accumulation_steps,
     optim=script_args.optim,
     save_steps=script_args.save_steps,
     logging_steps=script_args.logging_steps,
@@ -234,14 +240,15 @@ training_arguments = TrainingArguments(
     eval_steps=script_args.eval_steps,
     learning_rate=script_args.learning_rate,
     fp16=script_args.fp16,
-    bf16=script_args.bf16,
+    # bf16=script_args.bf16,
     max_grad_norm=script_args.max_grad_norm,
     # max_steps=script_args.max_steps,
     num_train_epochs=script_args.num_train_epochs,
     warmup_ratio=script_args.warmup_ratio,
     group_by_length=script_args.group_by_length,
     lr_scheduler_type=script_args.lr_scheduler_type,
-    gradient_checkpointing=script_args.gradient_checkpointing
+    gradient_checkpointing=script_args.gradient_checkpointing,
+    deepspeed=script_args.deepspeed
 )
 
 model, tokenizer = create_and_prepare_model(script_args)
@@ -291,20 +298,18 @@ for name, module in trainer.model.named_modules():
             if script_args.bf16 and module.weight.dtype == torch.float32:
                 module = module.to(torch.bfloat16)
 
-for name, param in trainer.model.named_parameters():
-   if name == "base_model.model.transformer.word_embeddings.weight":
-       param.requires_grad = True
-   if param.requires_grad:
-       print('Grad req:', name)
-   else:
-       print('Grad not req:', name)
+# for name, param in trainer.model.named_parameters():
+#    if param.requires_grad:
+#        print('Grad req:', name)
+#    else:
+#        print('Grad not req:', name)
 
 if script_args.resume_from_checkpoint == None:
     resume = False
 else: 
     resume = script_args.resume_from_checkpoint
 
-print('model.hf_device_map:', model.hf_device_map)
+# print('model.hf_device_map:', model.hf_device_map)
 # exit()
 
 trainer.train(resume_from_checkpoint=resume)
