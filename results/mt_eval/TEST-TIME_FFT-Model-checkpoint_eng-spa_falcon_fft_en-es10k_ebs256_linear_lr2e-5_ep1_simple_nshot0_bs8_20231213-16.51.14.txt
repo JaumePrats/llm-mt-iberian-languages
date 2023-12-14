@@ -1,0 +1,65 @@
+TEST PARAMETERS: ----------
+start time: 13/12/2023 at 16:51:18
+execution time: 0:04:09.571786
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "TEST-TIME_FFT-Model-checkpoint",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/eng_Latn.dev",
+    "timestamp": "20231213-16.51.14"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon/fft/test_save/falcon_fft_en-es10k_ebs256_linear_lr2e-5_ep1",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0
+{
+    "es": {
+        "abs_count": 20,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 100.0
+    }
+}
+
+BLEU: ----------
+BLEU = 25.04 63.8/35.4/21.9/13.5 (BP = 0.875 ratio = 0.883 hyp_len = 556 ref_len = 630)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 85.02
+COMET20 = 60.629999999999995
+
+copy results (blue comet22 comet20 off-tgt) ----------
+25.04 85.02 60.629999999999995 0.0

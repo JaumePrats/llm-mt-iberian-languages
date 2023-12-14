@@ -1,0 +1,76 @@
+TEST PARAMETERS: ----------
+start time: 13/12/2023 at 11:19:24
+execution time: 0:08:51.858540
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "TEST-TIME_Aguila",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/spa_Latn.dev",
+    "src_data": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/eng_Latn.dev",
+    "timestamp": "20231213-11.19.22"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/processed/04-finetuning/tiny_flores/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 18.1818
+{
+    "en": {
+        "abs_count": 4,
+        "lines": [
+            3,
+            4,
+            8,
+            14
+        ],
+        "name": "English",
+        "percentage(%)": 18.1818
+    },
+    "es": {
+        "abs_count": 18,
+        "lines": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 81.8182
+    }
+}
+
+BLEU: ----------
+BLEU = 1.75 19.9/4.9/1.2/0.1 (BP = 0.964 ratio = 0.965 hyp_len = 608 ref_len = 630)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 44.4
+COMET20 = -131.35
+
+copy results (blue comet22 comet20 off-tgt) ----------
+1.75 44.4 -131.35 18.1818
