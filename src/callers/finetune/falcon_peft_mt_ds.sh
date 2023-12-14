@@ -1,5 +1,5 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=2,3,4,5
+export CUDA_VISIBLE_DEVICES=6,7
 echo $CUDA_VISIBLE_DEVICES
 
 # filename_prefix='falcon_qlora_en-es20M_ebs16_linear_lr1e-4'
@@ -12,7 +12,7 @@ export WANDB_NAME=$filename_prefix'_'$timestamp
 # export WANDB_NAME=falcon_qlora_en-es10k_ebs16_linear_lr1e-4_20231202-15.28.56_resumed
 
 
-torchrun --nproc_per_node=4 --master_port=30010 \
+torchrun --nproc_per_node=2 --master_port=30010 \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_peft_mt_ds.py \
     --model_name tiiuae/falcon-7b \
     --dataset_files \

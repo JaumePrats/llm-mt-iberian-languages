@@ -231,8 +231,8 @@ def create_and_prepare_model(args):
 
 training_arguments = TrainingArguments(
     output_dir=script_args.output_dir,
-    # per_device_train_batch_size=script_args.per_device_train_batch_size,
-    # gradient_accumulation_steps=script_args.gradient_accumulation_steps,
+    per_device_train_batch_size=script_args.per_device_train_batch_size,
+    gradient_accumulation_steps=script_args.gradient_accumulation_steps,
     optim=script_args.optim,
     save_steps=script_args.save_steps,
     logging_steps=script_args.logging_steps,
@@ -309,7 +309,13 @@ if script_args.resume_from_checkpoint == None:
 else: 
     resume = script_args.resume_from_checkpoint
 
-# print('model.hf_device_map:', model.hf_device_map)
-# exit()
+print('model:', model)
+# print('trainer.model.hf_:', model.device_map)
+for name, param in trainer.model.named_parameters():
+    print(name, param)
+#    if param.requires_grad:
+#        print('Grad req:', name)
+#    else:
+#        print('Grad not req:', name)
 
 trainer.train(resume_from_checkpoint=resume)

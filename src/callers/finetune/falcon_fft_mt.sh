@@ -1,8 +1,8 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=0,1,2,3,5,6
+export CUDA_VISIBLE_DEVICES=2,3,4,5
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix='tr4_TEST-FFT_falcon_fft_en-es1k_ebs256_linear_lr2e-5'
+filename_prefix='tr4_TEST-FFT_falcon_fft_en-es10k_ebs256_linear_lr2e-5'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 export WANDB_ENTITY=jaume-prats-cristia
@@ -14,7 +14,7 @@ export WANDB_NAME=$filename_prefix'_'$timestamp
     # --gradient_accumulation_steps 64 \
 
 
-torchrun --nproc_per_node=6 --master_port=30001 \
+torchrun --nproc_per_node=4 --master_port=30022 \
     /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/falcon_fft_mt.py \
     --model_name tiiuae/falcon-7b \
     --dataset_files \
@@ -33,9 +33,11 @@ torchrun --nproc_per_node=6 --master_port=30001 \
     --save_steps 0.11111 \
     --num_train_epochs 3 \
     --learning_rate 0.00002 \
-    --lr_scheduler_type linear \
+    --lr_scheduler_type constant \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 64 \
     --group_by_length False \
-    --deepspeed /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/ds_configs/simple_config.json \
+    --deepspeed /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/ds_configs/mod_config.json \
     --fp16 
     # > /fs/surtr0/jprats/code/llm-mt-iberian-languages/results/finetune/$filename_prefix'_'$timestamp.txt \
     # 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/finetune/$filename_prefix'_'$timestamp.log
