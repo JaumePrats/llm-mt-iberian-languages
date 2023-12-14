@@ -1,0 +1,1055 @@
+Spanish: <s>Les gusta participar en la gestión del grupo, pero tener que hacer informes diarios es harina de otro costal.</s>
+English: <s>He likes to participate in the management of the group, but having to do daily reports is a different kettle of fish.</s>
+Spanish: <s>No me gusta la idea de tener que participar en la gestión del grupo.</s>
+English: <s>I don't like the idea of having to participate in the management of the group.</s>
+Spanish: <s>No me gusta participar en la gestión del grupo.</s>
+English: <s>I don'
+--------------------
+Spanish: <s>La catedral está a tiro de piedra de mi piso, puedes verla desde la ventana del comedor.</s>
+English: <s>The cathedral is just a stone's throw from my flat, you can see it from the window of the dining room.</s>
+Spanish: <s>La catedral está a tiro de piedra de mi piso, puedes verla desde la ventana del comedor.</s>
+English: <s>The cathedral is just a stone's throw from my flat, you can see it from the window of the dining room.</s>
+Spanish: <s>La catedral está a t
+--------------------
+Spanish: <s>Vivo a tiro de piedra de esta bonita zona boscosa</s>
+English: <s>I live just a stone's throw from this beautiful wooded area</s>
+Spanish: <s>Vivo a tiro de piedra de esta bonita zona boscosa</s>
+English: <s>I live just a stone's throw from this beautiful wooded area</s>
+Spanish: <s>Vivo a tiro de piedra de esta bonita zona boscosa</s>
+English: <s>I live just a stone's throw from this beautiful wooded area</s>
+--------------------
+Spanish: <s>Después de mucho discutir nos decidimos por el método que sugirió Ros: al fin y al cabo es ella la experta en el campo.</s>
+English: <s>After much discussion we decided to go with the method that Ros suggested: after all, she is the expert in the field.</s>
+Spanish: <s>Después de mucho discutir nos decidimos por el método que sugirió Ros: al fin y al cabo es ella la experta en el campo.</s>
+English: <s>After much discussion we decided to go with the method that Ros suggested: after all, she is the expert in the field.</s>
+Spanish: <s
+--------------------
+Spanish: <s>Perdimos toda la documentación en el incendio, así que tenemos que empezar de cero.</s>
+English: <s>We lost all the documentation in the fire, so we have to start from scratch.</s>
+Spanish: <s>Perdimos toda la documentación en el incendio, así que tenemos que empezar de cero.</s>
+English: <s>We lost all the documentation in the fire, so we have to start from scratch.</s>
+Spanish: <s>Perdimos toda la documentación en el incendio, así que tenemos que empezar de cero.</s
+--------------------
+Spanish: <s>El plan fracasó y tenemos que replantearnos toda nuestra estrategia: volvemos a empezar desde el principio.</s>
+English: <s>The plan failed and we have to rethink our strategy: we have to start all over again.</s>
+Spanish: <s>El plan fracasó y tenemos que replantearnos toda nuestra estrategia: volvemos a empezar desde el principio.</s>
+English: <s>The plan failed and we have to rethink our strategy: we have to start all over again.</s>
+Spanish: <s>El plan fracasó y tenemos que replantearnos toda nuestra estrategia
+--------------------
+Spanish: <s>En el bolso siempre llevo pañuelos de papel, bolígrafos, pintalabios y muchas otras cosillas.</s>
+English: <s>In my bag I always carry paper napkins, pens, lip balm and many other things.</s>
+Spanish: <s>En el bolso siempre llevo pañuelos de papel, bolígrafos, pintalabios y muchas otras cosillas.</s>
+English: <s>In my bag I always carry paper napkins, pens, lip balm and many other things.</s>
+Spanish: <s>En el bolso siempre llevo pañuelos de papel, bolíg
+--------------------
+Spanish: <s>Te vas a la página web, apuntas tu nombre en la lista y ya está.</s>
+English: <s>You go to the website, you enter your name in the list and that's it.</s>
+Spanish: <s>Te vas a la página web, apuntas tu nombre en la lista y ya está.</s>
+English: <s>You go to the website, you enter your name in the list and that's it.</s>
+Spanish: <s>Te vas a la página web, apuntas tu nombre en la lista y ya está.</s>
+English: <
+--------------------
+Spanish: <s>Mira, doblas la esquina de esta manera y ahí lo tienes: has hecho un avión de papel!</s>
+English: <s>Look, fold the corner like this and there you have it: you've made an airplane!</s>
+Spanish: <s>Mira, doblas la esquina de esta manera y ahí lo tienes: has hecho un avión de papel!</s>
+English: <s>Look, fold the corner like this and there you have it: you've made an airplane!</s>
+Spanish: <s>Mira, doblas la esquina de esta manera y ahí lo tienes
+--------------------
+Spanish: <s>Esta tarde tienes esa importante entrevista de trabajo! Mucha suerte!</s>
+English: <s>This afternoon you have that important job interview! Good luck!</s>
+Spanish: <s>Esta tarde tienes esa importante entrevista de trabajo! Mucha suerte!</s>
+English: <s>This afternoon you have that important job interview! Good luck!</s>
+Spanish: <s>Esta tarde tienes esa importante entrevista de trabajo! Mucha suerte!</s>
+English: <s>This afternoon you have that important job interview! Good luck!</s>
+Spanish: <s>Esta
+--------------------
+Spanish: <s>Lo vas a hacer muy bien en la conferencia, así que no te preocupes y mucha suerte!</s>
+English: <s>You're going to do very well at the conference, so don't worry and good luck!</s>
+Spanish: <s>Lo vas a hacer muy bien en la conferencia, así que no te preocupes y mucha suerte!</s>
+English: <s>You're going to do very well at the conference, so don't worry and good luck!</s>
+Spanish: <s>Lo vas a hacer muy bien en la conferencia, así que no te preocupes y mucha suerte
+--------------------
+Spanish: <s>Conseguí entrar en la tienda y comprar un tubo de pasta de dientes por los pelos. Eran casi las 8 de la tarde.</s>
+English: <s>I managed to get into the shop and buy a tube of toothpaste for my hair. It was almost 8 o'clock.</s>
+Spanish: <s>Conseguí entrar en la tienda y comprar un tubo de pasta de dientes por los pelos. Eran casi las 8 de la tarde.</s>
+English: <s>I managed to get into the shop and buy a tube of toothpaste for my hair. It was almost 8 o'clock.</s>
+Spanish: <s
+--------------------
+Spanish: <s>Conseguí coger el último tren por los pelos; un minuto más tarde y lo habría perdido.</s>
+English: <s>I just managed to catch the last train by the skin of my teeth; a minute later and I would have missed it.</s>
+Spanish: <s>Conseguí coger el último tren por los pelos; un minuto más tarde y lo habría perdido.</s>
+English: <s>I just managed to catch the last train by the skin of my teeth; a minute later and I would have missed it.</s>
+Spanish: <s>Conseguí coger el último
+--------------------
+Spanish: <s>El techo se derrumbó justo mientras estaban saliendo de la habitación: consiguieron salir por los pelos.</s>
+English: <s>The roof collapsed just as they were leaving the room: they managed to get out by the skin of their teeth.</s>
+Spanish: <s>El techo se derrumbó justo mientras estaban saliendo de la habitación: consiguieron salir por los pelos.</s>
+English: <s>The roof collapsed just as they were leaving the room: they managed to get out by the skin of their teeth.</s>
+Spanish: <s>El techo se derrumb
+--------------------
+Spanish: <s>Es muy difícil dejar de fumar de un día para el otro.</s>
+English: <s>It's very difficult to stop smoking from one day to the next.</s>
+Spanish: <s>Es muy difícil dejar de fumar de un día para el otro.</s>
+English: <s>It's very difficult to stop smoking from one day to the next.</s>
+Spanish: <s>Es muy difícil dejar de fumar de un día para el otro.</s>
+English: <s>It's very difficult to stop smoking from one day to the next.</s
+--------------------
+Spanish: <s>Se fué de repente el lunes por la mañana sin decir ni una palabra.</s>
+English: <s>He suddenly left on Monday morning without saying a word.</s>
+Spanish: <s>Se fué de repente el lunes por la mañana sin decir ni una palabra.</s>
+English: <s>He suddenly left on Monday morning without saying a word.</s>
+Spanish: <s>Se fué de repente el lunes por la mañana sin decir ni una palabra.</s>
+English: <s>He suddenly left on Monday morning without saying a word.</s>
+Spanish:
+--------------------
+Spanish: <s>Ha dejado de tomar drogas por completo: lo ha hecho de forma drástica.</s>
+English: <s>He stopped taking drugs completely: he did it in a drastic way.</s>
+Spanish: <s>Ha dejado de tomar drogas por completo: lo ha hecho de forma drástica.</s>
+English: <s>He stopped taking drugs completely: he did it in a drastic way.</s>
+Spanish: <s>Ha dejado de tomar drogas por completo: lo ha hecho de forma drástica.</s>
+English: <s>He stopped taking drugs completely: he did
+--------------------
+Spanish: <s>Hay que ser fuerte para empezar una carrera política: ahí fuera es la jungla.</s>
+English: <s>You have to be strong to start a political career: out there it's the jungle.</s>
+Spanish: <s>Hay que ser fuerte para empezar una carrera política: ahí fuera es la jungla.</s>
+English: <s>You have to be strong to start a political career: out there it's the jungle.</s>
+Spanish: <s>Hay que ser fuerte para empezar una carrera política: ahí fuera es la jungla.</s>
+English: <s>
+--------------------
+Spanish: <s>Mantente firme: es la jungla ahí fuera.</s>
+English: <s>Stay firm: it's a jungle out there.</s>
+Spanish: <s>Mantente firme: es la jungla ahí fuera.</s>
+English: <s>Stay firm: it's a jungle out there.</s>
+Spanish: <s>Mantente firme: es la jungla ahí fuera.</s>
+English: <s>Stay firm: it's a jungle out there.</s>
+Spanish: <s>Mantente firme:
+--------------------
+Spanish: <s>No me hagas mucho caso pero creo que acaban de estrenar una nueva temporada de "Breaking Bad".</s>
+English: <s>No me hagas mucho caso pero creo que acaban de estrenar una nueva temporada de "Breaking Bad".</s>
+Spanish: <s>No me hagas mucho caso pero creo que acaban de estrenar una nueva temporada de "Breaking Bad".</s>
+English: <s>No me hagas mucho caso pero creo que acaban de estrenar una nueva temporada de "Breaking Bad".</s>
+Spanish: <s>No me hagas
+--------------------
+Spanish: <s>No estoy 100% segura, pero he oído que acaba de comprarse una casa en el centro.</s>
+English: <s>I'm not 100% sure, but I've heard that she just bought a house in the center.</s>
+Spanish: <s>No estoy 100% segura, pero he oído que acaba de comprarse una casa en el centro.</s>
+English: <s>I'm not 100% sure, but I've heard that she just bought a house in the center.</s>
+Spanish: <s>No estoy 100% segura, pero he o
+--------------------
+Spanish: <s>Mucha gente dice que para perder peso sólo hay que hacer más ejercicio y comer menos, pero es más fácil decirlo que hacerlo.</s>
+English: <s>Many people say that the only way to lose weight is to do more exercise and eat less, but it's easier said than done.</s>
+Spanish: <s>Mucha gente dice que para perder peso sólo hay que hacer más ejercicio y comer menos, pero es más fácil decirlo que hacerlo.</s>
+English: <s>Many people say that the only way to lose weight is to do more exercise and eat less, but it's easier said than done.</s>
+Spanish: <
+--------------------
+Spanish: <s>Para el carro! No hace falta precipitarse ahora, tómate uno o dos días para pensártelo bien.</s>
+English: <s>For the car! Don't hurry now, take a couple of days to think about it.</s>
+Spanish: <s>Para el carro! No hace falta precipitarse ahora, tómate uno o dos días para pensártelo bien.</s>
+English: <s>For the car! Don't hurry now, take a couple of days to think about it.</s>
+Spanish: <s>Para el carro! No hace falta precipitarse ahora, tómate uno o
+--------------------
+Spanish: <s>Uooooooo, para el carro! Todavía no estamos listos para salir, tenemos que esperar a tu madre.</s>
+English: <s>Uooooooo, for the car! We're not ready to leave yet, we have to wait for your mother.</s>
+Spanish: <s>Uooooooo, para el carro! Todavía no estamos listos para salir, tenemos que esperar a tu madre.</s>
+English: <s>Uooooooo, for the car! We're not ready to leave yet, we have to wait for your mother.</s>
+Spanish: <s>Uooooooo, para el carro! Tod
+--------------------
+Spanish: <s>La forma en que la gente me miraba durante el espectáculo me ponía los pelos de punta.</s>
+English: <s>The way people were looking at me during the show made my hair stand on end.</s>
+Spanish: <s>La forma en que la gente me miraba durante el espectáculo me ponía los pelos de punta.</s>
+English: <s>The way people were looking at me during the show made my hair stand on end.</s>
+Spanish: <s>La forma en que la gente me miraba durante el espectáculo me ponía los pelos de punta.</s>
+
+--------------------
+Spanish: <s>Los disfraces de la fiesta de Halloween me dieron mal rollo y decidí marcharme.</s>
+English: <s>The Halloween costumes gave me a bad feeling and I decided to leave.</s>
+Spanish: <s>Los disfraces de la fiesta de Halloween me dieron mal rollo y decidí marcharme.</s>
+English: <s>The Halloween costumes gave me a bad feeling and I decided to leave.</s>
+Spanish: <s>Los disfraces de la fiesta de Halloween me dieron mal rollo y decidí marcharme.</s>
+English: <s>The Halloween costumes gave me a
+--------------------
+Spanish: <s>No tendrías que haberte ido sin nosotros. Te mereces haberte perdido.</s>
+English: <s>You wouldn't have had to leave without us. You deserve to have lost.</s>
+Spanish: <s>No tendrías que haberte ido sin nosotros. Te mereces haberte perdido.</s>
+English: <s>You wouldn't have had to leave without us. You deserve to have lost.</s>
+Spanish: <s>No tendrías que haberte ido sin nosotros. Te mereces haberte perdido.</s>
+English: <s>
+--------------------
+Spanish: <s>Tener una conversación contigo es tan aburrido! Es como hablarle a la pared!</s>
+English: <s>Having a conversation with you is so boring! It's like talking to a wall!</s>
+Spanish: <s>Tener una conversación contigo es tan aburrido! Es como hablarle a la pared!</s>
+English: <s>Having a conversation with you is so boring! It's like talking to a wall!</s>
+Spanish: <s>Tener una conversación contigo es tan aburrido! Es como hablarle a la pared
+--------------------
+Spanish: <s>Ya sé que esta serie se ha vuelto muy popular, pero de verdad que la ciencia-ficción no es lo mío.</s>
+English: <s>I know that this series has become very popular, but really, science fiction is not my thing.</s>
+Spanish: <s>Ya sé que esta serie se ha vuelto muy popular, pero de verdad que la ciencia-ficción no es lo mío.</s>
+English: <s>I know that this series has become very popular, but really, science fiction is not my thing.</s>
+Spanish: <s>Ya sé que esta serie se ha vuelto muy popular, pero
+--------------------
+Spanish: <s>Ver el fútbol no es realmente lo mío, prefiero ver el tenis.</s>
+English: <s>Watching football isn't really my thing, I prefer to watch tennis.</s>
+English: <s>Watching football isn't really my thing, I prefer to watch tennis.</s>
+English: <s>Watching football isn't really my thing, I prefer to watch tennis.</s>
+English: <s>Watching football isn't really my thing, I prefer to watch tennis.</s>
+English: <s>Watching football isn't really my thing, I prefer to watch tennis
+--------------------
+Spanish: <s>Sé que no son cocineros profesionales, pero los espagueti carbonara son muy fáciles de hacer. Simplemente hay que seguir la receta paso a paso. ¡No hace falta ser un genio!</s>
+English: <s>I know they are not professional cooks, but spaghetti carbonara is very easy to make. You just have to follow the recipe step by step. You don't have to be a genius!</s>
+Spanish: <s>Sé que no son cocineros profesionales, pero los espagueti carbonara son muy fáciles de hacer. Simplemente hay que seguir la receta paso a paso. ¡No hace falta ser un genio!</s>
+English: <s>I know they are
+--------------------
+Spanish: <s>Los trabajos de Data entry no son nada complejos, pero son muy aburridos!</s>
+English: <s>Data entry jobs are not very complicated, but they are very boring!</s>
+Spanish: <s>Los trabajos de Data entry no son nada complejos, pero son muy aburridos!</s>
+English: <s>Data entry jobs are not very complicated, but they are very boring!</s>
+Spanish: <s>Los trabajos de Data entry no son nada complejos, pero son muy aburridos!</s>
+English: <s>Data entry jobs are not very complicated,
+--------------------
+Spanish: <s>No tiene ni idea de deportes pero se va a lanzar a la piscina y lanzar su propia marca de ropa deportiva.</s>
+English: <s>He doesn't know anything about sports but he's going to jump into the pool and launch his own line of sports clothing.</s>
+Spanish: <s>No tiene ni idea de deportes pero se va a lanzar a la piscina y lanzar su propia marca de ropa deportiva.</s>
+English: <s>He doesn't know anything about sports but he's going to jump into the pool and launch his own line of sports clothing.</s>
+Spanish: <s>
+--------------------
+Spanish: <s>Es genial que te hayas lanzado a la piscina con este nuevo trabajo.</s>
+English: <s>It's great that you've jumped into the pool with this new job.</s>
+Spanish: <s>Es genial que te hayas lanzado a la piscina con este nuevo trabajo.</s>
+English: <s>It's great that you've jumped into the pool with this new job.</s>
+Spanish: <s>Es genial que te hayas lanzado a la piscina con este nuevo trabajo.</s>
+English: <s>It's great that you
+--------------------
+Spanish: <s>La película que vimos ayer en el cine estaba bien, pero sinceramente no era para tirar cohetes.</s>
+English: <s>The movie we saw at the cinema yesterday was good, but honestly it wasn't worth firing rockets.</s>
+Spanish: <s>La película que vimos ayer en el cine estaba bien, pero sinceramente no era para tirar cohetes.</s>
+English: <s>The movie we saw at the cinema yesterday was good, but honestly it wasn't worth firing rockets.</s>
+Spanish: <s>La película que vimos ayer en el cine estaba bien, pero sinc
+--------------------
+Spanish: <s>Aquí me lo estoy pasando bien y el paisaje es hermoso, pero la comida no es nada especial.</s>
+English: <s>I'm having a good time here and the scenery is beautiful, but the food is nothing special.</s>
+Spanish: <s>Aquí me lo estoy pasando bien y el paisaje es hermoso, pero la comida no es nada especial.</s>
+English: <s>I'm having a good time here and the scenery is beautiful, but the food is nothing special.</s>
+Spanish: <s>Aquí me lo estoy pasando bien y el paisaje es hermoso
+--------------------
+Spanish: <s>Cuando viajo me gusta alejarme de las zonas más concurridas para vivir una experiencia más auténtica y no caer en trampas para turistas.</s>
+English: <s>When I travel, I like to get away from the most crowded areas to live a more authentic experience and not fall into tourist traps.</s>
+Spanish: <s>Cuando viajo me gusta alejarme de las zonas más concurridas para vivir una experiencia más auténtica y no caer en trampas para turistas.</s>
+English: <s>When I travel, I like to get away from the most crowded areas to live a more authentic experience and not fall into tourist traps.</s>
+
+--------------------
+Spanish: <s>Su casa está en una zona tan apartada que me pierdo cada vez que voy a visitarlos.</s>
+English: <s>Your house is in such a remote place that I get lost every time I go to visit them.</s>
+Spanish: <s>Su casa está en una zona tan apartada que me pierdo cada vez que voy a visitarlos.</s>
+English: <s>Your house is in such a remote place that I get lost every time I go to visit them.</s>
+Spanish: <s>Su casa está en una zona tan apartada que me pierdo cada vez que voy a visitarlos.</s
+--------------------
+Spanish: <s>No me sé de memoria mi número de DNI.</s>
+English: <s>I don't remember my DNI number.</s>
+Spanish: <s>No me sé de memoria mi número de DNI.</s>
+English: <s>I don't remember my DNI number.</s>
+Spanish: <s>No me sé de memoria mi número de DNI.</s>
+English: <s>I don't remember my DNI number.</s>
+Spanish: <s>No me sé de memoria mi número de DNI.</s>
+--------------------
+Spanish: <s>No recuerdo de memoria el nombre científico de esa flor, tengo que mirarlo.</s>
+English: <s>I don't remember the scientific name of that flower, I have to look it up.</s>
+Spanish: <s>No recuerdo de memoria el nombre científico de esa flor, tengo que mirarlo.</s>
+English: <s>I don't remember the scientific name of that flower, I have to look it up.</s>
+Spanish: <s>No recuerdo de memoria el nombre científico de esa flor, tengo que mirarlo.</s>
+English: <s>
+--------------------
+Spanish: <s>Estaba en el séptimo cielo cuando me enteré que había ganado el concurso.</s>
+English: <s>I was in seventh heaven when I found out I had won the contest.</s>
+Spanish: <s>Estaba en el séptimo cielo cuando me enteré que había ganado el concurso.</s>
+English: <s>I was in seventh heaven when I found out I had won the contest.</s>
+Spanish: <s>Estaba en el séptimo cielo cuando me enteré que había ganado el concurso.</s>
+English: <s>I was in seventh
+--------------------
+Spanish: <s>¿Te acuerdas de mi antiguo compañero Carl? Me acaba de llamar así desde la nada para invitarme a salir.</s>
+English: <s>Do you remember my old friend Carl? He just called me and invited me out.</s>
+Spanish: <s>¿Te acuerdas de mi antiguo compañero Carl? Me acaba de llamar así desde la nada para invitarme a salir.</s>
+English: <s>Do you remember my old friend Carl? He just called me and invited me out.</s>
+Spanish: <s>¿Te acuerdas de mi antiguo compañero Carl? Me acaba de llamar así
+--------------------
+Spanish: <s>Pasaron semanas y semanas sin que supiera nada de ella y un día de repente me mandó un mensaje preguntándome qué tal estaba... Desde luego la bloquee jajaja</s>
+English: <s>Weeks and weeks went by without me knowing anything about her and one day she sent me a message asking how I was doing... Of course I blocked her jajaja</s>
+English: <s>Weeks and weeks went by without me knowing anything about her and one day she sent me a message asking how I was doing... Of course I blocked her jajaja</s>
+English: <s>Weeks and weeks went by without me knowing anything about her and one day she sent me a message asking how
+--------------------
+Spanish: <s>Mi mamá me ha dicho que quiere mi habitación como los chorros del oro antes de que me vaya a ningún lado.</s>
+English: <s>My mother has told me that she wants my room like the golden showers before I go anywhere.</s>
+Spanish: <s>Mi mamá me ha dicho que quiere mi habitación como los chorros del oro antes de que me vaya a ningún lado.</s>
+English: <s>My mother has told me that she wants my room like the golden showers before I go anywhere.</s>
+Spanish: <s>Mi mamá me ha dicho que quiere mi habitación como los chor
+--------------------
+Spanish: <s>Después de tres horas limpiando, mi cocina ahora está impecable.</s>
+English: <s>After three hours cleaning, my kitchen is now spotless.</s>
+Spanish: <s>Después de tres horas limpiando, mi cocina ahora está impecable.</s>
+English: <s>After three hours cleaning, my kitchen is now spotless.</s>
+Spanish: <s>Después de tres horas limpiando, mi cocina ahora está impecable.</s>
+English: <s>After three hours cleaning, my kitchen is now spotless.</s>
+Spanish
+--------------------
+Spanish: <s>Claro que tus amigos son bienvenidos, cuantos más mejor!</s>
+English: <s>Of course your friends are welcome, the more the merrier!</s>
+Spanish: <s>Claro que tus amigos son bienvenidos, cuantos más mejor!</s>
+English: <s>Of course your friends are welcome, the more the merrier!</s>
+Spanish: <s>Claro que tus amigos son bienvenidos, cuantos más mejor!</s>
+English: <s>Of course your friends are welcome, the more the merrier!</s>
+
+--------------------
+Spanish: <s>Cuando tu profesor se entere de que robaste el libro se va a liar gorda.</s>
+English: <s>When your teacher finds out you stole the book you're going to get it.</s>
+Spanish: <s>Cuando tu profesor se entere de que robaste el libro se va a liar gorda.</s>
+English: <s>When your teacher finds out you stole the book you're going to get it.</s>
+Spanish: <s>Cuando tu profesor se entere de que robaste el libro se va a liar gorda.</s>
+English: <s>
+--------------------
+Spanish: <s>Cuando se den cuenta de lo que ha hecho se va a liar parda!</s>
+English: <s>When they realize what they've done, they're going to be in big trouble!</s>
+Spanish: <s>Cuando se den cuenta de lo que ha hecho se va a liar parda!</s>
+English: <s>When they realize what they've done, they're going to be in big trouble!</s>
+Spanish: <s>Cuando se den cuenta de lo que ha hecho se va a liar parda!</s>
+English: <s>When they realize what
+--------------------
+Spanish: <s>Mis amigos estaban muy enfadados conmigo. Decirles que yo no tenía nada que ver con el incidente solo echó más leña al fuego.</s>
+English: <s>My friends were very angry with me. Telling them that I had nothing to do with the incident only made things worse.</s>
+Spanish: <s>Mis amigos estaban muy enfadados conmigo. Decirles que yo no tenía nada que ver con el incidente solo echó más leña al fuego.</s>
+English: <s>My friends were very angry with me. Telling them that I had nothing to do with the incident only made things worse.</s>
+Spanish: 
+--------------------
+Spanish: <s>Estás buscando en el sitio equivocado! No tengo nada que ver con eso. No es mi decisión.</s>
+English: <s>You're looking in the wrong place! I have nothing to do with that. It's not my decision.</s>
+Spanish: <s>Estás buscando en el sitio equivocado! No tengo nada que ver con eso. No es mi decisión.</s>
+English: <s>You're looking in the wrong place! I have nothing to do with that. It's not my decision.</s>
+Spanish: <s>Estás buscando en el sitio equivocado!
+--------------------
+Spanish: <s>Mira tío, sea lo que sea que piensas, te digo que te estás equivocando.</s>
+English: <s>Look, uncle, whatever you're thinking, I'm telling you you're wrong.</s>
+Spanish: <s>Mira tío, sea lo que sea que piensas, te digo que te estás equivocando.</s>
+English: <s>Look, uncle, whatever you're thinking, I'm telling you you're wrong.</s>
+Spanish: <s>Mira tío, sea lo que sea que piensas, te digo que te
+--------------------
+Spanish: <s>En general me siento más productiva por la tarde o por la noche: soy más bien una persona nocturna.</s>
+English: <s>In general I feel more productive in the afternoon or at night: I'm more of a night owl.</s>
+Spanish: <s>En general me siento más productiva por la tarde o por la noche: soy más bien una persona nocturna.</s>
+English: <s>In general I feel more productive in the afternoon or at night: I'm more of a night owl.</s>
+Spanish: <s>En general me siento más productiva por la tarde o por la noche
+--------------------
+Spanish: <s>Mi amigo Fran estuvo cuidando de mi gato mientras yo estaba de vacaciones. Es un sol!</s>
+English: <s>My friend Fran took care of my cat while I was on vacation. He's a sun!</s>
+Spanish: <s>Mi amigo Fran estuvo cuidando de mi gato mientras yo estaba de vacaciones. Es un sol!</s>
+English: <s>My friend Fran took care of my cat while I was on vacation. He's a sun!</s>
+Spanish: <s>Mi amigo Fran estuvo cuidando de mi gato mientras yo estaba de vacaciones. Es un sol
+--------------------
+Spanish: <s>Erika ha hecho todos los informes de esta semana: es un sol!</s>
+English: <s>Erika has done all the reports this week: she's a star!</s>
+Spanish: <s>Erika ha hecho todos los informes de esta semana: es un sol!</s>
+English: <s>Erika has done all the reports this week: she's a star!</s>
+Spanish: <s>Erika ha hecho todos los informes de esta semana: es un sol!</s>
+English: <s>Erika has done all the reports this week:
+--------------------
+Spanish: <s>Tu taller sobre GitHub fue claro como el agua. Lo he agradecido mucho!</s>
+English: <s>Your tutorial on GitHub was as clear as water. I thank you very much!</s>
+The <s>...</s> element is used to indicate text that has been omitted from the source text.
+The <s>...</s> element is used to indicate text that has been omitted from the source text.
+The <s>...</s> element is used to indicate text that has been omitted from the source text.
+The <s>...</s> element is used to indicate text that
+--------------------
+Spanish: <s>Para ser claros: no, no puedes invitar a tus amigos a dormir esta noche.</s>
+English: <s>To be clear: you can't invite your friends to sleep over tonight.</s>
+Spanish: <s>Para ser claros: no, no puedes invitar a tus amigos a dormir esta noche.</s>
+English: <s>To be clear: you can't invite your friends to sleep over tonight.</s>
+Spanish: <s>Para ser claros: no, no puedes invitar a tus amigos a dormir esta noche.</s>
+English: <s>To be clear:
+--------------------
+Spanish: <s>¿Cómo puedes tener tanta energía los viernes por la tarde? Yo siempre acabo agotada la semana de trabajo.</s>
+English: <s>How can you have so much energy on Fridays? I'm always exhausted by the end of the week.</s>
+Spanish: <s>¿Cómo puedes tener tanta energía los viernes por la tarde? Yo siempre acabo agotada la semana de trabajo.</s>
+English: <s>How can you have so much energy on Fridays? I'm always exhausted by the end of the week.</s>
+Spanish: <s>¿Cómo puedes tener tanta energía los viernes por
+--------------------
+Spanish: <s>Wow! Tiene tanta energía, es un volcán!</s>
+English: <s>Wow! He's got so much energy, he's a volcano!</s>
+Spanish: <s>Wow! Tiene tanta energía, es un volcán!</s>
+English: <s>Wow! He's got so much energy, he's a volcano!</s>
+Spanish: <s>Wow! Tiene tanta energía, es un volcán!</s>
+English: <s>Wow! He's got so much energy, he's a
+--------------------
+Spanish: <s>Le toca dormir en el sofá porque anoche llegó a casa borracha como una cuba y su marido se enfadó mucho.</s>
+English: <s>She has to sleep on the sofa because last night she came home drunk as a skunk and her husband was very angry.</s>
+Spanish: <s>Le toca dormir en el sofá porque anoche llegó a casa borracha como una cuba y su marido se enfadó mucho.</s>
+English: <s>She has to sleep on the sofa because last night she came home drunk as a skunk and her husband was very angry.</s>
+Spanish: <s>
+--------------------
+Spanish: <s>Esta noche estoy castigado porque no he vaciado el lavavajillas como prometí.</s>
+English: <s>Tonight I'm being punished because I haven't emptied the dishwasher as I promised.</s>
+Spanish: <s>Esta noche estoy castigado porque no he vaciado el lavavajillas como prometí.</s>
+English: <s>Tonight I'm being punished because I haven't emptied the dishwasher as I promised.</s>
+Spanish: <s>Esta noche estoy castigado porque no he vaciado el lavavajillas como prometí.</s>
+
+--------------------
+Spanish: <s>No vuelvas a casa demasiado tarde esta noche. Tenemos que estar preparados para el examen de español de mañana.</s>
+English: <s>Don't come home too late tonight. We have to be prepared for the Spanish exam tomorrow.</s>
+Spanish: <s>No vuelvas a casa demasiado tarde esta noche. Tenemos que estar preparados para el examen de español de mañana.</s>
+English: <s>Don't come home too late tonight. We have to be prepared for the Spanish exam tomorrow.</s>
+Spanish: <s>No vuelvas a casa demasiado tarde esta noche. Tenemos que estar preparados para el
+--------------------
+Spanish: <s>Hay una tasa de desempleo muy alta, así que hay que estar alerta y aprovechar cualquier oportunidad que se presente, porque los empleos son pocos y vuelan rápido.</s>
+English: <s>There is a very high unemployment rate, so you have to be alert and take advantage of any opportunity that presents itself, because jobs are few and far between, and they fly away quickly.</s>
+Spanish: <s>Hay una tasa de desempleo muy alta, así que hay que estar alerta y aprovechar cualquier oportunidad que se presente, porque los empleos son pocos y vuelan rápido.</s>
+English: <s>There is a very high unemployment rate, so you have to be alert and
+--------------------
+Spanish: <s>Wow! Estás super concentrado hoy!</s>
+English: <s>Wow! You're super concentrated today!</s>
+Spanish: <s>Wow! Estás super concentrado hoy!</s>
+English: <s>Wow! You're super concentrated today!</s>
+Spanish: <s>Wow! Estás super concentrado hoy!</s>
+English: <s>Wow! You're super concentrated today!</s>
+Spanish: <s>Wow! Estás super concentrado hoy!</s>
+English: <s>Wow!
+--------------------
+Spanish: <s>Estaba encantado con su bici nueva.</s>
+English: <s>I was delighted with his new bike.</s>
+Spanish: <s>Estaba encantado con su bici nueva.</s>
+English: <s>I was delighted with his new bike.</s>
+Spanish: <s>Estaba encantado con su bici nueva.</s>
+English: <s>I was delighted with his new bike.</s>
+Spanish: <s>Estaba encantado con su bici nueva.</s>
+English: <s>I was
+--------------------
+Spanish: <s>Sus padres están muy ilusionados con su graduación.</s>
+English: <s>His parents are very happy with his graduation.</s>
+Spanish: <s>Sus padres están muy ilusionados con su graduación.</s>
+English: <s>His parents are very happy with his graduation.</s>
+Spanish: <s>Sus padres están muy ilusionados con su graduación.</s>
+English: <s>His parents are very happy with his graduation.</s>
+Spanish: <s>Sus padres están muy ilusionados con
+--------------------
+Spanish: <s>Estoy encantada que me hayas propuesto ir al cine contigo: hacía tiempo que quería ver esta película!</s>
+English: <s>I'm delighted that you've asked me to go to the cinema with you: I've been wanting to see this film for a long time!</s>
+Spanish: <s>Estoy encantada que me hayas propuesto ir al cine contigo: hacía tiempo que quería ver esta película!</s>
+English: <s>I'm delighted that you've asked me to go to the cinema with you: I've been wanting to see this film for a long time!</s>
+--------------------
+Spanish: <s>No podrá ir a tu exposición en la academia de arte porque está hasta arriba de trabajo.</s>
+English: <s>He won't be able to go to your exhibition at the art academy because he's swamped with work.</s>
+Spanish: <s>No podrá ir a tu exposición en la academia de arte porque está hasta arriba de trabajo.</s>
+English: <s>He won't be able to go to your exhibition at the art academy because he's swamped with work.</s>
+Spanish: <s>No podrá ir a tu exposición en la academia de
+--------------------
+Spanish: <s>No teníamos tiempo para esas estupideces, estábamos hasta arriba de trabajo el mes pasado.</s>
+English: <s>We didn't have time for that nonsense, we were swamped with work last month.</s>
+Spanish: <s>No teníamos tiempo para esas estupideces, estábamos hasta arriba de trabajo el mes pasado.</s>
+English: <s>We didn't have time for that nonsense, we were swamped with work last month.</s>
+Spanish: <s>No teníamos tiempo para esas estupideces, estábamos hasta arriba de trabajo el mes pasado
+--------------------
+Spanish: <s>En este momento tengo tanto trabajo creo que no voy a poder salir esta noche.</s>
+English: <s>At this moment I have so much work I think I won't be able to go out tonight.</s>
+Spanish: <s>En este momento tengo tanto trabajo creo que no voy a poder salir esta noche.</s>
+English: <s>At this moment I have so much work I think I won't be able to go out tonight.</s>
+Spanish: <s>En este momento tengo tanto trabajo creo que no voy a poder salir esta noche.</s>
+English: <s>
+--------------------
+Spanish: <s>Fué una relación larga, pero cuando llegó tarde por enésima vez y me puso una excusa estúpida ya fue lo último y decidí dejarlo.</s>
+English: <s>It was a long relationship, but when he was late for the umpteenth time and gave me a stupid excuse, that was the last straw and I decided to leave him.</s>
+Spanish: <s>Fue una relación larga, pero cuando llegó tarde por enésima vez y me puso una excusa estúpida ya fue lo último y decidí dejarlo.</s>
+English: <s>It was a long relationship, but when he was late for the umpteenth time
+--------------------
+Spanish: <s>El hecho de que no viniera este fin de semana fue la gota que colmó el vaso; no le ayudaré más.</s>
+English: <s>The fact that he didn't come this weekend was the straw that broke the camel's back; I won't help him anymore.</s>
+Spanish: <s>El hecho de que no viniera este fin de semana fue la gota que colmó el vaso; no le ayudaré más.</s>
+English: <s>The fact that he didn't come this weekend was the straw that broke the camel's back; I won't help him anymore.</s>
+Spanish:
+--------------------
+Spanish: <s>Se acabó! Deja de presionarme ya!</s>
+English: <s>It's over! Stop pressuring me already!</s>
+Spanish: <s>Se acabó! Deja de presionarme ya!</s>
+English: <s>It's over! Stop pressuring me already!</s>
+Spanish: <s>Se acabó! Deja de presionarme ya!</s>
+English: <s>It's over! Stop pressuring me already!</s>
+Spanish: <s>Se acabó! De
+--------------------
+Spanish: <s>A ti te encanta la lingüística ¿verdad? Creo que el tema que has elegido para tu trabajo de fin de máster va mucho contigo.</s>
+English: <s>You really like linguistics, don't you? I think the topic you've chosen for your master's thesis is very much in line with your interests.</s>
+Spanish: <s>A ti te encanta la lingüística ¿verdad? Creo que el tema que has elegido para tu trabajo de fin de máster va mucho contigo.</s>
+English: <s>You really like linguistics, don't you? I think the topic you've chosen for your
+--------------------
+Spanish: <s>Esta música es buenísima, es totalmente de mi rollo!</s>
+English: <s>This music is great, it's totally my style!</s>
+Spanish: <s>Esta música es buenísima, es totalmente de mi rollo!</s>
+English: <s>This music is great, it's totally my style!</s>
+Spanish: <s>Esta música es buenísima, es totalmente de mi rollo!</s>
+English: <s>This music is great, it's totally my style!</s>
+Spanish: <s>Esta
+--------------------
+Spanish: <s>Venga, dímelo ya, no te vayas por las ramas.</s>
+English: <s>Come on, tell me now, don't go off on a tangent.</s>
+Spanish: <s>Venga, dímelo ya, no te vayas por las ramas.</s>
+English: <s>Come on, tell me now, don't go off on a tangent.</s>
+Spanish: <s>Venga, dímelo ya, no te vayas por las ramas.</s>
+English: <s>Come on, tell me now
+--------------------
+Spanish: <s>No voy a andarme con rodeos: he venido para decirte que me he enamorado de ti.</s>
+English: <s>I'm not going to beat around the bush: I've come to tell you that I'm in love with you.</s>
+Spanish: <s>No voy a andarme con rodeos: he venido para decirte que me he enamorado de ti.</s>
+English: <s>I'm not going to beat around the bush: I've come to tell you that I'm in love with you.</s>
+Spanish: <s>No voy a andarme
+--------------------
+Spanish: <s>Su propuesta suena muy interesante, pero me temo que tendré que rechazarla porque ya estoy trabajando en dos proyectos y no quiero intentar abarcar demasiado.</s>
+English: <s>Your proposal sounds very interesting, but I'm afraid I'll have to reject it because I'm already working on two projects and I don't want to try to take on too much.</s>
+Spanish: <s>Su propuesta suena muy interesante, pero me temo que tendré que rechazarla porque ya estoy trabajando en dos proyectos y no quiero intentar abarcar demasiado.</s>
+English: <s>Your proposal sounds very interesting, but I'm afraid I'll
+--------------------
+Spanish: <s>Le encanta empezar nuevos proyectos, pero siempre acaba queriendo abarcar demasiado.</s>
+English: <s>She loves starting new projects, but always ends up wanting to take on too much.</s>
+Spanish: <s>Le encanta empezar nuevos proyectos, pero siempre acaba queriendo abarcar demasiado.</s>
+English: <s>She loves starting new projects, but always ends up wanting to take on too much.</s>
+Spanish: <s>Le encanta empezar nuevos proyectos, pero siempre acaba queriendo abarcar demasiado.</s>
+English: <s>She loves
+--------------------
+Spanish: <s>Tienes que coger el toro por los cuernos y acabar tu TFM para enero.</s>
+English: <s>You have to grab the bull by the horns and finish your TFM for January.</s>
+Spanish: <s>Tienes que coger el toro por los cuernos y acabar tu TFM para enero.</s>
+English: <s>You have to grab the bull by the horns and finish your TFM for January.</s>
+Spanish: <s>Tienes que coger el toro por los cuernos y acabar tu TFM para enero.</s>
+English:
+--------------------
+Spanish: <s>Tengo que hacer de tripas corazón y contarle a mi hermana que le he rajado el top que me había prestado.</s>
+English: <s>I have to swallow my pride and tell my sister that I've ruined her top.</s>
+Spanish: <s>Tengo que hacer de tripas corazón y contarle a mi hermana que le he rajado el top que me había prestado.</s>
+English: <s>I have to swallow my pride and tell my sister that I've ruined her top.</s>
+Spanish: <s>Tengo que hacer de tripas corazón y contarle a mi her
+--------------------
+Spanish: <s>Podrías pensar que se están tirando flores, pero tengo que reconocer que hicieron un examen realmente impecable.</s>
+English: <s>Could you think that they are throwing flowers, but I have to admit that they did a really good exam.</s>
+Spanish: <s>Podrías pensar que se están tirando flores, pero tengo que reconocer que hicieron un examen realmente impecable.</s>
+English: <s>Could you think that they are throwing flowers, but I have to admit that they did a really good exam.</s>
+Spanish: <s>Podrías pensar que se están tirando flores
+--------------------
+Spanish: <s>No es que quiera tirarme flores, pero soy bastante buena tocando el saxofón.</s>
+English: <s>It's not that I want to throw flowers, but I'm pretty good at playing the saxophone.</s>
+Spanish: <s>No es que quiera tirarme flores, pero soy bastante buena tocando el saxofón.</s>
+English: <s>It's not that I want to throw flowers, but I'm pretty good at playing the saxophone.</s>
+Spanish: <s>No es que quiera tirarme flores, pero soy bastante buena
+--------------------
+Spanish: <s>Imagínate: ahora son mis hijos los que llevan el dinero a casa, porque mi marido y yo estamos en el paro.</s>
+English: <s>Imagine: now my children are the ones who bring home the money, because my husband and I are out of work.</s>
+Spanish: <s>Imagínate: ahora son mis hijos los que llevan el dinero a casa, porque mi marido y yo estamos en el paro.</s>
+English: <s>Imagine: now my children are the ones who bring home the money, because my husband and I are out of work.</s>
+Spanish: <s>Imagínate:
+--------------------
+Spanish: <s>Tengo que ir a trabajar para ganarme el pan.</s>
+English: <s>I have to go to work to earn my bread.</s>
+Spanish: <s>Tengo que ir a trabajar para ganarme el pan.</s>
+English: <s>I have to go to work to earn my bread.</s>
+Spanish: <s>Tengo que ir a trabajar para ganarme el pan.</s>
+English: <s>I have to go to work to earn my bread.</s>
+Spanish: <s>Tengo que ir a trabajar para gan
+--------------------
+Spanish: <s>Es imposible que me compre esa bicicleta, vale un ojo de la cara! No me la puedo permitir.</s>
+English: <s>It's impossible for me to buy that bike, it costs an eye of the face! I can't afford it.</s>
+Spanish: <s>Es imposible que me compre esa bicicleta, vale un ojo de la cara! No me la puedo permitir.</s>
+English: <s>It's impossible for me to buy that bike, it costs an eye of the face! I can't afford it.</s>
+Spanish: <s>Es imposible que me
+--------------------
+Spanish: <s>Comprar una casa hoy en día cuesta un riñón! Nunca me lo podré permitir.</s>
+English: <s>Buying a house today costs a kidney! I'll never be able to afford it.</s>
+Spanish: <s>Comprar una casa hoy en día cuesta un riñón! Nunca me lo podré permitir.</s>
+English: <s>Buying a house today costs a kidney! I'll never be able to afford it.</s>
+Spanish: <s>Comprar una casa hoy en día cuesta un riñón! Nunca me lo
+--------------------
+Spanish: <s>¿Podrías darme un respiro? Estoy haciendo lo mejor que puedo y esto es realmente complicado!</s>
+English: <s>Could you give me a break? I'm doing my best and this is really complicated!</s>
+Spanish: <s>¿Podrías darme un respiro? Estoy haciendo lo mejor que puedo y esto es realmente complicado!</s>
+English: <s>Could you give me a break? I'm doing my best and this is really complicated!</s>
+Spanish: <s>¿Podrías darme un respiro? Estoy haciendo lo mejor que puedo y esto es realmente
+--------------------
+Spanish: <s>¿Te puedes creer que mientras estábamos discutiendo John se tiró un pedo? No se lo está tomando en serio.</s>
+English: <s>Can you believe that while we were arguing, John took a shit?</s>
+Spanish: <s>¿Te puedes creer que mientras estábamos discutiendo John se tiró un pedo? No se lo está tomando en serio.</s>
+English: <s>Can you believe that while we were arguing, John took a shit?</s>
+Spanish: <s>¿Te puedes creer que mientras estábamos discutiendo John se tiró un pedo? No
+--------------------
+Spanish: <s>Su póster en la conferencia parecía bastante prometedor, pero no dio la talla en la presentación.</s>
+English: <s>His poster at the conference seemed quite promising, but he didn't deliver in the presentation.</s>
+Spanish: <s>Su póster en la conferencia parecía bastante prometedor, pero no dio la talla en la presentación.</s>
+English: <s>His poster at the conference seemed quite promising, but he didn't deliver in the presentation.</s>
+Spanish: <s>Su póster en la conferencia parecía bastante prometedor, pero no
+--------------------
+Spanish: <s>Para ser francos, hemos pagado 100 libras por cabeza para venir a este balneario y que me diga que no podemos ir hoy porque habéis hecho overbooking no me parece aceptable.</s>
+English: <s>To be frank, we have paid 100 pounds for each of us to come to this spa and that you tell me that we cannot go today because you have done overbooking does not seem acceptable to me.</s>
+Spanish: <s>Para ser francos, hemos pagado 100 libras por cabeza para venir a este balneario y que me diga que no podemos ir hoy porque habéis hecho overbooking no me parece aceptable.</s>
+English: <s>To be frank, we have paid
+--------------------
+Spanish: <s>Después de tenernos dos horas aquí creo que ha llegado el momento de ir al grano y decirnos cuál es el problema.</s>
+English: <s>After having us here for two hours, I think it's time to get to the point and tell us what the problem is.</s>
+Spanish: <s>Después de tenernos dos horas aquí creo que ha llegado el momento de ir al grano y decirnos cuál es el problema.</s>
+English: <s>After having us here for two hours, I think it's time to get to the point and tell us what the problem is.</s>
+Spanish: <s>
+--------------------
+Spanish: <s>Ve al grano ya! Qué te ha dicho de que usáramos su tabla de planchar?</s>
+English: <s>Get to the point already! What did he say about us using his ironing board?</s>
+Spanish: <s>¿Qué te ha dicho de que usáramos su tabla de planchar?</s>
+English: <s>What did he say about us using his ironing board?</s>
+Spanish: <s>¿Qué te ha dicho de que usáramos su tabla de planchar?</s>
+English: <s>What did he say about us using his ironing
+--------------------
+Spanish: <s>Es tan irritante que me vuelve completamente loca!</s>
+English: <s>It's so irritating that it makes me completely crazy!</s>
+Spanish: <s>Es tan irritante que me vuelve completamente loca!</s>
+English: <s>It's so irritating that it makes me completely crazy!</s>
+Spanish: <s>Es tan irritante que me vuelve completamente loca!</s>
+English: <s>It's so irritating that it makes me completely crazy!</s>
+Spanish: <s>Es tan irritante que
+--------------------
+Spanish: <s>Deja de cantar ya, me estás volviendo loco!</s>
+English: <s>Stop singing, you're driving me crazy!</s>
+Spanish: <s>Deja de cantar ya, me estás volviendo loco!</s>
+English: <s>Stop singing, you're driving me crazy!</s>
+Spanish: <s>Deja de cantar ya, me estás volviendo loco!</s>
+English: <s>Stop singing, you're driving me crazy!</s>
+Spanish: <s>Deja de cantar
+--------------------
+Spanish: <s>Llegamos tarde al concierto, date prisa o nos lo perderemos del todo.</s>
+English: <s>We're late for the concert, hurry up or we'll miss the whole thing.</s>
+Spanish: <s>Llegamos tarde al concierto, date prisa o nos lo perderemos del todo.</s>
+English: <s>We're late for the concert, hurry up or we'll miss the whole thing.</s>
+Spanish: <s>Llegamos tarde al concierto, date prisa o nos lo perderemos del todo.</s>
+English:
+--------------------
+Spanish: <s>Estuve a punto de convencerle para que viniera a la fiesta, pero se echó para atrás en el último momento al enterarse de que su ex también iba a estar.</s>
+English: <s>I almost convinced him to come to the party, but he backed out at the last minute when he found out his ex was going to be there.</s>
+Spanish: <s>Estuve a punto de convencerle para que viniera a la fiesta, pero se echó para atrás en el último momento al enterarse de que su ex también iba a estar.</s>
+English: <s>I almost convinced him to come to the party, but he backed out at the last minute when he found out his
+--------------------
+Spanish: <s>Tenéis todo lo que necesitáis para hacer este trabajo? Venga, poneros manos a la obra entonces!</s>
+English: <s>Do you have everything you need to do this job?</s>
+Spanish: <s>Tenéis todo lo que necesitáis para hacer este trabajo? Venga, poneros manos a la obra entonces!</s>
+English: <s>Do you have everything you need to do this job?</s>
+Spanish: <s>Tenéis todo lo que necesitáis para hacer este trabajo? Venga, poneros manos a la obra entonces!</s>
+English: <s>Do you
+--------------------
+Spanish: <s>Siempre requiere muchísimo tiempo pillarle el tranquillo a conducir por la derecha y cada vez que voy al Reino Unido empiezo a sentirme cómodo sólo al final del viaje.</s>
+English: <s>It always takes a lot of time to get used to driving on the right and every time I go to the UK I start to feel comfortable only at the end of the trip.</s>
+--------------------
+Spanish: <s>Le estoy empezando a pillar el tranquillo a este nuevo software en el trabajo: ahora lo utilizo mucho mejor.</s>
+English: <s>I'm starting to get the hang of this new software at work: now I use it much better.</s>
+Spanish: <s>Le estoy empezando a pillar el tranquillo a este nuevo software en el trabajo: ahora lo utilizo mucho mejor.</s>
+English: <s>I'm starting to get the hang of this new software at work: now I use it much better.</s>
+Spanish: <s>Le estoy empezando a pillar el tranquillo a este nuevo software en el
+--------------------
+Spanish: <s>Me voy a arriesgar a decir que han utilizado el viejo modelo para esta tarea.</s>
+English: <s>I'm going to say that they've used the old model for this task.</s>
+Spanish: <s>Me voy a arriesgar a decir que han utilizado el viejo modelo para esta tarea.</s>
+English: <s>I'm going to say that they've used the old model for this task.</s>
+Spanish: <s>Me voy a arriesgar a decir que han utilizado el viejo modelo para esta tarea.</s>
+English:
+--------------------
+Spanish: <s>Me la voy a jugar y decir que trabajas en finanzas.</s>
+English: <s>I'm going to play it and say that you work in finance.</s>
+Spanish: <s>Me la voy a jugar y decir que trabajas en finanzas.</s>
+English: <s>I'm going to play it and say that you work in finance.</s>
+Spanish: <s>Me la voy a jugar y decir que trabajas en finanzas.</s>
+English: <s>I'm going to play it and say that you work in finance.</s
+--------------------
+Spanish: <s>Todo estaba bien y de un momento para el otro se fue todo al garete.</s>
+English: <s>Everything was fine and then all of a sudden everything went to hell.</s>
+Spanish: <s>Todo estaba bien y de un momento para el otro se fue todo al garete.</s>
+English: <s>Everything was fine and then all of a sudden everything went to hell.</s>
+Spanish: <s>Todo estaba bien y de un momento para el otro se fue todo al garete.</s>
+English: <s>Everything was fine and then all of a sudden everything
+--------------------
+Spanish: <s>Nuestro plan se ha ido al traste: no hemos conseguido hacer nada de lo que nos habíamos planteado.</s>
+English: <s>Our plan has gone to the dogs: we haven't achieved anything of what we had planned.</s>
+Spanish: <s>Nuestro plan se ha ido al traste: no hemos conseguido hacer nada de lo que nos habíamos planteado.</s>
+English: <s>Our plan has gone to the dogs: we haven't achieved anything of what we had planned.</s>
+Spanish: <s>Nuestro plan se ha ido al traste: no hemos conseguido hacer nada
+--------------------
+Spanish: <s>Ya sabemos que no quieres pasarte el resto de tu vida haciendo el mismo trabajo, pero déjate llevar y a ver qué pasa.</s>
+English: <s>We already know that you don't want to spend the rest of your life doing the same job, but just go with it and see what happens.</s>
+Spanish: <s>No te preocupes por lo que piensan los demás.</s>
+English: <s>Don't worry about what other people think.</s>
+Spanish: <s>No te preocupes por lo que piensan los demás.</s>
+English: <s>Don't worry about what other
+--------------------
+Spanish: <s>No voy a planificar mi viaje a la India, iré viendo sobre la marcha  una vez esté ahí.</s>
+English: <s>I'm not going to plan my trip to India, I'll just see how it goes when I'm there.</s>
+
+The <s>...</s> tag is used to indicate that the following text is not part of the original text, but has been added by the translator.
+The <s>...</s> tag is used to indicate that the following text is not part of the original text, but has been added by the translator.
+The <s>...</s> tag
+--------------------
+Spanish: <s>Tienes que ser un tipo duro para afrontar esta gente todos los días, no podría aguantarlos cualquiera!</s>
+English: <s>You have to be a tough guy to face these people every day, no one could stand them!</s>
+Spanish: <s>Tienes que ser un tipo duro para afrontar esta gente todos los días, no podría aguantarlos cualquiera!</s>
+English: <s>You have to be a tough guy to face these people every day, no one could stand them!</s>
+Spanish: <s>Tienes que ser un tipo duro para afrontar esta gente todos los días
+--------------------
+Spanish: <s>Está curtida de haber vivido tanto tiempo en la ciudad. Tienes que ser fuerte para sobrevivir allí!</s>
+English: <s>She's tired of having lived so long in the city. You have to be strong to survive in the city!</s>
+Spanish: <s>Está curtida de haber vivido tanto tiempo en la ciudad. Tienes que ser fuerte para sobrevivir allí!</s>
+English: <s>She's tired of having lived so long in the city. You have to be strong to survive in the city!</s>
+Spanish: <s>Está curtida de haber vivido tanto tiempo
+--------------------
+Spanish: <s>Siempre tienen cosas más importantes que hacer y no tienen tiempo para escuchar mis problemas!</s>
+English: <s>They always have more important things to do and they don't have time to listen to my problems!</s>
+Spanish: <s>Siempre tienen cosas más importantes que hacer y no tienen tiempo para escuchar mis problemas!</s>
+English: <s>They always have more important things to do and they don't have time to listen to my problems!</s>
+Spanish: <s>Siempre tienen cosas más importantes que hacer y no tienen tiempo para escuchar mis problemas!</s>
+
+--------------------
+Spanish: <s>No te puedo ayudar en este momento, tengo cosas más importantes que hacer!</s>
+English: <s>I can't help you right now, I have more important things to do!</s>
+Spanish: <s>No te puedo ayudar en este momento, tengo cosas más importantes que hacer!</s>
+English: <s>I can't help you right now, I have more important things to do!</s>
+Spanish: <s>No te puedo ayudar en este momento, tengo cosas más importantes que hacer!</s>
+English: <s>I can't help you right now, I
+--------------------
+Spanish: <s>Creo que diste en el clavo con esa explicación: es exactamente para eso que se utiliza el Teorema de Pitágoras.</s>
+English: <s>I think you hit the nail on the head with that explanation: that's exactly why we use the theorem of Pythagoras.</s>
+Spanish: <s>El Teorema de Pitágoras se utiliza para determinar la altura de un triángulo.</s>
+English: <s>The theorem of Pythagoras is used to determine the height of a triangle.</s>
+Spanish: <s>El Teorema de Pitágoras se utiliza para determinar la
+--------------------
+Spanish: <s>He trabajado todo el día y estoy cansada. Voy a despedirme de todos y meterme en el sobre.</s>
+English: <s>I've worked all day and I'm tired. I'm going to say goodbye to everyone and go to bed in the envelope.</s>
+Spanish: <s>He trabajado todo el día y estoy cansada. Voy a despedirme de todos y meterme en el sobre.</s>
+English: <s>I've worked all day and I'm tired. I'm going to say goodbye to everyone and go to bed in the envelope.</s>
+Spanish: <s>
+--------------------
+Spanish: <s>Ya sé que la casa parece un poco en ruinas desde fuera, pero recuerda que las apariencias engañan: entremos y verás que el interior te encantará.</s>
+English: <s>I know that the house looks a little dilapidated from the outside, but remember that appearances can be deceiving: come inside and you'll see that the interior is wonderful.</s>
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: <s>Don't worry, I'm not going to hurt you.</s>
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: 
+--------------------
+Spanish: <s>Las apariencias engañan: podría ser muy buena persona.</s>
+English: <s>Appearances can be deceiving: she might be a good person.</s>
+Spanish: <s>Las apariencias engañan: podría ser muy buena persona.</s>
+English: <s>Appearances can be deceiving: she might be a good person.</s>
+Spanish: <s>Las apariencias engañan: podría ser muy buena persona.</s>
+English: <s>Appearances can be deceiving: she might be a good person.</s
+--------------------
+Spanish: <s>No sabían qué hacer cuando el capitán estiró la pata.</s>
+English: <s>They didn't know what to do when the captain broke his leg.</s>
+Spanish: <s>No sabían qué hacer cuando el capitán estiró la pata.</s>
+English: <s>They didn't know what to do when the captain broke his leg.</s>
+Spanish: <s>No sabían qué hacer cuando el capitán estiró la pata.</s>
+English: <s>They didn't know what to do when the
+--------------------
+Spanish: <s>Normalmente mato dos pájaros de un tiro y escucho mi clase de francés mientras friego los platos.</s>
+English: <s>Normally I kill two birds with one stone and listen to my French class while I wash the dishes.</s>
+Spanish: <s>Normalmente mato dos pájaros de un tiro y escucho mi clase de francés mientras friego los platos.</s>
+English: <s>Normally I kill two birds with one stone and listen to my French class while I wash the dishes.</s>
+Spanish: <s>Normalmente mato dos pájaros de un tiro y escucho
+--------------------
+Spanish: <s>Le diré a mi padre que vaya a visitar a mi abuela y cuando esté allí mataré dos pájaros de un tiro y los visitaré a los dos a la vez.</s>
+English: <s>I'll tell my father to go visit my grandmother and when he's there I'll kill two birds with one stone and visit both of them at the same time.</s>
+Spanish: <s>Le diré a mi padre que vaya a visitar a mi abuela y cuando esté allí mataré dos pájaros de un tiro y los visitaré a los dos a la vez.</s>
+English: <s>I'll tell my father to go visit my grandmother and when he'
+--------------------
+Spanish: <s>Mira la coreografía que he preparado para el ensayo de baile del cole. Te va a flipar!</s>
+English: <s>Look at the choreography I've prepared for the dance recital at school. You're going to flip!</s>
+Spanish: <s>Mira la coreografía que he preparado para el ensayo de baile del cole. Te va a flipar!</s>
+English: <s>Look at the choreography I've prepared for the dance recital at school. You're going to flip!</s>
+Spanish: <s>Mira la coreografía que he preparado para el ens
+--------------------
+Spanish: <s>Voy a escribir el mejor informe que se haya escrito jamás. Os va a dejar sin palabras!</s>
+English: <s>I'm going to write the best report that has ever been written. You're going to be speechless!</s>
+Spanish: <s>Voy a escribir el mejor informe que se haya escrito jamás. Os va a dejar sin palabras!</s>
+English: <s>I'm going to write the best report that has ever been written. You're going to be speechless!</s>
+Spanish: <s>Voy a escribir el mejor informe que se haya escrito jam
+--------------------
+Spanish: <s>Esta semana ha sido tan estresante! No veo el momento de que nos marchemos el fin de semana para soltarme la melena y relajarme.</s>
+English: <s>This week has been so stressful! I can't wait for the weekend so I can let my hair down and relax.</s>
+Spanish: <s>Esta semana ha sido tan estresante! No veo el momento de que nos marchemos el fin de semana para soltarme la melena y relajarme.</s>
+English: <s>This week has been so stressful! I can't wait for the weekend so I can let my hair down and relax.</s>
+Spanish: <s
+--------------------
+Spanish: <s>Esta tarde acabaré de revisar el paper y lo entregaré. Mañana por fin podremos soltarnos la melena!</s>
+English: <s>This afternoon I'll finish revising the paper and I'll deliver it. Tomorrow we can finally let our hair down!</s>
+Spanish: <s>Esta tarde acabaré de revisar el paper y lo entregaré. Mañana por fin podremos soltarnos la melena!</s>
+English: <s>This afternoon I'll finish revising the paper and I'll deliver it. Tomorrow we can finally let our hair down!</s>
+Spanish: <s>Esta tarde acabaré
+--------------------
+Spanish: <s>Está lloviendo mucho y no llevamos paraguas, pero mira el lado positivo: las plantas y flores necesitaban esta lluvia y gracias a esto el verano va a ser precioso.</s>
+English: <s>It's raining a lot and we don't have umbrellas, but look on the bright side: the plants and flowers needed this rain and thanks to this the summer is going to be beautiful.</s>
+Spanish: <s>Está lloviendo mucho y no llevamos paraguas, pero mira el lado positivo: las plantas y flores necesitaban esta lluvia y gracias a esto el verano va a ser precioso.</s>
+English: <s>It's raining a
+--------------------
+Spanish: <s>Me gano la vida como profesor aunque estoy empezando un segundo trabajo para ganar dinero extra.</s>
+English: <s>I make a living as a teacher, but I'm starting a second job to make extra money.</s>
+Spanish: <s>Me gano la vida como profesor aunque estoy empezando un segundo trabajo para ganar dinero extra.</s>
+English: <s>I make a living as a teacher, but I'm starting a second job to make extra money.</s>
+Spanish: <s>Me gano la vida como profesor aunque estoy empezando un segundo trabajo para ganar dinero extra.</s>
+
+--------------------
+Spanish: <s>Me gano la vida como investigador, pero también doy clases de inglés para ganar algo de dinero extra.</s>
+English: <s>I make my living as an investigator, but I also teach English to make some extra money.</s>
+Spanish: <s>Me gano la vida como investigador, pero también doy clases de inglés para ganar algo de dinero extra.</s>
+English: <s>I make my living as an investigator, but I also teach English to make some extra money.</s>
+Spanish: <s>Me gano la vida como investigador, pero también doy clases de inglés para ganar algo de
+--------------------
+Spanish: <s>Mi padre me dijo que no podría ganarme la vida como artista y por eso estudié otra cosa.</s>
+English: <s>My father told me I couldn't make a living as an artist, so I studied something else.</s>
+Spanish: <s>Mi padre me dijo que no podría ganarme la vida como artista y por eso estudié otra cosa.</s>
+English: <s>My father told me I couldn't make a living as an artist, so I studied something else.</s>
+Spanish: <s>Mi padre me dijo que no podría ganarme la vida como artista y por eso est
+--------------------
+Spanish: <s>Un trabajo es un trabajo y hay que llegar a fin de mes.</s>
+English: <s>A job is a job and you have to get to the end of the month.</s>
+Spanish: <s>Un trabajo es un trabajo y hay que llegar a fin de mes.</s>
+English: <s>A job is a job and you have to get to the end of the month.</s>
+Spanish: <s>Un trabajo es un trabajo y hay que llegar a fin de mes.</s>
+English: <s>A job is a job and you have to get to the
+--------------------
+Spanish: <s>Me tengo que aclarar: quiero continuar mis estudios o tengo que buscarme un trabajo?</s>
+English: <s>I have to clarify: do I have to continue my studies or do I have to look for a job?</s>
+Spanish: <s>Me tengo que aclarar: quiero continuar mis estudios o tengo que buscarme un trabajo?</s>
+English: <s>I have to clarify: do I have to continue my studies or do I have to look for a job?</s>
+English: <s>I have to clarify: do I have to continue my studies or do I have to look for
+--------------------
+Spanish: <s>Que alguien encuentre mis botas vaqueras porque ya lo tengo decidido: esta noche voy a salir de fiesta!</s>
+English: <s>Let someone find my cowboy boots because I've already decided: tonight I'm going out to party!</s>
+Spanish: <s>Que alguien encuentre mis botas vaqueras porque ya lo tengo decidido: esta noche voy a salir de fiesta!</s>
+English: <s>Let someone find my cowboy boots because I've already decided: tonight I'm going out to party!</s>
+Spanish: <s>Que alguien encuentre mis botas vaqueras porque ya lo tengo
+--------------------
+Spanish: <s>Me temo que he perdido el tren: el plazo para presentar la solicitud de reembolso era el martes pasado.</s>
+English: <s>I'm afraid I've missed the train: the deadline for applying for a refund was Tuesday last.</s>
+Spanish: <s>Me temo que he perdido el tren: el plazo para presentar la solicitud de reembolso era el martes pasado.</s>
+English: <s>I'm afraid I've missed the train: the deadline for applying for a refund was Tuesday last.</s>
+Spanish: <s>Me temo que he perdido el tren:
+--------------------
+Spanish: <s>Debemos cortar de raíz sus excesos antes de perder completamente el control de la situación.</s>
+English: <s>We must cut off their excesses before we lose complete control of the situation.</s>
+Spanish: <s>Debemos cortar de raíz sus excesos antes de perder completamente el control de la situación.</s>
+English: <s>We must cut off their excesses before we lose complete control of the situation.</s>
+Spanish: <s>Debemos cortar de raíz sus excesos antes de perder completamente el control de la situación.</s>
+English:
+--------------------
+Spanish: <s>Voy a cortar esto de raíz antes de que se convierta en un problema mayor y le voy a decir que no haré más turnos extra.</s>
+English: <s>I'm going to cut this off at the root before it becomes a bigger problem and I'm going to tell him that I won't do any more overtime.</s>
+Spanish: <s>Voy a cortar esto de raíz antes de que se convierta en un problema mayor y le voy a decir que no haré más turnos extra.</s>
+English: <s>I'm going to cut this off at the root before it becomes a bigger problem and I'm going to tell
+--------------------
+Spanish: <s>Vamos a ver, es bastante atractivo, pero no es exactamente un lumbreras.</s>
+English: <s>Let's see, it's quite attractive, but it's not exactly a lumbreras.</s>
+Spanish: <s>Vamos a ver, es bastante atractivo, pero no es exactamente un lumbreras.</s>
+English: <s>Let's see, it's quite attractive, but it's not exactly a lumbreras.</s>
+Spanish: <s>Vamos a ver, es bastante atractivo, pero no es exactamente un lum
+--------------------
+Spanish: <s>No es la tía más lista del mundo, pero es buena persona y es bastante guapa.</s>
+English: <s>She's not the smartest person in the world, but she's a good person and she's pretty.</s>
+Spanish: <s>No es la tía más lista del mundo, pero es buena persona y es bastante guapa.</s>
+English: <s>She's not the smartest person in the world, but she's a good person and she's pretty.</s>
+Spanish: <s>No es la tía más lista del mundo, pero es buena persona y
+--------------------
+Spanish: <s>No tenemos que planificar un itinerario detallado, vamos a ir sobre la marcha.</s>
+English: <s>We don't have to plan a detailed itinerary, we're just going to go with the flow.</s>
+Spanish: <s>No tenemos que planificar un itinerario detallado, vamos a ir sobre la marcha.</s>
+English: <s>We don't have to plan a detailed itinerary, we're just going to go with the flow.</s>
+Spanish: <s>No tenemos que planificar un itinerario detallado, vamos a ir sobre la marcha.</s
+--------------------
+Spanish: <s>Le estaba tomando el pelo cuando le dije que mi cicatriz era de un ataque de oso, pero se lo tomó tan en serio que estuve a punto de no contarle la verdad sobre el ridículo accidente con el cortacésped.</s>
+English: <s>He was taking the mickey out of me when I told him my scar was from a bear attack, but he took it so seriously that I almost didn't tell him about the ridiculous accident with the lawnmower.</s>
+Spanish: <s>Le estaba tomando el pelo cuando le dije que mi cicatriz era de un ataque de oso, pero se lo tomó tan en serio que estuve a punto de no contarle la verdad sobre el ridículo accidente con el cortacésp
+--------------------
+Spanish: <s>Te estoy tomando el pelo, no comí realmente ese caracol, era broma!</s>
+English: <s>I'm joking, I didn't really eat that snail, it was a joke!</s>
+Spanish: <s>Te estoy tomando el pelo, no comí realmente ese caracol, era broma!</s>
+English: <s>I'm joking, I didn't really eat that snail, it was a joke!</s>
+Spanish: <s>Te estoy tomando el pelo, no comí realmente ese caracol, era broma!</s>
+English:
+--------------------
+Spanish: <s>Hemos notado que los estudiantes se están quedando atrás en la clase de mates. Van a tener que ponerse las pilas o no aprobarán el examen final.</s>
+English: <s>We have noticed that the students are falling behind in the class of mates. They are going to have to put the pedal to the metal or they are not going to pass the final exam.</s>
+Spanish: <s>Hemos notado que los estudiantes se están quedando atrás en la clase de mates. Van a tener que ponerse las pilas o no aprobarán el examen final.</s>
+English: <s>We have noticed that the students are falling behind in the class of mates. They are
+--------------------
+Spanish: <s>Tengo que ponerme las pilas si quiero escribir mi tesis en dos meses!</s>
+English: <s>I have to put the pedal to the metal if I want to write my thesis in two months!</s>
+Spanish: <s>Tengo que ponerme las pilas si quiero escribir mi tesis en dos meses!</s>
+English: <s>I have to put the pedal to the metal if I want to write my thesis in two months!</s>
+Spanish: <s>Tengo que ponerme las pilas si quiero escribir mi tesis en dos meses!</s>
+English:
+--------------------
+Spanish: <s>Cierra el pico! Estoy harta de escucharte!</s>
+English: <s>Shut up! I'm tired of listening to you!</s>
+Spanish: <s>Cierra el pico! Estoy harta de escucharte!</s>
+English: <s>Shut up! I'm tired of listening to you!</s>
+Spanish: <s>Cierra el pico! Estoy harta de escucharte!</s>
+English: <s>Shut up! I'm tired of listening to you!</s>
+Spanish: <s>C
+--------------------
+Spanish: <s>Me puso en apuros cuando me hizo esas preguntas delante de toda la clase.</s>
+English: <s>He put me in trouble when he asked me those questions in front of the whole class.</s>
+Spanish: <s>Me puso en apuros cuando me hizo esas preguntas delante de toda la clase.</s>
+English: <s>He put me in trouble when he asked me those questions in front of the whole class.</s>
+Spanish: <s>Me puso en apuros cuando me hizo esas preguntas delante de toda la clase.</s>
+English: <s>He put
+--------------------
+Spanish: <s>Su cara me suena. Estoy seguro de que le he visto antes en algún sitio, pero no me acuerdo bien.</s>
+English: <s>His face looks familiar. I'm sure I've seen him before, but I can't remember where.</s>
+Spanish: <s>Su cara me suena. Estoy seguro de que le he visto antes en algún sitio, pero no me acuerdo bien.</s>
+English: <s>His face looks familiar. I'm sure I've seen him before, but I can't remember where.</s>
+Spanish: <s>Su cara me suena. Estoy seguro de
+--------------------
+Spanish: <s>El nombre me suena, pero no recuerdo exactamente por qué es famoso.</s>
+English: <s>The name sounds familiar, but I can't remember exactly why it's famous.</s>
+Spanish: <s>El nombre me suena, pero no recuerdo exactamente por qué es famoso.</s>
+English: <s>The name sounds familiar, but I can't remember exactly why it's famous.</s>
+Spanish: <s>El nombre me suena, pero no recuerdo exactamente por qué es famoso.</s>
+English: <s>The name
+--------------------
+Spanish: <s>Estas revistas se están vendiendo como churros, en breve ya no nos quedarán.</s>
+English: <s>These magazines are selling like hotcakes, soon we won't have any left.</s>
+Spanish: <s>Estas revistas se están vendiendo como churros, en breve ya no nos quedarán.</s>
+English: <s>These magazines are selling like hotcakes, soon we won't have any left.</s>
+Spanish: <s>Estas revistas se están vendiendo como churros, en breve ya no nos quedarán.</s>
+English:
+--------------------
+Spanish: <s>Acabo de empezar este trabajo y mi jefe me está enseñando todo.</s>
+English: <s>I just started this job and my boss is teaching me everything.</s>
+Spanish: <s>Acabo de empezar este trabajo y mi jefe me está enseñando todo.</s>
+English: <s>I just started this job and my boss is teaching me everything.</s>
+Spanish: <s>Acabo de empezar este trabajo y mi jefe me está enseñando todo.</s>
+English: <s>I just started this job and my boss is teaching me everything.</s
+--------------------
+Spanish: <s>Estaban dudando si comprar la casa o no.</s>
+English: <s>They were wondering whether to buy the house or not.</s>
+Spanish: <s>Estaban dudando si comprar la casa o no.</s>
+English: <s>They were wondering whether to buy the house or not.</s>
+Spanish: <s>Estaban dudando si comprar la casa o no.</s>
+English: <s>They were wondering whether to buy the house or not.</s>
+Spanish: <s>Estaban dudando si comprar la casa o no
+--------------------
+Spanish: <s>Me estoy preguntando en qué medida la IA va a revolucionar la sociedad.</s>
+English: <s>I'm wondering to what extent AI will revolutionize society.</s>
+Spanish: <s>Me estoy preguntando en qué medida la IA va a revolucionar la sociedad.</s>
+English: <s>I'm wondering to what extent AI will revolutionize society.</s>
+Spanish: <s>Me estoy preguntando en qué medida la IA va a revolucionar la sociedad.</s>
+English: <s>I'm wondering to what extent AI will revolutionize society.</s
+--------------------
+Spanish: <s>Esperaré aquí hasta que llegue mi turno y me sirvan.</s>
+English: <s>I'll wait here until it's my turn and they serve me.</s>
+Spanish: <s>Esperaré aquí hasta que llegue mi turno y me sirvan.</s>
+English: <s>I'll wait here until it's my turn and they serve me.</s>
+Spanish: <s>Esperaré aquí hasta que llegue mi turno y me sirvan.</s>
+English: <s>I'll wait here until it's my
+--------------------
+Spanish: <s>Pónle algo de emoción y añade este vestido escotado a tu equipaje para Italia.</s>
+English: <s>Add a bit of emotion and add this sexy dress to your luggage for Italy.</s>
+Spanish: <s>Pónle algo de emoción y añade este vestido escotado a tu equipaje para Italia.</s>
+English: <s>Add a bit of emotion and add this sexy dress to your luggage for Italy.</s>
+Spanish: <s>Pónle algo de emoción y añade este vestido escotado a tu equipaje
+--------------------
+Spanish: <s>Para hacer las cosas un poco más interesantes invitamos a sus dos ex novias a la fiesta.</s>
+English: <s>To make things a little more interesting we invited your two ex-girlfriends to the party.</s>
+Spanish: <s>Para hacer las cosas un poco más interesantes invitamos a sus dos ex novias a la fiesta.</s>
+English: <s>To make things a little more interesting we invited your two ex-girlfriends to the party.</s>
+Spanish: <s>Para hacer las cosas un poco más interesantes invitamos a sus dos ex novias a la fiesta.</s>
+
+--------------------
+Spanish: <s>No me puedo creer que todo el mundo se haya enterado de la fiesta sorpresa! Te fuiste de la lengua en el cole?</s>
+English: <s>I can't believe everyone knows about the surprise party! You told everyone at school!</s>
+Spanish: <s>No me puedo creer que todo el mundo se haya enterado de la fiesta sorpresa! Te fuiste de la lengua en el cole?</s>
+English: <s>I can't believe everyone knows about the surprise party! You told everyone at school!</s>
+Spanish: <s>No me puedo creer que todo el mundo se haya enterado de la fiesta sor
+--------------------
+Spanish: <s>Vale, suéltalo. Qué es que te tiene tan emocionada?</s>
+English: <s>Let it go. What is it that has you so excited?</s>
+English: <s>Vale, suéltalo. Qué es que te tiene tan emocionada?</s>
+English: <s>Let it go. What is it that has you so excited?</s>
+English: <s>Vale, suéltalo. Qué es que te tiene tan emocionada?</s>
+English: <s>Let it go. What is it that has you so excited
+--------------------
+Spanish: <s>Venga, ya sé que estás intentando ocultarme algo, pero descubriré de qué se trata, así que suéltalo ya!</s>
+English: <s>Come on, I know you're trying to hide something from me, but I'll find out what it is, so just tell me!</s>
+Portuguese: <s>Vem cá, eu sei que estás tentando me esconder alguma coisa, mas eu vou descobrir o que é, então só me diga!</s>
+French: <s>Viens, je sais que tu essayes de me cacher quelque chose, mais je vais découvrir de quoi il s'agit
+--------------------
+Spanish: <s>De qué estás hablando? Dilo de una vez!</s>
+English: <s>What are you talking about? Just say it!</s>
+Spanish: <s>De qué estás hablando? Dilo de una vez!</s>
+English: <s>What are you talking about? Just say it!</s>
+Spanish: <s>De qué estás hablando? Dilo de una vez!</s>
+English: <s>What are you talking about? Just say it!</s>
+Spanish: <s>De qué estás hablando? Dilo de una vez
+--------------------
+Spanish: <s>Todavía no le he contado a nadie la gran noticia, porque no quería robarte la exclusiva.</s>
+English: <s>I haven't told anyone about the great news yet, because I didn't want to steal your exclusive.</s>
+Spanish: <s>Todavía no le he contado a nadie la gran noticia, porque no quería robarte la exclusiva.</s>
+English: <s>I haven't told anyone about the great news yet, because I didn't want to steal your exclusive.</s>
+Spanish: <s>Todavía no le he contado a nadie la gran
+--------------------
+Spanish: <s>Nuestra amistad se terminó cuando me difamó delante de toda mi familia!</s>
+English: <s>Our friendship ended when he slandered me in front of my whole family!</s>
+Spanish: <s>Nuestra amistad se terminó cuando me difamó delante de toda mi familia!</s>
+English: <s>Our friendship ended when he slandered me in front of my whole family!</s>
+Spanish: <s>Nuestra amistad se terminó cuando me difamó delante de toda mi familia!</s>
+English: <
+--------------------
+Spanish: <s>Cuando el profesor nos preguntó por qué no habíamos ido a clase ella me echó la culpa a mí. Por eso ahora yo estoy castigada y ella no.</s>
+English: <s>When the teacher asked us why we hadn't gone to class, she blamed it on me. That's why I'm being punished and she isn't.</s>
+Spanish: <s>Cuando el profesor nos preguntó por qué no habíamos ido a clase ella me echó la culpa a mí. Por eso ahora yo estoy castigada y ella no.</s>
+English: <s>When the teacher asked us why we hadn't gone to class, she blamed it on
+--------------------
+Spanish: <s>¿Te vas a vivir con Allison? Sabes que tus padres no lo aprobarán si antes no os casais.</s>
+English: <s>Are you going to live with Allison? You know your parents won't approve if you don't get married first.</s>
+Spanish: <s>¿Te vas a vivir con Allison? Sabes que tus padres no lo aprobarán si antes no os casais.</s>
+English: <s>Are you going to live with Allison? You know your parents won't approve if you don't get married first.</s>
+Spanish: <s>¿Te vas a vivir con Allison?
+--------------------
+Spanish: <s>Al final decidieron no hacerles caso a sus padres y se casaron el sábado pasado.</s>
+English: <s>In the end, they decided not to listen to their parents and got married on Saturday.</s>
+Spanish: <s>Al final decidieron no hacerles caso a sus padres y se casaron el sábado pasado.</s>
+English: <s>In the end, they decided not to listen to their parents and got married on Saturday.</s>
+Spanish: <s>Al final decidieron no hacerles caso a sus padres y se casaron el sábado pasado.</s>
+English: <s>
+--------------------
+Spanish: <s>A mi hijo le gusta tanto lo que le cocino que a veces, cuando empieza a chuparse los dedos y luego a lamer el plato, hago la vista gorda y le dejo disfrutar!</s>
+English: <s>My son likes what I cook so much that sometimes, when he starts sucking his fingers and then licking the plate, I let him enjoy it!</s>
+Spanish: <s>A mi hijo le gusta tanto lo que le cocino que a veces, cuando empieza a chuparse los dedos y luego a lamer el plato, hago la vista gorda y le dejo disfrutar!</s>
+English: <s>My son likes what I cook so much that sometimes, when he starts sucking
+--------------------
+Spanish: <s>No podemos hacer como si nada con la gente que trata la oficina como si fuera un hotel.</s>
+English: <s>We can't pretend like nothing is happening with the people who treat the office like it's a hotel.</s>
+Spanish: <s>No podemos hacer como si nada con la gente que trata la oficina como si fuera un hotel.</s>
+English: <s>We can't pretend like nothing is happening with the people who treat the office like it's a hotel.</s>
+Spanish: <s>No podemos hacer como si nada con la gente que trata la oficina como si fuera
+--------------------
+Spanish: <s>Voy a desentenderme de este incidente si me ayudas a llevar estos libros a la biblioteca.</s>
+English: <s>I'm going to ignore this incident if you help me carry these books to the library.</s>
+Spanish: <s>Voy a desentenderme de este incidente si me ayudas a llevar estos libros a la biblioteca.</s>
+English: <s>I'm going to ignore this incident if you help me carry these books to the library.</s>
+Spanish: <s>Voy a desentenderme de este incidente si me ayudas a llevar estos libros a la
+--------------------
+Spanish: <s>No querían ir al encuentro del departamento, pero su jefe les convenció.</s>
+English: <s>They didn't want to go to the department, but their boss convinced them.</s>
+Spanish: <s>No querían ir al encuentro del departamento, pero su jefe les convenció.</s>
+English: <s>They didn't want to go to the department, but their boss convinced them.</s>
+Spanish: <s>No querían ir al encuentro del departamento, pero su jefe les convenció.</s>
+English: <s>They didn
+--------------------
+Spanish: <s>¿Cómo convencer a mis padres para que me dejen ir a la fiesta el sábado?</s>
+English: <s>How can I convince my parents to let me go to the party on Saturday?</s>
+Spanish: <s>¿Cómo convencer a mis padres para que me dejen ir a la fiesta el sábado?</s>
+English: <s>How can I convince my parents to let me go to the party on Saturday?</s>
+Spanish: <s>¿Cómo convencer a mis padres para que me dejen ir a la fiesta el sábado?</s>
+English: <s>
+--------------------
+Spanish: <s>No se dan cuenta de que están pisando terreno peligroso? Más les vale dejar de llegar tarde al trabajo.</s>
+English: <s>Don't they know they're stepping on dangerous ground?</s>
+Spanish: <s>No se dan cuenta de que están pisando terreno peligroso? Más les vale dejar de llegar tarde al trabajo.</s>
+English: <s>Don't they know they're stepping on dangerous ground?</s>
+Spanish: <s>No se dan cuenta de que están pisando terreno peligroso? Más les vale dejar de llegar tarde al trabajo.</s>
+English: <s>
+--------------------
+Spanish: <s>Es la cuarta discusión que provocas en apenas diez minutos: estás pisando terreno peligroso.</s>
+English: <s>It's the fourth discussion you provoke in just ten minutes: you're stepping on dangerous ground.</s>
+Spanish: <s>Es la cuarta discusión que provocas en apenas diez minutos: estás pisando terreno peligroso.</s>
+English: <s>It's the fourth discussion you provoke in just ten minutes: you're stepping on dangerous ground.</s>
+Spanish: <s>Es la cuarta discusión que provocas en apenas diez minutos
+--------------------

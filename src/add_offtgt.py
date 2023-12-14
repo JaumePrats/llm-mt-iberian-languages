@@ -33,8 +33,8 @@ def add_offtgt(ref_lang, results_dir, tgt_dir):
 # Test off-target metric on evaluation reference file to see sensitivity:
 #
 ########################################################################
-ref_path = '/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest'
-ref_lang = 'eng'
+ref_path = '/fs/surtr0/jprats/data/processed/evaluation/UNPC/testset/UNv1.0.testset.spa'
+ref_lang = 'spa'
 print(20*'=')
 print('reference_file:', ref_path)
 print('reference language:', ref_lang)

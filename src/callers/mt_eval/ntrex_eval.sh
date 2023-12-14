@@ -3,10 +3,10 @@
 model=tiiuae/falcon-7b
 filename_prefix=FM_falcon_ntrex
 # nums_fewshot=(5 1 0)
-nums_fewshot=(0 1)
-directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-# directions=("spa-cat" "spa-eng")
-gpus=(3)
+nums_fewshot=(1)
+# directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
+directions=("eng-spa" "spa-cat" "spa-eng")
+gpus=(6)
 
 example_set=dev
 

@@ -4,11 +4,11 @@ model=projecte-aina/aguila-7b
 eval_set=devtest
 example_set=dev
 filename_prefix=FM_aguila_flores-$eval_set
-nums_fewshot=(5 1 0)
+nums_fewshot=(1)
 # nums_fewshot=(0 1)
-directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-# directions=("spa-cat" "spa-eng")
-gpus=(2 3)
+# directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
+directions=("eng-spa" "spa-cat" "cat-spa" "spa-eng")
+gpus=(6)
 
 for num_fewshot in "${nums_fewshot[@]}"; do
 

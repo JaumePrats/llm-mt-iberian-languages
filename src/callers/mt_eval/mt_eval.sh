@@ -78,7 +78,7 @@ sleep 1
 unpc_eval_set=testset
 unpc_example_set=devset
 # -------------
-filename_prefix=${base_prefix}_unpc-$unpc_example_set
+filename_prefix=${base_prefix}_unpc-$unpc_eval_set
 
 export CUDA_VISIBLE_DEVICES=$gpus
 echo GPU:$CUDA_VISIBLE_DEVICES

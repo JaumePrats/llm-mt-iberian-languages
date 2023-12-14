@@ -34,3 +34,83 @@ Requests: (Req_greedy_until('Contexto: Hay algunas ideas falsas comunes sobre la
 , Req_loglikelihood('Contexto: Hay algunas ideas falsas comunes sobre las membranas de cloroplasto exterior e interior. El hecho de que los cloroplastos estén rodeados por una membrana doble a menudo se cita como evidencia de que son descendientes de cianobacterias endosimbióticas. Esto a menudo se interpreta como que la membrana externa de cloroplasto es el producto de la membrana celular del huésped que se pliega para formar una vesícula que rodea la cianobacteria ancestral, lo cual no es cierto, ya que ambas membranas de cloroplasto son homólogas a las membranas dobles originales de la cianobacteria.\n\nPregunta: ¿Qué se piensa incorrectamente sobre la membrana externa de cloroplasto?\n\nRespuesta:', ' incontestable')[None]
 )
 Running greedy_until requests
+Running loglikelihood requests
+{
+  "results": {
+    "xquad_ca": {
+      "exact": 4.121110176619007,
+      "f1": 18.4729253500204,
+      "HasAns_exact": 4.121110176619007,
+      "HasAns_f1": 18.4729253500204,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 4.121110176619007,
+      "best_f1": 18.472925350020382
+    },
+    "xquad_en": {
+      "exact": 5.630252100840337,
+      "f1": 18.72361984511621,
+      "HasAns_exact": 5.630252100840337,
+      "HasAns_f1": 18.72361984511621,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 5.630252100840337,
+      "best_f1": 18.723619845116204
+    },
+    "xquad_es": {
+      "exact": 3.697478991596639,
+      "f1": 16.824967396608905,
+      "HasAns_exact": 3.697478991596639,
+      "HasAns_f1": 16.824967396608905,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 3.697478991596639,
+      "best_f1": 16.8249673966089
+    }
+  },
+  "versions": {
+    "xquad_ca": 0.0,
+    "xquad_en": 0.0,
+    "xquad_es": 0.0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:4",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+|  Task  |Version|   Metric   | Value |   |Stderr|
+|--------|------:|------------|------:|---|------|
+|xquad_ca|      0|exact       | 4.1211|   |      |
+|        |       |f1          |18.4729|   |      |
+|        |       |HasAns_exact| 4.1211|   |      |
+|        |       |HasAns_f1   |18.4729|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  | 4.1211|   |      |
+|        |       |best_f1     |18.4729|   |      |
+|xquad_en|      0|exact       | 5.6303|   |      |
+|        |       |f1          |18.7236|   |      |
+|        |       |HasAns_exact| 5.6303|   |      |
+|        |       |HasAns_f1   |18.7236|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  | 5.6303|   |      |
+|        |       |best_f1     |18.7236|   |      |
+|xquad_es|      0|exact       | 3.6975|   |      |
+|        |       |f1          |16.8250|   |      |
+|        |       |HasAns_exact| 3.6975|   |      |
+|        |       |HasAns_f1   |16.8250|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  | 3.6975|   |      |
+|        |       |best_f1     |16.8250|   |      |
+
