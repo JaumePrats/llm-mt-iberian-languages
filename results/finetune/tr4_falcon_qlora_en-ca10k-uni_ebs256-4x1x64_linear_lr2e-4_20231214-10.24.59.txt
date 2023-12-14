@@ -1,0 +1,250 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:10000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/ca-en_multimacocu/multimacocu_en-ca_unidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/multimacocu_en-ca_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_falcon_qlora_en-ca10k-uni_ebs256-4x1x64_linear_lr2e-4_20231214-10.24.59
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 4,5,6,7
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:10000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/ca-en_multimacocu/multimacocu_en-ca_unidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/multimacocu_en-ca_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_falcon_qlora_en-ca10k-uni_ebs256-4x1x64_linear_lr2e-4_20231214-10.24.59
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 4,5,6,7
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:10000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/ca-en_multimacocu/multimacocu_en-ca_unidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/multimacocu_en-ca_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_falcon_qlora_en-ca10k-uni_ebs256-4x1x64_linear_lr2e-4_20231214-10.24.59
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 4,5,6,7
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:10000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/ca-en_multimacocu/multimacocu_en-ca_unidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/multimacocu_en-ca_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/tr4_falcon_qlora_en-ca10k-uni_ebs256-4x1x64_linear_lr2e-4_20231214-10.24.59
+--------------------------------------------------
+learning_rate: 0.0001
+lr_scheduler_type: linear
+effective batch size: 64
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64
+  CUDA Devices: 4,5,6,7
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.11111
+--------------------------------------------------
+lora_r: 16
+lora_alpha: 16
+--------------------------------------------------
+bf16: True
+--------------------------------------------------
+use_4bit: True
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: float16
+==================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+================================================================================
+Your GPU supports bfloat16, you can accelerate training with the argument --bf16
+================================================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 5000
+})
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+False
+False
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 5000
+})
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+False
+False
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 5000
+})
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+False
+False
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 5000
+})
+Dataset({
+    features: ['text'],
+    num_rows: 10000
+})
+False
+False
+{'loss': 1.6992, 'learning_rate': 2.5e-05, 'epoch': 0.03}
+{'loss': 1.6046, 'learning_rate': 5e-05, 'epoch': 0.05}
+{'loss': 1.7059, 'learning_rate': 7.500000000000001e-05, 'epoch': 0.08}
+{'loss': 1.6567, 'learning_rate': 0.0001, 'epoch': 0.1}
+{'loss': 1.577, 'learning_rate': 9.911504424778762e-05, 'epoch': 0.13}
+{'loss': 1.5677, 'learning_rate': 9.823008849557522e-05, 'epoch': 0.15}
+{'loss': 1.5271, 'learning_rate': 9.734513274336283e-05, 'epoch': 0.18}
+{'loss': 1.4171, 'learning_rate': 9.646017699115044e-05, 'epoch': 0.2}
+{'loss': 1.4283, 'learning_rate': 9.557522123893806e-05, 'epoch': 0.23}
+{'loss': 1.3452, 'learning_rate': 9.469026548672566e-05, 'epoch': 0.26}
+{'loss': 1.3816, 'learning_rate': 9.380530973451328e-05, 'epoch': 0.28}
+{'loss': 1.3757, 'learning_rate': 9.29203539823009e-05, 'epoch': 0.31}
+{'loss': 1.323, 'learning_rate': 9.20353982300885e-05, 'epoch': 0.33}
+{'eval_loss': 1.468463659286499, 'eval_runtime': 109.6088, 'eval_samples_per_second': 45.617, 'eval_steps_per_second': 1.432, 'epoch': 0.33}
+{'loss': 1.3876, 'learning_rate': 9.115044247787611e-05, 'epoch': 0.36}
+{'loss': 1.3121, 'learning_rate': 9.026548672566371e-05, 'epoch': 0.38}
+{'loss': 1.4186, 'learning_rate': 8.938053097345133e-05, 'epoch': 0.41}
+{'loss': 1.3924, 'learning_rate': 8.849557522123895e-05, 'epoch': 0.44}
+{'loss': 1.3543, 'learning_rate': 8.761061946902655e-05, 'epoch': 0.46}
+{'loss': 1.3049, 'learning_rate': 8.672566371681417e-05, 'epoch': 0.49}
+{'loss': 1.3155, 'learning_rate': 8.584070796460177e-05, 'epoch': 0.51}
+{'loss': 1.3557, 'learning_rate': 8.495575221238938e-05, 'epoch': 0.54}
+{'loss': 1.3246, 'learning_rate': 8.4070796460177e-05, 'epoch': 0.56}
+{'loss': 1.3632, 'learning_rate': 8.31858407079646e-05, 'epoch': 0.59}
+{'loss': 1.3276, 'learning_rate': 8.230088495575221e-05, 'epoch': 0.61}
+{'loss': 1.3291, 'learning_rate': 8.141592920353983e-05, 'epoch': 0.64}
+{'loss': 1.3664, 'learning_rate': 8.053097345132744e-05, 'epoch': 0.67}
+{'eval_loss': 1.3920478820800781, 'eval_runtime': 108.0521, 'eval_samples_per_second': 46.274, 'eval_steps_per_second': 1.453, 'epoch': 0.67}
+{'loss': 1.3083, 'learning_rate': 7.964601769911504e-05, 'epoch': 0.69}
+{'loss': 1.2888, 'learning_rate': 7.876106194690266e-05, 'epoch': 0.72}
+{'loss': 1.3335, 'learning_rate': 7.787610619469027e-05, 'epoch': 0.74}
+{'loss': 1.2869, 'learning_rate': 7.699115044247787e-05, 'epoch': 0.77}
+{'loss': 1.3619, 'learning_rate': 7.610619469026549e-05, 'epoch': 0.79}
+{'loss': 1.2124, 'learning_rate': 7.522123893805309e-05, 'epoch': 0.82}
+{'loss': 1.2312, 'learning_rate': 7.433628318584072e-05, 'epoch': 0.84}
+{'loss': 1.284, 'learning_rate': 7.345132743362832e-05, 'epoch': 0.87}
+{'loss': 1.2881, 'learning_rate': 7.256637168141593e-05, 'epoch': 0.9}
+{'loss': 1.2506, 'learning_rate': 7.168141592920355e-05, 'epoch': 0.92}
+{'loss': 1.2549, 'learning_rate': 7.079646017699115e-05, 'epoch': 0.95}
+{'loss': 1.3348, 'learning_rate': 6.991150442477876e-05, 'epoch': 0.97}
+{'loss': 1.2971, 'learning_rate': 6.902654867256638e-05, 'epoch': 1.0}
+{'eval_loss': 1.3407156467437744, 'eval_runtime': 108.8636, 'eval_samples_per_second': 45.929, 'eval_steps_per_second': 1.442, 'epoch': 1.0}

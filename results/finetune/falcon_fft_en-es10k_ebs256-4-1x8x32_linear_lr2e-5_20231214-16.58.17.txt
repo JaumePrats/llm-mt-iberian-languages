@@ -1,0 +1,81 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+--------------------------------------------------
+train_split: [:20000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_fft_en-es10k_ebs256-4-1x8x32_linear_lr2e-5_20231214-16.58.17
+--------------------------------------------------
+learning_rate: 2e-05
+lr_scheduler_type: linear
+effective batch size: 256
+  per_device_train_batch_size: 8
+  gradient_accumulation_steps: 32
+  CUDA Devices: 0,1,2,3
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.05555
+--------------------------------------------------
+bf16: True
+==================================================
+Resulting dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+Resulting validation dataset:
+Dataset({
+    features: ['text'],
+    num_rows: 9994
+})
+Dataset({
+    features: ['text'],
+    num_rows: 20000
+})
+False
+False
+model: FalconForCausalLM(
+  (transformer): FalconModel(
+    (word_embeddings): Embedding(65024, 4544)
+    (h): ModuleList(
+      (0-31): 32 x FalconDecoderLayer(
+        (self_attention): FalconAttention(
+          (maybe_rotary): FalconRotaryEmbedding()
+          (query_key_value): FalconLinear(in_features=4544, out_features=4672, bias=False)
+          (dense): FalconLinear(in_features=4544, out_features=4544, bias=False)
+          (attention_dropout): Dropout(p=0.0, inplace=False)
+        )
+        (mlp): FalconMLP(
+          (dense_h_to_4h): FalconLinear(in_features=4544, out_features=18176, bias=False)
+          (act): GELU(approximate='none')
+          (dense_4h_to_h): FalconLinear(in_features=18176, out_features=4544, bias=False)
+        )
+        (input_layernorm): LayerNorm((4544,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (ln_f): LayerNorm((4544,), eps=1e-05, elementwise_affine=True)
+  )
+  (lm_head): Linear(in_features=4544, out_features=65024, bias=False)
+)
+{'loss': 1.0053, 'learning_rate': 2.5e-06, 'epoch': 0.01}
+{'loss': 1.0096, 'learning_rate': 5e-06, 'epoch': 0.03}
+{'loss': 0.9905, 'learning_rate': 7.500000000000001e-06, 'epoch': 0.04}
+{'loss': 0.9535, 'learning_rate': 1e-05, 'epoch': 0.05}
+{'loss': 0.9054, 'learning_rate': 1.25e-05, 'epoch': 0.06}
+{'loss': 0.8117, 'learning_rate': 1.5000000000000002e-05, 'epoch': 0.08}
+{'loss': 0.8037, 'learning_rate': 1.7500000000000002e-05, 'epoch': 0.09}
+{'loss': 0.8122, 'learning_rate': 2e-05, 'epoch': 0.1}
+{'loss': 0.7552, 'learning_rate': 1.991150442477876e-05, 'epoch': 0.12}
+{'loss': 0.7921, 'learning_rate': 1.9823008849557524e-05, 'epoch': 0.13}
+{'loss': 0.7285, 'learning_rate': 1.9734513274336283e-05, 'epoch': 0.14}
+{'loss': 0.7634, 'learning_rate': 1.9646017699115046e-05, 'epoch': 0.15}
+{'loss': 0.7432, 'learning_rate': 1.9557522123893806e-05, 'epoch': 0.17}
