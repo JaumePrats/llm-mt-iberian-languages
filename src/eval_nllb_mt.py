@@ -15,7 +15,7 @@ from metrics import bleu_score, comet_score, off_target_score
 print('using cuda:', torch.cuda.is_available())
 
 # DIRECTORIES
-RESULTS_DIR = 'results/'
+RESULTS_DIR = 'results/mt_eval/'
 TGT_DIR = 'tgt_out/'
 COMPLETE_OUT_DIR = 'complete_out/'
 COMET_SCORES_DIR = RESULTS_DIR + 'comet_scores/'

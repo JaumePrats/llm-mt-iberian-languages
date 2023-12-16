@@ -1,0 +1,978 @@
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un calamar en la olla como de costumbre.</s>
+English: <s>Mom wanted to cook something different that day, but she ended up putting a squid in the pot as usual.</s>
+
+Spanish: <s>Aún no sé cómo lo hizo, pero consiguió colocar un calamar en la olla como de costumbre.</s>
+English: <s>I still don't know how she did it, but she managed to put a squid in the pot as usual.</s>
+
+Spanish: <s>Aún no sé c�
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un salmón en la olla como de costumbre.</s>
+English: <s>Mom wanted to cook something different that day, but she ended up putting a salmon in the pot as usual.</s>
+
+Spanish: <s>El salmón es uno de los peces más comunes en el océano Pacífico.</s>
+English: <s>Salmon is one of the most common fish in the Pacific Ocean.</s>
+
+Spanish: <s>El salmón es uno de los peces más comunes en el océano Pacífico
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Puedes tirar una piedra en el lago y observar las ondas bailar sobre la superficie hasta que se te pase la melancolía.</s>
+English: <s>You can throw a stone in the lake and watch the waves dance on the surface until you get over your melancholy.</s>
+
+Spanish: <s>La isla de Rarotonga es la más grande de las Islas Cook.</s>
+English: <s>The island of Rarotonga is the largest of the Cook Islands.</s>
+
+Spanish: <s>La isla de Aitutaki es la más pequeña de las Islas Cook.</s>
+English: <s
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Si quieres relajarte y hacer desaparecer el estrés, tira una piedra en el lago y observa cómo bailan las ondas sobre la superficie.</s>
+English: <s>If you want to relax and get rid of the stress, throw a stone in the lake and watch how the waves dance on the surface.</s>
+
+Spanish: <s>En la isla de Rarotonga, la lengua oficial es el inglés.</s>
+English: <s>On the island of Rarotonga, the official language is English.</s>
+
+Spanish: <s>En la isla de Aitutaki, la lengua oficial es el inglés.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El encuentro incluía tantas actividades que al final del día estaba agotada.</s>
+English: <s>The meeting included so many activities that at the end of the day I was exhausted.</s>
+
+Spanish: <s>La mayoría de los habitantes de las Islas Cook viven en Rarotonga y Aitutaki.</s>
+English: <s>The majority of the inhabitants of the Cook Islands live in Rarotonga and Aitutaki.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla hacia atrás.</s>
+English: <s>In chess, you can move your pieces one square back.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla hacia adelante.</s>
+English: <s>In chess, you can move your pieces one square forward.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla a la derecha.</s>
+English: <s>In chess, you can move your pieces one square to the
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Qué sorpresa! No sabía que Bob es tu tío.</s>
+English: <s>What a surprise! I didn't know that Bob is your uncle.</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What's your name?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What's your name?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What'
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En el laboratorio el profesor me dijo que arrancara una pata de la rana muerta y que la diseccionara. Fue entonces cuando me di cuenta de que nunca podría ser biólogo!</s>
+English: <s>In the laboratory, the professor told me to take a leg from the dead frog and dissect it. It was then that I realized that I could never be a biologist!</s>
+
+Spanish: <s>En el laboratorio el profesor me dijo que arrancara una pata de la rana muerta y que la diseccionara. Fue entonces cuando me di cuenta de que nunca podría ser biólogo!</s>
+English: <s>In the laboratory, the professor told me to take a leg
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Al salir del edificio de oficinas después de la entrevista de trabajo más importante de mi vida, tropecé por la escalera y me rompí una pierna. Fue así que perdí la oportunidad de empezar el trabajo de mis sueños.</s>
+English: <s>After the most important job interview of my life, I tripped on the stairs and broke my leg. That's how I lost the opportunity to start the job of my dreams.</s>
+
+Spanish: <s>A pesar de que no tenía dinero para pagar el alquiler, el dueño de la casa me dejó vivir en su casa durante un año.</s>
+English: <s>Even though I didn't have the money to pay the rent, the owner of the house let me live in
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Sabes qué son las encías? Ayer el dentista de mi mamá me explicó que son como la piel de mis dientes y que para cuidarlas no tengo que comer demasiados dulces.</s>
+English: <s>Do you know what are the gums? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I have to take care of them not to eat too many sweets.</s>
+
+Spanish: <s>Mi mamá y yo vamos a la playa todos los fines de semana.</s>
+English: <s>My mom and I go to the beach every weekend.</s>
+
+Spanish: <s>Mi mamá y yo vamos a la playa todos los
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Es importante cuidar de nuestra piel y dientes acudiendo con regularidad al dermatólogo y al dentista.</s>
+English: <s>It is important to take care of our skin and teeth by going to the dermatologist and the dentist regularly.</s>
+
+Spanish: <s>Es importante cuidar de nuestra piel y dientes acudiendo con regularidad al dermatólogo y al dentista.</s>
+English: <s>It is important to take care of our skin and teeth by going to the dermatologist and the dentist regularly.</s>
+
+Spanish: <s>Es importante cuidar de nuestra piel y dientes acudiendo
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Llegamos a casa tan hambrientos que para cenar nos comimos pavo frío sacado directamente de la nevera.</s>
+English: <s>We were so hungry when we got home that for dinner we ate cold turkey straight out of the fridge.</s>
+
+Spanish: <s>Cuando llegamos al aeropuerto, nos dijeron que el avión estaba atrasado.</s>
+English: <s>When we arrived at the airport, they told us that the plane was delayed.</s>
+
+Spanish: <s>Cuando llegamos al aeropuerto, nos dijeron que el avión estaba atras
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Tú crees que en una situación de hambruna extrema un perro se comería a otro perro para sobrevivir?</s>
+English: <s>Do you think that in a situation of extreme hunger a dog would eat another dog to survive?</s>
+
+Spanish: <s>Tú crees que en una situación de hambruna extrema un perro se comería a otro perro para sobrevivir?</s>
+English: <s>Do you think that in a situation of extreme hunger a dog would eat another dog to survive?</s>
+
+Spanish: <s>Tú crees que en una situación de
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Qué te parece? Últimamente no me citan mucho en las clases de literatura. Quizás ya no sea tan famoso.</s>
+English: <s>What do you think? Lately I haven't been cited much in the literature classes. Maybe I'm not as famous as I used to be.</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>What's up? How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>What's up? How are you?</
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Mi jefe me dijo que sería más fácil realizar esta tarea internamente que pedir ayuda externa.</s>
+English: <s>My boss told me that it would be easier to do this task internally than to ask for help from outside.</s>
+
+Spanish: <s>Mi jefe me dijo que sería más fácil realizar esta tarea internamente que pedir ayuda externa.</s>
+English: <s>My boss told me that it would be easier to do this task internally than to ask for help from outside.</s>
+
+Spanish: <s>Mi jefe me dijo que sería más fácil realizar esta tarea internamente que
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Quieres aguantar tus caballos? Me están pisando el césped y estropeando el jardín!</s>
+English: <s>Do you want to keep your horses? They're trampling my lawn and ruining my garden!</s>
+
+Spanish: <s>¿Quieres que te enseñe a bailar?</s>
+English: <s>Do you want me to teach you how to dance?</s>
+
+Spanish: <s>¿Quieres que te enseñe a bailar?</s>
+English: <s>Do you want me to teach you how to dance?</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Por favor, dame una lupa para mirar cómo se mueve la araña sobre la hoja.</s>
+English: <s>Please, give me a magnifying glass so I can see how the spider moves on the leaf.</s>
+
+Spanish: <s>¿Puedes decirme dónde está la biblioteca?</s>
+English: <s>Can you tell me where the library is?</s>
+
+Spanish: <s>¿Puedes decirme dónde está la biblioteca?</s>
+English: <s>Can you tell me where the library is?</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Este restaurante te sirve los platos con la justa cantidad de condimentos para hacerlos realmente memorables.</s>
+English: <s>This restaurant serves the dishes with just the right amount of condiments to make them really memorable.</s>
+
+Spanish: <s>La mayoría de los habitantes de las Islas Cook viven en Rarotonga y Aitutaki.</s>
+English: <s>The majority of the inhabitants of the Cook Islands live in Rarotonga and Aitutaki.</s>
+
+Spanish: <s>La mayoría de los habitantes de las Islas Cook viven en Rarotonga y
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Hablemos de cómo una pared de ladrillo le puede conferir encanto y carácter a cualquier espacio.</s>
+English: <s>Let's talk about how a brick wall can give charm and character to any space.</s>
+
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: 
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Esta no es mi taza de té! Ha cambiado las tazas y me ha dejado la que está vacía! Qué descarada!</s>
+English: <s>This is not my cup of tea! He changed the cups and left me the one that is empty! What a cheeky one!</s>
+
+Spanish: <s>¿Qué es lo que quieres? ¿Quieres una taza de té?</s>
+English: <s>What do you want? Do you want a cup of tea?</s>
+
+Spanish: <s>¿Qué es lo que quieres? ¿Quieres una taza de té?</s>
+English: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Has malinterpretado la información del folleto: el tema del curso ofrecido por la Universidad de Maryland es diseño de aeronaves, no ciencia espacial.</s>
+English: <s>You have misinterpreted the information in the brochure: the course offered by the University of Maryland is about aircraft design, not space science.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Después de un mes de clases de natación los niños tenían la confianza suficiente para tirarse a la parte más profunda de la piscina.</s>
+English: <s>After a month of swimming lessons, the children had the confidence to jump into the deepest part of the pool.</s>
+
+Spanish: <s>Los niños se divertían nadando en la piscina.</s>
+English: <s>The children were having fun swimming in the pool.</s>
+
+Spanish: <s>Los niños se divertían nadando en la piscina.</s>
+English: <s>The children were having fun swimming in the pool.</s>
+
+Spanish:
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Llevo tres meses viajando fuera de mi país y ahora estoy intentando enviarle una carta a mi madre para contarle cómo me va, pero tengo la sensación de no tener nada que contar.</s>
+English: <s>I have been traveling outside my country for three months and now I am trying to send a letter to my mother to tell her how I am doing, but I have the feeling that I have nothing to tell her.</s>
+
+Spanish: <s>Ahora estoy en el aeropuerto, esperando mi vuelo de regreso a mi país.</s>
+English: <s>Now I am at the airport, waiting for my flight back to my country.</s>
+
+Spanish: <s>Me
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Seguimos la ruta del navegador hasta que nos sacó del camino transitado y nos mandó por una pista llena de barro y prácticamente intransitable.</s>
+English: <s>We followed the route of the navigator until he took us off the main road and sent us on a road full of mud and practically impassable.</s>
+
+Spanish: <s>La pista nos llevó a una playa de arena blanca donde nos esperaba un avión que nos llevó a Rarotonga.</s>
+English: <s>The road took us to a beach of white sand where we were waiting for an airplane that took us to Rarotonga
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Puaj! Quítame este bicho de la cabeza, qué asco!</s>
+English: <s>Oh my God! Get this bug out of my head, it's disgusting!</s>
+
+Spanish: <s>¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas!
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Al ser la montaña más alta del planeta, el Everest se considera la cima del mundo.</s>
+English: <s>Being the highest mountain in the world, Mount Everest is considered to be the highest peak in the world.</s>
+
+Spanish: <s>En la actualidad, el Everest es la montaña más alta del planeta.</s>
+English: <s>In the present day, Mount Everest is the highest mountain in the world.</s>
+
+Spanish: <s>En la actualidad, el Everest es la montaña más alta del planeta.</s>
+English: <s>In the
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Te gustaría ver mi vestido nuevo? Sácalo de la caja azul que está en el armario y me lo pondré para enseñartelo.</s>
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and put it on so I can show it to you.</s>
+
+Spanish: <s>¿Quieres ver mi vestido nuevo? Sácalo de la caja azul que está en el armario y me lo pondré para enseñarte.</s>
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and put it on so I can
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Es difícil medir la velocidad y el alcance de la propagación del virus.</s>
+English: <s>It is difficult to measure the speed and range of the spread of the virus.</s>
+
+Spanish: <s>Es difícil medir la velocidad y el alcance de la propagación del virus.</s>
+English: <s>It is difficult to measure the speed and range of the spread of the virus.</s>
+
+Spanish: <s>Es difícil medir la velocidad y el alcance de la propagación del virus.</s>
+English: <s>It is
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Antes la gente se casaba más que ahora.</s>
+English: <s>People used to get married more than they do now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+English: <s>People used to get married more than they do now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+English: <s>People used to get married more than they do now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Al salir corriendo de la habitación, golpeó el ventilador y lo tiró al suelo.</s>
+English: <s>After running out of the room, he hit the fan and it fell to the floor.</s>
+
+Spanish: <s>Al salir corriendo de la habitación, golpeó el ventilador y lo tiró al suelo.</s>
+English: <s>After running out of the room, he hit the fan and it fell to the floor.</s>
+
+Spanish: <s>Al salir corriendo de la habitación, golpeó el ventilador y
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Cuando el edificio ya estaba en llamas, los vándalos le echaron más combustible al fuego, convirtiéndolo en un evento inarrestable y devastador.</s>
+English: <s>When the building was already on fire, the Vandals threw more fuel on the fire, turning it into an unquenchable and devastating event.</s>
+
+Spanish: <s>Los vándalos no se detuvieron hasta que el edificio quedó reducido a cenizas.</s>
+English: <s>The Vandals did not stop until the building was reduced to ashes.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Se supone que mi perro es buen cazador, pero míralo, le está ladrando al árbol equivocado: la ardilla está subida al pino al otro lado de la calle!</s>
+English: <s>It is supposed that my dog is a good hunter, but look at him, he is barking at the wrong tree: the squirrel is up in the pine tree on the other side of the street!</s>
+
+Spanish: <s>¿Cómo se dice "perro" en español?</s>
+English: <s>How do you say "dog" in Spanish?</s>
+
+Spanish: <s>¿Cómo se dice "perro" en español?</s>
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El búho es una criatura nocturna y un símbolo de sabiduría en muchas culturas.</s>
+English: <s>The owl is a nocturnal creature and a symbol of wisdom in many cultures.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años ya ha participado en más de cinco películas!</s>
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she has already participated in more than five movies!</s>
+
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años ya ha participado en más de cinco películas!</s>
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she has already participated in more than five movies!</s>
+
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in transparent crystal glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in transparent crystal glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in transparent crystal glasses.</s>
+
+Spanish: <s>El vino se
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Todas esas latas en tu despensa están llenas de alubias? No comes nada más en todo el invierno o qué?</s>
+English: <s>All those cans in your pantry are full of beans? You don't eat anything else during the whole winter or what?</s>
+
+Spanish: <s>Todas esas latas en tu despensa están llenas de alubias? No comes nada más en todo el invierno o qué?</s>
+English: <s>All those cans in your pantry are full of beans? You don't eat anything else during the whole winter or what?</s>
+
+Spanish: <s>T
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Bud está en la caseta que mi padre construyó para él en el jardín, pero creo que estaba más contento cuando le dejábamos dormir en el sofá.</s>
+English: <s>Bud is in the shed that my father built for him in the garden, but I think he was happier when he was allowed to sleep on the sofa.</s>
+
+Spanish: <s>No me gusta el café con leche, prefiero el café solo.</s>
+English: <s>I don't like coffee with milk, I prefer it black.</s>
+
+Spanish: <s>No me gusta el café con leche, prefiero el café solo.</s>
+English: 
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Pon el pie sobre la pelota y estira la pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s>
+
+Spanish: <s>Pon el pie sobre la pelota y estira la pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s>
+
+Spanish: <s>Pon el pie sobre la pelota y estira la pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s>
+
+Spanish: <s
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Estás construyendo mal tu maqueta del sistema solar: mira, Marte no puede estar encima de la Luna, lo tienes que mover un poco hacia un lado para reproducir el orden real de los planetas.</s>
+English: <s>You're building your model of the solar system wrong: look, Mars can't be above the Moon, you have to move it a little to the side to reproduce the real order of the planets.</s>
+
+Spanish: <s>No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Anoche nevó mucho y mi coche desapareció bajo una montaña blanca.</s>
+English: <s>Last night it snowed a lot and my car got buried under a white mountain.</s>
+
+Spanish: <s>La nieve se derritió por el calor del sol.</s>
+English: <s>The snow melted because of the heat of the sun.</s>
+
+Spanish: <s>La nieve se derritió por el calor del sol.</s>
+English: <s>The snow melted because of the heat of the sun.</s>
+
+Spanish
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>He servido ese cocktail con la última pajita que teníamos y ya no me quedan para los mojitos... Puedes llamar al proveedor y pedir una caja?</s>
+English: <s>I served that cocktail with the last straw we had and I don't have any more for the mojitos... Can you call the supplier and ask for a box?</s>
+
+Spanish: <s>¿Puedes llamar al proveedor y pedir una caja?</s>
+English: <s>Can you call the supplier and ask for a box?</s>
+
+Spanish: <s>¿Puedes llamar al proveedor y pedir una caja?</s>
+English: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Hay un restaurante indio muy bueno subiendo por tu calle a mano izquierda.</s>
+English: <s>There is a very good Indian restaurant going up your street to the left.</s>
+
+Spanish: <s>El restaurante indio está subiendo por tu calle a mano izquierda.</s>
+English: <s>The Indian restaurant is going up your street to the left.</s>
+
+Spanish: <s>El restaurante indio está subiendo por tu calle a mano izquierda.</s>
+English: <s>The Indian restaurant is going up your street to the left.</s
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Deja de morder más de lo que puedes masticar cuando comes una hamburguesa! Ver como se te escurre la comida de la boca es asqueroso!</s>
+English: <s>Don't bite off more than you can chew when you eat a hamburger! It's disgusting to see the food falling out of your mouth!</s>
+
+Spanish: <s>No te preocupes por lo que piensan los demás, solo piensa en lo que piensas tú.</s>
+English: <s>Don't worry about what others think of you, just think about what you think of yourself.</s>
+
+Spanish: <s>No te preocupes por lo que
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Se narra que, en la antigüedad, los soldados mordían una bala para aguantar el dolor cuando se sometían a una cirugía de urgencia en el campo de batalla.</s>
+English: <s>It is said that, in ancient times, soldiers would bite down on a bullet to endure the pain during emergency surgery on the battlefield.</s>
+
+Spanish: <s>En la antigüedad, los soldados mordían una bala para aguantar el dolor cuando se sometían a una cirugía de urgencia en el campo de batalla.</s>
+English: <s>In ancient times, soldiers would bite down on a bullet to endure the pain during emergency surgery on the battlefield
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Para empezar a tocar la trompeta tienes que soplar en ella hasta que salga un sonido... no es tan fácil!</s>
+English: <s>To start playing the trumpet you have to blow into it until a sound comes out... it's not that easy!</s>
+
+Spanish: <s>No te preocupes, yo te ayudaré.</s>
+English: <s>Don't worry, I'll help you.</s>
+
+Spanish: <s>No te preocupes, yo te ayudaré.</s>
+English: <s>Don't worry, I'll help you.</s>
+
+Spanish:
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Podrías traer a casa el bacon que compramos ayer y dejamos en la nevera de al autocaravana?</s>
+English: <s>Could you bring home the bacon that we bought yesterday and left in the fridge of the caravana?</s>
+
+Spanish: <s>¿Quieres ir a la playa conmigo?</s>
+English: <s>Do you want to go to the beach with me?</s>
+
+Spanish: <s>¿Quieres ir a la playa conmigo?</s>
+English: <s>Do you want to go to the beach with me?</s>
+
+Spanish
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>La guerra le costó al soldado un brazo y una pierna. Se quedó inválido de por vida.</s>
+English: <s>The war cost the soldier an arm and a leg. He was left crippled for life.</s>
+
+Spanish: <s>La guerra le costó un brazo y una pierna. Se quedó inválido de por vida.</s>
+English: <s>The war cost him an arm and a leg. He was left crippled for life.</s>
+
+Spanish: <s>La guerra le costó un brazo y una pierna. Se quedó inv
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Tenemos que cortar y tensar esta cuerda: está demasiado floja!</s>
+English: <s>We have to cut and tighten this rope: it's too loose!</s>
+
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: <s>Don't worry, I'm not going to hurt you.</s>
+
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: <s>Don't worry, I'm not going to hurt you.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Podrías cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you please cut the cheese and put it on the table, please?</s>
+
+Spanish: <s>¿Podrías cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you please cut the cheese and put it on the table, please?</s>
+
+Spanish: <s>¿Podrías cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you please cut
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El zumo de limón ha cortado la mostaza y la ensalada se ha vuelto agria. La hemos tenido que tirar.</s>
+English: <s>The lemon juice has cut the mustard and the salad has gone bad. We had to throw it away.</s>
+
+Spanish: <s>El perro se ha comido el pastel y el gato se ha comido al perro.</s>
+English: <s>The dog has eaten the cake and the cat has eaten the dog.</s>
+
+Spanish: <s>El perro se ha comido el pastel y el gato se ha comido al perro.</s>
+English
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Por favor, llévame a la tienda de la esquina, quiero comprar unos frutos secos.</s>
+English: <s>Please, take me to the corner shop, I want to buy some dried fruits.</s>
+
+Spanish: <s>¿Dónde está la tienda de la esquina?</s>
+English: <s>Where is the corner shop?</s>
+
+Spanish: <s>¿Dónde está la tienda de la esquina?</s>
+English: <s>Where is the corner shop?</s>
+
+Spanish: <s>¿Dónde está la
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Se me han congelado los pies de estar haciendo cola toda la mañana a 3 grados. Ahora me duelen y no puedo andar.</s>
+English: <s>My feet are frozen because I've been standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+
+Spanish: <s>No me gusta el helado de vainilla.</s>
+English: <s>I don't like vanilla ice cream.</s>
+
+Spanish: <s>No me gusta el helado de vainilla.</s>
+English: <s>I don't like vanilla ice cream.</s>
+
+Spanish
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Las manos aprietan más cuando hay que agarrar un objeto con una superficie resbaladiza.</s>
+English: <s>The hands squeeze more when you have to grab an object with a slippery surface.</s>
+
+Spanish: <s>Las manos aprietan más cuando hay que agarrar un objeto con una superficie resbaladiza.</s>
+English: <s>The hands squeeze more when you have to grab an object with a slippery surface.</s>
+
+Spanish: <s>Las manos aprietan más cuando hay que agarrar un objeto con una superficie resbaladiza.</s>
+English:
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>La protagonista tarda mucho en decidirse a volver a salir después de que le amputaran las extremidades.</s>
+English: <s>The main character takes a long time to decide to go out again after having her legs amputated.</s>
+
+Spanish: <s>Se trata de una película de acción.</s>
+English: <s>This is an action movie.</s>
+
+Spanish: <s>Se trata de una película de acción.</s>
+English: <s>This is an action movie.</s>
+
+Spanish: <s>Se trata de una película de acción
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Internet está lleno de sofisticados consejos sobre qué ponerte si tienes un cuerpo en forma de pera, pero creo que optaré por un atuendo sencillo.</s>
+English: <s>The Internet is full of sophisticated tips about what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+
+Spanish: <s>La verdad es que no sé cómo me las arreglaré para ir a la playa con este frío.</s>
+English: <s>The truth is that I don't know how I'll manage to go to the beach with this cold.</s>
+
+Spanish: <s>
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Las hojas bajan el río con la corriente hasta alcanzar las apacibles aguas del lago.</s>
+English: <s>The leaves are carried down the river by the current until they reach the peaceful waters of the lake.</s>
+
+Spanish: <s>Las hojas flotan en la corriente hasta alcanzar las aguas del lago.</s>
+English: <s>The leaves float down the river until they reach the peaceful waters of the lake.</s>
+
+Spanish: <s>Las hojas flotan en el río hasta alcanzar las aguas del lago.</s>
+English
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Estos pescados son más grandes de los que solemos freír, no sé si van a caber en la freidora.</s>
+English: <s>These fish are bigger than the ones we usually fry, I'm not sure if they'll fit in the fryer.</s>
+
+Spanish: <s>No me gusta el pescado frito.</s>
+English: <s>I don't like fried fish.</s>
+
+Spanish: <s>No me gusta el pescado frito.</s>
+English: <s>I don't like fried fish.</s>
+
+Spanish: <s>No
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Hay que golpear el clavo en la cabeza para clavarlo profundamente en la madera.</s>
+English: <s>You have to hit the nail on the head in order to drive it deeply into the wood.</s>
+
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish:
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Para ganar el juego, teníamos que golpear el saco colgado en el árbol hasta que se rasgara y la harina se les cayera encima a nuestros contrincantes.</s>
+English: <s>In order to win the game, we had to hit the sack hanging from the tree until it ripped and the flour fell on our opponents.</s>
+
+Spanish: <s>El saco estaba colgando del árbol y la harina se le cayó encima a nuestros contrincantes.</s>
+English: <s>The sack was hanging from the tree and the flour fell on our opponents.</s>
+
+Spanish: <s>El saco estaba colgando del árbol
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En la biblioteca tiendo a juzgar un libro por su portada: si no me gusta el diseño no lo cojo prestado aunque me lo hayan recomendado!</s>
+English: <s>In the library I tend to judge a book by its cover: if I don't like the design I won't take it out even if it has been recommended to me!</s>
+
+Spanish: <s>En mi opinión, la mejor forma de aprender un idioma es practicándolo con gente de ese país.</s>
+English: <s>In my opinion, the best way to learn a language is to practice it with people from that country.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El caballo se puso nervioso, le dió una patada al cubo y tiró toda el agua que nos quedaba para el resto del día.</s>
+English: <s>The horse got nervous, kicked the bucket and spilled all the water we had left for the rest of the day.</s>
+
+Spanish: <s>El caballo se puso nervioso, le dió una patada al cubo y tiró toda el agua que nos quedaba para el resto del día.</s>
+English: <s>The horse got nervous, kicked the bucket and spilled all the water we had left for the rest of the day.</s>
+
+Spanish: <s
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El otro día mi amiga estaba mirando a su hija jugar en el jardín y de repente se dio cuenta que la niña había matado dos pájaros con una piedra. Estaba horrorizada!</s>
+English: <s>The other day my friend was looking at her daughter playing in the garden and suddenly she noticed that the girl had killed two birds with a stone. She was horrified!</s>
+
+Spanish: <s>El otro día mi amiga estaba mirando a su hija jugar en el jardín y de repente se dio cuenta que la niña había matado dos pájaros con una piedra. Estaba horrorizada!</s>
+English: <s>The other day my friend was looking at her daughter playing in the
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Por qué siempre llevas coleta? Tendrías que soltarte el pelo alguna vez, te quedaría bien.</s>
+English: <s>Why do you always wear your hair in a ponytail? You'd look better if you let your hair loose, it would suit you.</s>
+
+Spanish: <s>¿Por qué siempre llevas coleta? Tendrías que soltarte el pelo alguna vez, te quedaría bien.</s>
+English: <s>Why do you always wear your hair in a ponytail? You'd look better if you let your hair loose, it would suit you.</s>
+
+Spanish: 
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Nuestra casa es luminosa porque está orientada hacia el sur.</s>
+English: <s>Our house is bright because it is oriented towards the south.</s>
+
+Spanish: <s>Nuestra casa es luminosa porque está orientada hacia el sur.</s>
+English: <s>Our house is bright because it is oriented towards the south.</s>
+
+Spanish: <s>Nuestra casa es luminosa porque está orientada hacia el sur.</s>
+English: <s>Our house is bright because it is oriented towards the south.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>He comprado una lámpara nueva y muchas plantas para hacer nuestro salón más cálido y acogedor.</s>
+English: <s>I have bought a new lamp and many plants to make our living room more warm and cozy.</s>
+
+Spanish: <s>La lámpara nueva es muy bonita y me encanta.</s>
+English: <s>The new lamp is very beautiful and I love it.</s>
+
+Spanish: <s>La lámpara nueva es muy bonita y me encanta.</s>
+English: <s>The new lamp is very beautiful and I love it.</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Al final vamos a quedar para hacer la cena?</s>
+English: <s>At the end of the day, are we going to have dinner together?</s>
+
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Ese día empezó fatal y aunque me diera prisa no llegué a tiempo al muelle y perdí el barco que cruzaba el lago. Así tuve que correr tres kilómetros para rodearlo y llegar a tiempo al punto de partida de la carrera.</s>
+English: <s>That day started badly and although I ran as fast as I could, I didn't make it to the pier in time and I missed the boat that crossed the lake. So I had to run three kilometers to get around it and make it in time to the starting point of the race.</s>
+
+Spanish: <s>Cuando llegué al punto de partida de la carrera me di cuenta de que el barco ya había salido, así que me quedé esperando a que llegara el próximo barco
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>La herramienta más afilada que tengo en el cobertizo es esta navaja suiza.</s>
+English: <s>The sharpest tool I have in my shed is this Swiss Army knife.</s>
+
+Spanish: <s>La mayoría de los habitantes de las Islas Cook viven en Rarotonga y Aitutaki.</s>
+English: <s>The majority of the inhabitants of the Cook Islands live in Rarotonga and Aitutaki.</s>
+
+Spanish: <s>La mayoría de los habitantes de las Islas Cook viven en Rarotonga y Aitutaki.</
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>No se sabía los acordes de esa canción, la tocaba de oído.</s>
+English: <s>I didn't know the chords of that song, I was playing it by ear.</s>
+
+Spanish: <s>Aunque no sabía los acordes de esa canción, la tocaba de oído.</s>
+English: <s>Although I didn't know the chords of that song, I was playing it by ear.</s>
+
+Spanish: <s>Aunque no sabía los acordes de esa canción, la tocaba de oído.</
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Deja de tirarme de la pierna mientras caminamos, harás que me caiga!</s>
+English: <s>Stop pulling my leg while we're walking, or you'll make me fall!</s>
+
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: <s>Don't worry, I'm not going to hurt you.</s>
+
+Spanish: <s>No te preocupes, no te voy a hacer daño.</s>
+English: <s>Don't worry, I'm not going to hurt you.</
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Cuántas veces te tengo que decir que te subas los calcetines?! Si no te congelarás con este tiempo frío y ventoso!</s>
+English: <s>How many times do I have to tell you to put on your socks?! If you don't you'll freeze with this cold and windy weather!</s>
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Hay un agujero en el depósito y se está saliendo toda el agua! No sé qué hacer! Tapónalo con un calcetín y esperemos que frene un poco la fuga hasta que llegue el fontanero de guardia!</s>
+English: <s>There's a hole in the water tank and it's leaking all the water! I don't know what to do! Plug it with a sock and let's hope it slows down the leak until the on-call plumber gets here!</s>
+
+Spanish: <s>¡Ay, no me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas! ¡No me digas
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Durante la entrevista me di cuenta que me había manchado la camiseta de café y puse una mano sobre la mancha para esconderla.</s>
+English: <s>During the interview I realized that I had stained my shirt with coffee and put my hand over the stain to hide it.</s>
+
+Spanish: <s>La camiseta de mi hermano tiene un agujero en el bolsillo derecho.</s>
+English: <s>My brother's shirt has a hole in the right pocket.</s>
+
+Spanish: <s>La camiseta de mi hermano tiene un agujero en el bolsillo derecho.</s>
+English
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En las competiciones de escalada de velocidad tienes que tocar una campana para parar el cronómetro cuando llegas al top.</s>
+English: <s>In the competitions of speed climbing you have to touch a bell to stop the clock when you reach the top.</s>
+
+Spanish: <s>En las competiciones de escalada de velocidad tienes que tocar una campana para parar el cronómetro cuando llegas al top.</s>
+English: <s>In the competitions of speed climbing you have to touch a bell to stop the clock when you reach the top.</s>
+
+Spanish: <s>En las competiciones de escalada
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Cuando llegues toca el timbre y te abriré la puerta.</s>
+English: <s>When you arrive, ring the bell and I will open the door for you.</s>
+
+Spanish: <s>Cuando llegues al aeropuerto te esperaré en la salida.</s>
+English: <s>When you arrive at the airport, I will be waiting for you at the exit.</s>
+
+Spanish: <s>Cuando llegues al aeropuerto te esperaré en la salida.</s>
+English: <s>When you arrive at the airport, I will
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Las tortitas que venden en la cafetería de la esquina son los mejores dulces de la ciudad.</s>
+English: <s>The cookies that are sold in the corner coffee shop are the best sweets in the city.</s>
+
+Spanish: <s>A pesar de que la ciudad está llena de gente, la calle es muy tranquila.</s>
+English: <s>Despite the fact that the city is full of people, the street is very quiet.</s>
+
+Spanish: <s>A pesar de que la ciudad está llena de gente, la calle es muy tranquila.</s>
+English: <s
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Al empezar el curso de escalada lo primero que hice fue enseñarles a mis alumnos las cuerdas y todo el resto de material.</s>
+English: <s>At the beginning of the rock climbing course I taught my students how to use the ropes and all the rest of the equipment.</s>
+
+Spanish: <s>Al final del curso de escalada, mis alumnos y yo hicimos un recorrido por las islas de Rarotonga y Aitutaki.</s>
+English: <s>At the end of the rock climbing course, my students and I did a tour of the islands of Rarotonga and Aitutaki.</s>
+
+
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Ese niño inquietante estaba sentado en la valla de la casa de mis vecinos mirando fijamente hacia mi ventana.</s>
+English: <s>That annoying kid was sitting on the fence in front of my neighbor's house staring at my window.</s>
+
+Spanish: <s>Ese niño inquietante estaba sentado en la valla de la casa de mis vecinos mirando fijamente hacia mi ventana.</s>
+English: <s>That annoying kid was sitting on the fence in front of my neighbor's house staring at my window.</s>
+
+Spanish: <s>Ese niño inquietante estaba sentado en
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco sosos: en mi opinión tendrías que ponerles un poco más de especias.</s>
+English: <s>Although I like the way you cook, your dishes always seem a bit boring to me: in my opinion you should put a bit more spices in them.</s>
+
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco sosos: en mi opinión tendrías que ponerles un poco más de especias.</s>
+English: <s>Although I like the way you cook, your dishes always seem a bit boring to me: in my opinion you
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Mi hermana derramó las alubias por el suelo de la cocina y tardamos más de media hora en limpiar ese desastre.</s>
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up that mess.</s>
+
+Spanish: <s>Mi hermana derramó las alubias por el suelo de la cocina y tardamos más de media hora en limpiar ese desastre.</s>
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up that mess.</s>
+
+Spanish: <s>Mi her
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Qué estás haciendo?! El yogur que te estás comiendo lleva más de un año en la nevera! Escúpelo ya!</s>
+English: <s>What are you doing?! The yogurt you're eating has been in the fridge for more than a year! Spit it out already!</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What's your name?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What's your name?</s>
+
+Spanish: <s>¿Cómo te llamas
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En la última escena de la película el viejo tira a su perro debajo del autobús y se marcha, dejando sin palabras al conductor.</s>
+English: <s>In the last scene of the movie the old man throws his dog under the bus and leaves without saying a word to the driver.</s>
+
+Spanish: <s>En la última escena de la película el viejo tira a su perro debajo del autobús y se marcha, dejando sin palabras al conductor.</s>
+English: <s>In the last scene of the movie the old man throws his dog under the bus and leaves without saying a word to the driver.</s>
+
+Spanish:
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>Me puedes mostrar cómo se ata el nudo al final de la cuerda?</s>
+English: <s>Can you show me how to tie the knot at the end of the rope?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What is your name?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What is your name?</s>
+
+Spanish: <s>¿Cómo te llamas?</s>
+English: <s>What is your
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>En la segunda mitad del combate me torció el brazo tan fuerte que me caí al suelo y me rendí.</s>
+English: <s>In the second half of the fight I twisted my arm so hard that I fell to the ground and gave up.</s>
+
+Spanish: <s>En la segunda mitad del combate me torció el brazo tan fuerte que me caí al suelo y me rendí.</s>
+English: <s>In the second half of the fight I twisted my arm so hard that I fell to the ground and gave up.</s>
+
+Spanish: <s>En la segunda mitad del comb
+--------------------
+Spanish: <s>Aunque no cuentan con ciudades, las Islas Cook están formadas por 15 islas. Las más importantes son Rarotonga y Aitutaki.</s>
+English: <s>The Cook Islands do not have any cities but are composed of 15 different islands. The main ones are Rarotonga and Aitutaki.</s>
+
+Spanish: <s>El año pasado, durante nuestro viaje a Suecia, nos fuimos de excursión a un golfo helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio picos de emergencia por si se rompía... Fue una experiencia emocionante y terrorífica!</s>
+English: <s>Last year, during our trip to Sweden, we went on an excursion to a frozen lake. Our friend Pär told us that we were walking on very thin ice and gave us ice picks in case the ice broke... It was an exciting and terrifying experience!</s>
+
+Spanish: <s>El año pasado, durante nuestro viaje a Suecia, nos fuimos de excursión a un golfo helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio
+--------------------

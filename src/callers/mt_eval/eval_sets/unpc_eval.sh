@@ -1,10 +1,10 @@
 #!/bin/bash
 
 model=tiiuae/falcon-7b
-prefix=FM_falcon_unpc
-nums_fewshot=(1 0)
+prefix=FM-EVAL_Falcon_unpc
+nums_fewshot=(5)
 directions=("eng-spa" "spa-eng")
-gpus=(7)
+gpus=(3 4)
 
 unpc_eval_set=testset
 unpc_example_set=devset
@@ -41,7 +41,6 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             --filename_prefix $filename_prefix \
             --timestamp $timestamp \
             --batch_size 8 \
-            --num_beams 5 \
             --max_new_tokens 300 \
             --num_fewshot $num_fewshot \
             --template_id simple \
@@ -50,7 +49,9 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             /fs/surtr0/jprats/data/processed/evaluation/UNPC/${unpc_eval_set}/UNv1.0.${unpc_eval_set}.${src_lang} \
             /fs/surtr0/jprats/data/processed/evaluation/UNPC/${unpc_eval_set}/UNv1.0.${unpc_eval_set}.${tgt_lang} \
             /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-            $model 2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log # &
+            $model \
+            > /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log \
+            2> /fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log # &
 
     done
 

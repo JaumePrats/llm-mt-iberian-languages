@@ -1,14 +1,15 @@
 #!/bin/bash
 
-model=projecte-aina/aguila-7b
+# model=projecte-aina/aguila-7b
+model=tiiuae/falcon-7b
 eval_set=devtest
 example_set=dev
-filename_prefix=FM_aguila_flores-$eval_set
-nums_fewshot=(1)
+filename_prefix=FM-EVAL_Falcon_flores-$eval_set
+nums_fewshot=(5)
 # nums_fewshot=(0 1)
 # directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-directions=("eng-spa" "spa-cat" "cat-spa" "spa-eng")
-gpus=(6)
+directions=("cat-eng")
+gpus=(0 4)
 
 for num_fewshot in "${nums_fewshot[@]}"; do
 
@@ -42,7 +43,6 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             --filename_prefix $filename_prefix \
             --timestamp $timestamp \
             --batch_size 8 \
-            --num_beams 5 \
             --max_new_tokens 150 \
             --num_fewshot $num_fewshot \
             --template_id simple \
@@ -51,7 +51,9 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${src_lang}_Latn.${eval_set} \
             /fs/surtr0/jprats/data/raw/flores200_dataset/${eval_set}/${tgt_lang}_Latn.${eval_set} \
             /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-            $model 2> "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log"
+            $model \
+            > "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log" \
+            2> "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log"
 
     done
 

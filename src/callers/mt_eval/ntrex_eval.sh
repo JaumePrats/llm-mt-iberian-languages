@@ -1,12 +1,13 @@
 #!/bin/bash
 
+# model=projecte-aina/aguila-7b
 model=tiiuae/falcon-7b
-filename_prefix=FM_falcon_ntrex
-# nums_fewshot=(5 1 0)
-nums_fewshot=(1)
+filename_prefix=FM-EVAL_Falcon_ntrex
+nums_fewshot=(5)
+# nums_fewshot=(1)
+directions=("cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
 # directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-directions=("eng-spa" "spa-cat" "spa-eng")
-gpus=(6)
+gpus=(2 3)
 
 example_set=dev
 
@@ -41,7 +42,6 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             --filename_prefix $filename_prefix \
             --timestamp $timestamp \
             --batch_size 8 \
-            --num_beams 5 \
             --max_new_tokens 250 \
             --num_fewshot $num_fewshot \
             --template_id simple \
@@ -50,7 +50,9 @@ for num_fewshot in "${nums_fewshot[@]}"; do
             /fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.${src_lang}.txt \
             /fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.${tgt_lang}.txt \
             /fs/surtr0/jprats/code/llm-mt-iberian-languages \
-            $model 2> "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log"
+            $model \
+            > "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log" \
+            2> "/fs/surtr0/jprats/code/llm-mt-iberian-languages/logs/mt_eval/${filename_prefix}_${src_lang}-${tgt_lang}_${num_fewshot}_${timestamp}.log"
 
     done
 

@@ -1,0 +1,30 @@
+==================================================
+FINETUNING PARAMETERS:
+base model: tiiuae/falcon-7b
+resume_from_checkpoint: /fs/surtr0/jprats/models/checkpoints/falcon_fft_en-es100k_ebs256-4-1x8x32_linear_lr2e-5_20231214-17.13.42/checkpoint-522
+--------------------------------------------------
+train_split: [:200000]
+dataset_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl
+validation_files:
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_en-es_unidir.jsonl
+	/fs/surtr0/jprats/data/processed/04-finetuning/devsets/unpc_dev_es-en_unidir.jsonl
+--------------------------------------------------
+output_dir: /fs/surtr0/jprats/models/checkpoints/falcon_fft_en-es100k_ebs256-8-1x16x16_linear_lr2e-5_20231215-17.28.51
+--------------------------------------------------
+learning_rate: 2e-05
+lr_scheduler_type: linear
+effective batch size: 256
+  per_device_train_batch_size: 16
+  gradient_accumulation_steps: 16
+  CUDA Devices: 0,1,2,3,4,5,6,7
+num_train_epochs: 3
+warmup_ratio: 0.03
+group_by_length: False
+evaluation_strategy: steps
+eval_steps: 0.05555
+--------------------------------------------------
+bf16: True
+==================================================

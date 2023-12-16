@@ -4,7 +4,7 @@ prefix=TEST_XQUAD_5SHOT
 model=tiiuae/falcon-7b
 tasks=xquad_es
 num_fewshot=5
-device=5
+device=0
 
 
 # GETTING MODEL NAME:

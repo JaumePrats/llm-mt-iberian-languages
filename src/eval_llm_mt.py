@@ -163,9 +163,9 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
         try:
             generations = generator( # generate tgt sentences
                 input_text,
-                num_beams = model_params['num_beams'],
-                do_sample=model_params['do_sample'],
-                top_k=model_params['top_k'],
+                # num_beams = model_params['num_beams'],
+                # do_sample=model_params['do_sample'],
+                # top_k=model_params['top_k'],
                 eos_token_id=tokenizer.eos_token_id,
                 pad_token_id=tokenizer.pad_token_id,
                 max_new_tokens=model_params['max_new_tokens'],

@@ -2,8 +2,8 @@
 export CUDA_VISIBLE_DEVICES=7
 echo GPU:$CUDA_VISIBLE_DEVICES
 
-model=/fs/surtr0/jprats/models/base_models/oct10/aguila-7b
-filename_prefix='TEST-TIME_FFT-Aguila-10OCT'
+model=tiiuae/falcon-7b
+filename_prefix='TEST-TIME_FALCON-BEAM'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 

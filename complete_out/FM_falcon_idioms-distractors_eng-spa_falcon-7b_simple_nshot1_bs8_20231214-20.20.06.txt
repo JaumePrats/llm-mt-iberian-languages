@@ -1,0 +1,956 @@
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a squid in the fish kettle as usual.</s>
+Spanish: <s>Mamá quiso cocinar algo distinto ese día, pero acabó metiendo un pulpo en la olla de pescado como de costumbre.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré ir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a salmon in the fish kettle as usual.</s>
+Spanish: <s>Mamá quiso cocinar algo distinto ese día, pero acabó metiendo un salmón en la olla de pescado como de costumbre.</s>
+
+English: <s>I'm sorry, but I can't go to the party tonight. I've got a headache.</s>
+Spanish: <s>Lo siento, pero no puedo ir a la fiesta esta noche. Tengo un dolor de cabeza.</s>
+
+English: <s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+Spanish: <s>Puedes tirar una piedra al lago y ver los remolinos en la superficie del agua hasta que tu melancolía se vaya.</s>
+
+English: <s>It's not the size of the dog in the fight, it's the size of the fight in the dog.</s>
+Spanish: <s>No es la talla del perro en la lucha, es la talla de la lucha en el perro.</s>
+
+English: <s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que tu estrés se vaya, lanza una piedra al lago y mira cómo las ondas bailan sobre la superficie.</s>
+
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que tu estrés se vaya, lanza una piedra al lago y mira c�
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión involucró tantas actividades que me sentí agotado al final del día.</s>
+
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión involucró tantas actividades que me sentí agotado al final del día.</s>
+
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, puedes mover tus piezas un solo cuadro hacia atrás.</s>
+
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, puedes mover tus piezas un solo cuadro hacia atrás.</s>
+
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, puedes mover tus piezas un
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa! No sabía que el tío de Bob era tu tío.</s>
+
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa! No sabía que el tío de Bob era tu tío.</s>
+
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In the laboratory the teacher told me to break a leg off the dead frog and dissect it. That's when I realised I'd never be able to work as a biologist!</s>
+Spanish: <s>En el laboratorio el profesor me dijo que rompiera un hueso de la rana muerta y la disecara. Eso fue cuando me di cuenta de que nunca podría trabajar como biólogo.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party.</s>
+Spanish: <s>No estoy seguro si podré ir a la fiesta.</s>
+
+English: <s>I'm not sure if I
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Leaving the office building after the biggest job interview of my life, I stumbled down the stairs and broke my leg. So I lost the chance to start my dream job.</s>
+Spanish: <s>Saliendo del edificio de oficinas después de la mayor entrevista laboral de mi vida, tropecé y me rompí la pierna. Así que perdí la oportunidad de empezar mi sueño laboral.</s>
+
+English: <s>I'm sorry, I can't come to work today, I'm sick.</s>
+Spanish: <s>Lo siento, no puedo ir a trabajar hoy, estoy enfermo.</s>
+
+English: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Do you know what gums are? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I should take care of them by not eating too many sweets.</s>
+Spanish: <s>¿Sabes lo que son los gums? Ayer mi dentista me explicó que son como la piel de mis dientes y que yo debería cuidar de ellos por no comer demasiados dulces.</s>
+
+English: <s>I'm going to buy a new car. I'm going to buy a new car. I'm going to buy a new car. I'm going to buy a new car. I'm going to buy a new car. I'm going to buy
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>It's important to take care of your skin and teeth by visiting your dermatologist and dentist regularly.</s>
+Spanish: <s>Es importante cuidar tu piel y tus dientes visitando a tu dermatólogo y dentista a menudo.</s>
+
+English: <s>It's important to take care of your skin and teeth by visiting your dermatologist and dentist regularly.</s>
+Spanish: <s>Es importante cuidar tu piel y tus dientes visitando a tu dermatólogo y dentista a menudo.</s>
+
+English: <s>It's important to take care of your skin and
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner.</s>
+Spanish: <s>Llegamos a casa tan hambrientos que comimos el pavo frío directamente del frigorífico para cenar.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré ir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré ir
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Do you think that in a situation of extreme starvation a dog would eat another dog to survive?</s>
+Spanish: <s>¿Crees que en una situación de hambre extrema un perro comería a otro perro para sobrevivir?</s>
+
+English: <s>I think that in a situation of extreme starvation a dog would eat another dog to survive.</s>
+Spanish: <s>Creo que en una situación de hambre extrema un perro comería a otro perro para sobrevivir.</s>
+
+English: <s>I think that in a situation
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>What do you think? They don't quote me much in literature classes these days. I may not be that famous anymore.</s>
+Spanish: <s>¿Qué piensas? No me citan mucho en las clases de literatura de hoy en día. Puede que ya no sea tan famoso como antes.</s>
+
+English: <s>I'm not sure what I'm going to do with the rest of my life.</s>
+Spanish: <s>No estoy seguro de lo que voy a hacer con el resto de mi vida.</s>
+
+English: <s>I'm not sure what I'm going to
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>My boss said it would be easier to get this task done internally than to ask for outside help.</s>
+Spanish: <s>Mi jefe me dijo que sería más fácil hacer este trabajo internamente que pedir ayuda externa.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro si podré asistir a la reunión.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the meeting.</s>
+Spanish: <s>No estoy
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Hold your horses and keep them from stepping on my grass and ruining my garden!</s>
+Spanish: <s>¡Cuidado con los caballos y manténgalos alejados de mi césped y de mi jardín!</s>
+
+English: <s>I don't want to hear any more about it!</s>
+Spanish: <s>¡No quiero escuchar más sobre ello!</s>
+
+English: <s>I don't want to hear any more about it!</s>
+Spanish: <s>¡No quiero escuchar más sobre ello!</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Please give me a magnifying glass to watch how the spider creeps on the leaf.</s>
+Spanish: <s>Por favor dame una lente de aumento para ver cómo la araña se arrastra sobre la hoja.</s>
+
+English: <s>Please give me a magnifying glass to watch how the spider creeps on the leaf.</s>
+Spanish: <s>Por favor dame una lente de aumento para ver cómo la araña se arrastra sobre la hoja.</s>
+
+English: <s>Please give me a magnifying glass to watch how the
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante te sirve los platos con la cantidad correcta de sazón para que sean verdaderamente memorables.</s>
+
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante te sirve los platos con la cantidad correcta de sazón para que sean verdaderamente memorables.</s>
+
+English: <s>This restaurant serves you the dishes with
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+Spanish: <s>Vamos a hablar de cómo un muro de ladrillo puede añadir encanto y carácter a cualquier espacio.</s>
+
+English: <s>I'm going to talk about how a brick wall can add charm and character to any space.</s>
+Spanish: <s>Voy a hablar de cómo un muro de ladrillo puede añadir encanto y carácter a cualquier espacio.</s>
+
+English: <s>I'm going to
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>Este no es mi tazón de té! Me cambió el tazón vacío y me dio el vacío!</s>
+
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>Este no es mi tazón de té! Me cambió el tazón vacío y me dio el vacío!</s>
+
+English: 
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>You misunderstood the information on the flyer, the subject of the course offered by Maryland University is not rocket science, but aircraft design.</s>
+Spanish: <s>Usted malinterpretó la información del folleto, el tema del curso ofrecido por la Universidad de Maryland no es la ciencia de los cohetes, sino la ingeniería de los aviones.</s>
+
+English: <s>I'm sorry, I don't understand what you're trying to say.</s>
+Spanish: <s>Lo siento, no entiendo lo que estás tratando de decir.</s>
+
+English: <s>I
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban lo suficientemente confiados para saltar al fondo de la piscina.</s>
+
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban lo suficientemente confiados para saltar al fondo de la piscina.</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+Spanish: <s>He estado viajando por el extranjero durante los últimos tres meses y ahora estoy tratando de enviar una carta a mi mamá para decirle cómo va todo, pero me siento como si no tuviera nada que escribir en casa.</s>
+
+English: <s>I'm sorry, but I can't make it to the party tonight. I'm sick.</s>
+Spanish: <s>Lo siento, pero no puedo ir a la fiesta esta noche. Est
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+Spanish: <s>Seguimos el rastro del GPS hasta que nos llevó a un camino de tierra lleno de barro y prácticamente inacabable de conducir.</s>
+
+English: <s>I'm not sure if it's a good idea, but I'm going to give it a try.</s>
+Spanish: <s>No estoy seguro si es una buena idea, pero voy a intentarlo.</s>
+
+English: <s>I'm not sure if
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+Spanish: <s>¡Eso es asqueroso! ¿Cómo se atrevió a poner eso en mi cabeza?</s>
+
+English: <s>I can't believe I'm doing this.</s>
+Spanish: <s>No puedo creer lo que estoy haciendo.</s>
+
+English: <s>I'm sorry, but I have to do this.</s>
+Spanish: <s>Lo siento, pero tengo que hacerlo.</s>
+
+English:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>As the highest mountain on earth, Mount Everest is considered the top of the world.</s>
+Spanish: <s>Como la montaña más alta del mundo, la montaña Everest es considerada la cima del mundo.</s>
+
+English: <s>In 2010, the World Cup will be held in South Africa.</s>
+Spanish: <s>En 2010, la Copa del Mundo se jugará en Sudáfrica.</s>
+
+English: <s>In 2010, the World Cup will be held in South Africa.</s>
+Spanish: <s>En
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+Spanish: <s>¿Te gustaría ver mi nueva prenda? Saca de la caja azul en el armario y yo te la pondré para que la veas.</s>
+
+English: <s>I'm sorry, I can't come to the phone right now.</s>
+Spanish: <s>Lo siento, no puedo coger el teléfono en este momento.</s>
+
+English: <s>I'm sorry, I can't come to the phone right now.</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <s>Es difícil medir la velocidad y la extensión de la difusión del virus</s>
+
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <s>Es difícil medir la velocidad y la extensión de la difusión del virus</s>
+
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+
+
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>As she rushed out of the room, she hit the fan and knocked it to the floor.</s>
+Spanish: <s>Al salir corriendo de la habitación, chocó contra el ventilador y lo tiró al piso.</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayudarle.</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayud
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>When the building was already burning, the hooligans added fuel to the fire causing it to become an unstoppable and devastating event.</s>
+Spanish: <s>Cuando el edificio ya estaba ardiendo, los hooligans añadieron combustible al fuego, causando que se convirtiera en un incendio incontrolable y devastador.</s>
+
+English: <s>In 2006, the United Nations General Assembly adopted the Convention on the Rights of Persons with Disabilities.</s>
+Spanish: <s>En 2006, la Asamblea General de las Naciones Unidas adoptó la Convención sobre los Derechos de
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>My dog is supposed to be a good hunter, but look at him, he's barking up the wrong tree: the squirrel is on the pine across the street!</s>
+Spanish: <s>Mi perro se supone que es un buen cazador, pero mira, está ladrando al árbol equivocado: el conejo está en el pino al otro lado de la calle!</s>
+
+English: <s>I'm not sure if I'll be able to make it, but I'll do my best.</s>
+Spanish: <s>No estoy seguro si podré ir, pero lo haré lo mejor que pueda.</s>
+
+English: <s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es un ave nocturna y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es una ave nocturna y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she's already starred in more than five films!</s>
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años, ya ha protagonizado más de cinco películas!</s>
+
+English: <s>The 2010 FIFA World Cup will be held in South Africa from 11 June to 11 July 2010.</s>
+Spanish: <s>El Mundial de fútbol de 2010 se jugará en Sudáfrica del 11 de junio al 11 de julio de 2010
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>All those cans in your kitchen pantry are full of beans? Don't you eat anything else in winter?</s>
+Spanish: <s>¿Todas esas latas en tu despensa están llenas de garbanzos? ¿No comes nada más en invierno?</s>
+
+English: <s>I don't know if I'll be able to make it to the party.</s>
+Spanish: <s>No sé si podré ir a la fiesta.</s>
+
+English: <s>I don't know if I'll be able to make it to the party.</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Bud is in the doghouse my dad built for him in our backyard, but he seemed happier when he was allowed to sleep on the sofa.</s>
+Spanish: <s>Bud está en la perrera que mi padre construyó para él en nuestro jardín, pero parecía más contento cuando podía dormir en el sofá.</s>
+
+English: <s>I'm not sure I'll be able to make it.</s>
+Spanish: <s>No estoy seguro de que pueda ir.</s>
+
+English: <s>I'm not sure I'll be able to make it.</s>
+Spanish: <s>No estoy
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna.</s>
+
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna.</s>
+
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>You are building your solar system model incorrectly: look, Mars cannot be over the Moon, you must move it further to the side in order to reproduce the real positions of the planets.</s>
+Spanish: <s>Usted está construyendo su modelo de sistema solar incorrectamente: mira, Marte no puede estar sobre la Luna, debe moverlo más a un lado para reproducir las posiciones reales de los planetas.</s>
+
+English: <s>You are building your solar system model incorrectly: look, Mars cannot be over the Moon, you must move it further to the side in order to reproduce the real positions of the planets.</s>
+Spanish: <s>Usted está construyendo su modelo
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish: <s>La nieve cayó mucho anoche y mi coche desapareció bajo una montaña blanca.</s>
+
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish: <s>La nieve cayó mucho anoche y mi coche desapareció bajo una montaña blanca.</s>
+
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>I have served that cocktail with the last straw we had and I don't have any left for the mojitos... Can you call the provider and order a box?</s>
+Spanish: <s>He servido ese cóctel con la última paja que nos quedaba y no tengo ninguna más para los mojitos... ¿Podrías llamar al proveedor y ordenar una caja?</s>
+
+English: <s>I'm sorry, but I don't know how to do that.</s>
+Spanish: <s>Lo siento, pero no sé cómo hacerlo.</s>
+
+English: <s>I'm sorry, but I don
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un buen restaurante indio justo en la esquina de tu calle a la izquierda.</s>
+
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un buen restaurante indio justo en la esquina de tu calle a la izquierda.</s>
+
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+Spanish: <s>Deja de masticar más de lo que puedes digerir cuando comes un hamburguesa! Ver comida escapando de tu boca es repugnante!</s>
+
+English: <s>I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know what you're talking about. I don't know
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>It is said that in ancient times, soldiers would bite a bullet to withstand the pain when undergoing emergency surgery on the battlefield.</s>
+Spanish: <s>Se dice que en épocas antiguas, los soldados mordían una bala para soportar el dolor cuando se les practicaba una intervención quirúrgica en el campo de batalla.</s>
+
+English: <s>It is said that in ancient times, soldiers would bite a bullet to withstand the pain when undergoing emergency surgery on the battlefield.</s>
+Spanish: <s>Se dice que en épocas antiguas, los soldados mordían una bala
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>To start playing the trumpet, you have to blow into it until a sound comes out... it's not easy!</s>
+Spanish: <s>Para empezar a tocar el trombón, tienes que soplar en él hasta que salga un sonido... no es fácil!</s>
+
+English: <s>I don't know what I'm going to do, but I'm going to do something.</s>
+Spanish: <s>No sé qué voy a hacer, pero voy a hacer algo.</s>
+
+English: <s>I don't know what I'm going to do, but I'
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Can you bring home the bacon we bought yesterday and left in the fridge of the camper van?</s>
+Spanish: <s>¿Puedes traer a casa el tocino que compramos ayer y dejamos en el frigorífico del autocaraván?</s>
+
+English: <s>I'm going to the store to buy some milk.</s>
+Spanish: <s>Voy al supermercado a comprar leche.</s>
+
+English: <s>I'm going to the store to buy some milk.</s>
+Spanish: <s>Voy al supermercado a
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+Spanish: <s>La guerra le costó un brazo y una pierna. El soldado quedó incapacitado para el resto de su vida.</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+Spanish: <s>La guerra le costó un brazo y una pierna. El soldado quedó incapacitado para el resto de su vida.</s>
+
+English: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>We need to cut and tighten this rope: it is too slack!</s>
+Spanish: <s>Necesitamos cortar y tensar esta cuerda: es demasiado floja!</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayudarte.</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayudarte.</s>
+
+English: 
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Can you please cut the cheese and put it on the table?</s>
+Spanish: <s>¿Puede cortar el queso y ponérselo en la mesa?</s>
+
+English: <s>I'm sorry, I don't understand what you're saying.</s>
+Spanish: <s>Lo siento, no entiendo lo que me está diciendo.</s>
+
+English: <s>I'm sorry, I don't understand what you're saying.</s>
+Spanish: <s>Lo siento, no entiendo lo que
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>El jugo de limón cortó el queso y la ensalada se echó a perder. Teníamos que tirarla.</s>
+
+English: <s>I'm going to the store to buy some bread.</s>
+Spanish: <s>Voy al supermercado a comprar pan.</s>
+
+English: <s>I'm going to the store to buy some bread.</s>
+Spanish: <s>Voy al supermercado
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor, conduzca a la tienda de comestibles, quiero comprar algunas nueces.</s>
+
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor, conduzca a la tienda de comestibles, quiero comprar algunas nueces.</s>
+
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Tenía los pies fríos por estar esperando en fila todo el día a 3 grados. Ahora me duelen y no puedo andar.</s>
+
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Tenía los pies fríos por estar esperando en fila todo el día a 3 grados. Ahora me duelen y no puedo andar.</s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Grips get tighter when you have to hold on to an object with a slippery surface.</s>
+Spanish: <s>Los agarres se hacen más fuertes cuando tienes que agarrar a un objeto con una superficie resbaladiza.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro de si podré ir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro de si podré ir
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The main character takes a long time to decide to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal tarda mucho en decidirse a salir de nuevo después de haberse amputado las piernas.</s>
+
+English: <s>The main character decides to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal decide salir de nuevo después de haberse amputado las piernas.</s>
+
+English: <s>The main character decides to go out again after having her limbs amputated.</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The internet is full of sophisticated suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+Spanish: <s>El internet está lleno de sugerencias sofisticadas sobre qué vestir si tienes un cuerpo de pera, pero creo que me vestiré con un atuendo sencillo.</s>
+
+English: <s>I'm not sure if I'll be able to make it, but I'll try my best.</s>
+Spanish: <s>No estoy seguro de que podré ir, pero lo intentaré.</s>
+
+English: <s>I'm not
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas bajan por el río con la corriente hasta que llegan al lago tranquilo.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas bajan por el río con la corriente hasta que llegan al lago tranquilo.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+
+English: <s>In 2010, the United Nations General Assembly declared 2010 the International Year of Biodiversity.</s>
+Spanish: <s>En 2010, la Asamblea General de las Naciones Unidas declaró el año 2010 el Año Internacional de la Biodiversidad.</s>
+
+English: <s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>These fish are bigger than the ones we usually fry, I'm not sure they'll fit in the deep fryer.</s>
+Spanish: <s>Estos peces son más grandes que los que normalmente freímos, no estoy seguro de que encajen en el horno de vapor.</s>
+
+English: <s>I'm not sure I'll be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de que pueda asistir a la reunión.</s>
+
+English: <s>I'm not sure I'll be able to make it to the meeting.</s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>Tienes que dar en el clavo para clavarlo profundamente en el madero.</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>Tienes que dar en el clavo para clavarlo profundamente en el madero.</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>To win the game, we had to hit the sack hanging from the tree until it ripped and the flour fell down on the opposing players.</s>
+Spanish: <s>Para ganar el juego, teníamos que colgarnos del árbol hasta que se rompiera y la harina cayera sobre los jugadores enemigos.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party.</s>
+Spanish: <s>No estoy seguro si podré ir a la fiesta.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party.</
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In the library, I tend to judge a book by its cover: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>En la biblioteca, suelo juzgar un libro por su portada: si no me gusta el diseño, no lo leo, aunque alguien me lo haya recomendado.</s>
+
+English: <s>In the library, I tend to judge a book by its cover: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>En la biblioteca, suelo juzgar un libro por su portada: si no
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se puso nervioso, le dio un puntapié y derramó todo el agua que nos quedaba para el resto del día.</s>
+
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se puso nervioso, le dio un puntapié y derramó todo el agua que nos quedaba para el resto del día.</s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba viendo jugar a su hija en el jardín cuando de repente se dio cuenta de que la niña había matado dos pájaros con una piedra. Se quedó horrorizada!</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba vi
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+Spanish: <s>¿Por qué siempre llevas una cola de caballo? Deberías dejarte el pelo suelto de vez en cuando. Te quedaría bien.</s>
+
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+Spanish: <s>¿Por qué siempre llevas una cola de caballo? Deberías dejarte el pelo suelto de vez en cuando. Te quedaría bien
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Our house is bright because it faces the south side.</s>
+Spanish: <s>Nuestra casa está iluminada porque se alza al sur.</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayudarte.</s>
+
+English: <s>I'm sorry, but I can't help you.</s>
+Spanish: <s>Lo siento, pero no puedo ayudarte.</s>
+
+English: <s>I'
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y un montón de plantas para hacer nuestro salón más cálido y más acogedor.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y un montón de plantas para hacer nuestro salón más cálido y más acogedor.</s>
+
+
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Will we meet to make dinner at the end?</s>
+Spanish: <s>¿Nos vemos para hacer la cena al final?</s>
+
+English: <s>I'm sorry, I can't make it.</s>
+Spanish: <s>Lo siento, no puedo ir.</s>
+
+English: <s>I'm sorry, I can't make it.</s>
+Spanish: <s>Lo siento, no puedo ir.</s>
+
+English: <s>I'm sorry, I can't make it
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>That day started all wrong and even though I rushed to the dock, I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+Spanish: <s>Ese día empezó mal y aunque llegué a tiempo al muelle, me perdí el barco que cruzaba el lago y tuve que correr por tres kilómetros alrededor del lago para llegar a tiempo al punto de partida de la carrera.</s>
+
+English: <s>I'm not sure if I'll be able to make it in time.</s>
+Spanish: <s>No estoy seguro de que llegue a tiempo.</s>
+
+English
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>El cuchillo más afilado que tengo en el garaje es este cuchillo suizo.</s>
+
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>El cuchillo más afilado que tengo en el garaje es este cuchillo suizo.</s>
+
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+Spanish: <s>Ella no sabía las partituras de esa canción, la estaba tocando a oído.</s>
+
+English: <s>I'm going to take a shower.</s>
+Spanish: <s>Voy a darme un baño.</s>
+
+English: <s>I'm going to take a shower.</s>
+Spanish: <s>Voy a darme un baño.</s>
+
+English: <s>I'
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+Spanish: <s>¡Deja de jugar conmigo mientras caminamos! Me voy a caer!</s>
+
+English: <s>I'm sorry, I didn't catch that.</s>
+Spanish: <s>Lo siento, no entendí eso.</s>
+
+English: <s>I'm sorry, I didn't catch that.</s>
+Spanish: <s>Lo siento, no entendí eso.</s>
+
+English: <s>I
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>How many times do I have to tell you to pull your socks up?! Otherwise you'll freeze to death in this cold and windy weather!</s>
+Spanish: <s>¿Cuántas veces tengo que decírtelo para que te pongas los calcetines? De lo contrario te congelarás en este clima frío y ventoso.</s>
+
+English: <s>I don't know how many times I have to tell you to clean up your room!</s>
+Spanish: <s>No sé cuántas veces tengo que decírtelo para que limpies tu habitación.</s>
+
+English: <s>I
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>There is a hole in the water tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-call plumber arrives!</s>
+Spanish: <s>Hay un agujero en el tanque de agua y todo el agua se está escapando! No sé qué hacer! Pon un calcetín en el agujero y esperamos que la pérdida de agua se ralentice hasta que llegue el plomero de turno!</s>
+
+English: <s>I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-call plumber arrives!</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>During the interview, I realised that I had spilt coffee on my shirt and I put my hand on the spot to cover it up.</s>
+Spanish: <s>Durante la entrevista, me di cuenta de que había derramado café sobre mi camisa y puse mi mano sobre la mancha para cubrirla.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro si podré ir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In speed climbing competitions, you have to ring a bell to stop the chrono when you reach the top.</s>
+Spanish: <s>En las competiciones de escalada de velocidad, tienes que tocar una campana para parar el cronómetro cuando llegas al topo.</s>
+
+English: <s>In speed climbing competitions, you have to ring a bell to stop the chrono when you reach the top.</s>
+Spanish: <s>En las competiciones de escalada de velocidad, tienes que tocar una campana para parar el cronómetro cuando llegas al topo.</s>
+
+English
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Ring the bell when you arrive and I'll open the door for you.</s>
+Spanish: <s>Tóqueme el timbre cuando llegues y te abriré la puerta.</s>
+
+English: <s>I'll be there in a minute.</s>
+Spanish: <s>Estaré allí en un minuto.</s>
+
+English: <s>I'll be there in a minute.</s>
+Spanish: <s>Estaré allí en un minuto.</s>
+
+English: <s>I'll be there in a minute.</s
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los churros que venden en la cafetería que hay en la esquina son los mejores dulces de la ciudad.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los churros que venden en la cafetería que hay en la esquina son los mejores dulces de la ciudad.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>When we started the climbing course, the first thing I did was to show the ropes and all other equipment to my students.</s>
+Spanish: <s>Cuando empezamos el curso de escalada, la primera cosa que hice fue enseñarles las cuerdas y todos los demás equipos a mis estudiantes.</s>
+
+English: <s>When we started the climbing course, the first thing I did was to show the ropes and all other equipment to my students.</s>
+Spanish: <s>Cuando empezamos el curso de escalada, la primera cosa que hice fue enseñarles las cuerdas y todos los demás equipos a mis estudiantes.</s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño asqueroso estaba sentado en la valla de la casa de mi vecino y mirando mi ventana.</s>
+
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño asqueroso estaba sentado en la valla de la casa de mi vecino y mirando mi ventana.</s>
+
+English: <s>That creepy kid was sitting on the fence of
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Although I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>Aunque me gusta la forma en que cocinas, tus platos siempre me parecen un poco insípidos, en mi opinión deberías añadirles un poco más de sabor.</s>
+
+English: <s>I don't like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>No me gusta la forma en que cocinas, tus platos siempre me parecen un
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+Spanish: <s>Mi hermana derramó las judías en el piso de la cocina y nos llevó más de una hora limpiar el desastre.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party.</s>
+Spanish: <s>No estoy seguro si podré ir a la fiesta.</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party.</s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>What are you doing?! The yoghurt you are eating has been in the fridge for over a year! Spit it out!</s>
+Spanish: <s>¿Qué estás haciendo? El yogur que estás comiendo ha estado en el frigorífico desde hace más de un año! ¡Echáselo!</s>
+
+English: <s>What are you doing?! The yoghurt you are eating has been in the fridge for over a year! Spit it out!</s>
+Spanish: <s>¿Qué estás haciendo? El yogur que estás comiendo ha estado en el frigorífico desde hace más de un año! ¡Ech
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In the last scene of the film, the old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>En la última escena del filme, el viejo arroja a su perro debajo del autobús y se va, dejando al conductor sin palabras.</s>
+
+English: <s>In the last scene of the film, the old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>En la última escena del filme, el viejo arroja a su perro debajo del autobús y se va, dejando al conductor
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish: <s>¿Puedes mostrarme cómo te atas el nudo al final de la cuerda?</s>
+
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish: <s>¿Puedes mostrarme cómo te atas el nudo al final de la cuerda?</s>
+
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish:
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad del combate me torció el brazo de tal manera que caí al suelo y me rindí.</s>
+
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad del combate me torció el brazo de tal manera que caí al suelo y me rindí.</s>
+
+English: <s>
+--------------------
+English: <s>Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.</s>
+Spanish: <s>Schumacher, quien se alejó de las pistas en 2006 después de ser siete veces campeón del Fórmula 1, debía ir en reemplazo de Felipe Massa, debido a su lesión.</s>
+
+English: <s>During our trip to Sweden last year, we went hiking in a frozen gulf. Our friend Pär told us we were walking on very thin ice and gave us emergency ice picks in case it broke... It was an exciting and scary experience!</s>
+Spanish: <s>Durante nuestro viaje a Suecia el año pasado, fuimos a caminar en un golfo helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio picos de emergencia en caso de que se rompiera... Fue una experiencia emocionante y aterradora!</s>
+
+English: <s>I'm not sure if I'll be able to make it to the party, but I'll try my best.</s>
+
+--------------------

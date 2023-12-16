@@ -1,11 +1,11 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=1
+export CUDA_VISIBLE_DEVICES=7
 echo GPU:$CUDA_VISIBLE_DEVICES
 
-model=/fs/surtr0/jprats/models/merged/falcon_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_ep1
+model=tiiuae/falcon-7b
 eval_set=devtest
 example_set=dev
-filename_prefix=FT_falcon-fft-enes100k_ebs256_flores_$eval_set
+filename_prefix=FALCON-beam5_flores-$eval_set
 
 src_lang=eng
 tgt_lang=spa
@@ -19,7 +19,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/eval_llm_mt.py \
     --batch_size 8 \
     --num_beams 5 \
     --max_new_tokens 150 \
-    --num_fewshot 0 \
+    --num_fewshot 2 \
     --template_id simple \
     --src_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${src_lang}_Latn.${example_set} \
     --ref_examples /fs/surtr0/jprats/data/raw/flores200_dataset/${example_set}/${tgt_lang}_Latn.${example_set} \

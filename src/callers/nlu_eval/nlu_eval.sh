@@ -2,9 +2,10 @@
 
 # PARAMS: -----------------------------------
 prefix=FM_falcon
+# model=projecte-aina/aguila-7b
 model=tiiuae/falcon-7b
 num_fewshot=5
-device=2
+device=0
 # -------------------------------------------
 
 # GETTING MODEL NAME:
