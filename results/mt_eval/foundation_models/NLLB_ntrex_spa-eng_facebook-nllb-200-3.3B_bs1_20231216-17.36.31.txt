@@ -1,0 +1,97 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 17:36:32
+execution time: 0:25:35.625481
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.spa.txt",
+    "timestamp": "20231216-17.36.31"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 4,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.3507
+{
+    "de": {
+        "abs_count": 2,
+        "lines": [
+            1766,
+            1980
+        ],
+        "name": "German",
+        "percentage(%)": 0.1002
+    },
+    "en": {
+        "abs_count": 1989,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.6493
+    },
+    "es": {
+        "abs_count": 1,
+        "lines": [
+            1715
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            1872
+        ],
+        "name": "French",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 2,
+        "lines": [
+            271,
+            1129
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.1002
+    },
+    "no": {
+        "abs_count": 1,
+        "lines": [
+            237
+        ],
+        "name": "Norwegian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 41.53 69.9/47.3/34.6/26.0 (BP = 1.000 ratio = 1.025 hyp_len = 48878 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 87.36
+COMET20 = 72.19
+
+copy results (blue comet22 comet20 off-tgt) ----------
+41.53 87.36 72.19 0.3507

@@ -1,0 +1,90 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 13:35:56
+execution time: 0:16:44.831202
+translation direction: spa-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231216-13.35.54"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 0,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.6917
+{
+    "ca": {
+        "abs_count": 1005,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 99.3083
+    },
+    "es": {
+        "abs_count": 3,
+        "lines": [
+            280,
+            492,
+            658
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.2964
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            298
+        ],
+        "name": "French",
+        "percentage(%)": 0.0988
+    },
+    "no": {
+        "abs_count": 1,
+        "lines": [
+            270
+        ],
+        "name": "Norwegian",
+        "percentage(%)": 0.0988
+    },
+    "oc": {
+        "abs_count": 2,
+        "lines": [
+            184,
+            717
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.1976
+    }
+}
+
+BLEU: ----------
+BLEU = 25.60 56.8/31.7/19.5/12.2 (BP = 1.000 ratio = 1.035 hyp_len = 28259 ref_len = 27304)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 86.03
+COMET20 = 79.09
+
+copy results (blue comet22 comet20 off-tgt) ----------
+25.60 86.03 79.09 0.6917

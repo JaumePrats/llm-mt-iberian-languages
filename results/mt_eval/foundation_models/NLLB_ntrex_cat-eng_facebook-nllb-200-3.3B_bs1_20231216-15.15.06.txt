@@ -1,0 +1,88 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 15:15:08
+execution time: 0:25:59.218437
+translation direction: cat-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.cat.txt",
+    "timestamp": "20231216-15.15.06"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 4,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.2505
+{
+    "de": {
+        "abs_count": 2,
+        "lines": [
+            1522,
+            1766
+        ],
+        "name": "German",
+        "percentage(%)": 0.1002
+    },
+    "en": {
+        "abs_count": 1991,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.7495
+    },
+    "es": {
+        "abs_count": 1,
+        "lines": [
+            1715
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            960
+        ],
+        "name": "French",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            271
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 40.95 69.8/46.8/34.1/25.3 (BP = 1.000 ratio = 1.026 hyp_len = 48895 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 87.22999999999999
+COMET20 = 70.76
+
+copy results (blue comet22 comet20 off-tgt) ----------
+40.95 87.22999999999999 70.76 0.2505

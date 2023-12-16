@@ -1,0 +1,63 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 12:35:52
+execution time: 0:13:48.750093
+translation direction: cat-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "timestamp": "20231216-12.35.50"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 0,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0988
+{
+    "en": {
+        "abs_count": 1011,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.9012
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 48.02 74.7/54.1/41.2/32.0 (BP = 1.000 ratio = 1.006 hyp_len = 24876 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 88.75
+COMET20 = 78.82000000000001
+
+copy results (blue comet22 comet20 off-tgt) ----------
+48.02 88.75 78.82000000000001 0.0988

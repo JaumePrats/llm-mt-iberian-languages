@@ -1,0 +1,79 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 12:49:44
+execution time: 0:15:15.738545
+translation direction: cat-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "timestamp": "20231216-12.49.42"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 0,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.2964
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            938
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 1009,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.7036
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    },
+    "oc": {
+        "abs_count": 1,
+        "lines": [
+            396
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 25.46 60.8/34.2/20.9/13.1 (BP = 0.927 ratio = 0.930 hyp_len = 27154 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 85.76
+COMET20 = 75.28
+
+copy results (blue comet22 comet20 off-tgt) ----------
+25.46 85.76 75.28 0.2964

@@ -1,0 +1,169 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 15:41:10
+execution time: 0:28:55.651574
+translation direction: cat-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.spa.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.cat.txt",
+    "timestamp": "20231216-15.41.08"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 4,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.503
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            966
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 6,
+        "lines": [
+            9,
+            238,
+            320,
+            513,
+            690,
+            1679
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.3006
+    },
+    "en": {
+        "abs_count": 1,
+        "lines": [
+            1809
+        ],
+        "name": "English",
+        "percentage(%)": 0.0501
+    },
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            1031
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0501
+    },
+    "es": {
+        "abs_count": 1966,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 98.497
+    },
+    "eu": {
+        "abs_count": 1,
+        "lines": [
+            1709
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 6,
+        "lines": [
+            195,
+            555,
+            1573,
+            1714,
+            1820,
+            1842
+        ],
+        "name": "French",
+        "percentage(%)": 0.3006
+    },
+    "gl": {
+        "abs_count": 6,
+        "lines": [
+            538,
+            818,
+            1477,
+            1560,
+            1823,
+            1937
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.3006
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            1932
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "oc": {
+        "abs_count": 1,
+        "lines": [
+            1719
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.0501
+    },
+    "pt": {
+        "abs_count": 4,
+        "lines": [
+            100,
+            351,
+            1133,
+            1173
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.2004
+    },
+    "se": {
+        "abs_count": 1,
+        "lines": [
+            319
+        ],
+        "name": "Northern Sami",
+        "percentage(%)": 0.0501
+    },
+    "xh": {
+        "abs_count": 1,
+        "lines": [
+            1575
+        ],
+        "name": "Xhosa",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 36.60 65.9/42.9/30.2/21.6 (BP = 0.993 ratio = 0.993 hyp_len = 53732 ref_len = 54106)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 86.18
+COMET20 = 75.96000000000001
+
+copy results (blue comet22 comet20 off-tgt) ----------
+36.60 86.18 75.96000000000001 1.503

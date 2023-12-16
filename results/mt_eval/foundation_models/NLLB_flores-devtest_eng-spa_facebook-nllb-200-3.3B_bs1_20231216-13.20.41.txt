@@ -1,0 +1,71 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 13:20:43
+execution time: 0:15:09.971050
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "NLLB_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231216-13.20.41"
+}
+MODEL PARAMETERS: ----------
+{
+    "batch_size": 1,
+    "device": 0,
+    "max_length": 400,
+    "model_id": "facebook/nllb-200-3.3B"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.1976
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            228
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 1010,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.8024
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 28.11 63.8/37.9/24.0/15.1 (BP = 0.919 ratio = 0.922 hyp_len = 26927 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 86.19
+COMET20 = 71.77
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.11 86.19 71.77 0.1976

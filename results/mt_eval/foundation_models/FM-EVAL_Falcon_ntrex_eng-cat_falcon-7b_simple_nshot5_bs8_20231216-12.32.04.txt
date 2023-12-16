@@ -1,0 +1,362 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 12:32:07
+execution time: 1:02:28.932078
+translation direction: eng-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Falcon_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.cat.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "timestamp": "20231216-12.32.04"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 250,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 9.4689
+{
+    "am": {
+        "abs_count": 1,
+        "lines": [
+            854
+        ],
+        "name": "Amharic",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 1807,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 90.5311
+    },
+    "cs": {
+        "abs_count": 1,
+        "lines": [
+            1719
+        ],
+        "name": "Czech",
+        "percentage(%)": 0.0501
+    },
+    "cy": {
+        "abs_count": 3,
+        "lines": [
+            585,
+            804,
+            1442
+        ],
+        "name": "Welsh",
+        "percentage(%)": 0.1503
+    },
+    "de": {
+        "abs_count": 1,
+        "lines": [
+            533
+        ],
+        "name": "German",
+        "percentage(%)": 0.0501
+    },
+    "en": {
+        "abs_count": 15,
+        "lines": [
+            266,
+            303,
+            319,
+            320,
+            553,
+            690,
+            844,
+            847,
+            968,
+            1542,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 0.7515
+    },
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            1089
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0501
+    },
+    "es": {
+        "abs_count": 76,
+        "lines": [
+            13,
+            23,
+            44,
+            79,
+            112,
+            163,
+            164,
+            188,
+            195,
+            197,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 3.8076
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            986
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 19,
+        "lines": [
+            25,
+            95,
+            108,
+            275,
+            324,
+            555,
+            589,
+            880,
+            960,
+            998,
+            "more than 10 lines ..."
+        ],
+        "name": "French",
+        "percentage(%)": 0.9519
+    },
+    "ga": {
+        "abs_count": 2,
+        "lines": [
+            1250,
+            1841
+        ],
+        "name": "Irish",
+        "percentage(%)": 0.1002
+    },
+    "gl": {
+        "abs_count": 7,
+        "lines": [
+            345,
+            360,
+            805,
+            1053,
+            1238,
+            1495,
+            1868
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.3507
+    },
+    "ht": {
+        "abs_count": 3,
+        "lines": [
+            1323,
+            1726,
+            1823
+        ],
+        "name": "Haitian",
+        "percentage(%)": 0.1503
+    },
+    "hu": {
+        "abs_count": 3,
+        "lines": [
+            455,
+            833,
+            1842
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.1503
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            1821
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 17,
+        "lines": [
+            100,
+            309,
+            315,
+            391,
+            909,
+            915,
+            939,
+            1031,
+            1187,
+            1322,
+            "more than 10 lines ..."
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.8517
+    },
+    "mg": {
+        "abs_count": 2,
+        "lines": [
+            394,
+            1070
+        ],
+        "name": "Malagasy",
+        "percentage(%)": 0.1002
+    },
+    "ms": {
+        "abs_count": 1,
+        "lines": [
+            162
+        ],
+        "name": "Malay (macrolanguage)",
+        "percentage(%)": 0.0501
+    },
+    "nb": {
+        "abs_count": 1,
+        "lines": [
+            1282
+        ],
+        "name": "Norwegian Bokm\u00e5l",
+        "percentage(%)": 0.0501
+    },
+    "nl": {
+        "abs_count": 2,
+        "lines": [
+            26,
+            1239
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.1002
+    },
+    "nn": {
+        "abs_count": 2,
+        "lines": [
+            790,
+            1716
+        ],
+        "name": "Norwegian Nynorsk",
+        "percentage(%)": 0.1002
+    },
+    "no": {
+        "abs_count": 1,
+        "lines": [
+            237
+        ],
+        "name": "Norwegian",
+        "percentage(%)": 0.0501
+    },
+    "oc": {
+        "abs_count": 16,
+        "lines": [
+            90,
+            138,
+            144,
+            287,
+            302,
+            562,
+            604,
+            762,
+            874,
+            1129,
+            "more than 10 lines ..."
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.8016
+    },
+    "pt": {
+        "abs_count": 7,
+        "lines": [
+            129,
+            910,
+            1173,
+            1288,
+            1414,
+            1869,
+            1872
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.3507
+    },
+    "ro": {
+        "abs_count": 1,
+        "lines": [
+            1277
+        ],
+        "name": "Romanian",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 2,
+        "lines": [
+            1259,
+            1876
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.1002
+    },
+    "tl": {
+        "abs_count": 1,
+        "lines": [
+            1888
+        ],
+        "name": "Tagalog",
+        "percentage(%)": 0.0501
+    },
+    "tr": {
+        "abs_count": 1,
+        "lines": [
+            1106
+        ],
+        "name": "Turkish",
+        "percentage(%)": 0.0501
+    },
+    "zh": {
+        "abs_count": 1,
+        "lines": [
+            1849
+        ],
+        "name": "Chinese",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 8.71 33.5/12.1/5.4/2.6 (BP = 1.000 ratio = 1.182 hyp_len = 63179 ref_len = 53434)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 56.95
+COMET20 = -61.31999999999999
+
+copy results (blue comet22 comet20 off-tgt) ----------
+8.71 56.95 -61.31999999999999 9.4689
