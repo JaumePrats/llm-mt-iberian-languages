@@ -1,0 +1,134 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 06:37:36
+execution time: 5:48:22.462938
+translation direction: eng-cat
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/cat_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231216-06.37.32"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/cat_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.2821
+{
+    "ca": {
+        "abs_count": 1001,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 98.7179
+    },
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            214,
+            964
+        ],
+        "name": "English",
+        "percentage(%)": 0.1972
+    },
+    "es": {
+        "abs_count": 4,
+        "lines": [
+            56,
+            733,
+            735,
+            889
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.3945
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            298
+        ],
+        "name": "French",
+        "percentage(%)": 0.0986
+    },
+    "ht": {
+        "abs_count": 1,
+        "lines": [
+            493
+        ],
+        "name": "Haitian",
+        "percentage(%)": 0.0986
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            965
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0986
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0986
+    },
+    "pt": {
+        "abs_count": 2,
+        "lines": [
+            263,
+            950
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1972
+    },
+    "rw": {
+        "abs_count": 1,
+        "lines": [
+            389
+        ],
+        "name": "Kinyarwanda",
+        "percentage(%)": 0.0986
+    }
+}
+
+BLEU: ----------
+BLEU = 28.21 58.7/34.9/23.2/15.8 (BP = 0.958 ratio = 0.959 hyp_len = 26186 ref_len = 27304)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 81.22
+COMET20 = 47.74
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.21 81.22 47.74 1.2821

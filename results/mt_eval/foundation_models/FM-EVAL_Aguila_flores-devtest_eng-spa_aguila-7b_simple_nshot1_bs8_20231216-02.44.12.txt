@@ -1,0 +1,112 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 02:44:15
+execution time: 2:15:02.739784
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "timestamp": "20231216-02.44.12"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.1834
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            493
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0986
+    },
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            112
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0986
+    },
+    "en": {
+        "abs_count": 8,
+        "lines": [
+            14,
+            17,
+            198,
+            638,
+            657,
+            690,
+            850,
+            958
+        ],
+        "name": "English",
+        "percentage(%)": 0.789
+    },
+    "es": {
+        "abs_count": 1002,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 98.8166
+    },
+    "ga": {
+        "abs_count": 1,
+        "lines": [
+            389
+        ],
+        "name": "Irish",
+        "percentage(%)": 0.0986
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            639
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0986
+    }
+}
+
+BLEU: ----------
+BLEU = 10.70 37.5/14.1/7.6/4.3 (BP = 0.931 ratio = 0.933 hyp_len = 27246 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 64.9
+COMET20 = -38.269999999999996
+
+copy results (blue comet22 comet20 off-tgt) ----------
+10.70 64.9 -38.269999999999996 1.1834

@@ -1,0 +1,83 @@
+TEST PARAMETERS: ----------
+start time: 14/12/2023 at 20:00:17
+execution time: 0:02:06.786394
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM_falcon_idioms-distractors",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.eng",
+    "timestamp": "20231214-20.00.15"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 39.5349
+{
+    "en": {
+        "abs_count": 34,
+        "lines": [
+            3,
+            6,
+            12,
+            13,
+            14,
+            16,
+            17,
+            19,
+            20,
+            23,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 39.5349
+    },
+    "es": {
+        "abs_count": 52,
+        "lines": [
+            1,
+            2,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            15,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 60.4651
+    }
+}
+
+BLEU: ----------
+BLEU = 28.50 48.6/32.1/23.9/17.7 (BP = 0.999 ratio = 0.999 hyp_len = 1847 ref_len = 1848)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 78.8
+COMET20 = 41.77
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.50 78.8 41.77 39.5349
