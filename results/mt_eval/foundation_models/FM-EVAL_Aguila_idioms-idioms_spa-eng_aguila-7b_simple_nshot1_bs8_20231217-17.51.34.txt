@@ -1,0 +1,89 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 17:51:35
+execution time: 0:13:57.403149
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-idioms",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.eng",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.spa",
+    "timestamp": "20231217-17.51.34"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.8293
+{
+    "en": {
+        "abs_count": 161,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 98.1707
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            152
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.6098
+    },
+    "nb": {
+        "abs_count": 1,
+        "lines": [
+            94
+        ],
+        "name": "Norwegian Bokm\u00e5l",
+        "percentage(%)": 0.6098
+    },
+    "xh": {
+        "abs_count": 1,
+        "lines": [
+            25
+        ],
+        "name": "Xhosa",
+        "percentage(%)": 0.6098
+    }
+}
+
+BLEU: ----------
+BLEU = 19.93 49.0/25.4/16.4/11.2 (BP = 0.913 ratio = 0.916 hyp_len = 2931 ref_len = 3199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 68.72
+COMET20 = -12.19
+
+copy results (blue comet22 comet20 off-tgt) ----------
+19.93 68.72 -12.19 1.8293

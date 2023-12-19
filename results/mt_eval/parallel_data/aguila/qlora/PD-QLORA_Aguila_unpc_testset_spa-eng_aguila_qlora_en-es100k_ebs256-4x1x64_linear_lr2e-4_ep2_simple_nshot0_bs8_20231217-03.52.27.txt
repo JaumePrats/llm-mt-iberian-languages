@@ -1,0 +1,220 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 03:52:29
+execution time: 7:59:42.911237
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "PD-QLORA_Aguila_unpc_testset",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/testset/UNv1.0.testset.eng",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/testset/UNv1.0.testset.spa",
+    "timestamp": "20231217-03.52.27"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 300,
+    "model_id": "/fs/surtr0/jprats/models/merged/aguila/qlora/aguila_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_ep2",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/devset/UNv1.0.devset.eng",
+    "src_examples": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/devset/UNv1.0.devset.spa",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.15
+{
+    "de": {
+        "abs_count": 3,
+        "lines": [
+            1,
+            1061,
+            3993
+        ],
+        "name": "German",
+        "percentage(%)": 0.075
+    },
+    "en": {
+        "abs_count": 3954,
+        "lines": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 98.85
+    },
+    "es": {
+        "abs_count": 5,
+        "lines": [
+            694,
+            960,
+            975,
+            1064,
+            1548
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.125
+    },
+    "eu": {
+        "abs_count": 3,
+        "lines": [
+            311,
+            2997,
+            3161
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.075
+    },
+    "fi": {
+        "abs_count": 2,
+        "lines": [
+            3361,
+            3971
+        ],
+        "name": "Finnish",
+        "percentage(%)": 0.05
+    },
+    "fr": {
+        "abs_count": 5,
+        "lines": [
+            940,
+            1489,
+            2151,
+            2773,
+            3248
+        ],
+        "name": "French",
+        "percentage(%)": 0.125
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            1214
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.025
+    },
+    "id": {
+        "abs_count": 2,
+        "lines": [
+            753,
+            2994
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.05
+    },
+    "it": {
+        "abs_count": 14,
+        "lines": [
+            25,
+            628,
+            891,
+            925,
+            1610,
+            1832,
+            1834,
+            2179,
+            2401,
+            2638,
+            "more than 10 lines ..."
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.35
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            881
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.025
+    },
+    "mg": {
+        "abs_count": 1,
+        "lines": [
+            689
+        ],
+        "name": "Malagasy",
+        "percentage(%)": 0.025
+    },
+    "mt": {
+        "abs_count": 1,
+        "lines": [
+            78
+        ],
+        "name": "Maltese",
+        "percentage(%)": 0.025
+    },
+    "nl": {
+        "abs_count": 4,
+        "lines": [
+            1402,
+            1678,
+            2775,
+            3820
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.1
+    },
+    "pl": {
+        "abs_count": 1,
+        "lines": [
+            1161
+        ],
+        "name": "Polish",
+        "percentage(%)": 0.025
+    },
+    "rw": {
+        "abs_count": 1,
+        "lines": [
+            1433
+        ],
+        "name": "Kinyarwanda",
+        "percentage(%)": 0.025
+    },
+    "se": {
+        "abs_count": 1,
+        "lines": [
+            120
+        ],
+        "name": "Northern Sami",
+        "percentage(%)": 0.025
+    },
+    "sw": {
+        "abs_count": 1,
+        "lines": [
+            2251
+        ],
+        "name": "Swahili (macrolanguage)",
+        "percentage(%)": 0.025
+    }
+}
+
+BLEU: ----------
+BLEU = 33.82 58.6/38.3/27.8/20.9 (BP = 1.000 ratio = 1.102 hyp_len = 131043 ref_len = 118945)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 76.73
+COMET20 = 20.96
+
+copy results (blue comet22 comet20 off-tgt) ----------
+33.82 76.73 20.96 1.15

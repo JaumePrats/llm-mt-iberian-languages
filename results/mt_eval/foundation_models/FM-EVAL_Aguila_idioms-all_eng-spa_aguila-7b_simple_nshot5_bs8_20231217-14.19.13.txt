@@ -1,0 +1,117 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 14:19:15
+execution time: 0:55:06.667250
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-all",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.eng",
+    "timestamp": "20231217-14.19.13"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 4.0
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            115
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.4
+    },
+    "es": {
+        "abs_count": 240,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 96.0
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            82
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.4
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            141
+        ],
+        "name": "French",
+        "percentage(%)": 0.4
+    },
+    "gl": {
+        "abs_count": 3,
+        "lines": [
+            39,
+            214,
+            231
+        ],
+        "name": "Galician",
+        "percentage(%)": 1.2
+    },
+    "hr": {
+        "abs_count": 2,
+        "lines": [
+            90,
+            105
+        ],
+        "name": "Croatian",
+        "percentage(%)": 0.8
+    },
+    "pt": {
+        "abs_count": 2,
+        "lines": [
+            10,
+            206
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.8
+    }
+}
+
+BLEU: ----------
+BLEU = 25.48 52.1/30.3/19.9/13.4 (BP = 1.000 ratio = 1.035 hyp_len = 5015 ref_len = 4847)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 73.09
+COMET20 = 6.74
+
+copy results (blue comet22 comet20 off-tgt) ----------
+25.48 73.09 6.74 4.0

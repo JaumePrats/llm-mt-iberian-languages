@@ -1,0 +1,103 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 13:20:58
+execution time: 0:37:31.103221
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-idioms",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.eng",
+    "timestamp": "20231217-13.20.56"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 6.0976
+{
+    "cs": {
+        "abs_count": 1,
+        "lines": [
+            151
+        ],
+        "name": "Czech",
+        "percentage(%)": 0.6098
+    },
+    "es": {
+        "abs_count": 154,
+        "lines": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 93.9024
+    },
+    "gl": {
+        "abs_count": 3,
+        "lines": [
+            3,
+            21,
+            94
+        ],
+        "name": "Galician",
+        "percentage(%)": 1.8293
+    },
+    "hr": {
+        "abs_count": 5,
+        "lines": [
+            24,
+            29,
+            50,
+            135,
+            149
+        ],
+        "name": "Croatian",
+        "percentage(%)": 3.0488
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            72
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.6098
+    }
+}
+
+BLEU: ----------
+BLEU = 18.99 40.7/22.6/14.7/9.7 (BP = 1.000 ratio = 1.258 hyp_len = 3773 ref_len = 2999)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 68.60000000000001
+COMET20 = -11.82
+
+copy results (blue comet22 comet20 off-tgt) ----------
+18.99 68.60000000000001 -11.82 6.0976

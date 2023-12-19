@@ -1,0 +1,515 @@
+English: <s>Mum wanted to cook something different that day, but ended up putting a squid in the fish kettle as usual.</s>
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un pulpo en la olla de pescado como de costumbre.</s>
+Portuguese: <s>Mãe queria fazer algo diferente naquele dia, mas acabou metendo um pulpo na panela de peixe como sempre.</s>
+French: <s>Maman voulait faire quelque chose de différent ce jour-là, mais elle a fini par mettre un poulpe
+--------------------
+English: <s>Mum wanted to cook something different that day, but ended up putting a salmon in the fish kettle as usual.</s>
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un salmón en la olla de pescado como de costumbre.</s>
+Portuguese: <s>Mãe queria fazer algo diferente naquele dia, mas acabou metendo um salmão na panela de peixe como sempre.</s>
+French: <s>Maman voulait faire quelque chose de différent ce jour-là, mais elle finit par mettre un
+--------------------
+English: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+Spanish: <s>Puedes tirar una piedra al lago y ver las ondas de agua bailar sobre la superficie hasta que tu melancolía se vaya.</s>
+Spanish: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+English: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+Spanish: <s>Puedes tirar una
+--------------------
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que tu estrés se vaya, lanza una piedra al lago y mira las ondas que se forman en la superficie.</s>
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que tu estrés se vaya, lanza una piedra al lago y mira las ondas
+--------------------
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión fue tan intensa que me sentí agotado al final del día.</s>
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión fue tan intensa que me sentí agotado al final del día.</s>
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>
+--------------------
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, puedes mover tu pieza un paso atrás.</s>
+French: <s>En l'échecs, tu peux déplacer ton pion d'un pas en arrière.</s>
+Italian: <s>In scacchi, puoi spostare la tua pedina di un passo indietro.</s>
+Portuguese: <s>No escacs, você pode mover sua peça de um passo para trás.</s>
+German: <s
+--------------------
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa! No sabía que tu tío era tu tío.</s>
+French: <s>Quelle surprise! Je ne savais pas que ton oncle était ton oncle.</s>
+Italian: <s>Che sorpresa! Non sapevo che tuo zio era tuo zio.</s>
+Portuguese: <s>Que surpresa! Não sabia que o tio de você era o tio de você.</s>
+German: <s>Was f�
+--------------------
+English: <s>In the laboratory the teacher told me to break a leg off the dead frog and dissect it. That's when I realised I'd never be able to work as a biologist!</s>
+Spanish: <s>En el laboratorio el profesor me dijo que rompiera un hueso del cadáver de rana y lo deseche. Eso fue cuando me di cuenta que nunca podría ser un biólogo!</s>
+Portuguese: <s>No me diga que tenho que romper um osso do cadáver de rana e descerne-lo. Isso foi quando percebi que nunca poderia ser um biólogo!</s>
+French: <s>Dans
+--------------------
+English: <s>Leaving the office building after the biggest job interview of my life, I stumbled down the stairs and broke my leg. So I lost the chance to start my dream job.</s>
+Spanish: <s>Saliendo del edificio de oficinas después de la mayor entrevista de mi vida, me tropecé y me rompí la pierna. Así que perdí la oportunidad de empezar mi sueño.</s>
+English: <s>I was so excited to go to the concert, but I got sick and had to stay home.</s>
+Spanish: <s>Estaba tan emocionado de ir al concierto, pero me enfermé y tuve que quedarme en casa.</s>
+
+--------------------
+English: <s>Do you know what gums are? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I should take care of them by not eating too many sweets.</s>
+Spanish: <s>¿Sabes qué son los gencios? Ayer mi dentista me explicó que son como la piel de mis dientes y que debo cuidarlos por no comer demasiados dulces.</s>
+English: <s>I'm going to the dentist tomorrow. I'm a little nervous.</s>
+Spanish: <s>Voy al dentista mañana. Estoy un poco nerviosa.</s>
+English: <s>I'm going to the dentist tomorrow. I'
+--------------------
+English: <s>It's important to take care of your skin and teeth by visiting your dermatologist and dentist regularly.</s>
+Spanish: <s>Es importante que cuides tu piel y tus dientes visitando tu dermatólogo y dentista regularmente.</s>
+Portuguese: <s>É importante que cuides a pele e os dentes visitando o dermatólogo e o dentista regularmente.</s>
+French: <s>Il est important de prendre soin de votre peau et de vos dents en visitant votre dermatologue et votre dentiste régulièrement.</s>
+Italian: <s>È importante che prendi cura
+--------------------
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner.</s>
+Spanish: <s>Llegamos tan hambrientos que comimos el pavo frío directamente del frigorífico para cenar.</s>
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner.</s>
+Spanish: <s>Llegamos tan hambrientos que comimos el pavo frío directamente del frigorífico para cenar.</s>
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner
+--------------------
+English: <s>Do you think that in a situation of extreme starvation a dog would eat another dog to survive?</s>
+Spanish: <s>¿Crees que en una situación de hambre extremada un perro comería a otro perro para sobrevivir?</s>
+French: <s>Penses-tu que dans une situation de famine extrême un chien mangerait un autre chien pour survivre?</s>
+Italian: <s>Credi che in una situazione di fame estrema un cane mangiarebbe un altro cane per sopravvivere?</s>
+Portuguese: <s>Crenças que num
+--------------------
+English: <s>What do you think? They don't quote me much in literature classes these days. I may not be that famous anymore.</s>
+Spanish: <s>¿Qué piensas? No me citan mucho en las clases de literatura de hoy en día. Quizás no sea tan famoso como antes.</s>
+English: <s>I'm not sure. I'm not sure if I'm famous or not.</s>
+Spanish: <s>No estoy seguro. No estoy seguro si soy famoso o no.</s>
+English: <s>I'm not sure. I'm not sure if I'm famous or
+--------------------
+English: <s>My boss said it would be easier to get this task done internally than to ask for outside help.</s>
+Spanish: <s>Mi jefe me dijo que sería más fácil conseguir este trabajo en el interior que pedir ayuda externa.</s>
+English: <s>I'm not sure if I can get this done by tomorrow.</s>
+Spanish: <s>No estoy seguro si puedo hacerlo por mañana.</s>
+English: <s>I'm not sure if I can get this done by tomorrow.</s>
+Spanish: <s>No estoy seguro si puedo hacerlo por mañana.</s>
+English: <
+--------------------
+English: <s>Hold your horses and keep them from stepping on my grass and ruining my garden!</s>
+Spanish: <s>¡No piséis mi césped y no os metáis en mi jardín!</s>
+French: <s>Ne passez pas sur mon gazon et ne vous mettez pas dans mon jardin!</s>
+Italian: <s>Non calpestate il mio prato e non ti metti nel mio giardino!</s>
+Portuguese: <s>Não pisem meu gramado e não se metam no meu jardim!</s>
+German: <s>
+--------------------
+English: <s>Please give me a magnifying glass to watch how the spider creeps on the leaf.</s>
+Spanish: <s>Por favor, me da una lupa para ver cómo la araña se arrastra sobre la hoja.</s>
+Portuguese: <s>Por favor, me dê uma lupa para ver como a aranha se arrastra sobre a folha.</s>
+French: <s>S'il vous plaît, me donnez une loupe pour voir comment l'araignée se déplace sur la feuille.</s>
+Italian: <s>Per favore
+--------------------
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante te sirve los platos con la cantidad de sazon adecuada para que sean verdaderamente memorables.</s>
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante te sirve los platos con la cantidad de sazon adecuada para que sean verdaderamente memorables.</s>
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to
+--------------------
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+Spanish: <s>¿Qué te parece si hablamos de cómo un muro de ladrillo puede añadir encanto y carácter a cualquier espacio?</s>
+French: <s>Nous allons parler de comment un mur de briques peut ajouter du charme et du caractère à n'importe quel espace.</s>
+Italian: <s>Parliamo di come un muro di mattoni può aggiungere fascino e carattere a qualsiasi spazio.</s>
+Portuguese: <s
+--------------------
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>Este no es mi té! Ella cambió los vasos y me dio el vacío! Así es tan descarada!</s>
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>Este no es mi té! Ella cambió los vasos y me dio el vacío! Así es tan descarada!</s>
+English: <s>This is not my cup of tea
+--------------------
+English: <s>You misunderstood the information on the flyer, the subject of the course offered by Maryland University is not rocket science, but aircraft design.</s>
+Spanish: <s>No entendí mal el folleto, el tema de la clase ofrecida por la Universidad de Maryland no es la ciencia de los cohetes, sino la ingeniería aeronáutica.</s>
+Portuguese: <s>Não entendi mal o folheto, o tema da aula oferecida pela Universidade de Maryland não é a ciência dos cohetes, mas a engenharia aérea.</s>
+French: <s>Je n'ai pas compris
+--------------------
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban seguros de saltar al fondo del piscina.</s>
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban seguros de saltar al fondo del piscina.</s>
+English: <s>After a month of swimming
+--------------------
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+Spanish: <s>He estado viajando por el mundo durante los últimos tres meses y ahora estoy tratando de escribir una carta a mi madre para contarle cómo va todo, pero me siento como si no tuviera nada que contar.</s>
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+Spanish: <s>He
+--------------------
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+Spanish: <s>Nos seguimos el GPS hasta que nos metió en un camino de tierra lleno de barro y prácticamente inaccesible.</s>
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+Spanish: <s>Nos seguimos el GPS hasta que nos metió en un camino de tierra lleno de barro y prácticamente inaccesible.</s>
+English: 
+--------------------
+English: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+Spanish: <s>¡Ay, que asco tiene esta pulga en la cabeza!</s>
+Portuguese: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+French: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+Italian: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+German: <s>Ew, get this bug off the top of
+--------------------
+English: <s>As the highest mountain on earth, Mount Everest is considered the top of the world.</s>
+Spanish: <s>La montaña más alta del mundo, el Everest, es considerada la cima del mundo.</s>
+French: <s>Le mont Everest est la plus haute montagne du monde.</s>
+Italian: <s>Il monte Everest è la montagna più alta del mondo.</s>
+Portuguese: <s>O Everest é a montanha mais alta do mundo.</s>
+Chinese: <s>珠穆朗玛峰是世界上最高
+--------------------
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+Spanish: <s>¿Te gustaría ver mi nueva prenda? Saca la prenda del cajón azul de la cómoda y yo te la pondré para que la veas.</s>
+English: <s>I'm going to the store to buy some groceries. I'll be back in a few minutes.</s>
+Spanish: <s>Voy a la tienda a comprar algunas cosas. Volveré en unos minutos.</s>
+English: <s>I'm
+--------------------
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <s>Es difícil medir la velocidad y alcance de la propagación del virus</s>
+French: <s>Il est difficile de mesurer la vitesse et la portée de la propagation du virus</s>
+Italian: <s>È difficile misurare la velocità e la portata della diffusione del virus</s>
+Portuguese: <s>É difícil medir a velocidade e alcance da propagação do vírus</s>
+Chinese: <s>
+--------------------
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+English: 
+--------------------
+English: <s>As she rushed out of the room, she hit the fan and knocked it to the floor.</s>
+Spanish: <s>Como salió corriendo de la habitación, se golpeó contra el ventilador y lo derribó.</s>
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish: <s>El hombre estaba tan borracho que se cayó en el río.</s>
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish: <s>El hombre estaba tan
+--------------------
+English: <s>When the building was already burning, the hooligans added fuel to the fire causing it to become an unstoppable and devastating event.</s>
+Spanish: <s>Cuando el edificio ya estaba ardiendo, los hooligans lo encendieron, causando que se convirtiera en un incendio incontrolable y devastador.</s>
+English: <s>The hooligans were already inside the building when the fire started, and they were the ones who caused it to spread.</s>
+Spanish: <s>Los hooligans ya estaban dentro del edificio cuando el fuego empezó, y fueron ellos los que lo hicieron extenderse.</s
+--------------------
+English: <s>My dog is supposed to be a good hunter, but look at him, he's barking up the wrong tree: the squirrel is on the pine across the street!</s>
+Spanish: <s>Mi perro es un buen cazador, pero mira a lo que se ha metido: el conejo está en el pino al otro lado de la calle!</s>
+Portuguese: <s>Meu cachorro é um bom caçador, mas olha a que ele se meteu: o conejinho está no outro lado da rua!</s>
+French: <s>Mon chien est un bon chasseur, mais regarde ce qu'il a attrapé: le
+--------------------
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es un ave nocturna y un símbolo de sabiduría en muchas culturas.</s>
+French: <s>L'hibou est un oiseau de nuit et un symbole de sagesse dans de nombreuses cultures.</s>
+Italian: <s>L'aquila notturna è un uccello notturno e un simbolo di saggezza in molte culture.</s>
+Portuguese: <s>O pássaro noturno
+--------------------
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she's already starred in more than five films!</s>
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años, ya ha protagonizado más de cinco películas!</s>
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she's already starred in more than five films!</s>
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años, ya ha protagonizado más de cinco películ
+--------------------
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+French: <s>Le vin était servi dans des verres de cristal clair.</s>
+Italian: <s>Il vino era servito in bicchieri di cristallo trasparente.</s>
+Portuguese: <s>O vinho foi servido em copos de cristal claro.</s>
+Polish: <s>Wina była poddana w szkłach
+--------------------
+English: <s>All those cans in your kitchen pantry are full of beans? Don't you eat anything else in winter?</s>
+Spanish: <s>¿Todos esos garbanzos en tu armario de cocina están llenos de frijoles? ¿No comes nada más en invierno?</s>
+Portuguese: <s>Todos esses garbanzos no estão cheios de feijão? Não come nada mais no inverno?</s>
+French: <s>Tous ces haricots ne sont pas pleins de fèves? Tu ne manges rien d'autre en hiver?</s>
+Italian
+--------------------
+English: <s>Bud is in the doghouse my dad built for him in our backyard, but he seemed happier when he was allowed to sleep on the sofa.</s>
+Spanish: <s>Bud está en la casa de perros que su padre construyó en nuestro jardín, pero parecía más feliz cuando estaba en el sofá.</s>
+English: <s>Bud is in the doghouse my dad built for him in our backyard, but he seemed happier when he was allowed to sleep on the sofa.</s>
+Spanish: <s>Bud está en la casa de perros que su padre construyó en nuestro jardín, pero parecía más feliz cuando estaba en el sof
+--------------------
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en el balón y estira tu pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s
+--------------------
+English: <s>You are building your solar system model incorrectly: look, Mars cannot be over the Moon, you must move it further to the side in order to reproduce the real positions of the planets.</s>
+Spanish: <s>Usted está construyendo su modelo solar incorrectamente: mira, Marte no puede estar sobre la Luna, debe moverlo a un lado para reproducir las posiciones reales de los planetas.</s>
+Portuguese: <s>Você está construindo seu modelo solar incorretamente: olhe, Marte não pode estar sobre a Lua, deve mover-se para o lado para reproduzir as posições reais dos planetas.</s>
+French: <s>Vous construisez
+--------------------
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish: <s>Se nevaba mucho anoche y mi carro desapareció bajo una montaña blanca.</s>
+French: <s>Il a neigé beaucoup hier soir et ma voiture a disparu sous une montagne blanche.</s>
+Italian: <s>È nevicato molto ieri sera e la mia macchina è scomparsa sotto una montagna bianca.</s>
+Portuguese: <s>Nevou muito ontem à noite e minha carro desapareceu sob uma
+--------------------
+English: <s>I have served that cocktail with the last straw we had and I don't have any left for the mojitos... Can you call the provider and order a box?</s>
+Spanish: <s>He servido esa copa con la última cucharilla que teníamos y no tengo ninguna más para las mojitos... ¿Podrías llamar al proveedor y pedir una caja?</s>
+English: <s>I have served that cocktail with the last straw we had and I don't have any left for the mojitos... Can you call the provider and order a box?</s>
+Spanish: <s>He servido esa copa con la última cucharilla que teníamos
+--------------------
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un buen restaurante indio justo al lado de tu casa.</s>
+French: <s>Il y a un bon restaurant indien juste à côté de chez toi.</s>
+Italian: <s>C'è un buon ristorante indiano proprio di fronte a casa tua.</s>
+Portuguese: <s>Há um bom restaurante indiano apenas à sua porta.</s>
+Chinese: <s>有一个好印度餐馆就在街对
+--------------------
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+Spanish: <s>No masticar más de lo que se puede masticar cuando come un hamburger! Ver comida escapando de su boca es repulsivo!</s>
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+Spanish: <s>No masticar más de lo que se puede masticar cuando come un hamburger! Ver comida escapando de su boca es repulsivo!</s>
+English: <s
+--------------------
+English: <s>It is said that in ancient times, soldiers would bite a bullet to withstand the pain when undergoing emergency surgery on the battlefield.</s>
+Spanish: <s>Se dice que en tiempos antiguos, soldados mordían una bala para soportar el dolor cuando se les practicaba una cirugía de emergencia en el campo de batalla.</s>
+Portuguese: <s>É dito que nos soldados mordiam uma bala para suportar o sofrimento quando se lhes praticava uma cirurgia de emergência no campo de batalha.</s>
+French: <s>On dit que les soldats m
+--------------------
+English: <s>To start playing the trumpet, you have to blow into it until a sound comes out... it's not easy!</s>
+Spanish: <s>Para empezar a tocar la trompeta, tienes que soplar en ella hasta que salga un sonido... no es fácil!</s>
+Portuguese: <s>Para começar a tocar a trompeta, você tem que soprar nela até que um som saia... não é fácil!</s>
+French: <s>Pour commencer à jouer de la trompette, il faut souffler dedans jusqu'à ce qu'un son sorte... ce n'est pas facile
+--------------------
+English: <s>Can you bring home the bacon we bought yesterday and left in the fridge of the camper van?</s>
+Spanish: <s>¿Puedes traer la lata de tocino que compramos ayer y dejamos en el frigorífico del camper?</s>
+English: <s>Can you bring home the bacon we bought yesterday and left in the fridge of the camper van?</s>
+Spanish: <s>¿Puedes traer la lata de tocino que compramos ayer y dejamos en el frigorífico del camper?</s>
+English: <s>Can you bring home the bacon we bought
+--------------------
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+Spanish: <s>La guerra le costó un brazo y una pierna. Estuvo incapacitado para el resto de su vida.</s>
+Portuguese: <s>A guerra custou-lhe um braço e uma perna. Ficou incapacitado para o resto da vida.</s>
+French: <s>La guerre lui a coûté un bras et une jambe. Il fut handicapé pour le reste de sa vie.</s>
+Italian: <s>La guerra gli
+--------------------
+English: <s>We need to cut and tighten this rope: it is too slack!</s>
+Spanish: <s>Tenemos que cortar y tensar este cordel: está demasiado flojo!</s>
+French: <s>Nous devons couper et tendre ce cordage: il est trop lâche!</s>
+Italian: <s>Dobbiamo tagliare e tendere questo corda: è troppo floscio!</s>
+Portuguese: <s>Nós temos que cortar e tensar este corda: está muito mole!</s>
+German: <
+--------------------
+English: <s>Can you please cut the cheese and put it on the table?</s>
+Spanish: <s>¿Puedes cortar el queso y ponerlo en la mesa?</s>
+French: <s>Pourriez-vous couper le fromage et le mettre sur la table?</s>
+Italian: <s>Potrebbe tagliare il formaggio e metterlo sul tavolo?</s>
+Portuguese: <s>Poderia cortar o queijo e colocar no mesa?</s>
+German: <s>Könntest du bitte den Käse schne
+--------------------
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>La limonada se mezcló con el mostaza y el ensaladilla se echó a perder. Teníamos que tirarla.</s>
+Spanish: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>La limonada se mezcló con el mostaza
+--------------------
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor, me lleves al supermercado, quiero comprar algunos cacahuetes.</s>
+French: <s>S'il vous plaît, me conduisez au magasin, je veux acheter des noix.</s>
+Italian: <s>Per favore, mi porti al negozio, voglio comprare delle noccioline.</s>
+Portuguese: <s>Por favor, me leve ao supermercado, quero comprar algumas nozes.</s>
+German: 
+--------------------
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Me salí de la cola porque tenía los pies fríos. Ahora me duele y no puedo andar.</s>
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Me salí de la cola porque tenía los pies fríos. Ahora me duele y no puedo andar.</s>
+English: <s>I got cold feet from standing in line all morning
+--------------------
+English: <s>Grips get tighter when you have to hold on to an object with a slippery surface.</s>
+Spanish: <s>Los agarres se hacen más fuertes cuando tienes que agarrar un objeto con una superficie resbaladiza.</s>
+Portuguese: <s>Os agarres ficam mais fortes quando têm de agarrar um objeto com superfície resbaladiça.</s>
+French: <s>Les agrippes se resserrent quand vous devez tenir un objet avec une surface glissante.</s>
+Italian: <s>Le agrippamenti si stringono quando
+--------------------
+English: <s>The main character takes a long time to decide to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal tarda mucho tiempo en decidir salir de nuevo después de haberse amputado las piernas.</s>
+Spanish: <s>El personaje principal tarda mucho tiempo en decidir salir de nuevo después de haberse amputado las piernas.</s>
+English: <s>The main character takes a long time to decide to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal tarda mucho tiempo en decidir salir
+--------------------
+English: <s>The internet is full of sophisticated suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+Spanish: <s>La red está llena de consejos sofisticados sobre lo que llevar si tienes un cuerpo de pera, pero creo que me vestiré con algo sencillo.</s>
+English: <s>The internet is full of sophisticated suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+Spanish: <s>La red está llena de consejos sofisticados sobre lo que llevar si tienes un cuerpo de pera, pero creo
+--------------------
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas van por el río con la corriente hasta que llegan al lago tranquilo.</s>
+French: <s>Les feuilles vont au fil de l'eau jusqu'à ce qu'elles atteignent le lac calme.</s>
+Italian: <s>Le foglie vanno giù per il fiume con la corrente finché non raggiungono il lago tranquillo.</s>
+Portuguese: <s>As folhas v
+--------------------
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y ataques de otros animales.</s>
+Portuguese: <s>Os elefantes têm uma pele grossa que os protege de parasitas e ataques de outros animais.</s>
+French: <s>Les éléphants ont une peau épaisse qui les protège des parasites et des attaques d'autres animaux.</s>
+Italian: <s>Gli elefanti hanno una
+--------------------
+English: <s>These fish are bigger than the ones we usually fry, I'm not sure they'll fit in the deep fryer.</s>
+Spanish: <s>Estos peces son más grandes que los que normalmente freímos, no estoy seguro que encajen en el horno de vapor.</s>
+Portuguese: <s>Estes peixes são maiores do que os que normalmente fritamos, não estou certo que encaixem no forno de vapor.</s>
+French: <s>Ces poissons sont plus grands que les autres que nous faisons frire, je ne suis pas sûr qu'ils rentrent dans
+--------------------
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>Tienes que dar en el clavo para clavarlo profundamente en el madero.</s>
+French: <s>Il faut frapper juste pour enfoncer profondément le clou.</s>
+Italian: <s>Devi colpire giusto per conficcare il chiodo profondamente nel legno.</s>
+Portuguese: <s>Deves dar no clavo para enfi-lo fundo no madeiro.</s>
+German: <s>Du mus
+--------------------
+English: <s>To win the game, we had to hit the sack hanging from the tree until it ripped and the flour fell down on the opposing players.</s>
+Spanish: <s>Para ganar el juego, tuvimos que colgarnos de la rama hasta que se rompiera y la harina cayera sobre los jugadores oponentes.</s>
+Spanish: <s>Para ganar el juego, tuvimos que colgarnos de la rama hasta que se rompiera y la harina cayera sobre los jugadores oponentes.</s>
+English: <s>To win the game, we had to hang from the tree until it ripped and the flour fell down on the opposing players
+--------------------
+English: <s>In the library, I tend to judge a book by its cover: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>En la biblioteca, me gusta mucho el diseño de los libros: si no me gusta el diseño no lo leo, aunque alguien me lo recomiende.</s>
+English: <s>I'm not a big fan of the library, but I do like the design of the books: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>No me gusta mucho la biblioteca, pero me gusta mucho el diseño de los
+--------------------
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se asustó, patinó el cubo y derramó todo el agua que teníamos para el resto del día.</s>
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se asustó, patinó el cubo y derramó todo el agua que teníamos para el resto del día.</s>
+English:
+--------------------
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba viendo a su hija jugar en el jardín cuando de repente se dio cuenta de que su hija había matado dos pájaros con una piedra. Se quedó horrorizada!</s>
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba viendo
+--------------------
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+Spanish: <s>¿Por qué siempre llevas un moño? Deberías dejar tu pelo suelto de vez en cuando. Te quedaría bien.</s>
+Portuguese: <s>Por que você sempre usa um moño? Deve deixar seu cabelo solto de vez em quando. Você ficaria muito bonita.</s>
+Italian: <s>Perché sempre porti un moño? Devi lasciare il tuo capelli sciolti di tanto in tanto. Sarebbe molto bella
+--------------------
+English: <s>Our house is bright because it faces the south side.</s>
+Spanish: <s>Nuestra casa es luminosa porque se encuentra al sur.</s>
+English: <s>The house is bright because it faces the south side.</s>
+Spanish: <s>La casa es luminosa porque se encuentra al sur.</s>
+English: <s>The house is bright because it faces the south side.</s>
+Spanish: <s>La casa es luminosa porque se encuentra al sur.</s>
+English: <s>The house is bright because it faces the south
+--------------------
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y muchos plantitos para hacer nuestro salón más cálido y más acogedor.</s>
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y muchos plantitos para hacer nuestro salón más cálido y más acogedor.</s>
+English: <s>I bought a new lamp and
+--------------------
+English: <s>Will we meet to make dinner at the end?</s>
+Spanish: <s>¿Nos vemos para hacer la cena al final?</s>
+French: <s>Nous nous verrons pour faire la cuisine à la fin?</s>
+Italian: <s>Ci vediamo per fare la cena al termine?</s>
+Portuguese: <s>Vamos nos vermos para fazer a comida ao final?</s>
+German: <s>Wird uns zum Essen treffen am Ende?</s>
+Dutch: <s>Wilt u ons voor de keuken
+--------------------
+English: <s>That day started all wrong and even though I rushed to the dock, I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+Spanish: <s>El día empezó mal y aunque llegué a tiempo al muelle, me perdí el barco que cruzaba el lago y tuve que correr alrededor del lago para llegar a tiempo al punto de partida de la carrera.</s>
+English: <s>The day started all wrong and even though I rushed to the dock, I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+Spanish: 
+--------------------
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>El cuchillo más afilado que tengo en el armario es este cuchillo suizo.</s>
+French: <s>Le couteau le plus tranchant que j'ai dans mon atelier est ce couteau suisse.</s>
+Italian: <s>Il coltello più affilato che ho in cantina è questo coltello svizzero.</s>
+Portuguese: <s>O cuchinho mais afiado que tenho no meu
+--------------------
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+Spanish: <s>No sabía las partituras de esa canción, la estaba tocando a oído.</s>
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+Spanish: <s>No sabía las partituras de esa canción, la estaba tocando a oído.</s>
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+
+--------------------
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+Spanish: <s>¡No me hagas reír mientras caminamos! Voy a caerme!</s>
+Spanish: <s>¡No me hagas reír mientras caminamos! Voy a caerme!</s>
+by The_Real_Boss_of_the_World May 11, 2011
+The Urban Dictionary Mug
+One side has the word, one side has the definition. Microwave and dishwasher safe. Lotsa space for your liquids.Buy the mug
+--------------------
+English: <s>How many times do I have to tell you to pull your socks up?! Otherwise you'll freeze to death in this cold and windy weather!</s>
+Spanish: <s>¿Cuántas veces tengo que deciros que subáis los calcetines? Otra vez os congelaréis en este frío y viento que hace.</s>
+English: <s>I'm not going to tell you again! You're going to freeze to death if you don't put your socks on!</s>
+Spanish: <s>No voy a deciros otra vez. Si no ponéis los calcetines, os congelaréis.</s>
+English:
+--------------------
+English: <s>There is a hole in the water tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-call plumber arrives!</s>
+Spanish: <s>Hay un agujero en la cisterna y todo el agua se está escapando! No sé qué hacer! Pon un calcetín en el agujero y esperamos que se detenga la pérdida hasta que llegue el plomero de emergencia!</s>
+English: <s>There is a hole in the water tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-
+--------------------
+English: <s>During the interview, I realised that I had spilt coffee on my shirt and I put my hand on the spot to cover it up.</s>
+Spanish: <s>Durante la entrevista, me di cuenta que había derramado café sobre mi camisa y puse mi mano sobre la mancha para cubrirla.</s>
+English: <s>During the interview, I realised that I had spilt coffee on my shirt and I put my hand on the spot to cover it up.</s>
+Spanish: <s>Durante la entrevista, me di cuenta que había derramado café sobre mi camisa y puse mi mano sobre la mancha para cubrirl
+--------------------
+English: <s>In speed climbing competitions, you have to ring a bell to stop the chrono when you reach the top.</s>
+Spanish: <s>En competiciones de escalada de velocidad, tienes que tocar una campana para parar el cronómetro cuando llegas al topo.</s>
+Portuguese: <s>Em competições de escalada de velocidade, você tem que tocar uma campainha para parar o cronômetro quando chega no topo.</s>
+French: <s>Dans les compétitions de vitesse en escalade, tu dois sonner une cloche pour arrêter le chronomètre quand tu
+--------------------
+English: <s>Ring the bell when you arrive and I'll open the door for you.</s>
+Spanish: <s>Póngase en la cola y le abriré la puerta para usted.</s>
+Portuguese: <s>Ponha-se na fila e eu abrir-lhe-ei a porta.</s>
+French: <s>Mettez-vous en file et je vous ouvrirai la porte.</s>
+Italian: <s>Si metta in fila e io aprirò la porta per lei.</s>
+German: <s>Setzen
+--------------------
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los churros que venden en el café de la esquina son los mejores dulces de la ciudad.</s>
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los churros que venden en el café de la esquina son los mejores dulces de la ciudad.</s>
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town
+--------------------
+English: <s>When we started the climbing course, the first thing I did was to show the ropes and all other equipment to my students.</s>
+Spanish: <s>Cuando empezamos el curso de escalada, la primera cosa que hice fue enseñarles las cuerdas y todo el equipo.</s>
+English: <s>I started the course by showing the ropes and all other equipment to my students.</s>
+Spanish: <s>Empecé el curso enseñando las cuerdas y todo el equipo a mis estudiantes.</s>
+English: <s>I started the course by showing the ropes and all other equipment to my students.</s>
+Spanish
+--------------------
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño raro estaba sentado en la valla de la casa de mi vecino y mirando mi ventana.</s>
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño raro estaba sentado en la valla de la casa de mi vecino y mirando mi ventana.</s>
+English: <s>That creepy kid was sitting on the fence of my neighbor's
+--------------------
+English: <s>Although I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco insípidos, en mi opinión deberías agregarles un poco de sabor.</s>
+English: <s>Although I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco insípidos, en mi opinió
+--------------------
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+Spanish: <s>Mi hermana derramó las judías en la cocina y nos tomó más de una hora limpiar el desastre.</s>
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+Spanish: <s>Mi hermana derramó las judías en la cocina y nos tomó más de una hora limpiar el desastre.</s>
+English: <s>My sister spilled
+--------------------
+English: <s>What are you doing?! The yoghurt you are eating has been in the fridge for over a year! Spit it out!</s>
+Spanish: <s>¿Qué estás haciendo? El yogur que estás comiendo ha estado en el frigorífico por más de un año! ¡Spitíalo!</s>
+Portuguese: <s>O que você está fazendo? O queijo que você está comendo tem mais de um ano no refrigerador! </s>
+French: <s>Qu'est-ce que tu fais? Le fromage que tu manges a été dans le frigo depuis plus d'un an! </
+--------------------
+English: <s>In the last scene of the film, the old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>En la última escena del film, el viejo arroja a su perro bajo el autobús y se va, dejando al conductor sin palabras.</s>
+English: <s>The old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>El viejo arroja a su perro bajo el autobús y se va, dejando al conductor sin palabras.</s>
+English: <s>The old man throws his dog under
+--------------------
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish: <s>¿Puedes mostrarme cómo atas el nudo al final de la cuerda?</s>
+French: <s>Pourrais-tu me montrer comment tu fais le nœud à la fin de la corde?</s>
+Italian: <s>Potresti mostrarmi come fare il nodo alla fine della corda?</s>
+Portuguese: <s>Poderia mostrar-me como fazes o nó final da corda?</s>
+German: <
+--------------------
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad del combate me torció el brazo de tal manera que caí al suelo y me rindí.</s>
+Spanish: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad del combate
+--------------------
+English: <s>During our trip to Sweden last year, we went hiking in a frozen gulf. Our friend Pär told us we were walking on very thin ice and gave us emergency ice picks in case it broke... It was an exciting and scary experience!</s>
+Spanish: <s>Durante nuestro viaje a Suecia el año pasado, fuimos a caminar en un lago helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio unas picas de emergencia en caso de que se rompiera... Fue una experiencia emocionante y aterradora!</s>
+Swedish: <s>Under vår resa till Sverige lördagen hade vi en tur i en fria gulf. När vi var där så berättade
+--------------------

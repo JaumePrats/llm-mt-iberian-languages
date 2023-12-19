@@ -1,0 +1,65 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 13:59:19
+execution time: 0:02:19.701162
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Falcon_idioms-idioms",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.eng",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.idioms.spa",
+    "timestamp": "20231217-13.59.18"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0
+{
+    "en": {
+        "abs_count": 164,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 100.0
+    }
+}
+
+BLEU: ----------
+BLEU = 34.97 64.8/42.0/30.1/21.9 (BP = 0.955 ratio = 0.956 hyp_len = 3059 ref_len = 3199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 80.49
+COMET20 = 44.07
+
+copy results (blue comet22 comet20 off-tgt) ----------
+34.97 80.49 44.07 0.0

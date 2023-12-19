@@ -1,0 +1,73 @@
+TEST PARAMETERS: ----------
+start time: 16/12/2023 at 23:22:28
+execution time: 5:27:10.491432
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_flores-devtest",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/eng_Latn.devtest",
+    "src_data": "/fs/surtr0/jprats/data/raw/flores200_dataset/devtest/spa_Latn.devtest",
+    "timestamp": "20231216-23.22.26"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 150,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.098
+{
+    "en": {
+        "abs_count": 1019,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.902
+    },
+    "es": {
+        "abs_count": 1,
+        "lines": [
+            591
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.098
+    }
+}
+
+BLEU: ----------
+BLEU = 3.80 22.0/4.2/2.0/1.1 (BP = 1.000 ratio = 1.000 hyp_len = 24725 ref_len = 24721)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 47.64
+COMET20 = -106.39
+
+copy results (blue comet22 comet20 off-tgt) ----------
+3.80 47.64 -106.39 0.098

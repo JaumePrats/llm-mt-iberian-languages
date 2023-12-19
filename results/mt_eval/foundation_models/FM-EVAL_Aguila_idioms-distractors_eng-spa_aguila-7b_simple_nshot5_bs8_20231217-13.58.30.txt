@@ -1,0 +1,97 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 13:58:32
+execution time: 0:20:40.128347
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-distractors",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.eng",
+    "timestamp": "20231217-13.58.30"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 4.5455
+{
+    "en": {
+        "abs_count": 1,
+        "lines": [
+            21
+        ],
+        "name": "English",
+        "percentage(%)": 1.1364
+    },
+    "es": {
+        "abs_count": 84,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 95.4545
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            27
+        ],
+        "name": "French",
+        "percentage(%)": 1.1364
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            22
+        ],
+        "name": "Italian",
+        "percentage(%)": 1.1364
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            73
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 1.1364
+    }
+}
+
+BLEU: ----------
+BLEU = 9.12 26.8/10.4/6.5/4.7 (BP = 0.951 ratio = 0.952 hyp_len = 1759 ref_len = 1848)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 49.51
+COMET20 = -93.60000000000001
+
+copy results (blue comet22 comet20 off-tgt) ----------
+9.12 49.51 -93.60000000000001 4.5455

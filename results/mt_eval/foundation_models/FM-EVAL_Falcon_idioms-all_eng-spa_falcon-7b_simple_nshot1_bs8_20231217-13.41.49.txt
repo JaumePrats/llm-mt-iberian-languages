@@ -1,0 +1,82 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 13:41:50
+execution time: 0:03:08.150601
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Falcon_idioms-all",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.eng",
+    "timestamp": "20231217-13.41.49"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "tiiuae/falcon-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.2
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            26
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.4
+    },
+    "es": {
+        "abs_count": 247,
+        "lines": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 98.8
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            4,
+            231
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.8
+    }
+}
+
+BLEU: ----------
+BLEU = 32.80 60.7/38.3/26.6/18.7 (BP = 1.000 ratio = 1.001 hyp_len = 4853 ref_len = 4847)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 79.7
+COMET20 = 39.77
+
+copy results (blue comet22 comet20 off-tgt) ----------
+32.80 79.7 39.77 1.2

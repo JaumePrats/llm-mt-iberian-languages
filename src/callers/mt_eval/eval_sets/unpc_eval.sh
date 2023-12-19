@@ -1,10 +1,13 @@
 #!/bin/bash
 
-model=tiiuae/falcon-7b
-prefix=FM-EVAL_Falcon_unpc
-nums_fewshot=(5)
+# model=tiiuae/falcon-7b
+model=projecte-aina/aguila-7b
+# prefix=PD-QLORA_Falcon_unpc
+prefix=FM-EVAL_Aguila_unpc
+nums_fewshot=(0 1)
+# nums_fewshot=(0)
 directions=("eng-spa" "spa-eng")
-gpus=(3 4)
+gpus=(7)
 
 unpc_eval_set=testset
 unpc_example_set=devset

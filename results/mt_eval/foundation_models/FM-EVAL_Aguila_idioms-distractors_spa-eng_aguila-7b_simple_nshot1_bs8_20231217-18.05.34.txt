@@ -1,0 +1,73 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 18:05:35
+execution time: 0:08:48.319589
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-distractors",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.eng",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.spa",
+    "timestamp": "20231217-18.05.34"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.1628
+{
+    "en": {
+        "abs_count": 85,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 98.8372
+    },
+    "es": {
+        "abs_count": 1,
+        "lines": [
+            25
+        ],
+        "name": "Spanish",
+        "percentage(%)": 1.1628
+    }
+}
+
+BLEU: ----------
+BLEU = 33.60 66.6/43.5/31.6/23.5 (BP = 0.877 ratio = 0.884 hyp_len = 1670 ref_len = 1889)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 79.11
+COMET20 = 37.769999999999996
+
+copy results (blue comet22 comet20 off-tgt) ----------
+33.60 79.11 37.769999999999996 1.1628

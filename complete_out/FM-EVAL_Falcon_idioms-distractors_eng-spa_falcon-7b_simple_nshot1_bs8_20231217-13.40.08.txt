@@ -1,0 +1,994 @@
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a squid in the fish kettle as usual.</s>
+Spanish: <s>Mamá quiso cocinar algo distinto ese día, pero acabó metiendo un pulpo en la olla de pescado como de costumbre.</s>
+
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish: <s>El hombre estaba tan borracho que se cayó en el río.</s>
+
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a salmon in the fish kettle as usual.</s>
+Spanish: <s>Mamá quiso cocinar algo distinto ese día, pero acabó metiendo un salmón en la olla de pescado como de costumbre.</s>
+
+English: <s>The man was so drunk that he couldn't even stand up.</s>
+Spanish: <s>El hombre estaba tan borracho que no podía ni siquiera sentarse.</s>
+
+English: <s>The man was so drunk that he couldn't even stand up
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+Spanish: <s>Puedes tirar una piedra al lago y ver las ondas de agua bailar sobre la superficie hasta que tu melancolía se vaya.</s>
+
+English: <s>The only thing that stands between a man and what he wants from life is often merely the will to try it and the faith to believe that it is possible.</s>
+Spanish: <s>La única cosa que se interpone entre un hombre y lo que quiere de la vida es a menudo sólo la voluntad
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que tu estrés se vaya, lanza una piedra al lago y mira las ondas que surcan la superficie.</s>
+
+English: <s>The first thing you should do is to get a good night's sleep.</s>
+Spanish: <s>La primera cosa que debes hacer es dormir bien.</s>
+
+English: <s>The first thing you should do is to get a good night's sleep.</s>
+Spanish:
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión fue tan intensa que me sentí agotado al final del día.</s>
+
+English: <s>The meeting was so long that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión fue tan larga que me sentí agotado al final del día.</s>
+
+English: <s>The meeting was so long that I was exhausted at the end of the day.</s>
+Spanish: <s>La
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, puedes mover tu pieza un solo paso hacia atrás.</s>
+
+English: <s>The "Queen's Gambit" is a chess opening.</s>
+Spanish: <s>El "Gambito de la Reina" es una apertura de ajedrez.</s>
+
+English: <s>The "Ruy Lopez" is a chess opening.</s>
+Spanish: <s>El "Lopez" es una apert
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa! No sabía que tu tío era tu tío.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy médico en la televisión
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In the laboratory the teacher told me to break a leg off the dead frog and dissect it. That's when I realised I'd never be able to work as a biologist!</s>
+Spanish: <s>En el laboratorio la maestra me dijo que rompiera una pierna del muerto rana y la desecheara. Eso fue cuando me di cuenta que nunca podría ser biólogo.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Leaving the office building after the biggest job interview of my life, I stumbled down the stairs and broke my leg. So I lost the chance to start my dream job.</s>
+Spanish: <s>Saliendo del edificio de oficinas después de la mayor entrevista de mi vida, tropecé y me rompí la pierna. Así perdí la oportunidad de empezar mi sueño.</s>
+
+English: <s>The "I" in "team" is not "me", it is "we".</s>
+Spanish: <s>El "I" en "equipo" no es "yo", es "nosotros".</s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Do you know what gums are? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I should take care of them by not eating too many sweets.</s>
+Spanish: <s>¿Sabes qué son los gums? Ayer mi dentista me explicó que son como la piel de mis dientes y que debo cuidarlos por no comer demasiados dulces.</s>
+
+English: <s>I'm not sure if I'm going to be able to go to the party tomorrow, I'm not feeling very well.</s>
+Spanish: <s>No estoy seguro de si voy a poder ir a la fiesta de mañana, no me siento muy bien.</s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>It's important to take care of your skin and teeth by visiting your dermatologist and dentist regularly.</s>
+Spanish: <s>Es importante cuidar su piel y sus dientes visitando su dermatólogo y dentista regularmente.</s>
+
+English: <s>The "s" is a small letter, and it is used to indicate the plural form of a word.</s>
+Spanish: <s>El "s" es una letra pequeña, y se utiliza para indicar el plural de un nombre.</s>
+
+English: <s>The "s" is a small letter, and it
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner.</s>
+Spanish: <s>Llegamos tan hambrientos que comimos la carne fría directamente del frigorífico para cenar.</s>
+
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish: <s>El hombre estaba tan borracho que se cayó en el río.</s>
+
+English: <s>The man was so drunk that he fell into the river.</s>
+Spanish: <s>El hombre estaba tan borracho
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Do you think that in a situation of extreme starvation a dog would eat another dog to survive?</s>
+Spanish: <s>¿Crees que en una situación de hambre extremada un perro comería a otro perro para sobrevivir?</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de si voy a poder llegar a la reunión.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>What do you think? They don't quote me much in literature classes these days. I may not be that famous anymore.</s>
+Spanish: <s>¿Qué piensas? No me citan mucho en las clases de literatura de hoy en día. Quizás no sea tan famoso como antes.</s>
+
+English: <s>I'm not sure I'm ready to go back to work.</s>
+Spanish: <s>No estoy seguro de que esté preparado para volver a trabajar.</s>
+
+English: <s>I'm not sure I'm ready to go back to work.</s>
+Spanish:
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>My boss said it would be easier to get this task done internally than to ask for outside help.</s>
+Spanish: <s>Mi jefe me dijo que sería más fácil que lo hiciera en el interior que pedir ayuda externa.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de si voy a poder asistir a la reunión.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Hold your horses and keep them from stepping on my grass and ruining my garden!</s>
+Spanish: <s>¡No se metan en mi jardín y no pisoteen mi césped!</s>
+
+English: <s>I'm not going to let you get away with that!</s>
+Spanish: <s>No te voy a dejar escapar con eso!</s>
+
+English: <s>I'm not going to let you get away with that!</s>
+Spanish: <s>No te voy a dejar escapar con eso!</s>
+
+English: 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Please give me a magnifying glass to watch how the spider creeps on the leaf.</s>
+Spanish: <s>Por favor, me da un lente de aumento para ver cómo la araña se arrastra sobre la hoja.</s>
+
+English: <s>I am not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy un médico, pero soy un médico en la televisión.</s>
+
+English: <s>I am not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy un
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante te sirve los platos con la cantidad justa de sazón para que sean verdaderamente memorables.</s>
+
+English: <s>The "I" in "I love you" is silent.</s>
+Spanish: <s>El "I" en "Te quiero" es silencioso.</s>
+
+English: <s>The "I" in "I love you" is silent.</s>
+Spanish: <s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+Spanish: <s>¿Qué te parece si hablamos de cómo una pared de ladrillo puede añadir encanto y carácter a cualquier espacio?</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de si voy a poder asistir a la reunión.</s>
+
+English: <s>I'm not sure if I'm going to be able to make
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>No es mi taza de té; me cambió la taza vacía y me dio la llena! ¡Qué descaro!</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>You misunderstood the information on the flyer, the subject of the course offered by Maryland University is not rocket science, but aircraft design.</s>
+Spanish: <s>No entendiste la información del folleto, el tema del curso ofrecido por la Universidad de Maryland no es ciencia de los cohetes, sino diseño de aviones.</s>
+
+English: <s>The course is not about the history of the United States, but about the history of the United States.</s>
+Spanish: <s>El curso no trata de la historia de los Estados Unidos, sino de la historia de los Estados Unidos.</s>
+
+English: <s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban seguros de saltar al fondo del piscina.</s>
+
+English: <s>The children were so excited to see the new teacher that they ran to the door and opened it before she could get there.</s>
+Spanish: <s>Los niños estaban tan emocionados de ver al nuevo maestro que corrieron a la puerta y abrieron antes de que él llegara.</s>
+
+English: <
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+Spanish: <s>He estado viajando por el mundo durante los últimos tres meses y ahora estoy tratando de escribir una carta a mi mamá para contarle cómo está todo, pero me siento como si no tuviera nada que contar.</s>
+
+English: <s>I'm not sure if I should go to the doctor or not, but I'm feeling a little sick.</s>
+Spanish: <s>No estoy seguro de si debo ir al médico o no, pero me siento un
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+Spanish: <s>Seguimos el rastro del GPS hasta que nos llevó a una carretera de tierra llena de barro y prácticamente inaccesible.</s>
+
+English: <s>The "c" in "cocaine" is pronounced like the "s" in "salsa".</s>
+Spanish: <s>La "c" en "cocaina" se pronuncia como la "s" en "salsa".</s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+Spanish: <s>¡Ay, que asco! ¡Cómo me da vergüenza tener este insecto en la cabeza!</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de si voy a poder ir a la reunión.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>As the highest mountain on earth, Mount Everest is considered the top of the world.</s>
+Spanish: <s>Como la montaña más alta del mundo, el Everest es considerado el punto más alto del planeta.</s>
+
+English: <s>The "Big Bang" theory is the most widely accepted explanation for the origin of the universe.</s>
+Spanish: <s>La teoría del "Big Bang" es la explicación más aceptada de la origina de la vida.</s>
+
+English: <s>The "Big Bang" theory is the most widely accepted explanation
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+Spanish: <s>¿Te gustaría ver mi nueva prenda? Saca la prenda del cajón azul de la cómoda y yo te la pondré para que la veas.</s>
+
+English: <s>I'm going to the store to buy some groceries.</s>
+Spanish: <s>Voy a la tienda a comprar algunas cosas.</s>
+
+English: <s>I'm going to the store to buy some groceries.</s>
+Spanish: 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <s>Es difícil medir la velocidad y alcance del contagio del virus</s>
+
+English: <s>The virus is not a threat to the general population</s>
+Spanish: <s>El virus no es una amenaza para la población general</s>
+
+English: <s>The virus is not a threat to the general population</s>
+Spanish: <s>El virus no es una amenaza para la población general</s>
+
+English: 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más gente se casaba que hoy en día.</s>
+
+English: <s>The man is a doctor.</s>
+Spanish: <s>El hombre es un doctor.</s>
+
+English: <s>The man is a doctor.</s>
+Spanish: <s>El hombre es un doctor.</s>
+
+English: <s>The man is a doctor.</s>
+Spanish: <s>El hombre es un doctor.</s>
+
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>As she rushed out of the room, she hit the fan and knocked it to the floor.</s>
+Spanish: <s>Corriendo por la habitación, la chica chocó contra la bomba y la tiró al suelo.</s>
+
+English: <s>The man was shot in the head.</s>
+Spanish: <s>El hombre fue herido en la cabeza.</s>
+
+English: <s>The man was shot in the head.</s>
+Spanish: <s>El hombre fue herido en la cabeza.</s>
+
+English: <s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>When the building was already burning, the hooligans added fuel to the fire causing it to become an unstoppable and devastating event.</s>
+Spanish: <s>Cuando el edificio ya estaba ardiendo, los hooligans lo encendieron más, causando que se convirtiera en un incendio devastador y inextinguible.</s>
+
+English: <s>The "hooligans" are the ones who are causing the problem.</s>
+Spanish: <s>Los "hooligans" son los que causan el problema.</s>
+
+English: <s>The "hooligans" are the ones who
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>My dog is supposed to be a good hunter, but look at him, he's barking up the wrong tree: the squirrel is on the pine across the street!</s>
+Spanish: <s>Mi perro es un buen cazador, pero mira, está ladrando a la rama de un pino, cuando el conejo está en el otro lado de la calle!</s>
+
+English: <s>I'm not a racist, but I don't like black people.</s>
+Spanish: <s>No soy racista, pero no me gusta la gente negra.</s>
+
+English: <s>I'm not a racist, but I don't like
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es un ave nocturna y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es una ave nocturna y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish:
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she's already starred in more than five films!</s>
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años, ya ha protagonizado más de cinco películas.</s>
+
+English: <s>I'm not a doctor, but I think you should see a doctor.</s>
+Spanish: <s>No soy médico, pero creo que deberías ver a un médico.</s>
+
+English: <s>I'm not a doctor, but I think you should see a doctor.</s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en vasos de cristal clara.</s>
+
+English:
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>All those cans in your kitchen pantry are full of beans? Don't you eat anything else in winter?</s>
+Spanish: <s>Todos esos canes en tu cocina están llenos de frijoles? ¿No comes nada más en invierno?</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico de televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Bud is in the doghouse my dad built for him in our backyard, but he seemed happier when he was allowed to sleep on the sofa.</s>
+Spanish: <s>Bud está en la jaula de nuestro jardín, pero parecía más feliz cuando podía dormir en el sofá.</s>
+
+English: <s>The dog was barking at the cat, but the cat was not afraid.</s>
+Spanish: <s>El perro estaba ladrando al gato, pero el gato no tenía miedo.</s>
+
+English: <s>The dog was barking at the cat, but the cat was not afraid.</s>
+Spanish: <s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Pon tu pie en la pelota y estira tu pierna.</s>
+
+English: <s>The ball is in the air.</s>
+Spanish: <s>La pelota está en el aire.</s>
+
+English: <s>The ball is in the air.</s>
+Spanish: <s>La pelota está en el aire.</s>
+
+English: <s>The ball is in the air.</s>
+Spanish: <s>La
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>You are building your solar system model incorrectly: look, Mars cannot be over the Moon, you must move it further to the side in order to reproduce the real positions of the planets.</s>
+Spanish: <s>Estás construyendo tu modelo de sistema solar incorrectamente: mira, Marte no puede estar sobre la Luna, debes moverlo más a un lado para reproducir las posiciones reales de los planetas.</s>
+
+English: <s>The "s" is not a possessive, it is a contraction of "it is" or "it has".</s>
+Spanish: <s>El "s" no es una oración posesiva, es una contr
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish: <s>Se nevaba mucho anoche y mi coche desapareció bajo una montaña blanca.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: <s>No estoy seguro de si voy a poder ir a la reunión.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the meeting.</s>
+Spanish: 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>I have served that cocktail with the last straw we had and I don't have any left for the mojitos... Can you call the provider and order a box?</s>
+Spanish: <s>He servido ese cóctel con la última paja que nos quedaba y no tengo ninguna para los mojitos... ¿Podrías llamar al proveedor y pedir una caja?</s>
+
+English: <s>I'm not sure if I can get the "c" in "coconut" to come out right...</s>
+Spanish: <s>No estoy seguro de si puedo conseguir que salga la "c" en "coconut
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un buen restaurante indio justo al lado de tu calle a la izquierda.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it.</s>
+Spanish: <s>No estoy seguro si voy a poder ir.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it.</s>
+Spanish: <s>No estoy seguro si voy a poder ir.</s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+Spanish: <s>¡No muerdas más que puedas! ¡Ver comida escapando de tu boca es repugnante!</s>
+
+English: <s>The "I" in "team" is silent.</s>
+Spanish: <s>El "I" en "equipo" es silencioso.</s>
+
+English: <s>The "I" in "team" is silent.</s>
+Spanish: <s>El "I" en
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>It is said that in ancient times, soldiers would bite a bullet to withstand the pain when undergoing emergency surgery on the battlefield.</s>
+Spanish: <s>Se dice que en tiempos antiguos, los soldados mordían una bala para soportar el dolor cuando se les practicaba una cirugía en el campo de batalla.</s>
+
+English: <s>The first known use of the word "computer" was in 1613.</s>
+Spanish: <s>La primera vez que se usó la palabra "computador" fue en 1613.</s>
+
+English: <s>The first known
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>To start playing the trumpet, you have to blow into it until a sound comes out... it's not easy!</s>
+Spanish: <s>Para empezar a tocar el trombón, tienes que soplar en él hasta que salga un sonido... no es fácil!</s>
+
+English: <s>The first time I saw him, I thought he was a ghost.</s>
+Spanish: <s>La primera vez que lo vi, pensé que era un fantasma.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Can you bring home the bacon we bought yesterday and left in the fridge of the camper van?</s>
+Spanish: <s>¿Puedes traer a casa el tocino que compramos ayer y dejamos en el frigorífico del camper?</s>
+
+English: <s>I'm going to the store to buy some bread and milk.</s>
+Spanish: <s>Voy a la tienda a comprar pan y leche.</s>
+
+English: <s>I'm going to the store to buy some bread and milk.</s>
+Spanish: <s>Voy a la tienda
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+Spanish: <s>La guerra le costó un brazo y una pierna. Fue un soldado con restos de vida.</s>
+
+English: <s>The man was disabled by the accident.</s>
+Spanish: <s>El hombre fue víctima de un accidente.</s>
+
+English: <s>The man was disabled by the accident.</s>
+Spanish: <s>El hombre fue víctima de un accidente.</s>
+
+English: <s>The
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>We need to cut and tighten this rope: it is too slack!</s>
+Spanish: <s>Necesitamos cortar y tensar este cordel: es demasiado flojo!</s>
+
+English: <s>I am not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisión.</s>
+
+English: <s>I am not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisi�
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Can you please cut the cheese and put it on the table?</s>
+Spanish: <s>¿Puedes cortar el queso y ponerlo en la mesa?</s>
+
+English: <s>I'm going to the store to buy some milk.</s>
+Spanish: <s>Voy a la tienda a comprar leche.</s>
+
+English: <s>I'm going to the store to buy some milk.</s>
+Spanish: <s>Voy a la tienda a comprar leche.</s>
+
+English: <s>I'm
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>La limón cortó el queso y la ensalada se puso podrida. Teníamos que tirarla.</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>La limón cortó el queso y la ensalada se puso podrida. Teníamos que tirarla.</s>
+
+English: <s>The lemon juice cut the mustard
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor, conduzca a la esquina a la tienda de comestibles, quiero comprar nueces.</s>
+
+English: <s>I'm going to the corner shop to buy some nuts.</s>
+Spanish: <s>Voy a la tienda de comestibles a comprar nueces.</s>
+
+English: <s>I'm going to the corner shop to buy some nuts.</s>
+Spanish: <s>Voy a la tienda de comestibles
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Me puse los pies fríos de estar en la fila todo el día a 3 grados. Ahora me duele y no puedo andar.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy un médico, pero soy un médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish:
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Grips get tighter when you have to hold on to an object with a slippery surface.</s>
+Spanish: <s>Los agarres se hacen más fuertes cuando tienes que agarrar un objeto con una superficie resbaladiza.</s>
+
+English: <s>The "s" is pronounced as a "z" in "zoo".</s>
+Spanish: <s>La "s" se pronuncia como una "z" en "zoo".</s>
+
+English: <s>The "s" is pronounced as a "z" in "
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The main character takes a long time to decide to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal tarda mucho tiempo en decidirse a salir de nuevo después de haberse amputado las piernas.</s>
+
+English: <s>The main character is a woman who has lost her legs in an accident.</s>
+Spanish: <s>El personaje principal es una mujer que ha perdido las piernas en un accidente.</s>
+
+English: <s>The main character is a woman who has lost her legs in an accident.</s>
+Spanish: 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The internet is full of sophisticated suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+Spanish: <s>La red está llena de consejos sofisticados sobre lo que llevar si tienes un cuerpo de pera, pero creo que me vestiré con algo sencillo.</s>
+
+English: <s>The first thing I did was to go to the doctor and get a prescription for some pills.</s>
+Spanish: <s>La primera cosa que hice fue ir al médico y pedirme una receta para unos medicamentos.</s>
+
+English: <s>The first thing I did was
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas van por el río con la corriente hasta que llegan al lago tranquilo.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas van por el río con la corriente hasta que llegan al lago tranquilo.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+
+English: <s>The first thing you should do is to call the police.</s>
+Spanish: <s>La primera cosa que debes hacer es llamar a la policía.</s>
+
+English: <s>The first thing you should do is to call the police.</s>
+Spanish: <s>La primera cosa que debes hacer es
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>These fish are bigger than the ones we usually fry, I'm not sure they'll fit in the deep fryer.</s>
+Spanish: <s>Estos peces son más grandes que los que normalmente freímos, no estoy seguro de que encajen en el horno de vapor.</s>
+
+English: <s>I'm not sure if I should go to the party or not.</s>
+Spanish: <s>No estoy seguro de si ir a la fiesta o no.</s>
+
+English: <s>I'm not sure if I should go to the party or not.</s>
+Spanish: <s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>Tienes que dar en el clavo para clavar el clavo en la madera.</s>
+
+English: <s>The man was a genius.</s>
+Spanish: <s>El hombre era un genio.</s>
+
+English: <s>The man was a genius.</s>
+Spanish: <s>El hombre era un genio.</s>
+
+English: <s>The man was a genius.</s>
+Spanish: <s>El hombre era
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>To win the game, we had to hit the sack hanging from the tree until it ripped and the flour fell down on the opposing players.</s>
+Spanish: <s>Para ganar el partido, tuvimos que colgarnos del árbol y quedarnos colgados hasta que se rompiera y la harina cayera sobre los jugadores contrarios.</s>
+
+English: <s>The "s" is a letter of the English alphabet.</s>
+Spanish: <s>El "s" es una letra del alfabeto inglés.</s>
+
+English: <s>The "s" is a letter of the English alphabet.</s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In the library, I tend to judge a book by its cover: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>En la biblioteca, me juzgo por el libro por su portada: si no me gusta el diseño no lo leo, aunque alguien me lo recomiende.</s>
+
+English: <s>I'm not a big fan of the "I'm not a big fan of the "I'm not a big fan of the "I'm not a big fan of the "I'm not a big fan of the "I'm not a big fan of the 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se puso nervioso, se le cayó el cubo y echó todo el agua que teníamos para el resto del día.</s>
+
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se puso nervioso, se le cayó el cubo y echó todo el agua que teníamos para el resto del día.</s>
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba viendo jugar a su hija en el jardín cuando de repente se dio cuenta de que su hija había matado dos pájaros con una piedra. Se quedó horrorizada!</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>El otro día, mi amiga estaba vi
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+Spanish: <s>¿Por qué siempre llevas un moño? Deberías dejarte el pelo suelto de vez en cuando. Te quedaría bien.</s>
+
+English: <s>I'm not sure if I should go to the party or not. I don't want to be a third wheel.</s>
+Spanish: <s>No estoy seguro de si ir a la fiesta o no. No quiero ser un tercer pico.</s>
+
+English: <s>I'm
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Our house is bright because it faces the south side.</s>
+Spanish: <s>Nuestra casa es luminosa porque se encuentra al sur.</s>
+
+English: <s>The house is bright because it faces the south side.</s>
+Spanish: <s>La casa es luminosa porque se encuentra al sur.</s>
+
+English: <s>The house is bright because it faces the south side.</s>
+Spanish: <s>La casa es luminosa porque se encuentra al sur.</s>
+
+English: <s>The house is bright because it
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y muchos plantas para hacer nuestro salón más cálido y más acogedor.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y muchos plantas para hacer nuestro salón más cálido y más acogedor.</s>
+
+English: <s>I bought a new
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Will we meet to make dinner at the end?</s>
+Spanish: <s>¿Nos vemos para hacer la cena al final?</s>
+
+English: <s>I'm going to the store to buy some food.</s>
+Spanish: <s>Voy a la tienda a comprar comida.</s>
+
+English: <s>I'm going to the store to buy some food.</s>
+Spanish: <s>Voy a la tienda a comprar comida.</s>
+
+English: <s>I'm going to the store to buy
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>That day started all wrong and even though I rushed to the dock, I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+Spanish: <s>El día empezó mal y aunque llegué a tiempo al muelle, no pude llegar a la otra orilla del lago y tuve que correr alrededor del lago para llegar a tiempo a la salida del duelo.</s>
+
+English: <s>I was so excited to see my friend that I ran to the door and knocked on it.</s>
+Spanish: <s>Estaba tan emocionado de ver a mi amigo que corrí a la puerta y la golpeé.</
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>El cuchillo más afilado que tengo en el garaje es este cuchillo suizo.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+Spanish: <s>No sabía las partituras de esa canción, la estaba tocando a oído.</s>
+
+English: <s>He was a good student, but he was not a good student.</s>
+Spanish: <s>Era un buen estudiante, pero no era un buen estudiante.</s>
+
+English: <s>He was a good student, but he was not a good student.</s>
+Spanish: <s>Era un buen estudiante
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+Spanish: <s>¡No me hagas reír mientras caminamos! Voy a caerme!</s>
+
+English: <s>I'm not going to do it, I'm not going to do it!</s>
+Spanish: <s>No voy a hacerlo, no voy a hacerlo!</s>
+
+English: <s>I'm not going to do it, I'm not going to do it!</s>
+Spanish: <s>No voy a hacerlo, no voy a
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>How many times do I have to tell you to pull your socks up?! Otherwise you'll freeze to death in this cold and windy weather!</s>
+Spanish: <s>¿Cuántas veces tengo que decírtelo para que subas tus calcetines? De lo contrario, te congelarás en este viento frío y viento fuerte.</s>
+
+English: <s>I'm not going to tell you again! You're going to get a spanking if you don't stop crying!</s>
+Spanish: <s>No voy a decírtelo otra vez! Si no te callas, te voy a dar una regañina
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>There is a hole in the water tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-call plumber arrives!</s>
+Spanish: <s>Hay un agujero en la cisterna y todo el agua se está escapando! No sé qué hacer! Pon un calcetín en el agujero y esperamos que se reduzca la pérdida hasta que llegue el plomero de emergencia!</s>
+
+English: <s>I'm not sure if I should go to the doctor or not. I'm not sure if I should go to the doctor or not.</s>
+Spanish: <s>No estoy seguro de
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>During the interview, I realised that I had spilt coffee on my shirt and I put my hand on the spot to cover it up.</s>
+Spanish: <s>Durante la entrevista, me di cuenta que había derramado café sobre mi camisa y puse mi mano sobre la mancha para cubrirla.</s>
+
+English: <s>I have a very good memory.</s>
+Spanish: <s>Tengo una memoria muy buena.</s>
+
+English: <s>I have a very good memory.</s>
+Spanish: <s>Tengo una memoria muy buena.</s>
+
+English: <s>I
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In speed climbing competitions, you have to ring a bell to stop the chrono when you reach the top.</s>
+Spanish: <s>En competiciones de escalada de velocidad, tienes que tocar una campana para parar el cronómetro cuando llegas al topo.</s>
+
+English: <s>The "crony" is a type of bird that lives in the Amazon.</s>
+Spanish: <s>El "crony" es un tipo de ave que vive en el Amazonas.</s>
+
+English: <s>The "crony" is a type of bird that
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Ring the bell when you arrive and I'll open the door for you.</s>
+Spanish: <s>Toca el timbre cuando llegues y te abriré la puerta.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro de si podré ir.</s>
+
+English: <s>I'm not sure if I'll be able to make it.</s>
+Spanish: <s>No estoy seguro de si podré ir.</s>
+
+English: <s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los bizcochos que venden en el café de la esquina son los mejores dulces de la ciudad.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los bizcochos que venden en el café de la esquina son los mejores dulces de la ciudad.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>When we started the climbing course, the first thing I did was to show the ropes and all other equipment to my students.</s>
+Spanish: <s>Cuando empecé el curso de escalada, la primera cosa que hice fue enseñar las cuerdas y todo el equipo a mis estudiantes.</s>
+
+English: <s>I have been teaching for 10 years.</s>
+Spanish: <s>He estado enseñando durante 10 años.</s>
+
+English: <s>I have been teaching for 10 years.</s>
+Spanish: <s>He estado enseñando durante 10 años.</s>
+
+English
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño raro estaba sentado en la valla de la casa de mi vecino y mirando mi ventana.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico, pero soy un médico en la televisión.</s>
+
+English: <s>I'm not a doctor, but I play one on TV.</s>
+Spanish: <s>No soy médico,
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Although I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>Aunque me gusta la forma en que cocinas, tus platos siempre me parecen un poco insípidos, en mi opinión deberías agregarles un poco más de sabor.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the party tonight, I'm feeling a bit under the weather.</s>
+Spanish: <s>No estoy seguro de si voy a poder asistir a la fiesta esta noche, me siento
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+Spanish: <s>Mi hermana derramó las judías en la cocina y nos llevó más de una hora limpiar el desastre.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the party.</s>
+Spanish: <s>No estoy seguro de si voy a poder ir a la fiesta.</s>
+
+English: <s>I'm not sure if I'm going to be able to make it to the party.</
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>What are you doing?! The yoghurt you are eating has been in the fridge for over a year! Spit it out!</s>
+Spanish: <s>¿Qué estás haciendo? El yogur que estás comiendo ha estado en el frigorífico desde hace más de un año! ¡Spit it out! </s>
+
+English: <s>I'm not going to tell you again! You're going to have to go to the doctor and get a prescription for your asthma!</s>
+Spanish: <s>No te voy a decir otra vez! Tienes que ir al médico y pedirle una receta para tu asma.</s
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In the last scene of the film, the old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>En la última escena del film, el viejo arroja a su perro bajo el autobús y se marcha, dejando al conductor sin palabras.</s>
+
+English: <s>The film is a "must see" for anyone interested in the history of the United States.</s>
+Spanish: <s>El film es un "debe ver" para cualquiera interesado en la historia de los Estados Unidos.</s>
+
+English: <s>The film is a 
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish: <s>¿Puede mostrarme cómo se hace el nudo al final de la cuerda?</s>
+
+English: <s>I'm not sure if I can do this.</s>
+Spanish: <s>No estoy seguro de si puedo hacerlo.</s>
+
+English: <s>I'm not sure if I can do this.</s>
+Spanish: <s>No estoy seguro de si puedo hacerlo.</s>
+
+English: <s>I'm
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad del combate me torció el brazo de tal manera que caí al suelo y me rindí.</s>
+
+English: <s>The first time I saw him, I was in love.</s>
+Spanish: <s>La primera vez que lo vi, me enamoré.</s>
+
+English: <s>The first time I saw him, I was in love.</s>
+Spanish: <s>La primera vez que lo vi,
+--------------------
+English: <s>It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".</s>
+Spanish: <s>No se trata de una discapacidad de aprendizaje, sino de un trastorno del mismo; «lo padecen entre el 3 y el 5 por ciento de los niños, posiblemente hasta 2 millones en Estados Unidos».</s>
+
+English: <s>During our trip to Sweden last year, we went hiking in a frozen gulf. Our friend Pär told us we were walking on very thin ice and gave us emergency ice picks in case it broke... It was an exciting and scary experience!</s>
+Spanish: <s>Durante nuestro viaje a Suecia el año pasado, fuimos a caminar en un lago helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio unas picas de emergencia en caso de que se rompiera... Fue una experiencia emocionante y aterradora!</s>
+
+English: <s>The "I" in "I love you" is silent.</s>
+Spanish: <s>El "I
+--------------------

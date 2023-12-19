@@ -1,0 +1,2106 @@
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a squid in the fish kettle as usual.</s>
+Spanish: <s>Mi madre quería hacer algo diferente hoy, pero terminó poniendo un calamar en la sartén como de costumbre.</s>
+
+English: <s>I was looking for something different to eat today, but ended up putting a squid in the fish bowl as usual.</s>
+
+Spanish: <s>Yo estaba buscando algo diferente para comer hoy, pero terminé poniendo un calamar en la sartén como de costumbre.</s>
+
+English: <s>I was looking for something different to e
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Mum wanted to cook something different that day, but ended up putting a salmon in the fish kettle as usual.</s>
+Spanish: <s>Mi madre quería hacer algo diferente hoy, pero terminó poniendo un salmón en la sartén como de costumbre.</s>
+
+English: <s>I was looking for something different to eat today, but ended up putting a salmon in the oven as usual.</s>
+
+Spanish: <s>Yo estaba buscando algo diferente para comer hoy, pero terminé poniendo un salmón en la sartén como de costumbre.</s>
+
+English: <s>I was looking for something different to eat
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>You can throw a stone into the lake and watch the ripples dance on the surface until your melancholy goes away.</s>
+Spanish: <s>Puedes lanzar una piedra al lago y ver las ondas que se forman en la superficie hasta que tu melancolía se vaya.</s>
+
+English: <s>The more you give, the more you get.</s>
+
+Spanish: <s>Cuanto más das, más recibes.</s>
+
+English: <s>The more you give, the more you get.</s>
+
+Spanish: <s>El que da, recibe.</s>
+
+English: <s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+Spanish: <s>Si quieres relajarte y hacer que se vaya tu estrés, arroja una piedra al lago y mira como las ondas se mueven en la superficie.</s>
+
+English: <s>If you want to relax and make your stress go away, throw a stone into the lake and watch the ripples dance on the surface.</s>
+
+Spanish: <s>Si quieres relajarte y hacer que se vaya tu estrés, arroja una piedra al lago y mira como las ondas se mueven en la superficie.
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The meeting involved so many activities that I was exhausted at the end of the day.</s>
+Spanish: <s>La reunión fue tan agotadora que me sentí exhausto al final del día.</s>
+
+English: <s>The meeting was so long that I was exhausted at the end of the day.</s>
+
+Spanish: <s>El encuentro fue tan largo que me sentí exhausto al final del día.</s>
+
+English: <s>The meeting was so long that I was exhausted at the end of the day.</s>
+
+Spanish: <s>El encuentro fue
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In chess, you can move your pieces back one square.</s>
+Spanish: <s>En el ajedrez, se puede mover una pieza a una casilla.</s>
+
+English: <s>In the case of a person who has a heart condition, it is advisable to avoid the following activities:</s>
+
+Spanish: <s>En el caso de una persona que tiene una enfermedad cardíaca, es aconsejable evitar las siguientes actividades:</s>
+
+English: <s>In the case of a person who has a heart condition, it is advisable to avoid the following activities:</
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>What a surprise! I didn't know Bob's your uncle.</s>
+Spanish: <s>¡Qué sorpresa! No sabía que tu tío era tu abuelo.</s>
+
+English: <s>What a surprise! I didn't know your uncle was your uncle.</s>
+
+Spanish: <s>¿Qué sorpresa? No sabía que tu tío era tu abuelo.</s>
+
+English: <s>What a surprise! I didn't know your uncle was your uncle.</s>
+
+Spanish: <s>¿Qué sorpresa? No sabía que tu
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In the laboratory the teacher told me to break a leg off the dead frog and dissect it. That's when I realised I'd never be able to work as a biologist!</s>
+Spanish: <s>En el laboratorio el maestro me dijo que rompiera una pierna del muerto frog y la diseccionara. Eso fue cuando me di cuenta de que nunca podría ser un biólogo!</s>
+
+English: <s>The most important thing is to be able to see the difference between the two situations. The difference is that in the first situation, the teacher is the one who is teaching the student. In the second situation, the teacher is the one who is being taught.</
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Leaving the office building after the biggest job interview of my life, I stumbled down the stairs and broke my leg. So I lost the chance to start my dream job.</s>
+Spanish: <s>Salí de la oficina después de la mayor entrevista de mi vida, y me tropecé con las escaleras, rompiéndome la pierna. Así que perdí la oportunidad de conseguir mi sueño.</s>
+
+English: <s>I was working in a factory and I was making a lot of money. I was making a lot of money. So I was working in a factory and I was making a lot of money. So I was working in a factory and I was making a lot of money. So
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Do you know what gums are? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I should take care of them by not eating too many sweets.</s>
+Spanish: <s>¿Sabes qué son los gomas? Ayer mi dentista me explicó que son como la piel de mis dientes y que debo cuidarlos tomando en cuenta que los dulces son como los dientes y que no debo comer demasiados dulces.</s>
+
+English: <s>I don't know what gum is. Yesterday my dentist explained to me that gum is like the skin of my teeth and that I should take care of it by not eating too many sweets.</s>
+
+Spanish:
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>It's important to take care of your skin and teeth by visiting your dermatologist and dentist regularly.</s>
+Spanish: <s>Es importante cuidar la piel y los dientes visitando a su dermatólogo y dentista regularmente.</s>
+
+English: <s>It's important to keep your skin and teeth clean and visiting your dentist and dermatologist regularly.</s>
+
+Spanish: <s>Es importante mantener limpia la piel y los dientes visitando a su dermatólogo y dentista regularmente.</s>
+
+English: <s>It's important to keep your skin and teeth clean and visiting your dentist and dermatolog
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>We arrived home so hungry that we ate cold turkey straight from the fridge for dinner.</s>
+Spanish: <s>Llegamos a casa tan hambrientos que comimos pollo frío del frigorífico para cenar.</s>
+
+English: <s>We're not going to be able to afford to buy a new car.</s>
+
+Spanish: <s>No vamos a poder comprar un nuevo coche.</s>
+
+English: <s>We're not going to be able to afford to buy a new car.</s>
+
+Spanish: <s>No vamos a poder comprar un nuevo coche
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Do you think that in a situation of extreme starvation a dog would eat another dog to survive?</s>
+Spanish: <s>¿Crees que en una situación de extrema hambruna un perro se comería a otro perro para sobrevivir?</s>
+
+English: <s>I don't think so.</s>
+
+Spanish: <s>No creo que sea así.</s>
+
+English: <s>I don't think so.</s>
+
+Spanish: <s>No creo que sea así.</s>
+
+English: <s>I don't think so.</s>
+
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>What do you think? They don't quote me much in literature classes these days. I may not be that famous anymore.</s>
+Spanish: <s>¿Qué piensas? No me citan mucho en las clases de literatura. Quizá ya no sea tan famoso como antes.</s>
+
+English: <s>What do you think? They don't quote me much in literature classes these days. I may not be that famous anymore.</s>
+
+Spanish: <s>¿Qué piensas? No me citan mucho en las clases de literatura. Quizá ya no sea tan famoso como antes.</s>
+
+English: <s>
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>My boss said it would be easier to get this task done internally than to ask for outside help.</s>
+Spanish: <s>Mi jefe dijo que sería más fácil hacer este trabajo internamente que pedir ayuda externa.</s>
+
+English: <s>I'm not sure if I can do it myself.</s>
+
+Spanish: <s>No estoy seguro de poder hacerlo yo mismo.</s>
+
+English: <s>I'm not sure if I can do it myself.</s>
+
+Spanish: <s>No estoy seguro de poder hacerlo yo mismo.</s>
+
+English: <s>I
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Hold your horses and keep them from stepping on my grass and ruining my garden!</s>
+Spanish: <s>¡Cuidado con los caballos! ¡No pisen mi césped!</s>
+
+English: <s>Don't step on my grass!</s>
+
+Spanish: <s>¡No pisen mi césped!</s>
+
+English: <s>Don't step on my grass!</s>
+
+Spanish: <s>¡No pisen mi césped!</s>
+
+English: <s>Don't step on my grass!</s>
+
+S
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Please give me a magnifying glass to watch how the spider creeps on the leaf.</s>
+Spanish: <s>Por favor, dame un vidrio para ver cómo la araña se arrastra por la hoja.</s>
+
+English: <s>I'm not sure if I can trust the person who wrote this.</s>
+
+Spanish: <s>No estoy seguro de si puedo confiar en la persona que escribió esto.</s>
+
+English: <s>I'm not sure if I can trust the person who wrote this.</s>
+
+Spanish: <s>No estoy seguro de si puedo confiar en
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>This restaurant serves you the dishes with the right amount of seasoning to make them truly memorable.</s>
+Spanish: <s>Este restaurante sirve los platos con la cantidad adecuada de sazón para hacerlos memorables.</s>
+
+English: <s>The airline is a member of the International Air Transport Association (IATA).</s>
+
+Spanish: <s>La aerolínea es miembro de la Asociación Internacional de Transporte Aéreo (IATA).</s>
+
+English: <s>The airline is a member of the International Air Transport Association (IATA).</s>
+
+Spanish: <s>La aerolínea
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+Spanish: <s>Hablemos de cómo una pared de ladrillo puede añadir encanto y carácter a cualquier espacio.</s>
+
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+
+Spanish: <s>Hablemos de cómo una pared de ladrillo puede añadir encanto y carácter a cualquier espacio.</s>
+
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+
+Spanish
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>This is not my cup of tea! She switched the cups and gave me the empty one! So shameless!</s>
+Spanish: <s>No es mi taza de té! Ella cambió los vasos y me dio el vaso vacío. Así de shameless!
+
+English: <s>I'm not a fan of the new version of the song, but I'm not going to be offended by it.</s>
+
+Spanish: <s>No me gusta la nueva versión de la canción, pero no me voy a ofender por ella.</s>
+
+English: <s>I'm not a fan of the new version of the song
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>You misunderstood the information on the flyer, the subject of the course offered by Maryland University is not rocket science, but aircraft design.</s>
+Spanish: <s>No, no es que yo haya entendido mal la información del folleto, sino que tú no has entendido bien la mía.</s>
+
+English: <s>I don't think you understood the information on the flyer, but I think you understood the information on the course offered by Maryland University.</s>
+
+Spanish: <s>No, no es que yo haya entendido mal la información del folleto, sino que tú no has entendido bien la mía.</s>
+
+English: <s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>After a month of swimming lessons, the children were confident enough to jump into the deep end of the pool.</s>
+Spanish: <s>Después de un mes de clases de natación, los niños estaban tan confiados que se lanzaron a la piscina.</s>
+
+English: <s>The children were confident enough to jump into the deep end of the pool.</s>
+
+Spanish: <s>Los niños estaban tan confiados que se lanzaron a la piscina.</s>
+
+English: <s>The children were confident enough to jump into the deep end of the pool.</s>
+
+Spanish:
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+Spanish: <s>He estado viajando en el extranjero por los últimos tres meses y ahora estoy intentando enviarle una carta a mi mamá para decirle cómo está yendo, pero me siento como si no tuviera nada que escribirle a casa.</s>
+
+English: <s>I have been traveling abroad for the last three months and now I'm trying to send a letter to my mom to tell her how it is going, but I feel like I have nothing to write home about.</s>
+
+Spanish: <s>He estado
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+Spanish: <s>Seguimos el rastro del GPS hasta que nos hizo dar un rodeo por una carretera llena de barro y llena de baches.</s>
+
+English: <s>We followed the GPS track until it put us off the beaten track on a dirt road full of mud and virtually undrivable.</s>
+
+Spanish: <s>En el caso de que el GPS no funcione, siempre se puede seguir el camino más corto.</s>
+
+English: <s>In the case of a
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Ew, get this bug off the top of my head, how disgusting!</s>
+Spanish: <s>¡Eh, qué asco! ¡Qué asco! ¡Qué asco!</s>
+
+English: <s>I'm not going to eat that!</s>
+
+Spanish: <s>No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>As the highest mountain on earth, Mount Everest is considered the top of the world.</s>
+Spanish: <s>Como la montaña más alta del mundo, el Everest es considerado el punto más alto de la Tierra.</s>
+
+English: <s>The most common way to get to the top of the world's tallest mountain is by helicopter.</s>
+
+Spanish: <s>La forma más común de llegar a la cima de la montaña más alta del mundo es por helicóptero.</s>
+
+English: <s>The most common way to get to the top of the world's tal
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+Spanish: <s>¿Te gustaría ver mi nuevo vestido? Tómalo de la caja en el armario y ponlo en el estante para mostrarte.</s>
+
+English: <s>I'd like to see your new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+
+Spanish: <s>¿Te gustaría ver mi nuevo vestido? Tómalo de la caja en el armario y ponlo en el estante para mostrarte.</s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>It is difficult to measure the speed and span of the dissemination of the virus</s>
+Spanish: <s>Es difícil medir la velocidad y la extensión de la diseminación del virus.</s>
+
+English: <s>The virus is not spread by direct contact with the infected person.</s>
+
+Spanish: <s>El virus no se transmite por contacto directo con la persona infectada.</s>
+
+English: <s>The virus is not spread by direct contact with the infected person.</s>
+
+Spanish: <s>El virus no se transmite por contacto directo con la
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In the past, more people used to get married than today.</s>
+Spanish: <s>En el pasado, más personas se casaban que hoy.</s>
+
+English: <s>In the past, people were more likely to marry than today.</s>
+
+Spanish: <s>En el pasado, la gente se casaba más que hoy.</s>
+
+English: <s>In the past, people were more likely to marry than today.</s>
+
+Spanish: <s>En el pasado, la gente se casaba más que hoy.</s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>As she rushed out of the room, she hit the fan and knocked it to the floor.</s>
+Spanish: <s>Como se apresuró a salir de la habitación, golpeó el ventilador y lo tiró al suelo.</s>
+
+English: <s>The airline's name is a reference to the airline's name, which is a reference to the airline's name, which is a reference to the airline's name, which is a reference to the airline's name, which is a reference to the airline's name, which is a reference to the airline's name, which is a reference to the airline's
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>When the building was already burning, the hooligans added fuel to the fire causing it to become an unstoppable and devastating event.</s>
+Spanish: <s>Cuando el edificio ya estaba ardiendo, los hooligans añadieron combustible al fuego, causando que el incendio se volviera más devastador y destructivo.</s>
+
+English: <s>The most common way to get a grip on a foreign language is to learn the language first.</s>
+
+Spanish: <s>La manera más común de aprender un idioma es aprender el idioma primero.</s>
+
+English: <s>The most common way to learn a foreign language is to learn the
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>My dog is supposed to be a good hunter, but look at him, he's barking up the wrong tree: the squirrel is on the pine across the street!</s>
+Spanish: <s>Mi perro es un buen cazador, pero mira, él está atado a un árbol equivocado: el alce está en el otro lado de la calle!</s>
+
+English: <s>I'm a good hunter, but look at him, he's barking up the wrong tree: the squirrel is on the pine across the street!</s>
+
+Spanish: <s>I'm a buen cazador, pero mira, él está atado a un árbol equivocado: el alce está
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+Spanish: <s>El búho es un animal nocturno y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The owl is a night creature and a symbol of wisdom in many cultures.</s>
+
+Spanish: <s>El pájaro es un animal nocturno y un símbolo de sabiduría en muchas culturas.</s>
+
+English: <s>The bird is a night creature and a symbol of wisdom in many cultures.</s>
+
+Spanish:
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she's already starred in more than five films!</s>
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera actoral hace dos años, ya ha aparecido en cinco películas!</s>
+
+English: <s>I'm a big fan of your show! Since you started your acting career two years ago, you've already appeared in five films!</s>
+
+Spanish: <s>Yo soy un gran fan de tu show! Desde que empezó su carrera actoral hace dos años, ya ha aparecido en cinco películas!</s>
+
+English: <s>
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The wine was served in clear crystal glasses.</s>
+Spanish: <s>El vino se sirvió en copas de cristal.</s>
+
+English: <s>The wine was served in clear glass glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal.</s>
+
+English: <s>The wine was served in clear glass glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal.</s>
+
+English: <s>The wine was served in clear glass gl
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>All those cans in your kitchen pantry are full of beans? Don't you eat anything else in winter?</s>
+Spanish: <s>Todos esos frascos de conservas en tu despensa están llenos de judías? No comas nada más en invierno?</s>
+
+English: <s>All the things in your kitchen pantry are full of beans? Don't you eat anything else in winter?</s>
+
+Spanish: <s>Todos los frascos de conservas en tu despensa están llenos de judías? No comas nada más en invierno?</s>
+
+English: <s>All the things
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Bud is in the doghouse my dad built for him in our backyard, but he seemed happier when he was allowed to sleep on the sofa.</s>
+Spanish: <s>Bud está en la jaula de mi papá construida para él en nuestro patio trasero, pero se veía más feliz cuando se le permitía dormir en el sofá.</s>
+
+English: <s>The doghouse is a place where a person is confined to a small space, usually with a window, and is used as a punishment.</s>
+
+Spanish: <s>La jaula es un lugar donde una persona es confinada a un pequeño espacio, generalmente con una ventana, y es utilizada
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Put your foot on the ball and stretch your leg.</s>
+Spanish: <s>Poner el pie en el acelerador y estirar las piernas.</s>
+
+English: <s>Put your foot on the gas and stretch your leg.</s>
+
+Spanish: <s>Poner el pie en el acelerador y estirar las piernas.</s>
+
+English: <s>Put your foot on the gas and stretch your leg.</s>
+
+Spanish: <s>Poner el pie en el acelerador y estirar las piernas.</
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>You are building your solar system model incorrectly: look, Mars cannot be over the Moon, you must move it further to the side in order to reproduce the real positions of the planets.</s>
+Spanish: <s>Usted está construyendo su sistema solar incorrectamente: mire, Marte no puede estar sobre la Luna, debe moverlo más hacia el lado para reproducir las posiciones reales de los planetas.</s>
+
+English: <s>The Earth is a planet, not a moon.</s>
+
+Spanish: <s>La Tierra no es un satélite, sino un planeta.</s>
+
+English: <s>The Earth is a planet, not a moon.</s>
+
+Spanish: <s>La
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>It snowed a lot last night and my car disappeared under a white mountain.</s>
+Spanish: <s>Ha nevado mucho esta noche y mi coche ha desaparecido bajo una montaña de nieve.</s>
+
+English: <s>I'm not sure if I can make it to the airport in time.</s>
+
+Spanish: <s>No estoy seguro de si podré llegar al aeropuerto a tiempo.</s>
+
+English: <s>I'm not sure if I can make it to the airport in time.</s>
+
+Spanish: <s>No estoy seguro de si podré llegar al aeropuerto
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>I have served that cocktail with the last straw we had and I don't have any left for the mojitos... Can you call the provider and order a box?</s>
+Spanish: <s>He servido ese cóctel con la última gota que quedaba y no tengo ninguna más para los mojitos... ¿Puedes llamar al proveedor y pedir una caja?</s>
+
+English: <s>I have served that cocktail with the last drop that was left and I don't have any more for the mojitos... Can you call the supplier and order a box?</s>
+
+Spanish: <s>He servido ese cóctel con la última gota que quedaba y no tengo ninguna más para los mojitos
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>There is a good Indian restaurant just up your street on the left.</s>
+Spanish: <s>Hay un buen restaurante indio justo en la esquina de tu casa.</s>
+
+English: <s>I'm not a fan of the food.</s>
+
+Spanish: <s>No soy un fan de la comida.</s>
+
+English: <s>I'm not a fan of the food.</s>
+
+Spanish: <s>No soy un fan de la comida.</s>
+
+English: <s>I'm not a fan of the food.</s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+Spanish: <s>¡No muerdas más que lo que puedas masticar! ¡No comas más de lo que puedas tragar! Ver comida derramándose de tu boca es repugnante!</s>
+
+English: <s>Stop biting off more than you can chew when you eat a hamburger! Seeing food leaking out of your mouth is disgusting!</s>
+
+Spanish: <s>¡No muerdas más que lo que puedas masticar! ¡No comas más de lo
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>It is said that in ancient times, soldiers would bite a bullet to withstand the pain when undergoing emergency surgery on the battlefield.</s>
+Spanish: <s>En la antigüedad se decía que los soldados se comían un pedazo de la bala para aliviar el dolor cuando se sometían a una operación de emergencia en el campo de batalla.</s>
+
+English: <s>The word "snack" is derived from the Dutch word "snap", which means "snapping" or "snapping up".</s>
+
+Spanish: <s>La palabra "snack" proviene del holandés "snap", que significa "ap
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>To start playing the trumpet, you have to blow into it until a sound comes out... it's not easy!</s>
+Spanish: <s>Para empezar a tocar el trompeta, tienes que soplar hasta que suene bien.</s>
+
+English: <s>The most important thing is to keep the airways open.</s>
+
+Spanish: <s>La cosa más importante es mantener las vías respiratorias abiertas.</s>
+
+English: <s>The most important thing is to keep the airways open.</s>
+
+Spanish: <s>La cosa más importante es mantener las vías respiratorias abiertas.</s>
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Can you bring home the bacon we bought yesterday and left in the fridge of the camper van?</s>
+Spanish: <s>¿Puedes llevarte a casa el jamón que compramos ayer y que dejamos en la nevera del camper van?</s>
+
+English: <s>Can you bring home the ham that we bought yesterday and left in the refrigerator of the camper van?</s>
+
+Spanish: <s>¿Puedes llevarte a casa el jamón que compramos ayer y que dejamos en la nevera del camper van?</s>
+
+English: <s>Can you bring home the ham that we bought yesterday
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+Spanish: <s>La guerra le costó al soldado una pierna y un brazo. Se quedó parapléjico.</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was disabled for the rest of his life.</s>
+
+Spanish: <s>La guerra le costó al soldado una pierna y un brazo. Se quedó parapléjico.</s>
+
+English: <s>The war cost the soldier an arm and a leg. He was dis
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>We need to cut and tighten this rope: it is too slack!</s>
+Spanish: <s>Necesitamos cortar y apretar este lazo: está demasiado flojo!</s>
+
+English: <s>I'm not a fan of the word "stupid" but I'm not afraid to say it.</s>
+
+Spanish: <s>No me asusta decir la palabra "idiota".</s>
+
+English: <s>I'm not afraid to say the word "idiot".</s>
+
+Spanish: <s>No me asusta decir la
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Can you please cut the cheese and put it on the table?</s>
+Spanish: <s>Por favor, corten el queso y pónganlo en la mesa.</s>
+
+English: <s>I'm sorry, but I can't do that.</s>
+
+Spanish: <s>Lo siento, pero no puedo hacer eso.</s>
+
+English: <s>I'm sorry, but I can't do that.</s>
+
+Spanish: <s>No, no, no, no, no, no, no, no, no, no
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+Spanish: <s>El zumo de limón cortó el jengibre y la ensalada se puso amarga.</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to throw it away.</s>
+
+Spanish: <s>El zumo de limón cortó el jengibre y la ensalada se puso amarga.</s>
+
+English: <s>The lemon juice cut the mustard and the salad went sour. We had to
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Please drive me to the corner shop, I want to buy some nuts.</s>
+Spanish: <s>Por favor, llévame a la tienda de frutos secos, quiero comprar algunas nueces.</s>
+
+English: <s>I'm sorry, I can't do that.</s>
+
+Spanish: <s>Lo siento, no puedo hacer eso.</s>
+
+English: <s>I'm sorry, I can't do that.</s>
+
+Spanish: <s>Lo siento, no puedo hacer eso.</s>
+
+English: <s>I
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>I got cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+Spanish: <s>Me dan escalofríos al ver que la gente se amontona en la fila para comprar boletos. Me dan escalofríos al ver que la gente se amontona en la fila para comprar boletos.</s>
+
+English: <s>I get cold feet from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+
+Spanish: <s>Me dan escalofríos al ver que la gente se amontona en la fila para
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Grips get tighter when you have to hold on to an object with a slippery surface.</s>
+Spanish: <s>Las gripes se hacen más fuertes cuando tienes que agarrar un objeto con una superficie resbaladiza.</s>
+
+English: <s>The more you hold on to something, the more you get gripped by it.</s>
+
+Spanish: <s>Las gripes se agarran más a las cosas cuando más las agarras.</s>
+
+English: <s>The more you hold on to something, the more you get gripped by it.</s>
+
+Spanish
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The main character takes a long time to decide to go out again after having her limbs amputated.</s>
+Spanish: <s>El personaje principal tarda un tiempo en decidirse a salir de nuevo a la calle después de haber perdido una de sus extremidades.</s>
+
+English: <s>The main character is a man who has lost a leg.</s>
+
+Spanish: <s>El personaje principal es un hombre que ha perdido una de sus extremidades.</s>
+
+English: <s>The main character is a man who has lost a leg.</s>
+
+Spanish: <s>El personaje principal es un
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The internet is full of sophisticated suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+Spanish: <s>La Internet está llena de sugerencias sofisticadas sobre qué vestir si tienes un cuerpo en forma de pera, pero creo que me pondré un simple atuendo.</s>
+
+English: <s>The Internet is full of suggestions on what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+
+Spanish: <s>El Internet está lleno de sugerencias sofisticadas sobre qué vestir si tienes un cuerpo en forma de pera, pero creo
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The leaves go down the river with the flow until they reach the calm lake.</s>
+Spanish: <s>Las hojas van cayendo al río hasta que llegan al lago tranquilo.</s>
+
+English: <s>The leaves fall down the river until they reach the calm lake.</s>
+
+Spanish: <s>El agua de la piscina se calienta con energía solar.</s>
+
+English: <s>The water in the pool is heated by solar energy.</s>
+
+Spanish: <s>El agua de la piscina se calienta con energía solar.</s>
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+
+English: <s>The elephant is a large, long-lived, and docile animal.</s>
+
+Spanish: <s>El elefante es un animal grande, largo, y dócil.</s>
+
+English: <s>The elephant is a large, long-lived, and docile animal.</s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>These fish are bigger than the ones we usually fry, I'm not sure they'll fit in the deep fryer.</s>
+Spanish: <s>Estos peces son más grandes que los que solemos freír, no sé si cabrán en la freidora.</s>
+
+English: <s>The fish are bigger than the ones we usually fry, I don't know if they'll fit in the deep fryer.</s>
+
+Spanish: <s>Los peces son más grandes que los que solemos freír, no sé si cabrán en la freidora.</s>
+
+English: <s>The fish are bigger than
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+Spanish: <s>Tienes que dar el golpe en la cabeza para clavar el clavo en el tronco.</s>
+
+English: <s>You have to hit the nail on the head to hammer it deep into the wood.</s>
+
+Spanish: <s>El que no se consuela es porque no quiere.</s>
+
+English: <s>The one who doesn't console himself is because he doesn't want to.</s>
+
+English: <s>El que no se
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>To win the game, we had to hit the sack hanging from the tree until it ripped and the flour fell down on the opposing players.</s>
+Spanish: <s>Para ganar el juego, teníamos que golpear la pelota con la mano hasta que el rival la cogiera y la tirara al suelo.</s>
+
+English: <s>The game is over when the ball is dead.</s>
+
+Spanish: <s>El juego termina cuando la pelota está muerta.</s>
+
+English: <s>The game is over when the ball is dead.</s>
+
+Spanish: <s>El juego termina cuando la pelota está muerta.</s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In the library, I tend to judge a book by its cover: if I don't like the design I won't borrow it, even if someone recommended it to me!</s>
+Spanish: <s>En la biblioteca, juzgo un libro por su portada: si no me gusta el diseño, no lo tomo prestado, incluso si alguien me lo recomendó.</s>
+
+English: <s>In the movie theater, I tend to judge a movie by its poster: if I don't like the poster I won't go to see it, even if someone recommended it to me!</s>
+
+Spanish: <s>En el cine, juzgo un filme por su poster: si no me
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The horse got nervous, kicked the bucket and dumped all the water we had left for the rest of the day.</s>
+Spanish: <s>El caballo se asustó, pateó la canasta y echó todo el agua que quedaba.</s>
+
+English: <s>The airline is aware of the fact that some passengers may be allergic to certain foods and may react to them.</s>
+
+Spanish: <s>La aerolínea es consciente de que algunos pasajeros pueden ser alérgicos a ciertos alimentos y reaccionar a ellos.</s>
+
+English: <s>The airline is aware that some
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+Spanish: <s>La otra noche, mi amigo estaba viendo a su hija jugar en el jardín cuando se dio cuenta de que la niña había matado dos pájaros con una piedra. Se horrorizó!</s>
+
+English: <s>The other day, my friend was watching her daughter play in the backyard when she suddenly realised that the child had killed two birds with a stone. She was horrified!</s>
+
+Spanish: <s>La otra noche, mi amigo estaba viendo a su hija jugar
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+Spanish: <s>Por qué siempre llevas una cola de caballo? No deberías dejar que tu cabello se te escape de vez en cuando. Te quedaría mejor.</s>
+
+English: <s>Why do you always wear a ponytail? You should let your hair down sometimes. It would look good on you.</s>
+
+Spanish: <s>Por qué siempre llevas una cola de caballo? No deberías dejar que tu cabello se te escape de vez en cuando. Te quedaría mejor.</s>
+
+English: <
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Our house is bright because it faces the south side.</s>
+Spanish: <s>Nuestra casa es luminosa porque da al sur.</s>
+
+English: <s>The house is very bright because it faces the south side.</s>
+
+Spanish: <s>The house is very luminosa porque da al sur.</s>
+
+English: <s>The house is very bright because it faces the south side.</s>
+
+Spanish: <s>The house is luminosa porque da al sur.</s>
+
+English: <s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room warmer and more cozy.</s>
+Spanish: <s>Compré una nueva lámpara y muchos arbustos para hacer nuestra sala más acogedora y más cálida.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room cooler and more comfortable.</s>
+
+Spanish: <s>Compré una nueva lámpara y muchos arbustos para hacer nuestra sala más acogedora y más cálida.</s>
+
+English: <s>I bought a new lamp and lots of plants to make our living room cooler and
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Will we meet to make dinner at the end?</s>
+Spanish: <s>¿Nos reuniremos para cenar al final?</s>
+
+English: <s>I'm sorry, but I can't do it.</s>
+
+Spanish: <s>Lo siento, pero no puedo hacerlo.</s>
+
+English: <s>I'm sorry, but I can't do it.</s>
+
+Spanish: <s>I'm sorry, but I can't do it.</s>
+
+English: <s>I'm sorry,
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>That day started all wrong and even though I rushed to the dock, I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+Spanish: <s>Ese día empezó todo mal y aunque corrí a la hora, me perdí el bote que cruzaba el lago y tuve que correr los kilómetros que quedaban alrededor del lago para llegar a tiempo a la línea de salida.</s>
+
+English: <s>That day, I was late and I missed the boat across the lake and had to run for thee kilometers around the lake to arrive to the starting point of the race on time.</s>
+
+Spanish: <s>Ese
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The sharpest tool I have in the shed is this Swiss knife.</s>
+Spanish: <s>La navaja suiza es la herramienta más útil que he tenido en el taller.</s>
+
+English: <s>The most important thing is to keep the tool sharp.</s>
+
+Spanish: <s>La herramienta más importante es mantener la hoja afilada.</s>
+
+English: <s>The most important thing is to keep the tool sharp.</s>
+
+Spanish: <s>La herramienta más importante es mantener la hoja afilada.
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>She didn't know the chords of that song, she was playing it by ear.</s>
+Spanish: <s>No sabía los acordes de esa canción, la estaba tocando por oído.</s>
+
+English: <s>I don't know the chords of that song, I was playing it by ear.</s>
+
+Spanish: <s>No sé los acordes de esa canción, la estaba tocando por oído.</s>
+
+English: <s>I don't know the chords of that song, I was playing it by ear.</s>
+
+Spanish: <s>No sé los acordes
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+Spanish: <s>¡No me jodas, que me voy a caer! ¡No me jodas, que me voy a caer!</s>
+
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+
+Spanish: <s>No me jodas, que me voy a caer! No me jodas, que me voy a caer!</s>
+
+English: <s>Stop pulling my leg while we walk! I will fall over!</s>
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>How many times do I have to tell you to pull your socks up?! Otherwise you'll freeze to death in this cold and windy weather!</s>
+Spanish: <s>Cuántas veces tengo que decirte que te quites los calcetines?! De lo contrario, te congelas en este frío y ventoso clima!</s>
+
+English: <s>I'm not going to tell you to pull your socks up! Otherwise you'll freeze to death in this cold and windy weather!</s>
+
+Spanish: <s>No me digas que no te lo he advertido! No me digas que no te lo he advertido! No me digas que no te lo
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>There is a hole in the water tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spillage until the on-call plumber arrives!</s>
+Spanish: <s>Hay un agujero en el tanque de agua y todo el agua está saliendo! No sé qué hacer! Póngase un calcetín en el agujero y espere a que el agua se detenga hasta que el plomero llegue a atender la emergencia!</s>
+
+English: <s>I'm not sure what to do! There's a hole in the tank and all the water is running out! I don't know what to do! Put a sock in it and let's hope it slows down the spilla
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>During the interview, I realised that I had spilt coffee on my shirt and I put my hand on the spot to cover it up.</s>
+Spanish: <s>Durante la entrevista, me di cuenta de que había derramado café sobre mi camisa y puse mi mano sobre la mancha para cubrirla.</s>
+
+English: <s>I was a bit shocked to see that the coffee had spilled on my shirt and I put my hand on the spot to cover it up.</s>
+
+Spanish: <s>Me sorprendió ver que el café había caído sobre mi camisa y puse mi mano sobre la mancha para cubrirla.</s>
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In speed climbing competitions, you have to ring a bell to stop the chrono when you reach the top.</s>
+Spanish: <s>En las carreras de velocidad, cuando llegas a la cima, tienes que hacer sonar una campana para detener el cronómetro.</s>
+
+English: <s>In the case of a person who has a heart condition, it is important to consult a doctor before embarking on a long-distance run.</s>
+
+Spanish: <s>En el caso de una persona que tenga una enfermedad cardíaca, es importante consultar a un médico antes de embarcarse en un largo viaje.</s>
+
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Ring the bell when you arrive and I'll open the door for you.</s>
+Spanish: <s>Ring la campana cuando llegues y abriré la puerta para ti.</s>
+
+English: <s>The airline is not responsible for any damage or injury to the passenger caused by the airline's owner or its employees.</s>
+
+Spanish: <s>La aerolínea no es responsable de ningún daño o lesión causada por el operador o sus empleados.</s>
+
+English: <s>The airline is not responsible for any damage or injury caused by the air
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+Spanish: <s>Los churros que venden en la esquina son los mejores de la ciudad.</s>
+
+English: <s>The hotcakes they sell at the coffee shop on the corner are the best sweets in town.</s>
+
+Spanish: <s>El pan de muerto es el pan de los muertos.</s>
+
+English: <s>The bread of the dead is the bread of the dead.</s>
+
+Spanish: <s>El pan de muerto es
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>When we started the climbing course, the first thing I did was to show the ropes and all other equipment to my students.</s>
+Spanish: <s>Cuando empezamos el curso de escalada, lo primero que hice fue mostrarles los arneses y el resto del equipo.</s>
+
+English: <s>I was a teacher of English and I was very proud of it.</s>
+
+Spanish: <s>Yo era profesora de inglés y me sentía muy orgullosa de ello.</s>
+
+English: <s>I was a teacher of English and I was very proud of it.</s>
+
+Spanish: <s
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>That creepy kid was sitting on the fence of my neighbor's house and staring at my window.</s>
+Spanish: <s>El niño de la casa de al lado estaba sentado en la cerca de mi vecino y estaba mirando por la ventana.</s>
+
+English: <s>The man who was sitting on the fence of my neighbor's house and staring at my window.</s>
+
+Spanish: <s>El hombre que estaba sentado en la cerca de mi vecino y estaba mirando por la ventana.</s>
+
+English: <s>The man who was sitting on the fence of my neighbor's house
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Although I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco sosos, en mi opinión deberías añadirles un poco más de sal.</s>
+
+English: <s>I like the way you cook, your dishes always seem a bit bland to me, in my opinion you should spice them up a bit more.</s>
+
+Spanish: <s>Me gusta como cocinas, tus platos siempre me parecen un poco sosos, en mi opinión deberías añadirles un poco más de sal
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+Spanish: <s>Mi hermana me dijo que había visto a su hermana en el suelo y que había sido ella quien había hecho el desastre.</s>
+
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean up the mess.</s>
+
+Spanish: <s>Mi hermana me dijo que había visto a su hermana en el suelo y que había sido ella quien había hecho el desastre.</s>
+
+English: <s>My
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>What are you doing?! The yoghurt you are eating has been in the fridge for over a year! Spit it out!</s>
+Spanish: <s>¿Qué estás haciendo?! El yogur que estás comiendo ha estado en el refrigerador durante más de un año! Es hora de que lo escupas!</s>
+
+English: <s>What are you doing?! The yoghurt you are eating has been in the refrigerator for over a year! Spit it out!</s>
+
+Spanish: <s>¿Qué estás haciendo?! El yogur que estás comiendo ha estado en el refrigerador durante más de un año!
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In the last scene of the film, the old man throws his dog under the bus and walks away, leaving the driver speechless.</s>
+Spanish: <s>En el último momento de la película, el hombre viejo tira a su perro debajo del autobús y se va, dejando al conductor sin palabras.</s>
+
+English: <s>The film ends with the old man walking away, leaving the driver speechless.</s>
+
+Spanish: <s>El final de la película termina con el hombre viejo caminando hacia el autobús y dejándolo sin palabras.</s>
+
+English: <s>The film ends with the old man walking away, leaving the
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>Can you show me how you tie the knot at the end of the rope?</s>
+Spanish: <s>¿Me puede mostrar cómo se ata el nudo al final de la cuerda?</s>
+
+English: <s>I don't know how to tie a knot.</s>
+
+Spanish: <s>No sé cómo atar un nudo.</s>
+
+English: <s>I don't know how to tie a knot.</s>
+
+Spanish: <s>No sé cómo atar un nudo.</s>
+
+English: <s>
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>In the second half of the fight she twisted my arm so hard that I fell to the ground and gave up.</s>
+Spanish: <s>En la segunda mitad de la pelea, me retorcí tanto que me caí al suelo y di por perdido el combate.</s>
+
+English: <s>I was a bit of a mess, but I wasn't out of the fight.</s>
+
+Spanish: <s>Me fui un poco torcido, pero no me rendí.</s>
+
+English: <s>I was a bit of a mess, but I wasn't out of the fight.</s>
+
+--------------------
+English: <s>Humans can be affected by breathing affected water taken into the air by wind and waves.</s>
+Spanish: <s>El agua afectada que llega al aire por el viento y las olas puede perjudicar a quienes la respiran.</s>
+
+English: <s>Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.</s>
+Spanish: <s>El impuesto sobre la renta está organizado de forma diferente en los distintos estados y las tasas impositivas y las categorías difieren mucho entre países.</s>
+
+English: <s>As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed.</s>
+Spanish: <s>A medida que la capacidad de adquirir conocimientos y de aprender variaba del modo ya referido, la tasa base de obtención de conocimientos también se modificaba.</s>
+
+English: <s>Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.</s>
+Spanish: <s>A veces, un mismo vuelo puede costar precios muy diferentes en varios recopiladores de contenidos, por lo que vale la pena comparar los resultados de búsqueda y navegar en el sitio web de la empresa antes de realizar la reserva.</s>
+
+English: <s>At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.</s>
+Spanish: <s>En su país de origen, producto de esta permanente exposición a los gérmenes locales, es casi seguro que ya sea inmune a ellos.</s>
+
+English: <s>During our trip to Sweden last year, we went hiking in a frozen gulf. Our friend Pär told us we were walking on very thin ice and gave us emergency ice picks in case it broke... It was an exciting and scary experience!</s>
+Spanish: <s>Durante nuestro viaje a Suecia el año pasado, fuimos a caminar en un fiordo helado. Nuestro amigo Pär nos dijo que camináramos sobre hielo muy delgado y nos dio unos picks de emergencia en caso de que se rompiera... Fue una experiencia emocionante y aterradora!</s>
+
+English: <s>The most common way to get a cold is to get caught in the wind.</s>
+
+Spanish: <s>La manera más común de coger un resfriado es a través del
+--------------------

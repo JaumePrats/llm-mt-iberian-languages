@@ -1,0 +1,107 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 22:13:55
+execution time: 0:55:07.650789
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "PD-QLORA_Aguila_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.spa.txt",
+    "timestamp": "20231217-22.13.52"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 250,
+    "model_id": "/fs/surtr0/jprats/models/merged/aguila/qlora/aguila_qlora_en-es10k_ebs256-4x1x64_linear_lr2e-4_ep2",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.7011
+{
+    "en": {
+        "abs_count": 1983,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.2989
+    },
+    "es": {
+        "abs_count": 11,
+        "lines": [
+            95,
+            123,
+            898,
+            920,
+            922,
+            941,
+            1266,
+            1423,
+            1690,
+            1716,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.5508
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            170
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "mt": {
+        "abs_count": 1,
+        "lines": [
+            1717
+        ],
+        "name": "Maltese",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1260
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 9.41 30.2/10.9/6.3/4.0 (BP = 0.987 ratio = 0.987 hyp_len = 47071 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 60.89
+COMET20 = -57.37
+
+copy results (blue comet22 comet20 off-tgt) ----------
+9.41 60.89 -57.37 0.7011

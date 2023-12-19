@@ -1,0 +1,81 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 19:14:42
+execution time: 0:12:39.574042
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-all",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.eng",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.all.spa",
+    "timestamp": "20231217-19.14.41"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 0,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 3.5156
+{
+    "en": {
+        "abs_count": 247,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 96.4844
+    },
+    "es": {
+        "abs_count": 9,
+        "lines": [
+            24,
+            33,
+            38,
+            41,
+            70,
+            94,
+            114,
+            138,
+            245
+        ],
+        "name": "Spanish",
+        "percentage(%)": 3.5156
+    }
+}
+
+BLEU: ----------
+BLEU = 4.48 20.0/5.6/3.3/2.1 (BP = 0.851 ratio = 0.861 hyp_len = 4382 ref_len = 5088)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 45.4
+COMET20 = -117.19
+
+copy results (blue comet22 comet20 off-tgt) ----------
+4.48 45.4 -117.19 3.5156

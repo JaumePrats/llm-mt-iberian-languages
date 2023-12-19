@@ -1,0 +1,1000 @@
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un calamar en la olla como de costumbre.</s>
+English: <s>Mom wanted to cook something different that day, but ended up putting a squid in the pot like usual.</s>
+
+Spanish: <s>El profesor nos dijo que no podíamos usar el ordenador en clase.</s>
+English: <s>The teacher told us we couldn't use the computer in class.</s>
+
+Spanish: <s>El profesor nos dijo que no podíamos usar el ordenador en clase.</s>
+English: <s>The teacher told us we couldn'
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Mamá quería cocinar algo distinto ese día, pero acabó metiendo un salmón en la olla como de costumbre.</s>
+English: <s>Mom wanted to cook something different that day, but ended up putting a salmon in the pot as usual.</s>
+
+Spanish: <s>El salmón estaba delicioso, pero no me gustó la salsa de tomate que mamá le puso.</s>
+English: <s>The salmon was delicious, but I didn't like the tomato sauce mom put on it.</s>
+
+Spanish: <s>El salmón estaba delicioso, pero no me
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Puedes tirar una piedra en el lago y observar las ondas bailar sobre la superficie hasta que se te pase la melancolía.</s>
+English: <s>You can throw a stone in the lake and watch the waves dance on the surface until your melancholy passes.</s>
+
+Spanish: <s>Si tienes la oportunidad de viajar, no la desaproveches.</s>
+English: <s>If you have the opportunity to travel, don't waste it.</s>
+
+Spanish: <s>Si tienes la oportunidad de viajar, no la desaproveches.</s>
+English: <s>If you have the opportunity to travel
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Si quieres relajarte y hacer desaparecer el estrés, tira una piedra en el lago y observa cómo bailan las ondas sobre la superficie.</s>
+English: <s>If you want to relax and get rid of stress, throw a stone in the lake and watch how the waves dance on the surface.</s>
+
+Spanish: <s>Si quieres aprender a nadar, no te preocupes, puedes aprender a nadar en cualquier parte del mundo.</s>
+English: <s>If you want to learn to swim, don't worry, you can learn to swim anywhere in the world.</s>
+
+Spanish: <s>Si quieres aprender a nadar, no
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El encuentro incluía tantas actividades que al final del día estaba agotada.</s>
+English: <s>The meeting included so many activities that at the end of the day I was exhausted.</s>
+
+Spanish: <s>El encuentro incluía tantas actividades que al final del día estaba agotada.</s>
+English: <s>The meeting included so many activities that at the end of the day I was exhausted.</s>
+
+Spanish: <s>El encuentro incluía tantas actividades que al final del día estaba agotada.</s>
+English: <s>The meeting included so
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla hacia atrás.</s>
+English: <s>In chess, you can move your pieces one square back.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla hacia adelante.</s>
+English: <s>In chess, you can move your pieces one square forward.</s>
+
+Spanish: <s>En el ajedrez, puedes mover tus piezas una casilla hacia la derecha.</s>
+English: <s>In chess, you can move your pieces one square to the
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Qué sorpresa! No sabía que Bob es tu tío.</s>
+English: <s>What a surprise! I didn't know that Bob is your uncle.</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you? How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you? How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En el laboratorio el profesor me dijo que arrancara una pata de la rana muerta y que la diseccionara. Fue entonces cuando me di cuenta de que nunca podría ser biólogo!</s>
+English: <s>In the lab, the teacher told me to take a leg off the dead frog and dissect it. That's when I realized I'd never be a biologist!</s>
+
+Spanish: <s>El profesor me dijo que me sentara en la mesa y que escribiera un ensayo sobre la vida de un hombre. Me senté y escribí un ensayo sobre la vida de un hombre.</s>
+English: <s>The teacher told me to sit down and write an essay about the life of a
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Al salir del edificio de oficinas después de la entrevista de trabajo más importante de mi vida, tropecé por la escalera y me rompí una pierna. Fue así que perdí la oportunidad de empezar el trabajo de mis sueños.</s>
+English: <s>After the most important interview of my life, I tripped on the stairs and broke my leg. That's how I lost the job of my dreams.</s>
+
+Spanish: <s>El día que me di cuenta de que mi novia me engañaba, me sentí como si me hubieran dado un puñetazo en el estómago. Fue como si me hubieran dado un puñetazo en el estómago.</s>
+English: <s>The
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Sabes qué son las encías? Ayer el dentista de mi mamá me explicó que son como la piel de mis dientes y que para cuidarlas no tengo que comer demasiados dulces.</s>
+English: <s>Do you know what are the gums? Yesterday my mom's dentist explained to me that they are like the skin of my teeth and that I don't have to eat too many sweets.</s>
+
+Spanish: <s>El otro día me encontré con un amigo que me dijo que se iba a mudar a otro país. Le pregunté si se iba a vivir solo y me dijo que sí. Le pregunté si se iba a mudar con su familia y me dijo que no. Me pregunté si se iba
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Es importante cuidar de nuestra piel y dientes acudiendo con regularidad al dermatólogo y al dentista.</s>
+English: <s>It is important to take care of our skin and teeth by going to the dermatologist and dentist regularly.</s>
+
+Spanish: <s>La salud es un derecho humano y no un lujo.</s>
+English: <s>Health is a human right and not a luxury.</s>
+
+Spanish: <s>La salud es un derecho humano y no un lujo.</s>
+English: <s>Health is a human right and not a luxury.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Llegamos a casa tan hambrientos que para cenar nos comimos pavo frío sacado directamente de la nevera.</s>
+English: <s>We got home so hungry that for dinner we ate cold turkey straight from the fridge.</s>
+
+Spanish: <s>El viaje fue un éxito, pero no fue fácil. El vuelo de ida duró 12 horas y el de vuelta 14.</s>
+English: <s>The trip was a success, but it wasn't easy. The flight from here to there took 12 hours and the flight back took 14.</s>
+
+Spanish: <s>El viaje
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Tú crees que en una situación de hambruna extrema un perro se comería a otro perro para sobrevivir?</s>
+English: <s>Do you think a dog would eat another dog in a situation of extreme hunger?</s>
+
+Spanish: <s>Tú crees que en una situación de hambruna extrema un perro se comería a otro perro para sobrevivir?</s>
+English: <s>Do you think a dog would eat another dog in a situation of extreme hunger?</s>
+
+Spanish: <s>Tú crees que en una situación de hambruna extrema
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Qué te parece? Últimamente no me citan mucho en las clases de literatura. Quizás ya no sea tan famoso.</s>
+English: <s>What do you think? Lately I haven't been invited to many literature classes. Maybe I'm not as famous as I used to be.</s>
+
+Spanish: <s>¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal? ¿Qué tal?
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Mi jefe me dijo que sería más fácil realizar esta tarea internamente que pedir ayuda externa.</s>
+English: <s>My boss told me it would be easier to do this task internally than to ask for help.</s>
+
+Spanish: <s>El problema es que no tengo tiempo para hacer esto.</s>
+English: <s>The problem is that I don't have time for this.</s>
+
+Spanish: <s>No me gusta el trabajo de oficina.</s>
+English: <s>I don't like office work.</s>
+
+Spanish: <s>No me
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Quieres aguantar tus caballos? Me están pisando el césped y estropeando el jardín!</s>
+English: <s>Do you want to keep your horses? They are trampling my lawn and destroying my garden!</s>
+
+Spanish: <s>¿Quieres que te haga un favor? ¿Quieres que te ayude? ¿Quieres que te haga un favor? ¿Quieres que te ayude?</s>
+English: <s>Do you want me to do you a favor? Do you want me to help you? Do you want me to do you a favor? Do you want me to
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Por favor, dame una lupa para mirar cómo se mueve la araña sobre la hoja.</s>
+English: <s>Please give me a magnifying glass to see how the spider moves on the leaf.</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are you doing?</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are you doing?</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Este restaurante te sirve los platos con la justa cantidad de condimentos para hacerlos realmente memorables.</s>
+English: <s>This restaurant serves the dishes with the right amount of condiments to make them really memorable.</s>
+
+Spanish: <s>El restaurante tiene una carta de vinos muy amplia y variada.</s>
+English: <s>The restaurant has a wine list with a very wide and varied selection.</s>
+
+Spanish: <s>El restaurante tiene una carta de vinos muy amplia y variada.</s>
+English: <s>The restaurant has a wine list with a
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Hablemos de cómo una pared de ladrillo le puede conferir encanto y carácter a cualquier espacio.</s>
+English: <s>Let's talk about how a brick wall can add charm and character to any space.</s>
+
+Spanish: <s>El diseño de interiores es un arte que se aprende con el tiempo y la práctica.</s>
+English: <s>Interior design is an art that you learn with time and practice.</s>
+
+Spanish: <s>La decoración de interiores es un arte que se aprende con el tiempo y la práctica.</s>
+English: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Esta no es mi taza de té! Ha cambiado las tazas y me ha dejado la que está vacía! Qué descarada!</s>
+English: <s>This is not my cup of tea! She has changed the cups and left me the empty one! What a cheeky one!</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás? ¿Qué tal tu día?</s>
+English: <s>How are you? How is your day?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás? ¿Qué tal tu día?</s>
+English: <s>How
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Has malinterpretado la información del folleto: el tema del curso ofrecido por la Universidad de Maryland es diseño de aeronaves, no ciencia espacial.</s>
+English: <s>You have misinterpreted the information in the brochure: the course offered by the University of Maryland is aircraft design, not space science.</s>
+
+Spanish: <s>El curso de diseño de aeronaves es un curso de aeronáutica, no de astronomía.</s>
+English: <s>The course on aircraft design is a course on aeronautics, not astronomy.</s>
+
+Spanish: <s>El curso de astronomía es un curso de ciencias naturales
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Después de un mes de clases de natación los niños tenían la confianza suficiente para tirarse a la parte más profunda de la piscina.</s>
+English: <s>After a month of swimming lessons the kids had the confidence to jump into the deep end of the pool.</s>
+
+Spanish: <s>El profesor de inglés se dio cuenta de que los estudiantes no tenían la confianza suficiente para hablar en inglés.</s>
+English: <s>The English teacher realized that the students didn't have the confidence to speak English.</s>
+
+Spanish: <s>El profesor de inglés se dio cuenta de que los estudiantes no tenían la confianza suficiente para hablar en inglés
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Llevo tres meses viajando fuera de mi país y ahora estoy intentando enviarle una carta a mi madre para contarle cómo me va, pero tengo la sensación de no tener nada que contar.</s>
+English: <s>I've been traveling outside my country for three months and now I'm trying to send a letter to my mother to tell her how I'm doing, but I feel like I have nothing to tell her.</s>
+
+Spanish: <s>No me gusta viajar, pero me gusta viajar.</s>
+English: <s>I don't like traveling, but I like traveling.</s>
+
+Spanish: <s>No me gusta viajar, pero me gusta viajar.</s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Seguimos la ruta del navegador hasta que nos sacó del camino transitado y nos mandó por una pista llena de barro y prácticamente intransitable.</s>
+English: <s>We followed the navigator until he took us off the main road and sent us down a path full of mud and practically impassable.</s>
+
+Spanish: <s>El camino era tan estrecho que no podíamos pasar por él, así que tuvimos que bajar y caminar por la pista.</s>
+English: <s>The path was so narrow that we couldn't pass through it, so we had to get out and walk along the path.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Puaj! Quítame este bicho de la cabeza, qué asco!</s>
+English: <s>Eeek! Get this bug out of my head, yuck!</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: 
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Al ser la montaña más alta del planeta, el Everest se considera la cima del mundo.</s>
+English: <s>Being the highest mountain on the planet, Everest is considered the highest peak in the world.</s>
+
+Spanish: <s>El Everest es el más alto de los 14 000 metros de altura.</s>
+English: <s>Everest is the highest of the 14,000-meter peaks.</s>
+
+Spanish: <s>El Everest es el más alto de los 14 000 metros de altura.</s>
+English: <s>Everest is the highest of the
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Te gustaría ver mi vestido nuevo? Sácalo de la caja azul que está en el armario y me lo pondré para enseñartelo.</s>
+English: <s>Would you like to see my new dress? Take it out of the blue box in the closet and I'll put it on to show you.</s>
+
+Spanish: <s>¿Quieres que te enseñe mi nuevo vestido? ¡Vamos a la habitación de invitados y lo sacaré de la caja azul!</s>
+English: <s>Do you want to see my new dress? Let's go to the guest room and I'll take it out of
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Es difícil medir la velocidad y el alcance de la propagación del virus.</s>
+English: <s>It's hard to measure the speed and reach of the virus.</s>
+
+Spanish: <s>La mayoría de los casos de COVID-19 son leve o moderado.</s>
+English: <s>Most COVID-19 cases are mild or moderate.</s>
+
+Spanish: <s>La mayoría de los casos de COVID-19 son leve o moderado.</s>
+English: <s>Most COVID-19 cases are mild or moderate.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Antes la gente se casaba más que ahora.</s>
+English: <s>People used to get married more than now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+English: <s>People used to get married more than now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+English: <s>People used to get married more than now.</s>
+
+Spanish: <s>La gente se casaba más que ahora.</s>
+English: <s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Al salir corriendo de la habitación, golpeó el ventilador y lo tiró al suelo.</s>
+English: <s>When he ran out of the room, he hit the fan and it fell to the floor.</s>
+
+Spanish: <s>El hombre se sentó en la silla y se puso a escribir.</s>
+English: <s>The man sat down in the chair and started writing.</s>
+
+Spanish: <s>El hombre se sentó en la silla y se puso a escribir.</s>
+English: <s>The man sat down in the
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Cuando el edificio ya estaba en llamas, los vándalos le echaron más combustible al fuego, convirtiéndolo en un evento inarrestable y devastador.</s>
+English: <s>When the building was already on fire, the Vandals threw more fuel on the fire, turning it into an unstopable and devastating event.</s>
+
+Spanish: <s>El <s>pueblo</s> <s>de <s>Cuba</s> <s>está</s> <s>en</s> <s>una</s> <s>crisis</s> <s>de</s> <s>aliment
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Se supone que mi perro es buen cazador, pero míralo, le está ladrando al árbol equivocado: la ardilla está subida al pino al otro lado de la calle!</s>
+English: <s>It's supposed to be a good hunter, but look at it, it's barking at the wrong tree: the squirrel is up in the pine tree on the other side of the street!</s>
+
+Spanish: <s>Se supone que mi perro es buen cazador, pero míralo, está ladrando al árbol equivocado: la ardilla está subida al pino al otro lado de la calle!</s>
+English: <s>It's supposed to be a
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El búho es una criatura nocturna y un símbolo de sabiduría en muchas culturas.</s>
+English: <s>The owl is a nocturnal creature and a symbol of wisdom in many cultures.</s>
+
+Spanish: <s>El búho es una criatura nocturna y un símbolo de sabiduría en muchas culturas.</s>
+English: <s>The owl is a nocturnal creature and a symbol of wisdom in many cultures.</s>
+
+Spanish: <s>El búho es una criatura nocturna y un símbolo de sabiduría en muchas culturas.</s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Mi amiga Laura es una estrella! Desde que empezó su carrera de actriz hace dos años ya ha participado en más de cinco películas!</s>
+English: <s>My friend Laura is a star! Since she started her acting career two years ago, she has been in more than five movies!</s>
+
+Spanish: <s>El año pasado, mi hermano y yo viajamos a España. Fue una experiencia increíble!</s>
+English: <s>Last year, my brother and I went to Spain. It was an incredible experience!</s>
+
+Spanish: <s>Mi hermano y yo viajamos a España. Fue una experiencia
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in crystal glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in crystal glasses.</s>
+
+Spanish: <s>El vino se sirvió en copas de cristal transparente.</s>
+English: <s>The wine was served in crystal glasses.</s>
+
+Spanish: <s>El vino se sirvi�
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Todas esas latas en tu despensa están llenas de alubias? No comes nada más en todo el invierno o qué?</s>
+English: <s>All those cans in your pantry are full of beans? You don't eat anything else all winter or what?</s>
+
+Spanish: <s>¿Qué tal si nos vamos a la playa? ¿Qué tal si nos vamos a la playa?</s>
+English: <s>What do you say if we go to the beach? What do you say if we go to the beach?</s>
+
+Spanish: <s>¿Qué tal si nos vamos a la playa? ¿
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Bud está en la caseta que mi padre construyó para él en el jardín, pero creo que estaba más contento cuando le dejábamos dormir en el sofá.</s>
+English: <s>Bud is in the shed my father built for him in the garden, but I think he was happier when we let him sleep on the couch.</s>
+
+Spanish: <s>La verdad es que no me gusta mucho la idea de que mi madre se vaya a vivir a un lugar tan lejano, pero no puedo hacer nada al respecto.</s>
+English: <s>The truth is that I don't like the idea of my mother moving to a place so far away, but I can't
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Pon el pie sobre la pelota y estira la pierna.</s>
+English: <s>Put your foot on the ball and stretch your leg.</s>
+
+Spanish: <s>El equipo de fútbol de la universidad de Michigan ganó el campeonato.</s>
+English: <s>The football team of the University of Michigan won the championship.</s>
+
+Spanish: <s>El equipo de fútbol de la universidad de Michigan ganó el campeonato.</s>
+English: <s>The football team of the University of Michigan won
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Estás construyendo mal tu maqueta del sistema solar: mira, Marte no puede estar encima de la Luna, lo tienes que mover un poco hacia un lado para reproducir el orden real de los planetas.</s>
+English: <s>You're building your solar system model wrong: look, Mars can't be above the Moon, you have to move it a little to the side to reproduce the real order of the planets.</s>
+
+Spanish: <s>No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Anoche nevó mucho y mi coche desapareció bajo una montaña blanca.</s>
+English: <s>Last night it snowed a lot and my car disappeared under a white mountain.</s>
+
+Spanish: <s>El tiempo es bueno para salir a pasear.</s>
+English: <s>The weather is good for a walk.</s>
+
+Spanish: <s>El tiempo es bueno para salir a pasear.</s>
+English: <s>The weather is good for a walk.</s>
+
+Spanish: <s>El tiempo es bueno para salir a pasear.</
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>He servido ese cocktail con la última pajita que teníamos y ya no me quedan para los mojitos... Puedes llamar al proveedor y pedir una caja?</s>
+English: <s>I used the last straw we had and now I don't have any more for mojitos... Can you call the supplier and ask for a box?</s>
+
+Spanish: <s>¿Puedes llamar al proveedor y pedir una caja de las pajitas?</s>
+English: <s>Can you call the supplier and ask for a box of straws?</s>
+
+Spanish: <s>¿Puedes llamar al proveedor y pedir una caja de las pajitas?</
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Hay un restaurante indio muy bueno subiendo por tu calle a mano izquierda.</s>
+English: <s>There is a good Indian restaurant going up your street on the left.</s>
+
+Spanish: <s>El tren sale a las 7:30 de la mañana.</s>
+English: <s>The train leaves at 7:30 in the morning.</s>
+
+Spanish: <s>El tren sale a las 7:30 de la mañana.</s>
+English: <s>The train leaves at 7:30 in the morning.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Deja de morder más de lo que puedes masticar cuando comes una hamburguesa! Ver como se te escurre la comida de la boca es asqueroso!</s>
+English: <s>Stop biting more than you can chew when you eat a hamburger! Watching the food slide out of your mouth is disgusting!</s>
+
+Spanish: <s>No te preocupes, no te voy a hacer daño. Solo quiero que me mires a los ojos cuando te haga el amor.</s>
+English: <s>Don't worry, I won't hurt you. I just want you to look at me when I make love to you.</s>
+
+Spanish: <s>No
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Se narra que, en la antigüedad, los soldados mordían una bala para aguantar el dolor cuando se sometían a una cirugía de urgencia en el campo de batalla.</s>
+English: <s>It is said that, in ancient times, soldiers bit down on a bullet to endure the pain when they were operated on in the field.</s>
+
+Spanish: <s>El <s>caballo</s> <s>de Troya</s> <s>era un caballo de guerra que se creía que era capaz de correr más de 100 kilómetros por hora.</s>
+English: <s>The <s>horse</s> <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Para empezar a tocar la trompeta tienes que soplar en ella hasta que salga un sonido... no es tan fácil!</s>
+English: <s>To start playing the trumpet you have to blow into it until it makes a sound... it's not easy!</s>
+
+Spanish: <s>El arte de la pintura es un arte que se aprende con la práctica y la dedicación.</s>
+English: <s>The art of painting is an art that you learn with practice and dedication.</s>
+
+Spanish: <s>La música es un arte que se aprende con la práctica y la dedicación.</s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Podrías traer a casa el bacon que compramos ayer y dejamos en la nevera de al autocaravana?</s>
+English: <s>Could you bring home the bacon we bought yesterday and left in the fridge of the motorhome?</s>
+
+Spanish: <s>¿Qué tal si nos vamos a la playa?</s>
+English: <s>What do you say if we go to the beach?</s>
+
+Spanish: <s>¿Qué tal si nos vamos a la playa?</s>
+English: <s>What do you say if we go to the beach?</s>
+
+Spanish: <s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>La guerra le costó al soldado un brazo y una pierna. Se quedó inválido de por vida.</s>
+English: <s>The war cost the soldier an arm and a leg. He was left disabled for life.</s>
+
+Spanish: <s>El hombre que no tiene dinero, no tiene amigos.</s>
+English: <s>The man who has no money, has no friends.</s>
+
+Spanish: <s>El que no tiene dinero, no tiene amigos.</s>
+English: <s>The man who has no money, has no friends.</s>
+
+Spanish: <s>El
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Tenemos que cortar y tensar esta cuerda: está demasiado floja!</s>
+English: <s>We have to cut and tighten this rope: it's too loose!</s>
+
+Spanish: <s>No me gusta el chocolate, pero me encanta el helado.</s>
+English: <s>I don't like chocolate, but I love ice cream.</s>
+
+Spanish: <s>No me gusta el helado, pero me encanta el chocolate.</s>
+English: <s>I don't like ice cream, but I love chocolate.</s>
+
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Podrías cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you cut the cheese and put it on the table, please?</s>
+
+Spanish: <s>¿Puedes cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you cut the cheese and put it on the table, please?</s>
+
+Spanish: <s>¿Puedes cortar el queso y ponerlo en la mesa, por favor?</s>
+English: <s>Could you cut the cheese and put it
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El zumo de limón ha cortado la mostaza y la ensalada se ha vuelto agria. La hemos tenido que tirar.</s>
+English: <s>The lemon juice has ruined the mustard and the salad has gone bad. We had to throw it away.</s>
+
+Spanish: <s>El agua de la fuente está contaminada. No beba de ella.</s>
+English: <s>The water from the fountain is contaminated. Don't drink it.</s>
+
+Spanish: <s>El agua de la fuente está contaminada. No beba de ella.</s>
+English: <s>The water from the fountain
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Por favor, llévame a la tienda de la esquina, quiero comprar unos frutos secos.</s>
+English: <s>Please, take me to the corner store, I want to buy some nuts.</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English: <s>How are you?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás?</s>
+English:
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Se me han congelado los pies de estar haciendo cola toda la mañana a 3 grados. Ahora me duelen y no puedo andar.</s>
+English: <s>My feet are frozen from standing in line all morning at 3 degrees. Now they hurt and I can't walk.</s>
+
+Spanish: <s>Se me ha congelado la cola. Ahora no puedo andar.</s>
+English: <s>My tail is frozen. Now I can't walk.</s>
+
+Spanish: <s>Se me ha congelado la cola. Ahora no puedo andar.</s>
+English: <s>My tail is
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Las manos aprietan más cuando hay que agarrar un objeto con una superficie resbaladiza.</s>
+English: <s>The hands squeeze more when you have to grab an object with a slippery surface.</s>
+
+Spanish: <s>La vida es un camino sinuoso, pero no hay que perder la esperanza.</s>
+English: <s>Life is a winding road, but don't lose hope.</s>
+
+Spanish: <s>La vida es un camino sinuoso, pero no hay que perder la esperanza.</s>
+English: <s>Life is a winding road, but
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>La protagonista tarda mucho en decidirse a volver a salir después de que le amputaran las extremidades.</s>
+English: <s>The protagonist takes a long time to decide to go out again after having her legs amputated.</s>
+
+Spanish: <s>La película trata sobre la vida de una mujer que se ve obligada a vivir en un mundo donde la gente se muere de hambre.</s>
+English: <s>The movie is about the life of a woman who is forced to live in a world where people die of hunger.</s>
+
+Spanish: <s>La película trata sobre la vida de una mujer
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Internet está lleno de sofisticados consejos sobre qué ponerte si tienes un cuerpo en forma de pera, pero creo que optaré por un atuendo sencillo.</s>
+English: <s>The Internet is full of sophisticated advice about what to wear if you have a pear-shaped body, but I think I'll go for a simple outfit.</s>
+
+Spanish: <s>La verdad es que no me gusta mucho la comida italiana, pero me encanta la comida italiana.</s>
+English: <s>The truth is that I don't like Italian food, but I love Italian food.</s>
+
+Spanish: <s>La verdad es que no me gusta mucho la comida italiana
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Las hojas bajan el río con la corriente hasta alcanzar las apacibles aguas del lago.</s>
+English: <s>The leaves float down the river with the current until they reach the peaceful waters of the lake.</s>
+
+Spanish: <s>El agua de la fuente es fresca y pura.</s>
+English: <s>The water from the fountain is fresh and pure.</s>
+
+Spanish: <s>El agua de la fuente es fresca y pura.</s>
+English: <s>The water from the fountain is fresh and pure.</s>
+
+Spanish: 
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Los elefantes tienen una piel gruesa que los protege de los parásitos y de los ataques de otros animales.</s>
+English: <s>Elephants have a thick skin that protects them from parasites and attacks from other animals.</s>
+
+Spanish: <s>El elefante es un animal que vive en el África y Asia.</s>
+English: <s>The elephant is an animal that lives in Africa and Asia.</s>
+
+Spanish: <s>El elefante es un animal que vive en el África y Asia.</s>
+English: <s>The elephant is an animal that lives in Africa
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Estos pescados son más grandes de los que solemos freír, no sé si van a caber en la freidora.</s>
+English: <s>These fish are bigger than the ones we usually fry, I don't know if they'll fit in the fryer.</s>
+
+Spanish: <s>No me gusta el café con leche, prefiero el café solo.</s>
+English: <s>I don't like coffee with milk, I prefer coffee black.</s>
+
+Spanish: <s>No me gusta el café con leche, prefiero el café solo.</s>
+English: <s>I don'
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Hay que golpear el clavo en la cabeza para clavarlo profundamente en la madera.</s>
+English: <s>You have to hit the nail on the head to drive it deeply into the wood.</s>
+
+Spanish: <s>La vida es un camino sinuoso, pero no hay que perder la esperanza.</s>
+English: <s>Life is a winding road, but don't lose hope.</s>
+
+Spanish: <s>La vida es un camino sinuoso, pero no hay que perder la esperanza.</s>
+English: <s>Life is a winding road,
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Para ganar el juego, teníamos que golpear el saco colgado en el árbol hasta que se rasgara y la harina se les cayera encima a nuestros contrincantes.</s>
+English: <s>To win the game, we had to hit the bag hanging from the tree until it ripped and the flour fell on our opponents.</s>
+
+Spanish: <s>El juego se llama "Tres en Raya" y es muy popular en el sur de España.</s>
+English: <s>The game is called "Three in a Row" and is very popular in the south of Spain.</s>
+
+Spanish: <s>El juego se llama "Tres en Raya"
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En la biblioteca tiendo a juzgar un libro por su portada: si no me gusta el diseño no lo cojo prestado aunque me lo hayan recomendado!</s>
+English: <s>In the library I tend to judge a book by its cover: if I don't like the design I won't borrow it even if it's recommended!</s>
+
+Spanish: <s>Si no me gusta el diseño de un libro, no lo cojo prestado aunque me lo hayan recomendado.</s>
+English: <s>If I don't like the design of a book, I won't borrow it even if it's recommended.</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El caballo se puso nervioso, le dió una patada al cubo y tiró toda el agua que nos quedaba para el resto del día.</s>
+English: <s>The horse got nervous, kicked the bucket and spilled all the water we had left for the rest of the day.</s>
+
+Spanish: <s>El caballo se puso nervioso, le dió una patada al cubo y tiró toda el agua que nos quedaba para el resto del día.</s>
+English: <s>The horse got nervous, kicked the bucket and spilled all the water we had left for the rest of the day.</s>
+
+Spanish: <s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El otro día mi amiga estaba mirando a su hija jugar en el jardín y de repente se dio cuenta que la niña había matado dos pájaros con una piedra. Estaba horrorizada!</s>
+English: <s>The other day my friend was watching her daughter play in the garden and suddenly she realized that her daughter had killed two birds with a stone. She was horrified!</s>
+
+Spanish: <s>El otro día mi amiga estaba mirando a su hija jugar en el jardín y de repente se dio cuenta que la niña había matado dos pájaros con una piedra. Estaba horrorizada!</s>
+English: <s>The other day my friend was watching her daughter play in the garden and
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Por qué siempre llevas coleta? Tendrías que soltarte el pelo alguna vez, te quedaría bien.</s>
+English: <s>Why do you always wear your hair in a ponytail? You should let it loose sometimes, it would look good.</s>
+
+Spanish: <s>¿Por qué no te vas a la universidad? ¿No te gusta estudiar?</s>
+English: <s>Why don't you go to college? Don't you like studying?</s>
+
+Spanish: <s>¿Por qué no te vas a la universidad? ¿No te gusta estudiar?</s>
+
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Nuestra casa es luminosa porque está orientada hacia el sur.</s>
+English: <s>Our house is bright because it is oriented towards the south.</s>
+
+Spanish: <s>La casa de mi vecino tiene un jardín muy bonito.</s>
+English: <s>My neighbor's house has a very nice garden.</s>
+
+Spanish: <s>La casa de mi vecino tiene un jardín muy bonito.</s>
+English: <s>My neighbor's house has a very nice garden.</s>
+
+Spanish: <s>
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>He comprado una lámpara nueva y muchas plantas para hacer nuestro salón más cálido y acogedor.</s>
+English: <s>I bought a new lamp and many plants to make our living room more cozy and welcoming.</s>
+
+Spanish: <s>La lámpara nueva me encanta, pero me gustaría que fuera un poco más grande.</s>
+English: <s>I love the new lamp, but I wish it was a little bigger.</s>
+
+Spanish: <s>La lámpara nueva me encanta, pero me gustaría que fuera un poco más grande.</s>
+English: <s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Al final vamos a quedar para hacer la cena?</s>
+English: <s>At the end of the day, we'll be making dinner?</s>
+
+Spanish: <s>¿Qué tal si nos vemos mañana?</s>
+English: <s>What about tomorrow?</s>
+
+Spanish: <s>¿Qué tal si nos vemos mañana?</s>
+English: <s>What about tomorrow?</s>
+
+Spanish: <s>¿Qué tal si nos vemos mañana?</s>
+English: <s>What about tomorrow?</
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Ese día empezó fatal y aunque me diera prisa no llegué a tiempo al muelle y perdí el barco que cruzaba el lago. Así tuve que correr tres kilómetros para rodearlo y llegar a tiempo al punto de partida de la carrera.</s>
+English: <s>That day started badly and although I tried to hurry, I didn't make it to the dock in time and missed the boat that crossed the lake. So I had to run three miles to get around it and make it to the starting point of the race.</s>
+
+Spanish: <s>El día que me di cuenta de que no podía seguir viviendo en la ciudad, me fui a vivir a la montaña. Allí me sentí libre y feliz.</s>
+English: <s>The day
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>La herramienta más afilada que tengo en el cobertizo es esta navaja suiza.</s>
+English: <s>The sharpest tool I have in the shed is this Swiss Army knife.</s>
+
+Spanish: <s>La navaja suiza es una herramienta multifunción que puede ser usada para cortar, abrir, destapar, abrir botellas, abrir cajas, cortar cordones, cortar cables, cortar cintas adhesivas, cortar cintas de embalaje, cortar cintas de embalaje, cortar cintas de embalaje, cortar c
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>No se sabía los acordes de esa canción, la tocaba de oído.</s>
+English: <s>I didn't know the chords to that song, I played it by ear.</s>
+
+Spanish: <s>No se sabe si el perro es de la policía o no, pero es un buen perro.</s>
+English: <s>No one knows if the dog is a police dog or not, but it's a good dog.</s>
+
+Spanish: <s>No se sabe si el perro es de la policía o no, pero es un buen perro
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Deja de tirarme de la pierna mientras caminamos, harás que me caiga!</s>
+English: <s>Stop pulling my leg while we walk, you'll make me fall!</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are you doing?</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are you doing?</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo?</s>
+English: <s>What are you doing
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Cuántas veces te tengo que decir que te subas los calcetines?! Si no te congelarás con este tiempo frío y ventoso!</s>
+English: <s>How many times do I have to tell you to put on your socks?! If you don't you'll freeze with this cold and windy weather!</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás? ¿Qué tal tu día?</s>
+English: <s>How are you? How is your day?</s>
+
+Spanish: <s>¿Qué tal? ¿Cómo estás? ¿Qué tal tu día?</s>
+English:
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Hay un agujero en el depósito y se está saliendo toda el agua! No sé qué hacer! Tapónalo con un calcetín y esperemos que frene un poco la fuga hasta que llegue el fontanero de guardia!</s>
+English: <s>There's a hole in the water tank and it's leaking all over the place! I don't know what to do! Plug it with a sock and hope it slows down the leak until the on-call plumber gets here!</s>
+
+Spanish: <s>¡No puedo creer que me hayan robado! ¡No puedo creer que me hayan robado! ¡No puedo creer que me hayan robado!</s>
+English: <s>I can't
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Durante la entrevista me di cuenta que me había manchado la camiseta de café y puse una mano sobre la mancha para esconderla.</s>
+English: <s>During the interview I realized I had spilled coffee on my shirt and put my hand over the stain to hide it.</s>
+
+Spanish: <s>El profesor me dijo que no podía usar el teléfono móvil en clase.</s>
+English: <s>The teacher told me I couldn't use my cell phone in class.</s>
+
+Spanish: <s>El profesor me dijo que no podía usar el teléfono móvil en clase.</s>
+English: <s>The teacher
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En las competiciones de escalada de velocidad tienes que tocar una campana para parar el cronómetro cuando llegas al top.</s>
+English: <s>In speed climbing competitions you have to touch a bell to stop the clock when you reach the top.</s>
+
+Spanish: <s>El equipo de escalada de velocidad de la universidad de Michigan ha ganado el campeonato nacional de escalada de velocidad por 3 años consecutivos.</s>
+English: <s>The speed climbing team from the University of Michigan has won the national speed climbing championship for 3 years in a row.</s>
+
+Spanish: <s>El equipo de escalada
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Cuando llegues toca el timbre y te abriré la puerta.</s>
+English: <s>When you get to the door, I'll open it for you.</s>
+
+Spanish: <s>Si tienes alguna pregunta, no dudes en preguntarme.</s>
+English: <s>If you have any questions, don't hesitate to ask me.</s>
+
+Spanish: <s>Si tienes alguna pregunta, no dudes en preguntarme.</s>
+English: <s>If you have any questions, don't hesitate to ask me.</s>
+
+Spanish: 
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Las tortitas que venden en la cafetería de la esquina son los mejores dulces de la ciudad.</s>
+English: <s>The pastries that the coffee shop on the corner sells are the best sweets in the city.</s>
+
+Spanish: <s>El profesor de español es un hombre muy inteligente.</s>
+English: <s>The Spanish teacher is a very intelligent man.</s>
+
+Spanish: <s>El profesor de español es un hombre muy inteligente.</s>
+English: <s>The Spanish teacher is a very intelligent man.</s>
+
+Spanish: <s>El profesor de español
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Al empezar el curso de escalada lo primero que hice fue enseñarles a mis alumnos las cuerdas y todo el resto de material.</s>
+English: <s>When I started teaching climbing, I first taught my students the ropes and all the rest of the equipment.</s>
+
+Spanish: <s>El primer día de clase me encontré con un grupo de alumnos muy agradables y muy interesados en aprender.</s>
+English: <s>The first day of class I met a group of very pleasant and very interested students.</s>
+
+Spanish: <s>El primer día de clase me encontré con un grupo de alumnos muy agradables
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Ese niño inquietante estaba sentado en la valla de la casa de mis vecinos mirando fijamente hacia mi ventana.</s>
+English: <s>That annoying kid was sitting on the fence of my neighbors house staring at my window.</s>
+
+Spanish: <s>El hombre se sentó en la mesa y se puso a escribir.</s>
+English: <s>The man sat down at the table and started writing.</s>
+
+Spanish: <s>El hombre se sentó en la mesa y se puso a escribir.</s>
+English: <s>The man sat down at the table and started writing
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Aunque me gusta como cocinas, tus platos siempre me parecen un poco sosos: en mi opinión tendrías que ponerles un poco más de especias.</s>
+English: <s>Although I like how you cook, your dishes always seem a little boring to me: in my opinion you should put a little more spices in them.</s>
+
+Spanish: <s>No me gusta el café, pero me encanta el té. ¿Por qué no nos tomamos un té?</s>
+English: <s>I don't like coffee, but I love tea. Why don't we have a cup of tea?</s>
+
+Spanish: <s>¿Por qué no
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Mi hermana derramó las alubias por el suelo de la cocina y tardamos más de media hora en limpiar ese desastre.</s>
+English: <s>My sister spilled the beans on the kitchen floor and it took us more than half an hour to clean that mess.</s>
+
+Spanish: <s>El profesor nos dio una lista de tareas para el fin de semana.</s>
+English: <s>The teacher gave us a list of homework for the weekend.</s>
+
+Spanish: <s>El profesor nos dio una lista de tareas para el fin de semana.</s>
+English: <s>The teacher gave us a list of
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Qué estás haciendo?! El yogur que te estás comiendo lleva más de un año en la nevera! Escúpelo ya!</s>
+English: <s>What are you doing?! That yogurt you're eating has been in the fridge for more than a year! Spit it out already!</s>
+
+Spanish: <s>¿Qué es lo que estás haciendo? ¿Por qué no te vas a la cama? ¿No tienes sueño?</s>
+English: <s>What are you doing? Why aren't you going to bed? Don't you have to get up early?</s>
+
+Spanish: <s>¿Qué es
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En la última escena de la película el viejo tira a su perro debajo del autobús y se marcha, dejando sin palabras al conductor.</s>
+English: <s>In the last scene of the movie the old man throws his dog under the bus and leaves the driver speechless.</s>
+
+Spanish: <s>El perro se quedó atónito y no sabía qué hacer.</s>
+English: <s>The dog was stunned and didn't know what to do.</s>
+
+Spanish: <s>El perro se quedó atónito y no sabía qué hacer.</s>
+English: <s
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>Me puedes mostrar cómo se ata el nudo al final de la cuerda?</s>
+English: <s>Can you show me how to tie the knot at the end of the rope?</s>
+
+Spanish: <s>¿Puedes enseñarme cómo se hace un nudo?</s>
+English: <s>Can you show me how to make a knot?</s>
+
+Spanish: <s>¿Puedes enseñarme cómo se hace un nudo?</s>
+English: <s>Can you show me how to make a knot?</s>
+
+Spanish: <
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>En la segunda mitad del combate me torció el brazo tan fuerte que me caí al suelo y me rendí.</s>
+English: <s>In the second half of the fight, my arm was twisted so hard that I fell to the ground and gave up.</s>
+
+Spanish: <s>El hombre que se ha convertido en el líder de la rebelión contra el régimen de Assad es un ex oficial de inteligencia de la CIA.</s>
+English: <s>The man who has become the leader of the rebellion against the Assad regime is a former CIA officer.</s>
+
+Spanish: <s>El presidente de
+--------------------
+Spanish: <s>Si tiene deseos conocer el mundo a un bajo costo, sea por necesidad, estilo de vida o como un reto, existen algunas maneras para hacerlo.</s>
+English: <s>If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.</s>
+
+Spanish: <s>El año pasado, durante nuestro viaje a Suecia, nos fuimos de excursión a un golfo helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo muy fino y nos dio picos de emergencia por si se rompía... Fue una experiencia emocionante y terrorífica!</s>
+English: <s>Last year, during our trip to Sweden, we went on an ice-hiking tour to a frozen lake. Our friend Pär told us that we were walking on very thin ice and gave us ice-axes in case it broke... It was an exciting and terrifying experience!</s>
+
+Spanish: <s>El año pasado, durante nuestro viaje a Suecia, nos fuimos de excursión a un golfo helado. Nuestro amigo Pär nos dijo que estábamos caminando sobre hielo
+--------------------

@@ -2,7 +2,7 @@
 export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5
 echo $CUDA_VISIBLE_DEVICES
 
-filename_prefix='falcon_fft_en-es100k_ebs256-6-1x8x32_linear_lr2e-5'
+filename_prefix='falcon_fft_en-es1M_ebs256-6-1x8x32_linear_lr2e-5'
 
 timestamp=$(date +"%Y%m%d-%H.%M.%S")
 export WANDB_ENTITY=jaume-prats-cristia
@@ -18,7 +18,7 @@ python /fs/surtr0/jprats/code/llm-mt-iberian-languages/src/fft.py \
     --model_name tiiuae/falcon-7b \
     --dataset_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/en-es_europarl-unpc/europarl-unpc_en-es_bidir.jsonl' \
-    --train_split '[:200000]' \
+    --train_split '[:2000000]' \
     --validation_files \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_eng-spa.jsonl' \
     '/fs/surtr0/jprats/data/processed/04-finetuning/devsets/flores_dev_spa-eng.jsonl' \

@@ -1,13 +1,15 @@
 #!/bin/bash
 
 # model=projecte-aina/aguila-7b
-model=tiiuae/falcon-7b
-filename_prefix=FM-EVAL_Falcon_ntrex
-nums_fewshot=(5)
+# model=tiiuae/falcon-7b
+model=/fs/surtr0/jprats/models/merged/falcon/qlora/falcon_qlora_en-es10k_ebs256-4x1x64_linear_lr2e-4_ep2
+# filename_prefix=FM-EVAL_Falcon_ntrex
+filename_prefix=PD-QLORA_Falcon_ntrex
+nums_fewshot=(5 0)
 # nums_fewshot=(1)
-directions=("cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
 # directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-gpus=(2 3)
+directions=("eng-spa" "spa-eng")
+gpus=(5 6)
 
 example_set=dev
 

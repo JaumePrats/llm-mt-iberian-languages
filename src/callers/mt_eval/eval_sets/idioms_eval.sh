@@ -1,11 +1,12 @@
 #!/bin/bash
 
-model=tiiuae/falcon-7b
-prefix=FM_falcon_idioms
-nums_fewshot=(0 1)
+# model=tiiuae/falcon-7b
+model=projecte-aina/aguila-7b
+prefix=FM-EVAL_Aguila_idioms
+nums_fewshot=(5 1 0)
 directions=("eng-spa" "spa-eng")
 sets=("idioms" "distractors" "all")
-gpus=(7)
+gpus=(4 5)
 
 flores_example_set=dev
 

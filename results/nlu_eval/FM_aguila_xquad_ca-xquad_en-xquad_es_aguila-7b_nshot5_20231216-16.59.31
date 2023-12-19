@@ -124,3 +124,83 @@ Requests: (Req_greedy_until('Contexto: La propiedad de ser primo (o no) se llama
 , Req_loglikelihood('Contexto: La propiedad de ser primo (o no) se llama primalidad. Un método simple pero lento de verificar la primalidad de un número n dado se conoce como división de prueba. Consiste en comprobar si n es un múltiplo de cualquier número entero entre 2 y . Se han ideado algoritmos mucho más eficaces que la división de pruebas para comprobar la primalidad de los números grandes. Estos incluyen la prueba de primalidad de Miller-Rabin, que es rápida pero tiene una pequeña probabilidad de error, y la prueba de primalidad de AKS, que siempre produce la respuesta correcta en tiempo polinómico pero es demasiado lenta para ser práctica. Se dispone de métodos especialmente rápidos para los números de formularios especiales, como los números de Mersenne. A partir de enero de 2016 [actualización], el número primo más grande conocido tiene 22 338 618 dígitos decimales.\n\nPregunta: ¿Cuál es el nombre del proceso que confirma la primalidad de un número n?\n\nRespuesta: división de prueba\n\nContexto: Frederick William, elector de Brandenburgo, invitó a los hugonotes a asentarse en sus reinos, y varios de sus descendientes ascendieron a puestos de importancia en Prusia. Varias figuras destacadas del ejército, la cultura y la política alemana eran de origen hugonote, entre ellas el poeta Theodor Fontane, el general Hermann von François, el héroe de la Primera Guerra Mundial de Tannenberg, el general Luftwaffe y el as de combate Adolf Galland, el astro volador de la Luftwaffe Hans-Joachim Marseille, y el famoso capitán del submarino Lothar von Arnauld de la Perière. El último Primer Ministro de la República Democrática Alemana (Oriental), Lothar de Maizière, es también descendiente de una familia hugonote, al igual que el Ministro Federal del Interior alemán, Thomas de Maizière.\n\nPregunta: ¿Qué gobernante alemán invitó a la inmigración hugonote?\n\nRespuesta: Frederick William\n\nContexto: A pesar de sus cuerpos blandos y gelatinosos, los fósiles que se cree que representan a los ctenóforos, aparentemente sin tentáculos pero con muchas más filas de púas que las formas modernas, han sido encontrados en lagerstätten en los primeros tiempos de la época de la era Cámbrica, hace alrededor de 515 millones de años. La posición de los ctenóforos en el árbol genealógico evolutivo de los animales se ha discutido durante mucho tiempo, y la opinión mayoritaria en la actualidad, basada en la filogenética molecular, es que los cnidarios y los bilaterianos están más estrechamente relacionados entre sí que cualquiera de ellos con los ctenóforos. Un análisis reciente de filogenética molecular concluyó que el antepasado común de todos los ctenóforos modernos era similar a los cidípidos, y que todos los grupos modernos aparecieron relativamente recientemente, probablemente después del evento de extinción del Cretácico-Paleógeno hace 66 millones de años. Las pruebas acumuladas desde la década de 1980 indican que los "cidípidos" no son monofiléticos, es decir, no incluyen a todos y solo a los descendientes de un único antepasado común, ya que todos los demás grupos tradicionales de ctenóforos son descendientes de varios cidípidos.\n\nPregunta: ¿Qué indican las pruebas que no son los cidípidos?\n\nRespuesta: monofiléticos\n\nContexto: La medicina occidental también la practicaron en China los cristianos nestorianos de la corte de Yuan, donde a veces se la etiquetaba como huihui o medicina musulmana. El médico nestoriano Jesús El Intérprete fundó la Oficina de Medicina Occidental en 1263 durante el reinado de Kublai. Los médicos de huihui con personal en dos hospitales imperiales fueron responsables del tratamiento de la familia imperial y los miembros de la corte. Los médicos chinos se opusieron a la medicina occidental porque su sistema humoral contradecía la filosofía yin-yang y wuxing que subyace en la medicina tradicional china. No se conoce la traducción al chino de trabajos médicos occidentales, pero es posible que los chinos tuvieran acceso al Canon de medicina de Avicena.\n\nPregunta: ¿Qué filosofías subyacen a la medicina china?\n\nRespuesta: yin-yang y wuxing\n\nContexto: ARPANET y SITA HLN entraron en funcionamiento en 1969. Antes de la introducción de X.25 en 1973, se habían desarrollado unas veinte tecnologías de red diferentes. Dos diferencias fundamentales se referían a la división de funciones y tareas entre los servidores en el borde de la red y el núcleo de la red. En el sistema de datagramas, los servidores tienen la responsabilidad de asegurar la entrega ordenada de los paquetes. El protocolo de datagrama de usuario (UDP) es un ejemplo de un protocolo de datagrama. En el sistema de llamada virtual, la red garantiza la entrega secuencial de datos al servidor. Esto da como resultado una interfaz de servidor más simple, con menos funciones que en el modelo de datagrama. La serie de protocolos X.25 utiliza este tipo de red.\n\nPregunta: ¿Cuándo entraron en funcionamiento ARPNET y SITA?\n\nRespuesta: 1969\n\nContexto: Hay algunas ideas falsas comunes sobre las membranas de cloroplasto exterior e interior. El hecho de que los cloroplastos estén rodeados por una membrana doble a menudo se cita como evidencia de que son descendientes de cianobacterias endosimbióticas. Esto a menudo se interpreta como que la membrana externa de cloroplasto es el producto de la membrana celular del huésped que se pliega para formar una vesícula que rodea la cianobacteria ancestral, lo cual no es cierto, ya que ambas membranas de cloroplasto son homólogas a las membranas dobles originales de la cianobacteria.\n\nPregunta: ¿Qué se piensa incorrectamente sobre la membrana externa de cloroplasto?\n\nRespuesta:', ' incontestable')[None]
 )
 Running greedy_until requests
+Running loglikelihood requests
+{
+  "results": {
+    "xquad_ca": {
+      "exact": 19.428090832632464,
+      "f1": 36.03350700403235,
+      "HasAns_exact": 19.428090832632464,
+      "HasAns_f1": 36.03350700403235,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 19.428090832632464,
+      "best_f1": 36.03350700403239
+    },
+    "xquad_en": {
+      "exact": 22.521008403361346,
+      "f1": 35.46350466827441,
+      "HasAns_exact": 22.521008403361346,
+      "HasAns_f1": 35.46350466827441,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 22.521008403361346,
+      "best_f1": 35.463504668274446
+    },
+    "xquad_es": {
+      "exact": 18.907563025210084,
+      "f1": 35.97880144987809,
+      "HasAns_exact": 18.907563025210084,
+      "HasAns_f1": 35.97880144987809,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 18.907563025210084,
+      "best_f1": 35.978801449878084
+    }
+  },
+  "versions": {
+    "xquad_ca": 0.0,
+    "xquad_en": 0.0,
+    "xquad_es": 0.0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 5,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:1",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=projecte-aina/aguila-7b,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 5, batch_size: None
+|  Task  |Version|   Metric   | Value |   |Stderr|
+|--------|------:|------------|------:|---|------|
+|xquad_ca|      0|exact       |19.4281|   |      |
+|        |       |f1          |36.0335|   |      |
+|        |       |HasAns_exact|19.4281|   |      |
+|        |       |HasAns_f1   |36.0335|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  |19.4281|   |      |
+|        |       |best_f1     |36.0335|   |      |
+|xquad_en|      0|exact       |22.5210|   |      |
+|        |       |f1          |35.4635|   |      |
+|        |       |HasAns_exact|22.5210|   |      |
+|        |       |HasAns_f1   |35.4635|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  |22.5210|   |      |
+|        |       |best_f1     |35.4635|   |      |
+|xquad_es|      0|exact       |18.9076|   |      |
+|        |       |f1          |35.9788|   |      |
+|        |       |HasAns_exact|18.9076|   |      |
+|        |       |HasAns_f1   |35.9788|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  |18.9076|   |      |
+|        |       |best_f1     |35.9788|   |      |
+

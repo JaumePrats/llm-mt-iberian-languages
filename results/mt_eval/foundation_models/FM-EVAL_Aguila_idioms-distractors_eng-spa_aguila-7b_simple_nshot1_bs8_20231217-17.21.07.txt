@@ -1,0 +1,105 @@
+TEST PARAMETERS: ----------
+start time: 17/12/2023 at 17:21:08
+execution time: 0:08:17.803977
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_idioms-distractors",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.spa",
+    "src_data": "/fs/surtr0/jprats/data/raw/idioms_francesca/extraction/idioms_francesca.distractors.eng",
+    "timestamp": "20231217-17.21.07"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 110,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 5,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 5.814
+{
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            52
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 1.1628
+    },
+    "es": {
+        "abs_count": 81,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 94.186
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            19
+        ],
+        "name": "French",
+        "percentage(%)": 1.1628
+    },
+    "gl": {
+        "abs_count": 1,
+        "lines": [
+            16
+        ],
+        "name": "Galician",
+        "percentage(%)": 1.1628
+    },
+    "lt": {
+        "abs_count": 1,
+        "lines": [
+            71
+        ],
+        "name": "Lithuanian",
+        "percentage(%)": 1.1628
+    },
+    "sk": {
+        "abs_count": 1,
+        "lines": [
+            25
+        ],
+        "name": "Slovak",
+        "percentage(%)": 1.1628
+    }
+}
+
+BLEU: ----------
+BLEU = 21.55 43.1/24.9/16.9/11.9 (BP = 1.000 ratio = 1.070 hyp_len = 1978 ref_len = 1848)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 71.41
+COMET20 = 1.58
+
+copy results (blue comet22 comet20 off-tgt) ----------
+21.55 71.41 1.58 5.814

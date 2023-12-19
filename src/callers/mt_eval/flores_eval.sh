@@ -1,15 +1,17 @@
 #!/bin/bash
 
 # model=projecte-aina/aguila-7b
-model=tiiuae/falcon-7b
+# model=tiiuae/falcon-7b
+model=/fs/surtr0/jprats/models/merged/aguila/qlora/aguila_qlora_en-es10k_ebs256-4x1x64_linear_lr2e-4_ep2
 eval_set=devtest
 example_set=dev
-filename_prefix=FM-EVAL_Falcon_flores-$eval_set
-nums_fewshot=(5)
+filename_prefix=PD-QLORA_Aguila_flores-$eval_set
+# filename_prefix=FM-EVAL_Falcon_flores-$eval_set
+nums_fewshot=(5 0)
 # nums_fewshot=(0 1)
 # directions=("cat-eng" "cat-spa" "eng-cat" "eng-spa" "spa-cat" "spa-eng")
-directions=("cat-eng")
-gpus=(0 4)
+directions=("eng-spa" "spa-eng")
+gpus=(0 1)
 
 for num_fewshot in "${nums_fewshot[@]}"; do
 
