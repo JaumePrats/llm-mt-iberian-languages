@@ -1,0 +1,172 @@
+TEST PARAMETERS: ----------
+start time: 20/12/2023 at 07:56:18
+execution time: 1 day, 3:57:47.335957
+translation direction: spa-eng
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "FM-EVAL_Aguila_unpc_testset",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/testset/UNv1.0.testset.eng",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/testset/UNv1.0.testset.spa",
+    "timestamp": "20231220-07.56.15"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 300,
+    "model_id": "projecte-aina/aguila-7b",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 1,
+    "ref_examples": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/devset/UNv1.0.devset.eng",
+    "src_examples": "/fs/surtr0/jprats/data/processed/evaluation/UNPC/devset/UNv1.0.devset.spa",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.4565
+{
+    "en": {
+        "abs_count": 4127,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 98.5435
+    },
+    "es": {
+        "abs_count": 42,
+        "lines": [
+            23,
+            292,
+            532,
+            721,
+            968,
+            969,
+            988,
+            1098,
+            1112,
+            1176,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 1.0029
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1981
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0239
+    },
+    "eu": {
+        "abs_count": 5,
+        "lines": [
+            1442,
+            2066,
+            2181,
+            3168,
+            4012
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.1194
+    },
+    "fr": {
+        "abs_count": 2,
+        "lines": [
+            1499,
+            3754
+        ],
+        "name": "French",
+        "percentage(%)": 0.0478
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            1222
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.0239
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            757
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0239
+    },
+    "it": {
+        "abs_count": 4,
+        "lines": [
+            398,
+            800,
+            2206,
+            3403
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0955
+    },
+    "nl": {
+        "abs_count": 2,
+        "lines": [
+            1800,
+            3424
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.0478
+    },
+    "pl": {
+        "abs_count": 1,
+        "lines": [
+            4181
+        ],
+        "name": "Polish",
+        "percentage(%)": 0.0239
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            756
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.0239
+    },
+    "ro": {
+        "abs_count": 1,
+        "lines": [
+            3771
+        ],
+        "name": "Romanian",
+        "percentage(%)": 0.0239
+    }
+}
+
+BLEU: ----------
+BLEU = 3.61 19.3/3.8/1.8/1.3 (BP = 1.000 ratio = 1.042 hyp_len = 123992 ref_len = 118945)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 46.96
+COMET20 = -121.11000000000001
+
+copy results (blue comet22 comet20 off-tgt) ----------
+3.61 46.96 -121.11000000000001 1.4565
