@@ -180,10 +180,15 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
     template = TEMPLATES[prompt_params['template_id']]
     with open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
         for generation in generations:
+            import pdb; pdb.set_trace()
             full_output = generation[0]['generated_text']
             complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
             if template['bos'] != '' and template['eos'] != '' and template['bos'] != template['eos']:
-                tgt_sentence = full_output.split(template['bos'])[(prompt_params['num_fewshot']+1)*2].split(template['eos'])[0]
+                raw_tgt_sentence = full_output.split(template['bos'])[(prompt_params['num_fewshot']+1)*2]
+                if len(raw_tgt_sentence.split(template['eos'])) > 1: # template eos found in model response
+                    tgt_sentence = raw_tgt_sentence.split(template['eos'])[0]
+                else: # if template eos not found, using breakline as eos
+                    tgt_sentence = raw_tgt_sentence.split('\n')[0]
             else:
                 prompt_br_count = prompt[0].count('\n') + prompt[1].count('\n') # number of break lines in prompt
                 tgt_sentence = full_output.split('\n')[prompt_br_count].replace(prompt[1].split('\n')[-1], '')
