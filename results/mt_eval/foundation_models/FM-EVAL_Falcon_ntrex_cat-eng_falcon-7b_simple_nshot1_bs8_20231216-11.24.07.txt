@@ -103,3 +103,84 @@ COMET20 = 29.7
 
 copy results (blue comet22 comet20 off-tgt) ----------
 21.30 77.27000000000001 29.7 0.2505
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.2505
+{
+    "az": {
+        "abs_count": 1,
+        "lines": [
+            1968
+        ],
+        "name": "Azerbaijani",
+        "percentage(%)": 0.0501
+    },
+    "de": {
+        "abs_count": 1,
+        "lines": [
+            960
+        ],
+        "name": "German",
+        "percentage(%)": 0.0501
+    },
+    "en": {
+        "abs_count": 1991,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.7495
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            915
+        ],
+        "name": "French",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    },
+    "tl": {
+        "abs_count": 1,
+        "lines": [
+            1918
+        ],
+        "name": "Tagalog",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 21.30 51.7/26.2/15.6/9.7 (BP = 1.000 ratio = 1.096 hyp_len = 52227 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 77.27000000000001
+COMET20 = 29.7
+
+copy results (blue comet22 comet20 off-tgt) ----------
+21.30 77.27000000000001 29.7 0.2505

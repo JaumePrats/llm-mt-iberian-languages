@@ -144,3 +144,125 @@ COMET20 = -0.44999999999999996
 
 copy results (blue comet22 comet20 off-tgt) ----------
 8.95 69.17 -0.44999999999999996 26.1858
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 26.1858
+{
+    "an": {
+        "abs_count": 4,
+        "lines": [
+            189,
+            334,
+            747,
+            854
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.3953
+    },
+    "ca": {
+        "abs_count": 747,
+        "lines": [
+            1,
+            2,
+            3,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            15,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 73.8142
+    },
+    "es": {
+        "abs_count": 251,
+        "lines": [
+            4,
+            5,
+            6,
+            14,
+            16,
+            24,
+            27,
+            31,
+            32,
+            35,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 24.8024
+    },
+    "fr": {
+        "abs_count": 4,
+        "lines": [
+            11,
+            432,
+            719,
+            768
+        ],
+        "name": "French",
+        "percentage(%)": 0.3953
+    },
+    "hr": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Croatian",
+        "percentage(%)": 0.0988
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            644
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.0988
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            307
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0988
+    },
+    "oc": {
+        "abs_count": 1,
+        "lines": [
+            562
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.0988
+    },
+    "pt": {
+        "abs_count": 2,
+        "lines": [
+            490,
+            673
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1976
+    }
+}
+
+BLEU: ----------
+BLEU = 8.95 38.2/13.0/5.4/2.4 (BP = 1.000 ratio = 1.071 hyp_len = 29246 ref_len = 27304)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 69.17
+COMET20 = -0.44999999999999996
+
+copy results (blue comet22 comet20 off-tgt) ----------
+8.95 69.17 -0.44999999999999996 26.1858

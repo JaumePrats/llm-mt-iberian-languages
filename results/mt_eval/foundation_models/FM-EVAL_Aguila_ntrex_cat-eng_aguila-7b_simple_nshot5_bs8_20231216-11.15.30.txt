@@ -121,3 +121,102 @@ COMET20 = -84.44
 
 copy results (blue comet22 comet20 off-tgt) ----------
 6.79 53.68000000000001 -84.44 0.4487
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.4509
+{
+    "ca": {
+        "abs_count": 1,
+        "lines": [
+            338
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.0501
+    },
+    "cy": {
+        "abs_count": 1,
+        "lines": [
+            1488
+        ],
+        "name": "Welsh",
+        "percentage(%)": 0.0501
+    },
+    "de": {
+        "abs_count": 2,
+        "lines": [
+            1522,
+            1716
+        ],
+        "name": "German",
+        "percentage(%)": 0.1002
+    },
+    "en": {
+        "abs_count": 1987,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.5491
+    },
+    "es": {
+        "abs_count": 2,
+        "lines": [
+            41,
+            461
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.1002
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            1872
+        ],
+        "name": "French",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    },
+    "tl": {
+        "abs_count": 1,
+        "lines": [
+            1918
+        ],
+        "name": "Tagalog",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 26.40 57.9/32.0/20.1/13.1 (BP = 1.000 ratio = 1.008 hyp_len = 48062 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 81.69
+COMET20 = 46.239999999999995
+
+copy results (blue comet22 comet20 off-tgt) ----------
+26.40 81.69 46.239999999999995 0.4509

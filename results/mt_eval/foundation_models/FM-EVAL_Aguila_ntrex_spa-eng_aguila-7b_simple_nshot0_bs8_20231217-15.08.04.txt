@@ -276,3 +276,166 @@ COMET20 = -148.37
 
 copy results (blue comet22 comet20 off-tgt) ----------
 0.51 37.419999999999995 -148.37 17.8044
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 12.7756
+{
+    "az": {
+        "abs_count": 4,
+        "lines": [
+            391,
+            556,
+            1925,
+            1968
+        ],
+        "name": "Azerbaijani",
+        "percentage(%)": 0.2004
+    },
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            397,
+            1101
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.1002
+    },
+    "de": {
+        "abs_count": 3,
+        "lines": [
+            819,
+            1043,
+            1488
+        ],
+        "name": "German",
+        "percentage(%)": 0.1503
+    },
+    "en": {
+        "abs_count": 1741,
+        "lines": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            10,
+            11,
+            12,
+            14,
+            15,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 87.2244
+    },
+    "es": {
+        "abs_count": 235,
+        "lines": [
+            2,
+            5,
+            8,
+            9,
+            13,
+            67,
+            69,
+            83,
+            94,
+            98,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 11.7735
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1133
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0501
+    },
+    "id": {
+        "abs_count": 2,
+        "lines": [
+            636,
+            764
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.1002
+    },
+    "it": {
+        "abs_count": 2,
+        "lines": [
+            271,
+            583
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.1002
+    },
+    "la": {
+        "abs_count": 1,
+        "lines": [
+            456
+        ],
+        "name": "Latin",
+        "percentage(%)": 0.0501
+    },
+    "nb": {
+        "abs_count": 1,
+        "lines": [
+            1179
+        ],
+        "name": "Norwegian Bokm\u00e5l",
+        "percentage(%)": 0.0501
+    },
+    "rw": {
+        "abs_count": 1,
+        "lines": [
+            237
+        ],
+        "name": "Kinyarwanda",
+        "percentage(%)": 0.0501
+    },
+    "sk": {
+        "abs_count": 1,
+        "lines": [
+            1715
+        ],
+        "name": "Slovak",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    },
+    "zh": {
+        "abs_count": 1,
+        "lines": [
+            1939
+        ],
+        "name": "Chinese",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 14.88 38.6/18.3/10.9/6.8 (BP = 0.985 ratio = 0.985 hyp_len = 46944 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 66.79
+COMET20 = -21.560000000000002
+
+copy results (blue comet22 comet20 off-tgt) ----------
+14.88 66.79 -21.560000000000002 12.7756

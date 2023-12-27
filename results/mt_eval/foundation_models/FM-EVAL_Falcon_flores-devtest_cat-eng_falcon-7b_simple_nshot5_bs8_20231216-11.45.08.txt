@@ -71,3 +71,52 @@ COMET20 = 46.33
 
 copy results (blue comet22 comet20 off-tgt) ----------
 28.51 80.97999999999999 46.33 0.0988
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0988
+{
+    "en": {
+        "abs_count": 1011,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.9012
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 0.26 4.6/0.3/0.1/0.0 (BP = 1.000 ratio = 1.235 hyp_len = 25967 ref_len = 21028)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 33.45
+COMET20 = -192.74
+
+copy results (blue comet22 comet20 off-tgt) ----------
+0.26 33.45 -192.74 0.0988

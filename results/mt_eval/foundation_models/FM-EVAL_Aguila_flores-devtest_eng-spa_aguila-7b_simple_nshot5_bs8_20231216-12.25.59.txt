@@ -97,3 +97,117 @@ COMET20 = -99.06
 
 copy results (blue comet22 comet20 off-tgt) ----------
 5.07 50.690000000000005 -99.06 0.5906
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.1976
+{
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            955
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 1010,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.8024
+    },
+    "ga": {
+        "abs_count": 1,
+        "lines": [
+            389
+        ],
+        "name": "Irish",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 18.92 55.2/27.3/15.3/8.8 (BP = 0.892 ratio = 0.897 hyp_len = 26200 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 81.32000000000001
+COMET20 = 39.900000000000006
+
+copy results (blue comet22 comet20 off-tgt) ----------
+18.92 81.32000000000001 39.900000000000006 0.1976
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.1976
+{
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            955
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0988
+    },
+    "es": {
+        "abs_count": 1010,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.8024
+    },
+    "ga": {
+        "abs_count": 1,
+        "lines": [
+            389
+        ],
+        "name": "Irish",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 18.92 55.2/27.3/15.3/8.8 (BP = 0.892 ratio = 0.897 hyp_len = 26200 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 81.32000000000001
+COMET20 = 39.900000000000006
+
+copy results (blue comet22 comet20 off-tgt) ----------
+18.92 81.32000000000001 39.900000000000006 0.1976

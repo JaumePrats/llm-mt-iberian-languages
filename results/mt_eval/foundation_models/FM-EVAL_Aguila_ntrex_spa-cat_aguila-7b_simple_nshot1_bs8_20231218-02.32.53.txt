@@ -233,3 +233,210 @@ COMET20 = -128.61
 
 copy results (blue comet22 comet20 off-tgt) ----------
 2.16 47.52 -128.61 21.1
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 20.9419
+{
+    "ca": {
+        "abs_count": 1578,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 79.0581
+    },
+    "en": {
+        "abs_count": 2,
+        "lines": [
+            100,
+            1718
+        ],
+        "name": "English",
+        "percentage(%)": 0.1002
+    },
+    "eo": {
+        "abs_count": 1,
+        "lines": [
+            1730
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.0501
+    },
+    "es": {
+        "abs_count": 382,
+        "lines": [
+            36,
+            38,
+            40,
+            42,
+            46,
+            50,
+            60,
+            61,
+            64,
+            74,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 19.1383
+    },
+    "fr": {
+        "abs_count": 4,
+        "lines": [
+            833,
+            1841,
+            1842,
+            1866
+        ],
+        "name": "French",
+        "percentage(%)": 0.2004
+    },
+    "gl": {
+        "abs_count": 5,
+        "lines": [
+            109,
+            538,
+            1051,
+            1536,
+            1745
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.2505
+    },
+    "hr": {
+        "abs_count": 2,
+        "lines": [
+            554,
+            556
+        ],
+        "name": "Croatian",
+        "percentage(%)": 0.1002
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            1171
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.0501
+    },
+    "is": {
+        "abs_count": 1,
+        "lines": [
+            1821
+        ],
+        "name": "Icelandic",
+        "percentage(%)": 0.0501
+    },
+    "la": {
+        "abs_count": 1,
+        "lines": [
+            1542
+        ],
+        "name": "Latin",
+        "percentage(%)": 0.0501
+    },
+    "nl": {
+        "abs_count": 2,
+        "lines": [
+            842,
+            1330
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.1002
+    },
+    "nn": {
+        "abs_count": 1,
+        "lines": [
+            1716
+        ],
+        "name": "Norwegian Nynorsk",
+        "percentage(%)": 0.0501
+    },
+    "oc": {
+        "abs_count": 9,
+        "lines": [
+            115,
+            302,
+            398,
+            405,
+            1090,
+            1594,
+            1602,
+            1717,
+            1767
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.4509
+    },
+    "pl": {
+        "abs_count": 1,
+        "lines": [
+            455
+        ],
+        "name": "Polish",
+        "percentage(%)": 0.0501
+    },
+    "pt": {
+        "abs_count": 2,
+        "lines": [
+            1129,
+            1414
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1002
+    },
+    "se": {
+        "abs_count": 1,
+        "lines": [
+            319
+        ],
+        "name": "Northern Sami",
+        "percentage(%)": 0.0501
+    },
+    "sk": {
+        "abs_count": 2,
+        "lines": [
+            1715,
+            1849
+        ],
+        "name": "Slovak",
+        "percentage(%)": 0.1002
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 17.41 40.8/20.1/12.9/8.7 (BP = 1.000 ratio = 1.030 hyp_len = 55057 ref_len = 53434)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 66.33
+COMET20 = -26.779999999999998
+
+copy results (blue comet22 comet20 off-tgt) ----------
+17.41 66.33 -26.779999999999998 20.9419

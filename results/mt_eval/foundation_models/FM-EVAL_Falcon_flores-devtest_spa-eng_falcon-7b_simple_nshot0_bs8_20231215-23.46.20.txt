@@ -63,3 +63,44 @@ COMET20 = 3.3000000000000003
 
 copy results (blue comet22 comet20 off-tgt) ----------
 16.86 72.50999999999999 3.3000000000000003 0.0
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.0
+{
+    "en": {
+        "abs_count": 1012,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 100.0
+    }
+}
+
+BLEU: ----------
+BLEU = 0.25 4.4/0.3/0.1/0.0 (BP = 1.000 ratio = 1.300 hyp_len = 27326 ref_len = 21028)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 34.589999999999996
+COMET20 = -195.2
+
+copy results (blue comet22 comet20 off-tgt) ----------
+0.25 34.589999999999996 -195.2 0.0

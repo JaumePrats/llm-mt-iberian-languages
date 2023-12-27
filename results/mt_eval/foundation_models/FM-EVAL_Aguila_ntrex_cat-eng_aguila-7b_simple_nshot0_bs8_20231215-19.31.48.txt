@@ -256,3 +256,199 @@ COMET20 = -157.64000000000001
 
 copy results (blue comet22 comet20 off-tgt) ----------
 0.16 34.23 -157.64000000000001 35.6088
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 19.8898
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            1638
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 372,
+        "lines": [
+            8,
+            9,
+            13,
+            14,
+            35,
+            44,
+            57,
+            67,
+            70,
+            76,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 18.6373
+    },
+    "cy": {
+        "abs_count": 2,
+        "lines": [
+            136,
+            392
+        ],
+        "name": "Welsh",
+        "percentage(%)": 0.1002
+    },
+    "de": {
+        "abs_count": 1,
+        "lines": [
+            1716
+        ],
+        "name": "German",
+        "percentage(%)": 0.0501
+    },
+    "en": {
+        "abs_count": 1599,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 80.1102
+    },
+    "es": {
+        "abs_count": 5,
+        "lines": [
+            28,
+            764,
+            1582,
+            1624,
+            1767
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.2505
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1133
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0501
+    },
+    "fi": {
+        "abs_count": 2,
+        "lines": [
+            1255,
+            1303
+        ],
+        "name": "Finnish",
+        "percentage(%)": 0.1002
+    },
+    "hr": {
+        "abs_count": 1,
+        "lines": [
+            1916
+        ],
+        "name": "Croatian",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            463
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "lv": {
+        "abs_count": 1,
+        "lines": [
+            898
+        ],
+        "name": "Latvian",
+        "percentage(%)": 0.0501
+    },
+    "ms": {
+        "abs_count": 1,
+        "lines": [
+            1422
+        ],
+        "name": "Malay (macrolanguage)",
+        "percentage(%)": 0.0501
+    },
+    "mt": {
+        "abs_count": 2,
+        "lines": [
+            110,
+            584
+        ],
+        "name": "Maltese",
+        "percentage(%)": 0.1002
+    },
+    "oc": {
+        "abs_count": 2,
+        "lines": [
+            113,
+            1599
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.1002
+    },
+    "pt": {
+        "abs_count": 2,
+        "lines": [
+            1138,
+            1920
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.1002
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    },
+    "tl": {
+        "abs_count": 1,
+        "lines": [
+            1918
+        ],
+        "name": "Tagalog",
+        "percentage(%)": 0.0501
+    },
+    "wa": {
+        "abs_count": 1,
+        "lines": [
+            193
+        ],
+        "name": "Walloon",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 7.37 20.7/9.0/5.2/3.1 (BP = 1.000 ratio = 1.247 hyp_len = 59455 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 53.900000000000006
+COMET20 = -75.62
+
+copy results (blue comet22 comet20 off-tgt) ----------
+7.37 53.900000000000006 -75.62 19.8898

@@ -124,3 +124,207 @@ COMET20 = 67.01
 
 copy results (blue comet22 comet20 off-tgt) ----------
 34.62 86.14 67.01 0.6012
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.6012
+{
+    "de": {
+        "abs_count": 3,
+        "lines": [
+            455,
+            584,
+            1298
+        ],
+        "name": "German",
+        "percentage(%)": 0.1503
+    },
+    "en": {
+        "abs_count": 1984,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.3988
+    },
+    "es": {
+        "abs_count": 2,
+        "lines": [
+            1715,
+            1820
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.1002
+    },
+    "fr": {
+        "abs_count": 2,
+        "lines": [
+            960,
+            1872
+        ],
+        "name": "French",
+        "percentage(%)": 0.1002
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            271
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "nl": {
+        "abs_count": 2,
+        "lines": [
+            964,
+            1751
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.1002
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            1714
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 34.62 64.8/40.5/27.8/19.7 (BP = 1.000 ratio = 1.043 hyp_len = 49714 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 86.14
+COMET20 = 67.01
+
+copy results (blue comet22 comet20 off-tgt) ----------
+34.62 86.14 67.01 0.6012
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.6012
+{
+    "de": {
+        "abs_count": 3,
+        "lines": [
+            455,
+            584,
+            1298
+        ],
+        "name": "German",
+        "percentage(%)": 0.1503
+    },
+    "en": {
+        "abs_count": 1984,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 99.3988
+    },
+    "es": {
+        "abs_count": 2,
+        "lines": [
+            1715,
+            1820
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.1002
+    },
+    "fr": {
+        "abs_count": 2,
+        "lines": [
+            960,
+            1872
+        ],
+        "name": "French",
+        "percentage(%)": 0.1002
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            271
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "nl": {
+        "abs_count": 2,
+        "lines": [
+            964,
+            1751
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.1002
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            1714
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.0501
+    },
+    "sl": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Slovenian",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 34.62 64.8/40.5/27.8/19.7 (BP = 1.000 ratio = 1.043 hyp_len = 49714 ref_len = 47668)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 86.14
+COMET20 = 67.01
+
+copy results (blue comet22 comet20 off-tgt) ----------
+34.62 86.14 67.01 0.6012

@@ -317,3 +317,208 @@ COMET20 = -160.71
 
 copy results (blue comet22 comet20 off-tgt) ----------
 0.24 34.599999999999994 -160.71 15.8879
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 16.025
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            1433
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.025
+    },
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            153,
+            588
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.05
+    },
+    "en": {
+        "abs_count": 3359,
+        "lines": [
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            16,
+            "more than 10 lines ..."
+        ],
+        "name": "English",
+        "percentage(%)": 83.975
+    },
+    "eo": {
+        "abs_count": 6,
+        "lines": [
+            1206,
+            1221,
+            1527,
+            2253,
+            2842,
+            3728
+        ],
+        "name": "Esperanto",
+        "percentage(%)": 0.15
+    },
+    "es": {
+        "abs_count": 437,
+        "lines": [
+            1,
+            4,
+            9,
+            13,
+            14,
+            24,
+            29,
+            35,
+            42,
+            56,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 10.925
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1187
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.025
+    },
+    "eu": {
+        "abs_count": 1,
+        "lines": [
+            3161
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.025
+    },
+    "fr": {
+        "abs_count": 6,
+        "lines": [
+            15,
+            295,
+            419,
+            602,
+            940,
+            3857
+        ],
+        "name": "French",
+        "percentage(%)": 0.15
+    },
+    "gl": {
+        "abs_count": 5,
+        "lines": [
+            481,
+            2067,
+            2179,
+            3582,
+            3821
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.125
+    },
+    "hu": {
+        "abs_count": 1,
+        "lines": [
+            299
+        ],
+        "name": "Hungarian",
+        "percentage(%)": 0.025
+    },
+    "id": {
+        "abs_count": 2,
+        "lines": [
+            753,
+            3656
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.05
+    },
+    "it": {
+        "abs_count": 174,
+        "lines": [
+            25,
+            32,
+            37,
+            39,
+            44,
+            51,
+            97,
+            106,
+            130,
+            131,
+            "more than 10 lines ..."
+        ],
+        "name": "Italian",
+        "percentage(%)": 4.35
+    },
+    "lt": {
+        "abs_count": 1,
+        "lines": [
+            2269
+        ],
+        "name": "Lithuanian",
+        "percentage(%)": 0.025
+    },
+    "ps": {
+        "abs_count": 1,
+        "lines": [
+            881
+        ],
+        "name": "Pushto",
+        "percentage(%)": 0.025
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            2195
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.025
+    },
+    "sw": {
+        "abs_count": 1,
+        "lines": [
+            2251
+        ],
+        "name": "Swahili (macrolanguage)",
+        "percentage(%)": 0.025
+    },
+    "xh": {
+        "abs_count": 1,
+        "lines": [
+            1753
+        ],
+        "name": "Xhosa",
+        "percentage(%)": 0.025
+    }
+}
+
+BLEU: ----------
+BLEU = 16.12 36.7/18.7/12.0/8.2 (BP = 1.000 ratio = 1.111 hyp_len = 132092 ref_len = 118945)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 62.92
+COMET20 = -43.95
+
+copy results (blue comet22 comet20 off-tgt) ----------
+16.12 62.92 -43.95 16.025
