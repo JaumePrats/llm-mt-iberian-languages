@@ -187,6 +187,7 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
                 raw_tgt_sentence = full_output.split(template['bos'])[(prompt_params['num_fewshot']+1)*2]
                 if len(raw_tgt_sentence.split(template['eos'])) > 1: # template eos found in model response
                     tgt_sentence = raw_tgt_sentence.split(template['eos'])[0]
+                    tgt_sentence = tgt_sentence.replace('\n', ' ') # making sure that output does not contain \n
                 else: # if template eos not found, using breakline as eos
                     tgt_sentence = raw_tgt_sentence.split('\n')[0]
             else:
@@ -198,7 +199,7 @@ def evaluate(tgt_path: str, ref_lang_code: str, results_path):
 
     comet_filename = os.path.splitext(os.path.basename(results_path))[0]
 
-    with open(results_path, 'a') as results_file: # opening file with access mode 'a' (append)
+    with open(results_path, 'a') as results_file: 
         logging.info('Evaluating...')
         results_file.write('\n')
         results_file.write(f"EVALUATION RESULTS: {20*'='}\n")
