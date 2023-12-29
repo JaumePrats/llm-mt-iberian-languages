@@ -180,7 +180,6 @@ def translate(io_params: dict, model_params: dict, prompt_params: dict, prompt: 
     template = TEMPLATES[prompt_params['template_id']]
     with open(tgt_path, 'w') as tgt_file, open(complete_out_path, 'w') as complete_out_file:
         for generation in generations:
-            import pdb; pdb.set_trace()
             full_output = generation[0]['generated_text']
             complete_out_file.write(full_output + "\n" + 20*'-' + '\n') # save full output of the model
             if template['bos'] != '' and template['eos'] != '' and template['bos'] != template['eos']:
