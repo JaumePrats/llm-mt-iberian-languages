@@ -1,0 +1,183 @@
+TEST PARAMETERS: ----------
+start time: 29/12/2023 at 10:13:39
+execution time: 0:27:58.785822
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "ParallelData-QLORA_Falcon_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.spa.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "timestamp": "20231229-10.13.35"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 250,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon/qlora/en-es_bidirectional/falcon_qlora_en-es100k_ebs256-4x1x64_linear_lr2e-4_ep2",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.7034
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            302
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 6,
+        "lines": [
+            177,
+            320,
+            723,
+            1016,
+            1679,
+            1919
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.3006
+    },
+    "en": {
+        "abs_count": 4,
+        "lines": [
+            844,
+            1125,
+            1718,
+            1981
+        ],
+        "name": "English",
+        "percentage(%)": 0.2004
+    },
+    "es": {
+        "abs_count": 1962,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 98.2966
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1730
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 4,
+        "lines": [
+            555,
+            847,
+            962,
+            1487
+        ],
+        "name": "French",
+        "percentage(%)": 0.2004
+    },
+    "gl": {
+        "abs_count": 6,
+        "lines": [
+            854,
+            1043,
+            1425,
+            1573,
+            1766,
+            1920
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.3006
+    },
+    "it": {
+        "abs_count": 3,
+        "lines": [
+            1259,
+            1804,
+            1932
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.1503
+    },
+    "nl": {
+        "abs_count": 1,
+        "lines": [
+            542
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.0501
+    },
+    "pt": {
+        "abs_count": 5,
+        "lines": [
+            100,
+            191,
+            523,
+            939,
+            1187
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.2505
+    },
+    "se": {
+        "abs_count": 1,
+        "lines": [
+            319
+        ],
+        "name": "Northern Sami",
+        "percentage(%)": 0.0501
+    },
+    "sw": {
+        "abs_count": 1,
+        "lines": [
+            790
+        ],
+        "name": "Swahili (macrolanguage)",
+        "percentage(%)": 0.0501
+    },
+    "xh": {
+        "abs_count": 1,
+        "lines": [
+            1719
+        ],
+        "name": "Xhosa",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 28.86 60.2/35.1/22.8/15.1 (BP = 0.990 ratio = 0.990 hyp_len = 53547 ref_len = 54106)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 82.37
+COMET20 = 51.42
+
+copy results (blue comet22 comet20 off-tgt) ----------
+28.86 82.37 51.42 1.7034
