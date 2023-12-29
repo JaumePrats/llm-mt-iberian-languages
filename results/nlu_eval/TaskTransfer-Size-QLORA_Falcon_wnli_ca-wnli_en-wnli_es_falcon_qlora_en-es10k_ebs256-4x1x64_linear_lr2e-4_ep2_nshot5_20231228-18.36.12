@@ -1,0 +1,130 @@
+Selected Tasks: ['wnli_ca', 'wnli_en', 'wnli_es']
+Using device 'cuda:4'
+Task: wnli_ca; number of docs: 71
+Task: wnli_ca; document 0; context prompt (starting on next line):
+Molts lectors comencen a llegir els llibres d’en Pol i no poden parar. Són populars perquè en Pol escriu molt bé.
+Pregunta: Els llibres d’en Pol són populars perquè en Pol escriu molt bé. Cert o Fals?
+Resposta: Cert
+
+Era una tarda d’estiu i el gos estava ajagut damunt la gespa. Al cap d’una estona, es va alçar i se’n va anar cap a un racó sota l’arbre perquè tenia calor.
+Pregunta: El gos tenia calor. Cert o Fals?
+Resposta: Cert
+
+En Joan no podia veure l’escenari amb en Guillem davant seu perquè és molt baix.
+Pregunta: En Guillem és molt baix. Cert o Fals?
+Resposta: Fals
+
+El senyor Sastre era un home de temperament incert i en general pensava que en David era un pobre inútil que fes el que fes seguint els seus propis passos, era una mostra més de la seva qualitat innata d’inútil.
+Pregunta: Fes el que fes seguint els seus propis passos, era una mostra més de la qualitat innata d’inútil del senyor Sastre. Cert o Fals?
+Resposta: Fals
+
+En Jacint estava molt influenciat per l’Arnau tot i que havia viscut dos segles després.
+Pregunta: En Jacint havia viscut dos segles després. Cert o Fals?
+Resposta: Cert
+
+En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.
+Pregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?
+Resposta:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood('Molts lectors comencen a llegir els llibres d’en Pol i no poden parar. Són populars perquè en Pol escriu molt bé.\nPregunta: Els llibres d’en Pol són populars perquè en Pol escriu molt bé. Cert o Fals?\nResposta: Cert\n\nEra una tarda d’estiu i el gos estava ajagut damunt la gespa. Al cap d’una estona, es va alçar i se’n va anar cap a un racó sota l’arbre perquè tenia calor.\nPregunta: El gos tenia calor. Cert o Fals?\nResposta: Cert\n\nEn Joan no podia veure l’escenari amb en Guillem davant seu perquè és molt baix.\nPregunta: En Guillem és molt baix. Cert o Fals?\nResposta: Fals\n\nEl senyor Sastre era un home de temperament incert i en general pensava que en David era un pobre inútil que fes el que fes seguint els seus propis passos, era una mostra més de la seva qualitat innata d’inútil.\nPregunta: Fes el que fes seguint els seus propis passos, era una mostra més de la qualitat innata d’inútil del senyor Sastre. Cert o Fals?\nResposta: Fals\n\nEn Jacint estava molt influenciat per l’Arnau tot i que havia viscut dos segles després.\nPregunta: En Jacint havia viscut dos segles després. Cert o Fals?\nResposta: Cert\n\nEn Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Cert')[0]
+, Req_loglikelihood('Molts lectors comencen a llegir els llibres d’en Pol i no poden parar. Són populars perquè en Pol escriu molt bé.\nPregunta: Els llibres d’en Pol són populars perquè en Pol escriu molt bé. Cert o Fals?\nResposta: Cert\n\nEra una tarda d’estiu i el gos estava ajagut damunt la gespa. Al cap d’una estona, es va alçar i se’n va anar cap a un racó sota l’arbre perquè tenia calor.\nPregunta: El gos tenia calor. Cert o Fals?\nResposta: Cert\n\nEn Joan no podia veure l’escenari amb en Guillem davant seu perquè és molt baix.\nPregunta: En Guillem és molt baix. Cert o Fals?\nResposta: Fals\n\nEl senyor Sastre era un home de temperament incert i en general pensava que en David era un pobre inútil que fes el que fes seguint els seus propis passos, era una mostra més de la seva qualitat innata d’inútil.\nPregunta: Fes el que fes seguint els seus propis passos, era una mostra més de la qualitat innata d’inútil del senyor Sastre. Cert o Fals?\nResposta: Fals\n\nEn Jacint estava molt influenciat per l’Arnau tot i que havia viscut dos segles després.\nPregunta: En Jacint havia viscut dos segles després. Cert o Fals?\nResposta: Cert\n\nEn Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Fals')[0]
+)
+Task: wnli_en; number of docs: 71
+Task: wnli_en; document 0; context prompt (starting on next line):
+Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.
+Question: Paul's books are popular because Paul writes so well. True or False?
+Answer: True
+
+It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.
+Question: The dog was hot. True or False?
+Answer: True
+
+John couldn't see the stage with Billy in front of him because he is so short.
+Question: Billy is so short. True or False?
+Answer: False
+
+Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.
+Question: Any direction on his own account was just another proof of Mr. Taylor's innate idiocy. True or False?
+Answer: False
+
+Jackson was greatly influenced by Arnold, though he lived two centuries later.
+Question: Jackson lived two centuries later. True or False?
+Answer: True
+
+Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+Question: Mark ran to look out the window. True or False?
+Answer:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood("Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.\nQuestion: Paul's books are popular because Paul writes so well. True or False?\nAnswer: True\n\nIt was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.\nQuestion: The dog was hot. True or False?\nAnswer: True\n\nJohn couldn't see the stage with Billy in front of him because he is so short.\nQuestion: Billy is so short. True or False?\nAnswer: False\n\nMr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.\nQuestion: Any direction on his own account was just another proof of Mr. Taylor's innate idiocy. True or False?\nAnswer: False\n\nJackson was greatly influenced by Arnold, though he lived two centuries later.\nQuestion: Jackson lived two centuries later. True or False?\nAnswer: True\n\nMark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.\nQuestion: Mark ran to look out the window. True or False?\nAnswer:", ' True')[0]
+, Req_loglikelihood("Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.\nQuestion: Paul's books are popular because Paul writes so well. True or False?\nAnswer: True\n\nIt was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.\nQuestion: The dog was hot. True or False?\nAnswer: True\n\nJohn couldn't see the stage with Billy in front of him because he is so short.\nQuestion: Billy is so short. True or False?\nAnswer: False\n\nMr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.\nQuestion: Any direction on his own account was just another proof of Mr. Taylor's innate idiocy. True or False?\nAnswer: False\n\nJackson was greatly influenced by Arnold, though he lived two centuries later.\nQuestion: Jackson lived two centuries later. True or False?\nAnswer: True\n\nMark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.\nQuestion: Mark ran to look out the window. True or False?\nAnswer:", ' False')[0]
+)
+Task: wnli_es; number of docs: 71
+Task: wnli_es; document 0; context prompt (starting on next line):
+Muchos lectores empiezan a leer los libros de Paul y no puede dejarlos. Son populares porque Paul escribe muy bien.
+Pregunta: Los libros de Paul son populares porque Paul escribe muy bien. Verdadero o Falso?
+Respuesta: Verdadero
+
+Era una tarde de verano, y el perro estaba tumbado en medio del césped. Al cabo de un rato, se levantó y se dirigió a un lugar bajo el árbol, porque tenía calor.
+Pregunta: El perro tenía calor. Verdadero o Falso?
+Respuesta: Verdadero
+
+John no podía ver el escenario si Billy estaba delante de él porque es demasiado bajo.
+Pregunta: Billy es demasiado bajo. Verdadero o Falso?
+Respuesta: Falso
+
+El Sr. Taylor era un hombre con un carácter inseguro y su tendencia general era pensar que David era un pobre tonto y que hiciera lo que hiciera por su cuenta sería una prueba más de su idiotez innata.
+Pregunta: Hiciera lo que hiciera por su cuenta sería una prueba más de la idiotez innata del Sr. Taylor. Verdadero o Falso?
+Respuesta: Falso
+
+Jackson estaba muy influido por Arnold, aunque vivió dos siglos después.
+Pregunta: Jackson vivió dos siglos después. Verdadero o Falso?
+Respuesta: Verdadero
+
+Mark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.
+Pregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?
+Respuesta:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood('Muchos lectores empiezan a leer los libros de Paul y no puede dejarlos. Son populares porque Paul escribe muy bien.\nPregunta: Los libros de Paul son populares porque Paul escribe muy bien. Verdadero o Falso?\nRespuesta: Verdadero\n\nEra una tarde de verano, y el perro estaba tumbado en medio del césped. Al cabo de un rato, se levantó y se dirigió a un lugar bajo el árbol, porque tenía calor.\nPregunta: El perro tenía calor. Verdadero o Falso?\nRespuesta: Verdadero\n\nJohn no podía ver el escenario si Billy estaba delante de él porque es demasiado bajo.\nPregunta: Billy es demasiado bajo. Verdadero o Falso?\nRespuesta: Falso\n\nEl Sr. Taylor era un hombre con un carácter inseguro y su tendencia general era pensar que David era un pobre tonto y que hiciera lo que hiciera por su cuenta sería una prueba más de su idiotez innata.\nPregunta: Hiciera lo que hiciera por su cuenta sería una prueba más de la idiotez innata del Sr. Taylor. Verdadero o Falso?\nRespuesta: Falso\n\nJackson estaba muy influido por Arnold, aunque vivió dos siglos después.\nPregunta: Jackson vivió dos siglos después. Verdadero o Falso?\nRespuesta: Verdadero\n\nMark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.\nPregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?\nRespuesta:', ' Verdadero')[0]
+, Req_loglikelihood('Muchos lectores empiezan a leer los libros de Paul y no puede dejarlos. Son populares porque Paul escribe muy bien.\nPregunta: Los libros de Paul son populares porque Paul escribe muy bien. Verdadero o Falso?\nRespuesta: Verdadero\n\nEra una tarde de verano, y el perro estaba tumbado en medio del césped. Al cabo de un rato, se levantó y se dirigió a un lugar bajo el árbol, porque tenía calor.\nPregunta: El perro tenía calor. Verdadero o Falso?\nRespuesta: Verdadero\n\nJohn no podía ver el escenario si Billy estaba delante de él porque es demasiado bajo.\nPregunta: Billy es demasiado bajo. Verdadero o Falso?\nRespuesta: Falso\n\nEl Sr. Taylor era un hombre con un carácter inseguro y su tendencia general era pensar que David era un pobre tonto y que hiciera lo que hiciera por su cuenta sería una prueba más de su idiotez innata.\nPregunta: Hiciera lo que hiciera por su cuenta sería una prueba más de la idiotez innata del Sr. Taylor. Verdadero o Falso?\nRespuesta: Falso\n\nJackson estaba muy influido por Arnold, aunque vivió dos siglos después.\nPregunta: Jackson vivió dos siglos después. Verdadero o Falso?\nRespuesta: Verdadero\n\nMark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.\nPregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?\nRespuesta:', ' Falso')[0]
+)
+Running loglikelihood requests
+{
+  "results": {
+    "wnli_ca": {
+      "acc": 0.6056338028169014,
+      "acc_stderr": 0.058412510854444266
+    },
+    "wnli_en": {
+      "acc": 0.4647887323943662,
+      "acc_stderr": 0.05961305784972239
+    },
+    "wnli_es": {
+      "acc": 0.5492957746478874,
+      "acc_stderr": 0.05947027187737999
+    }
+  },
+  "versions": {
+    "wnli_ca": 1,
+    "wnli_en": 1,
+    "wnli_es": 1
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/en-es_bidirectional/falcon_qlora_en-es10k_ebs256-4x1x64_linear_lr2e-4_ep2,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 5,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:4",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/en-es_bidirectional/falcon_qlora_en-es10k_ebs256-4x1x64_linear_lr2e-4_ep2,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 5, batch_size: None
+| Task  |Version|Metric|Value |   |Stderr|
+|-------|------:|------|-----:|---|-----:|
+|wnli_ca|      1|acc   |0.6056|±  |0.0584|
+|wnli_en|      1|acc   |0.4648|±  |0.0596|
+|wnli_es|      1|acc   |0.5493|±  |0.0595|
+

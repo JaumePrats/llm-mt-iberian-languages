@@ -1,0 +1,116 @@
+Selected Tasks: ['xquad_ca', 'xquad_en', 'xquad_es']
+Using device 'cuda:7'
+Task: xquad_ca; number of docs: 1189
+Task: xquad_ca; document 0; context prompt (starting on next line):
+Context: Durant la desinversió del moviment sud-africà a finals dels anys 80, els activistes estudiantils van aixecar un "barri de barraques" a Harvard Yard i van impedir el discurs del vicecònsol sud-africà Duke Kent-Brown. La Harvard Management Company es va negar de manera repetida a desinvertir-hi, afirmant que "les despeses d’explotació no s’han de sotmetre a restriccions o crítiques poc realistes des del punt de vista financer per part de persones poc sofisticades o grups d’interessos especials". Tanmateix, la universitat va acabar reduint els seus hòldings sud-africans en 230 milions de dòlars (de 400 milions de dòlars) en resposta a la pressió.
+
+Pregunta: Quan va ser la desinversió del moviment sud-africà?
+
+Resposta:
+(end of prompt on previous line)
+Requests: (Req_greedy_until('Context: Durant la desinversió del moviment sud-africà a finals dels anys 80, els activistes estudiantils van aixecar un "barri de barraques" a Harvard Yard i van impedir el discurs del vicecònsol sud-africà Duke Kent-Brown. La Harvard Management Company es va negar de manera repetida a desinvertir-hi, afirmant que "les despeses d’explotació no s’han de sotmetre a restriccions o crítiques poc realistes des del punt de vista financer per part de persones poc sofisticades o grups d’interessos especials". Tanmateix, la universitat va acabar reduint els seus hòldings sud-africans en 230\xa0milions de dòlars (de 400 milions de dòlars) en resposta a la pressió.\n\nPregunta: Quan va ser la desinversió del moviment sud-africà?\n\nResposta:', {'until': ['\n']})[None]
+, Req_loglikelihood('Context: Durant la desinversió del moviment sud-africà a finals dels anys 80, els activistes estudiantils van aixecar un "barri de barraques" a Harvard Yard i van impedir el discurs del vicecònsol sud-africà Duke Kent-Brown. La Harvard Management Company es va negar de manera repetida a desinvertir-hi, afirmant que "les despeses d’explotació no s’han de sotmetre a restriccions o crítiques poc realistes des del punt de vista financer per part de persones poc sofisticades o grups d’interessos especials". Tanmateix, la universitat va acabar reduint els seus hòldings sud-africans en 230\xa0milions de dòlars (de 400 milions de dòlars) en resposta a la pressió.\n\nPregunta: Quan va ser la desinversió del moviment sud-africà?\n\nResposta:', ' incontestable')[None]
+)
+Task: xquad_en; number of docs: 1190
+Task: xquad_en; document 0; context prompt (starting on next line):
+Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.
+
+Question: What is incorrectly thought about the outer chloroplast membrane?
+
+Answer:
+(end of prompt on previous line)
+Requests: (Req_greedy_until("Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.\n\nQuestion: What is incorrectly thought about the outer chloroplast membrane?\n\nAnswer:", {'until': ['\n']})[None]
+, Req_loglikelihood("Context: There are some common misconceptions about the outer and inner chloroplast membranes. The fact that chloroplasts are surrounded by a double membrane is often cited as evidence that they are the descendants of endosymbiotic cyanobacteria. This is often interpreted as meaning the outer chloroplast membrane is the product of the host's cell membrane infolding to form a vesicle to surround the ancestral cyanobacterium—which is not true—both chloroplast membranes are homologous to the cyanobacterium's original double membranes.\n\nQuestion: What is incorrectly thought about the outer chloroplast membrane?\n\nAnswer:", ' unanswerable')[None]
+)
+Task: xquad_es; number of docs: 1190
+Task: xquad_es; document 0; context prompt (starting on next line):
+Contexto: Hay algunas ideas falsas comunes sobre las membranas de cloroplasto exterior e interior. El hecho de que los cloroplastos estén rodeados por una membrana doble a menudo se cita como evidencia de que son descendientes de cianobacterias endosimbióticas. Esto a menudo se interpreta como que la membrana externa de cloroplasto es el producto de la membrana celular del huésped que se pliega para formar una vesícula que rodea la cianobacteria ancestral, lo cual no es cierto, ya que ambas membranas de cloroplasto son homólogas a las membranas dobles originales de la cianobacteria.
+
+Pregunta: ¿Qué se piensa incorrectamente sobre la membrana externa de cloroplasto?
+
+Respuesta:
+(end of prompt on previous line)
+Requests: (Req_greedy_until('Contexto: Hay algunas ideas falsas comunes sobre las membranas de cloroplasto exterior e interior. El hecho de que los cloroplastos estén rodeados por una membrana doble a menudo se cita como evidencia de que son descendientes de cianobacterias endosimbióticas. Esto a menudo se interpreta como que la membrana externa de cloroplasto es el producto de la membrana celular del huésped que se pliega para formar una vesícula que rodea la cianobacteria ancestral, lo cual no es cierto, ya que ambas membranas de cloroplasto son homólogas a las membranas dobles originales de la cianobacteria.\n\nPregunta: ¿Qué se piensa incorrectamente sobre la membrana externa de cloroplasto?\n\nRespuesta:', {'until': ['\n']})[None]
+, Req_loglikelihood('Contexto: Hay algunas ideas falsas comunes sobre las membranas de cloroplasto exterior e interior. El hecho de que los cloroplastos estén rodeados por una membrana doble a menudo se cita como evidencia de que son descendientes de cianobacterias endosimbióticas. Esto a menudo se interpreta como que la membrana externa de cloroplasto es el producto de la membrana celular del huésped que se pliega para formar una vesícula que rodea la cianobacteria ancestral, lo cual no es cierto, ya que ambas membranas de cloroplasto son homólogas a las membranas dobles originales de la cianobacteria.\n\nPregunta: ¿Qué se piensa incorrectamente sobre la membrana externa de cloroplasto?\n\nRespuesta:', ' incontestable')[None]
+)
+Running greedy_until requests
+Running loglikelihood requests
+{
+  "results": {
+    "xquad_ca": {
+      "exact": 0.9251471825063078,
+      "f1": 10.086405361306896,
+      "HasAns_exact": 0.9251471825063078,
+      "HasAns_f1": 10.086405361306896,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 0.9251471825063078,
+      "best_f1": 10.086405361306893
+    },
+    "xquad_en": {
+      "exact": 14.873949579831933,
+      "f1": 31.284845711275135,
+      "HasAns_exact": 14.873949579831933,
+      "HasAns_f1": 31.284845711275135,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 14.873949579831933,
+      "best_f1": 31.28484571127512
+    },
+    "xquad_es": {
+      "exact": 5.882352941176471,
+      "f1": 18.76575480885589,
+      "HasAns_exact": 5.882352941176471,
+      "HasAns_f1": 18.76575480885589,
+      "NoAns_exact": 0,
+      "NoAns_f1": 0,
+      "best_exact": 5.882352941176471,
+      "best_f1": 18.765754808855895
+    }
+  },
+  "versions": {
+    "xquad_ca": 0.0,
+    "xquad_en": 0.0,
+    "xquad_es": 0.0
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/es-en/tr4_falcon_qlora_es-en10k-uni_ebs256_ep2,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:7",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/es-en/tr4_falcon_qlora_es-en10k-uni_ebs256_ep2,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+|  Task  |Version|   Metric   | Value |   |Stderr|
+|--------|------:|------------|------:|---|------|
+|xquad_ca|      0|exact       | 0.9251|   |      |
+|        |       |f1          |10.0864|   |      |
+|        |       |HasAns_exact| 0.9251|   |      |
+|        |       |HasAns_f1   |10.0864|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  | 0.9251|   |      |
+|        |       |best_f1     |10.0864|   |      |
+|xquad_en|      0|exact       |14.8739|   |      |
+|        |       |f1          |31.2848|   |      |
+|        |       |HasAns_exact|14.8739|   |      |
+|        |       |HasAns_f1   |31.2848|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  |14.8739|   |      |
+|        |       |best_f1     |31.2848|   |      |
+|xquad_es|      0|exact       | 5.8824|   |      |
+|        |       |f1          |18.7658|   |      |
+|        |       |HasAns_exact| 5.8824|   |      |
+|        |       |HasAns_f1   |18.7658|   |      |
+|        |       |NoAns_exact | 0.0000|   |      |
+|        |       |NoAns_f1    | 0.0000|   |      |
+|        |       |best_exact  | 5.8824|   |      |
+|        |       |best_f1     |18.7658|   |      |
+

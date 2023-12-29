@@ -1,0 +1,70 @@
+Selected Tasks: ['wnli_ca', 'wnli_en', 'wnli_es']
+Using device 'cuda:7'
+Task: wnli_ca; number of docs: 71
+Task: wnli_ca; document 0; context prompt (starting on next line):
+En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.
+Pregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?
+Resposta:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood('En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Cert')[0]
+, Req_loglikelihood('En Marc va sentir les passes de l’Esteve que baixaven per l’escala de peu. La porta de la botiga es va tancar darrere seu. Va córrer a mirar per la finestra.\nPregunta: En Marc va córrer a mirar per la finestra. Cert o Fals?\nResposta:', ' Fals')[0]
+)
+Task: wnli_en; number of docs: 71
+Task: wnli_en; document 0; context prompt (starting on next line):
+Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+Question: Mark ran to look out the window. True or False?
+Answer:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood("Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.\nQuestion: Mark ran to look out the window. True or False?\nAnswer:", ' True')[0]
+, Req_loglikelihood("Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.\nQuestion: Mark ran to look out the window. True or False?\nAnswer:", ' False')[0]
+)
+Task: wnli_es; number of docs: 71
+Task: wnli_es; document 0; context prompt (starting on next line):
+Mark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.
+Pregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?
+Respuesta:
+(end of prompt on previous line)
+Requests: (Req_loglikelihood('Mark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.\nPregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?\nRespuesta:', ' Verdadero')[0]
+, Req_loglikelihood('Mark oyó las pisadas de Steve bajando la escalera. La puerta de la tienda se cerró tras él. Corrió a mirar por la ventana.\nPregunta: Mark corrió a mirar por la ventana. Verdadero o Falso?\nRespuesta:', ' Falso')[0]
+)
+Running loglikelihood requests
+{
+  "results": {
+    "wnli_ca": {
+      "acc": 0.5774647887323944,
+      "acc_stderr": 0.05903984205682581
+    },
+    "wnli_en": {
+      "acc": 0.4788732394366197,
+      "acc_stderr": 0.05970805879899505
+    },
+    "wnli_es": {
+      "acc": 0.5633802816901409,
+      "acc_stderr": 0.05927935558412971
+    }
+  },
+  "versions": {
+    "wnli_ca": 1,
+    "wnli_en": 1,
+    "wnli_es": 1
+  },
+  "config": {
+    "model": "hf-causal",
+    "model_args": "pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/es-en/tr4_falcon_qlora_es-en10k-uni_ebs256_ep2,dtype=float16,trust_remote_code=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda:7",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal (pretrained=/fs/surtr0/jprats/models/merged/falcon/qlora/es-en/tr4_falcon_qlora_es-en10k-uni_ebs256_ep2,dtype=float16,trust_remote_code=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+| Task  |Version|Metric|Value |   |Stderr|
+|-------|------:|------|-----:|---|-----:|
+|wnli_ca|      1|acc   |0.5775|±  |0.0590|
+|wnli_en|      1|acc   |0.4789|±  |0.0597|
+|wnli_es|      1|acc   |0.5634|±  |0.0593|
+
