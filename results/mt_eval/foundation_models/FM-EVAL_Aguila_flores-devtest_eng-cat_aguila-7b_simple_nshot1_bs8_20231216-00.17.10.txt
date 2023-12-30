@@ -296,3 +296,134 @@ COMET20 = 18.14
 
 copy results (blue comet22 comet20 off-tgt) ----------
 21.76 76.63 18.14 1.9763
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.9763
+{
+    "af": {
+        "abs_count": 1,
+        "lines": [
+            388
+        ],
+        "name": "Afrikaans",
+        "percentage(%)": 0.0988
+    },
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            780
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0988
+    },
+    "ca": {
+        "abs_count": 992,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Catalan",
+        "percentage(%)": 98.0237
+    },
+    "cy": {
+        "abs_count": 1,
+        "lines": [
+            874
+        ],
+        "name": "Welsh",
+        "percentage(%)": 0.0988
+    },
+    "en": {
+        "abs_count": 8,
+        "lines": [
+            192,
+            214,
+            247,
+            348,
+            493,
+            777,
+            843,
+            956
+        ],
+        "name": "English",
+        "percentage(%)": 0.7905
+    },
+    "es": {
+        "abs_count": 4,
+        "lines": [
+            88,
+            489,
+            639,
+            733
+        ],
+        "name": "Spanish",
+        "percentage(%)": 0.3953
+    },
+    "is": {
+        "abs_count": 1,
+        "lines": [
+            812
+        ],
+        "name": "Icelandic",
+        "percentage(%)": 0.0988
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    },
+    "nl": {
+        "abs_count": 1,
+        "lines": [
+            487
+        ],
+        "name": "Dutch",
+        "percentage(%)": 0.0988
+    },
+    "oc": {
+        "abs_count": 1,
+        "lines": [
+            182
+        ],
+        "name": "Occitan (post 1500)",
+        "percentage(%)": 0.0988
+    },
+    "pt": {
+        "abs_count": 1,
+        "lines": [
+            950
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 21.76 46.8/25.7/16.7/11.2 (BP = 1.000 ratio = 1.082 hyp_len = 29550 ref_len = 27304)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 75.58
+COMET20 = 17.810000000000002
+
+copy results (blue comet22 comet20 off-tgt) ----------
+21.76 75.58 17.810000000000002 1.9763

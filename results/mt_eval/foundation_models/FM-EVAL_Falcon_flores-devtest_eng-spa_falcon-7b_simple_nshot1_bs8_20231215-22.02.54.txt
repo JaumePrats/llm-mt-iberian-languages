@@ -247,3 +247,78 @@ COMET20 = 46.760000000000005
 
 copy results (blue comet22 comet20 off-tgt) ----------
 20.05 82.49 46.760000000000005 0.5929
+
+********************************************************************************
+*
+*	REEVALUATION RESULTS
+*
+********************************************************************************
+
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 0.5929
+{
+    "ca": {
+        "abs_count": 2,
+        "lines": [
+            285,
+            286
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.1976
+    },
+    "es": {
+        "abs_count": 1006,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 99.4071
+    },
+    "gl": {
+        "abs_count": 2,
+        "lines": [
+            451,
+            515
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.1976
+    },
+    "jv": {
+        "abs_count": 1,
+        "lines": [
+            280
+        ],
+        "name": "Javanese",
+        "percentage(%)": 0.0988
+    },
+    "ro": {
+        "abs_count": 1,
+        "lines": [
+            609
+        ],
+        "name": "Romanian",
+        "percentage(%)": 0.0988
+    }
+}
+
+BLEU: ----------
+BLEU = 20.05 57.3/28.5/15.9/8.8 (BP = 0.916 ratio = 0.919 hyp_len = 26840 ref_len = 29199)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 82.38
+COMET20 = 53.580000000000005
+
+copy results (blue comet22 comet20 off-tgt) ----------
+20.05 82.38 53.580000000000005 0.5929
