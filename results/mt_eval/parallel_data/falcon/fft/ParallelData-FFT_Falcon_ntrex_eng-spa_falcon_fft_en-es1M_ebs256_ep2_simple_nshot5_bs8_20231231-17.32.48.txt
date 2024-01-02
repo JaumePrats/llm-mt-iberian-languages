@@ -1,0 +1,185 @@
+TEST PARAMETERS: ----------
+start time: 31/12/2023 at 17:32:53
+execution time: 5:40:53.347670
+translation direction: eng-spa
+IO PARAMETERS: ----------
+{
+    "filename_prefix": "ParallelData-FFT_Falcon_ntrex",
+    "path_prefix": "/fs/surtr0/jprats/code/llm-mt-iberian-languages",
+    "ref_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.spa.txt",
+    "src_data": "/fs/surtr0/jprats/data/processed/evaluation/NTREX/newstest2019-ref.eng.txt",
+    "timestamp": "20231231-17.32.48"
+}
+MODEL PARAMETERS: ----------
+{
+    "adapter": null,
+    "batch_size": 8,
+    "do_sample": false,
+    "max_new_tokens": 250,
+    "model_id": "/fs/surtr0/jprats/models/merged/falcon/fft/falcon_fft_en-es1M_ebs256_ep2",
+    "num_beams": 1,
+    "top_k": 50
+}
+PROMPT PARAMETERS: ----------
+{
+    "num_fewshot": 5,
+    "ref_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/spa_Latn.dev",
+    "src_examples": "/fs/surtr0/jprats/data/raw/flores200_dataset/dev/eng_Latn.dev",
+    "template_id": "simple"
+}
+
+EVALUATION RESULTS: ====================
+
+OFF-TARGET TRANSLATION: ----------
+OFF-TGT(%) = 1.4529
+{
+    "an": {
+        "abs_count": 1,
+        "lines": [
+            966
+        ],
+        "name": "Aragonese",
+        "percentage(%)": 0.0501
+    },
+    "ca": {
+        "abs_count": 5,
+        "lines": [
+            177,
+            529,
+            729,
+            1679,
+            1766
+        ],
+        "name": "Catalan",
+        "percentage(%)": 0.2505
+    },
+    "de": {
+        "abs_count": 1,
+        "lines": [
+            1709
+        ],
+        "name": "German",
+        "percentage(%)": 0.0501
+    },
+    "en": {
+        "abs_count": 3,
+        "lines": [
+            84,
+            844,
+            1542
+        ],
+        "name": "English",
+        "percentage(%)": 0.1503
+    },
+    "es": {
+        "abs_count": 1967,
+        "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            "more than 10 lines ..."
+        ],
+        "name": "Spanish",
+        "percentage(%)": 98.5471
+    },
+    "et": {
+        "abs_count": 1,
+        "lines": [
+            1730
+        ],
+        "name": "Estonian",
+        "percentage(%)": 0.0501
+    },
+    "eu": {
+        "abs_count": 1,
+        "lines": [
+            1761
+        ],
+        "name": "Basque",
+        "percentage(%)": 0.0501
+    },
+    "fr": {
+        "abs_count": 1,
+        "lines": [
+            555
+        ],
+        "name": "French",
+        "percentage(%)": 0.0501
+    },
+    "gl": {
+        "abs_count": 8,
+        "lines": [
+            100,
+            854,
+            1322,
+            1387,
+            1425,
+            1477,
+            1571,
+            1745
+        ],
+        "name": "Galician",
+        "percentage(%)": 0.4008
+    },
+    "id": {
+        "abs_count": 1,
+        "lines": [
+            162
+        ],
+        "name": "Indonesian",
+        "percentage(%)": 0.0501
+    },
+    "is": {
+        "abs_count": 1,
+        "lines": [
+            319
+        ],
+        "name": "Icelandic",
+        "percentage(%)": 0.0501
+    },
+    "it": {
+        "abs_count": 1,
+        "lines": [
+            1259
+        ],
+        "name": "Italian",
+        "percentage(%)": 0.0501
+    },
+    "pt": {
+        "abs_count": 4,
+        "lines": [
+            191,
+            963,
+            1719,
+            1981
+        ],
+        "name": "Portuguese",
+        "percentage(%)": 0.2004
+    },
+    "zh": {
+        "abs_count": 1,
+        "lines": [
+            1718
+        ],
+        "name": "Chinese",
+        "percentage(%)": 0.0501
+    }
+}
+
+BLEU: ----------
+BLEU = 31.49 62.3/37.8/25.4/17.4 (BP = 0.985 ratio = 0.986 hyp_len = 53323 ref_len = 54106)
+Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.3.1
+
+COMET: ----------
+COMET22 = 83.48
+COMET20 = 56.99999999999999
+
+copy results (blue comet22 comet20 off-tgt) ----------
+31.49 83.48 56.99999999999999 1.4529
